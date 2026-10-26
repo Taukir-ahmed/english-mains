@@ -1,0 +1,2 @@
+export function importantVocabulary(entries){return entries.filter(v=>v.important===true).sort((a,b)=>(a.readingOrder??Number.MAX_SAFE_INTEGER)-(b.readingOrder??Number.MAX_SAFE_INTEGER)||a.term.localeCompare(b.term));}
+export function importantReadingPacks(entries,size=5){const words=importantVocabulary(entries);return Array.from({length:Math.ceil(words.length/size)},(_,i)=>words.slice(i*size,(i+1)*size));}

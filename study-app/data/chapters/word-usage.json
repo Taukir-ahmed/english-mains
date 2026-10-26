@@ -1,0 +1,3656 @@
+{
+  "id": "word-usage",
+  "title": "Word usage & swaps",
+  "description": "55 questions: the original 40 plus 15 Moderate–Hard items. Select Moderate–Hard for close alternatives and complete meaning checks. The label is a reviewed training target, not an independently calibrated exam rating.",
+  "source": {
+    "kind": "original-format-practice",
+    "formatReferences": [
+      "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+      "Mains Checklist 48: incorrect usage",
+      "Mains Checklist 57: standalone word swaps"
+    ],
+    "note": "Source references describe formats only; all sentences, options and explanations in this chapter are newly authored."
+  },
+  "vocabularyCandidates": [
+    {
+      "term": "cursory",
+      "meaning": "quick and superficial, without careful examination",
+      "collocations": [
+        "a cursory inspection / a cursory glance"
+      ],
+      "forms": [
+        "cursorily"
+      ],
+      "important": true,
+      "readingExample": "The cursory inspection missed a discrepancy that a later detailed audit identified."
+    },
+    {
+      "term": "exhaustive",
+      "meaning": "covering every relevant part or possibility",
+      "collocations": [
+        "an exhaustive review / an exhaustive investigation"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "The exhaustive review covered every branch and every disputed transaction."
+    },
+    {
+      "term": "explicit",
+      "meaning": "clearly and directly stated",
+      "collocations": [
+        "explicit instructions / explicit consent"
+      ],
+      "forms": [
+        "explicitly"
+      ],
+      "important": true,
+      "readingExample": "The notice gave explicit instructions about the documents needed for verification."
+    },
+    {
+      "term": "refute",
+      "meaning": "show that a claim is false",
+      "collocations": [
+        "refute a claim / refute an allegation"
+      ],
+      "forms": [
+        "refuted",
+        "refuting"
+      ],
+      "important": true,
+      "readingExample": "The dated receipt helped refute the claim that the payment had never been made."
+    },
+    {
+      "term": "redress",
+      "meaning": "remedy a wrong or compensate for harm",
+      "collocations": [
+        "seek redress / redress a grievance"
+      ],
+      "forms": [
+        "redressed",
+        "redressing"
+      ],
+      "important": true,
+      "readingExample": "The borrower sought redress after an incorrect debit remained unresolved."
+    },
+    {
+      "term": "deter",
+      "meaning": "discourage someone from doing something, especially by making consequences seem unpleasant",
+      "collocations": [
+        "deter fraud / deter someone from doing something"
+      ],
+      "forms": [
+        "deterred",
+        "deterring",
+        "deterrent"
+      ],
+      "important": true,
+      "readingExample": "Additional identity checks can deter fraud without delaying genuine applications."
+    },
+    {
+      "term": "disburse",
+      "meaning": "pay out money, especially from a fund",
+      "collocations": [
+        "disburse funds / disburse a loan"
+      ],
+      "forms": [
+        "disbursed",
+        "disbursing",
+        "disbursement"
+      ],
+      "important": true,
+      "readingExample": "The bank will disburse the approved funds after the final checks."
+    },
+    {
+      "term": "infer",
+      "meaning": "draw a conclusion from evidence or reasoning",
+      "collocations": [
+        "infer from evidence / infer a conclusion"
+      ],
+      "forms": [
+        "inferred",
+        "inferring",
+        "inference"
+      ],
+      "important": true,
+      "readingExample": "The auditor could infer a possible error from the mismatch, but could not yet establish its cause."
+    },
+    {
+      "term": "imply",
+      "meaning": "indicate or suggest something without stating it directly",
+      "collocations": [
+        "imply a condition / wording that implies"
+      ],
+      "forms": [
+        "implied",
+        "implies",
+        "implying",
+        "implication"
+      ],
+      "important": true,
+      "readingExample": "The notice implied that acknowledgement of a complaint was not acceptance of its merits."
+    },
+    {
+      "term": "prescribe",
+      "meaning": "lay down or specify a required rule, procedure or action",
+      "collocations": [
+        "prescribe a procedure / prescribe a requirement"
+      ],
+      "forms": [
+        "prescribed",
+        "prescribing"
+      ],
+      "important": true,
+      "readingExample": "The regulator prescribed a minimum period for retaining the original records."
+    },
+    {
+      "term": "proscribe",
+      "meaning": "formally prohibit or forbid a practice",
+      "collocations": [
+        "proscribe an activity / proscribe password sharing"
+      ],
+      "forms": [
+        "proscribed",
+        "proscribing"
+      ],
+      "important": true,
+      "readingExample": "The security policy proscribed sharing passwords even with a person claiming to be an officer."
+    },
+    {
+      "term": "creditable",
+      "meaning": "deserving approval or praise",
+      "collocations": [
+        "a creditable effort / creditable conduct"
+      ],
+      "forms": [
+        "creditably"
+      ],
+      "important": true,
+      "readingExample": "The team’s prompt disclosure of its own error was creditable, although the remaining records still needed checking."
+    },
+    {
+      "term": "detract",
+      "meaning": "reduce the value, strength or credibility of something, usually with from",
+      "collocations": [
+        "detract from credibility / detract from a finding"
+      ],
+      "forms": [
+        "detracted",
+        "detracting"
+      ],
+      "important": true,
+      "readingExample": "The missing annex did not detract from the finding because independent records established the same point."
+    }
+  ],
+  "packs": [
+    {
+      "id": "W01",
+      "title": "Contextual replacement",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The spokesperson released verified information to [obfuscate] the false rumour.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "dispel",
+            "disseminate",
+            "corroborate",
+            "entrench",
+            "No replacement required"
+          ],
+          "answer": "dispel",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Verified information is intended to remove the false belief.",
+            "rule": "Dispel rumours is a natural corrective collocation.",
+            "model": "The spokesperson released verified information to dispel the false rumour.",
+            "rejects": [
+              {
+                "option": "disseminate",
+                "reason": "Disseminate the rumour would spread the misinformation rather than remove it."
+              },
+              {
+                "option": "corroborate",
+                "reason": "Corroborate would support the false rumour, reversing the remedial purpose."
+              },
+              {
+                "option": "entrench",
+                "reason": "Entrench would establish the rumour more firmly."
+              },
+              {
+                "option": "No replacement required",
+                "reason": "Obfuscate means make unclear, not clear away a false belief."
+              }
+            ]
+          },
+          "vocabulary": [
+            "dispel",
+            "obfuscate"
+          ],
+          "id": "word-usage/W01-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Repeated unexplained charges may [deteriorate] customer trust.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "bolster",
+            "erode",
+            "disseminate",
+            "comply",
+            "No replacement required"
+          ],
+          "answer": "erode",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Unexplained charges are presented as damaging confidence.",
+            "rule": "Use erode trust or cause trust to deteriorate.",
+            "model": "Repeated unexplained charges may erode customer trust.",
+            "rejects": [
+              {
+                "option": "bolster",
+                "reason": "Bolster would strengthen trust, opposite to the warning."
+              },
+              {
+                "option": "disseminate",
+                "reason": "Disseminate spreads information; it does not describe weakening trust."
+              },
+              {
+                "option": "comply",
+                "reason": "Comply is not a transitive verb taking trust here."
+              },
+              {
+                "option": "No replacement required",
+                "reason": "Deteriorate is normally intransitive in this sense; trust deteriorates or charges erode trust."
+              }
+            ]
+          },
+          "vocabulary": [
+            "deteriorate",
+            "erode"
+          ],
+          "id": "word-usage/W01-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The auditor requested independent documents to [substantiate] the allegation.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "exacerbate",
+            "dispel",
+            "No replacement required",
+            "allocate",
+            "defer"
+          ],
+          "answer": "No replacement required",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Independent documents are evidence for the allegation.",
+            "rule": "Substantiate a claim means support it with evidence.",
+            "model": "The auditor requested independent documents to substantiate the allegation.",
+            "rejects": [
+              {
+                "option": "exacerbate",
+                "reason": "Exacerbate worsens a problem; documents are sought as support for a claim."
+              },
+              {
+                "option": "dispel",
+                "reason": "Dispel would remove a belief rather than support the allegation."
+              },
+              {
+                "option": "allocate",
+                "reason": "Allocate distributes resources, not evidential support."
+              },
+              {
+                "option": "defer",
+                "reason": "Defer postpones action rather than proves a claim."
+              }
+            ]
+          },
+          "vocabulary": [
+            "substantiate"
+          ],
+          "id": "word-usage/W01-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The firm could repay its total debts but temporarily lacked [solvency] to meet immediate withdrawals.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "collateral",
+            "transparency",
+            "compliance",
+            "liquidity",
+            "No replacement required"
+          ],
+          "answer": "liquidity",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Temporarily and immediate distinguish ready cash from long-term debt capacity.",
+            "rule": "Liquidity concerns funds available when needed.",
+            "model": "The firm could repay its total debts but temporarily lacked liquidity to meet immediate withdrawals.",
+            "rejects": [
+              {
+                "option": "collateral",
+                "reason": "Collateral secures a loan; it is not immediately available cash."
+              },
+              {
+                "option": "transparency",
+                "reason": "Transparency concerns openness, not funds."
+              },
+              {
+                "option": "compliance",
+                "reason": "Compliance concerns following rules."
+              },
+              {
+                "option": "No replacement required",
+                "reason": "Capacity to repay total debts is solvency, already affirmed; the immediate cash problem is liquidity."
+              }
+            ]
+          },
+          "vocabulary": [
+            "liquidity",
+            "solvency"
+          ],
+          "id": "word-usage/W01-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The panel reached a [consensus] after all members agreed on the revised proposal.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "discrepancy",
+            "moratorium",
+            "impediment",
+            "collusion",
+            "No replacement required"
+          ],
+          "answer": "No replacement required",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "All members agreed directly supports consensus.",
+            "rule": "Consensus is general agreement; do not infer collusion merely from cooperation.",
+            "model": "The panel reached a consensus after all members agreed on the revised proposal.",
+            "rejects": [
+              {
+                "option": "discrepancy",
+                "reason": "A discrepancy is a mismatch, contradicted by all members agreeing."
+              },
+              {
+                "option": "moratorium",
+                "reason": "A moratorium is a temporary suspension, not agreement."
+              },
+              {
+                "option": "impediment",
+                "reason": "An impediment obstructs progress, not agreement itself."
+              },
+              {
+                "option": "collusion",
+                "reason": "Agreement does not by itself establish secret wrongdoing."
+              }
+            ]
+          },
+          "vocabulary": [
+            "consensus"
+          ],
+          "id": "word-usage/W01-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "W02",
+      "title": "Retain correct wording",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The estimate remains [conclusive] because two major cost components have not yet been calculated.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "tentative",
+            "irrefutable",
+            "exhaustive",
+            "solvent",
+            "No replacement required"
+          ],
+          "answer": "tentative",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Not yet calculated limits the estimate’s finality.",
+            "rule": "Tentative means provisional and subject to change.",
+            "model": "The estimate remains tentative because two major cost components have not yet been calculated.",
+            "rejects": [
+              {
+                "option": "irrefutable",
+                "reason": "Irrefutable overstates certainty when key inputs are missing."
+              },
+              {
+                "option": "exhaustive",
+                "reason": "Exhaustive implies complete coverage, contradicted by missing components."
+              },
+              {
+                "option": "solvent",
+                "reason": "An estimate has no debt-paying capacity."
+              },
+              {
+                "option": "No replacement required",
+                "reason": "Conclusive means decisive; missing inputs prevent that conclusion here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "conclusive",
+            "tentative",
+            "exhaustive"
+          ],
+          "id": "word-usage/W02-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The regulator issued [stringent] rules, allowing no exceptions to the verification requirement.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "lenient",
+            "No replacement required",
+            "ambiguous",
+            "cursory",
+            "volatile"
+          ],
+          "answer": "No replacement required",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Allowing no exceptions signals strict enforcement.",
+            "rule": "Stringent rules are strict and demanding.",
+            "model": "The regulator issued stringent rules, allowing no exceptions to the verification requirement.",
+            "rejects": [
+              {
+                "option": "lenient",
+                "reason": "Lenient rules permit more tolerance; no exceptions signals strictness."
+              },
+              {
+                "option": "ambiguous",
+                "reason": "The requirement is clear, not open to competing meanings."
+              },
+              {
+                "option": "cursory",
+                "reason": "Cursory concerns superficial effort, not strictness of rules."
+              },
+              {
+                "option": "volatile",
+                "reason": "Volatile means unstable, not strict."
+              }
+            ]
+          },
+          "vocabulary": [
+            "stringent",
+            "cursory"
+          ],
+          "id": "word-usage/W02-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The investigation established a [causation] between the two trends but did not show that either caused the other.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "consensus",
+            "collateral",
+            "correlation",
+            "moratorium",
+            "No replacement required"
+          ],
+          "answer": "correlation",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Did not show ... caused sets the evidential limit.",
+            "rule": "Association or correlation does not itself prove causation.",
+            "model": "The investigation established a correlation between the two trends but did not show that either caused the other.",
+            "rejects": [
+              {
+                "option": "consensus",
+                "reason": "Consensus is agreement among people, not a relationship between measured trends."
+              },
+              {
+                "option": "collateral",
+                "reason": "Collateral is security for a loan."
+              },
+              {
+                "option": "moratorium",
+                "reason": "A moratorium suspends an activity."
+              },
+              {
+                "option": "No replacement required",
+                "reason": "Causation asserts the causal link the second clause explicitly withholds."
+              }
+            ]
+          },
+          "vocabulary": [
+            "correlation"
+          ],
+          "id": "word-usage/W02-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The officials provided a [lucid] explanation that even first-time applicants could follow.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "opaque",
+            "tenuous",
+            "perfunctory",
+            "No replacement required",
+            "clandestine"
+          ],
+          "answer": "No replacement required",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Even first-time applicants could follow gives a clarity clue.",
+            "rule": "Lucid means clear and readily understood.",
+            "model": "The officials provided a lucid explanation that even first-time applicants could follow.",
+            "rejects": [
+              {
+                "option": "opaque",
+                "reason": "Opaque is hard to understand, contradicted by could follow."
+              },
+              {
+                "option": "tenuous",
+                "reason": "Tenuous describes weakness of connection or support, not clarity."
+              },
+              {
+                "option": "perfunctory",
+                "reason": "Perfunctory concerns lack of care, not clear communication."
+              },
+              {
+                "option": "clandestine",
+                "reason": "Clandestine means secret, not clear."
+              }
+            ]
+          },
+          "vocabulary": [
+            "lucid"
+          ],
+          "id": "word-usage/W02-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The bank will [expedite] the hearing until the missing records arrive.",
+          "instructions": "Replace the word in square brackets, or select No replacement required. Preserve the sentence’s intended meaning.",
+          "options": [
+            "bolster",
+            "corroborate",
+            "dispel",
+            "No replacement required",
+            "defer"
+          ],
+          "answer": "defer",
+          "skill": "word replacement",
+          "explanation": {
+            "relationship": "Contextual replacement: meaning, form and collocation",
+            "clue": "Until arrival sets the end of the postponement.",
+            "rule": "Defer a hearing; expedite a process.",
+            "model": "The bank will defer the hearing until the missing records arrive.",
+            "rejects": [
+              {
+                "option": "bolster",
+                "reason": "Bolster strengthens something; it does not postpone an event."
+              },
+              {
+                "option": "corroborate",
+                "reason": "Corroborate supports evidence or a claim, not timing."
+              },
+              {
+                "option": "dispel",
+                "reason": "Dispel removes doubts or rumours, not schedules."
+              },
+              {
+                "option": "No replacement required",
+                "reason": "Expedite speeds up; until records arrive indicates waiting."
+              }
+            ]
+          },
+          "vocabulary": [
+            "defer",
+            "expedite"
+          ],
+          "id": "word-usage/W02-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "W03",
+      "title": "Usage: check all three sentences",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “mitigate” used correctly?",
+          "instructions": "Select the complete combination of correct uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I and III only",
+            "I only",
+            "II only",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select correct USES",
+            "clue": "Check the meaning, grammatical role and usual partners of mitigate in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The safeguards should mitigate the risk of fraud. The bank circulated the circular to all branches by email. The relief package helped mitigate the hardship caused by the floods.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "mitigate"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The new safeguards should mitigate the risk of fraud.",
+              "valid": true,
+              "reason": "Mitigate risk means reduce its severity or likelihood."
+            },
+            {
+              "label": "II",
+              "text": "The bank mitigated the circular to all branches by email.",
+              "valid": false,
+              "reason": "A circular is disseminated or circulated, not mitigated."
+            },
+            {
+              "label": "III",
+              "text": "The relief package helped mitigate the hardship caused by the floods.",
+              "valid": true,
+              "reason": "Mitigate hardship means lessen its severity."
+            }
+          ],
+          "id": "word-usage/W03-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “prudent” used INCORRECTLY?",
+          "instructions": "Select the complete combination of incorrect uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "II only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select incorrect USES",
+            "clue": "Check the meaning, grammatical role and usual partners of prudent in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "Retaining a cash buffer was a prudent decision. The officer was reckless to disclose the password to an unverified caller. A prudent borrower reads the terms before signing.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "prudent",
+            "reckless",
+            "unverified"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Retaining a cash buffer was a prudent decision.",
+              "valid": true,
+              "reason": "A buffer shows care about future risk."
+            },
+            {
+              "label": "II",
+              "text": "The officer was prudent to disclose the password to an unverified caller.",
+              "valid": false,
+              "reason": "Disclosing a password to an unverified caller is reckless, not prudent in the stated security context."
+            },
+            {
+              "label": "III",
+              "text": "A prudent borrower reads the terms before signing.",
+              "valid": true,
+              "reason": "Reading terms before commitment shows care."
+            }
+          ],
+          "id": "word-usage/W03-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “dispel” used correctly?",
+          "instructions": "Select the complete combination of correct uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "II only",
+            "I and III only",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select correct USES",
+            "clue": "Check the meaning, grammatical role and usual partners of dispel in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The clarification helped dispel doubts about the deadline. The branch disbursed cash to customers from the counter. Independent verification dispelled the rumour.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "dispel",
+            "disburse"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The clarification helped dispel doubts about the deadline.",
+              "valid": true,
+              "reason": "Dispel doubts means remove them."
+            },
+            {
+              "label": "II",
+              "text": "The branch dispelled cash to customers from the counter.",
+              "valid": false,
+              "reason": "Cash is disbursed or paid out, not dispelled."
+            },
+            {
+              "label": "III",
+              "text": "Independent verification dispelled the rumour.",
+              "valid": true,
+              "reason": "Dispel a rumour means clear away the false belief."
+            }
+          ],
+          "id": "word-usage/W03-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “collateral” used correctly?",
+          "instructions": "Select the complete combination of correct uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select correct USES",
+            "clue": "Check the meaning, grammatical role and usual partners of collateral in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The lender accepted the property as collateral for the loan. The applicant submitted the form yesterday. The report examined collateral damage caused by the outage.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "collateral"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The lender accepted the property as collateral for the loan.",
+              "valid": true,
+              "reason": "Collateral is property pledged as loan security."
+            },
+            {
+              "label": "II",
+              "text": "The applicant collateral the form yesterday.",
+              "valid": false,
+              "reason": "Collateral is not a past-tense verb meaning submit; use submitted."
+            },
+            {
+              "label": "III",
+              "text": "The report examined collateral damage caused by the outage.",
+              "valid": true,
+              "reason": "Collateral damage is a valid adjective use for indirect accompanying harm."
+            }
+          ],
+          "id": "word-usage/W03-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “scrutiny” used INCORRECTLY?",
+          "instructions": "Select the complete combination of incorrect uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "III only",
+            "I and II only",
+            "I and III only",
+            "II only"
+          ],
+          "answer": "II only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select incorrect USES",
+            "clue": "Check the meaning, grammatical role and usual partners of scrutiny in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The expenditure came under close scrutiny. The auditor scrutinised the ledger yesterday. The proposal will face further scrutiny before approval.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "scrutiny"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The expenditure came under close scrutiny.",
+              "valid": true,
+              "reason": "Under close scrutiny is a valid noun construction."
+            },
+            {
+              "label": "II",
+              "text": "The auditor scrutiny the ledger yesterday.",
+              "valid": false,
+              "reason": "Use scrutinised as a past-tense verb; scrutiny is a noun."
+            },
+            {
+              "label": "III",
+              "text": "The proposal will face further scrutiny before approval.",
+              "valid": true,
+              "reason": "Face further scrutiny is a valid noun construction."
+            }
+          ],
+          "id": "word-usage/W03-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        }
+      ]
+    },
+    {
+      "id": "W04",
+      "title": "Multiple senses and incorrect-use directions",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “default” used correctly?",
+          "instructions": "Select the complete combination of correct uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I and II only",
+            "I only",
+            "II only",
+            "III only",
+            "I and III only"
+          ],
+          "answer": "I and II only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select correct USES",
+            "clue": "Check the meaning, grammatical role and usual partners of default in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The borrower defaulted on the loan. The software retained its default settings. The cashier explained the correct answer to the customer.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "default",
+            "correct"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The borrower defaulted on the loan.",
+              "valid": true,
+              "reason": "Default on a loan means fail to meet repayment obligations."
+            },
+            {
+              "label": "II",
+              "text": "The software retained its default settings.",
+              "valid": true,
+              "reason": "Default settings are preset settings; this is a valid separate sense."
+            },
+            {
+              "label": "III",
+              "text": "The cashier defaulted the correct answer to the customer.",
+              "valid": false,
+              "reason": "Default does not mean explain or provide an answer."
+            }
+          ],
+          "id": "word-usage/W04-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “defer” used correctly?",
+          "instructions": "Select the complete combination of correct uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "I and II only",
+            "II only",
+            "III only",
+            "I and III only"
+          ],
+          "answer": "I and II only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select correct USES",
+            "clue": "Check the meaning, grammatical role and usual partners of defer in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The committee deferred the vote until Friday. The junior officer deferred to the senior auditor’s judgement. The bank distributed the money equally among the applicants.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "defer"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The committee deferred the vote until Friday.",
+              "valid": true,
+              "reason": "Defer the vote means postpone it."
+            },
+            {
+              "label": "II",
+              "text": "The junior officer deferred to the senior auditor’s judgement.",
+              "valid": true,
+              "reason": "Defer to someone means yield to their judgement; the preposition changes the sense."
+            },
+            {
+              "label": "III",
+              "text": "The bank deferred the money equally among the applicants.",
+              "valid": false,
+              "reason": "Distributing money is not deferring it."
+            }
+          ],
+          "id": "word-usage/W04-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “compliance” used INCORRECTLY?",
+          "instructions": "Select the complete combination of incorrect uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "III only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select incorrect USES",
+            "clue": "Check the meaning, grammatical role and usual partners of compliance in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The policy ensures compliance with the rules. The bank is in compliance with the reporting requirement. The officer complied with the instructions immediately.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is III only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "compliance"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The policy ensures compliance with the rules.",
+              "valid": true,
+              "reason": "Compliance with is the correct noun–preposition combination."
+            },
+            {
+              "label": "II",
+              "text": "The bank is in compliance with the reporting requirement.",
+              "valid": true,
+              "reason": "In compliance with means in accordance with."
+            },
+            {
+              "label": "III",
+              "text": "The officer compliance the instructions immediately.",
+              "valid": false,
+              "reason": "Use complied with; compliance is a noun, not a past-tense verb."
+            }
+          ],
+          "id": "word-usage/W04-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “redress” used correctly?",
+          "instructions": "Select the complete combination of correct uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and II only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select correct USES",
+            "clue": "Check the meaning, grammatical role and usual partners of redress in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The bank offered compensation to redress the loss. The borrower sought redress through the grievance portal. The officer sorted the documents into alphabetical order.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "II only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is I and II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "redress"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank offered compensation to redress the loss.",
+              "valid": true,
+              "reason": "Redress a loss means remedy or compensate for it."
+            },
+            {
+              "label": "II",
+              "text": "The borrower sought redress through the grievance portal.",
+              "valid": true,
+              "reason": "Redress is also a noun meaning remedy."
+            },
+            {
+              "label": "III",
+              "text": "The officer redressed the documents into alphabetical order.",
+              "valid": false,
+              "reason": "Redress does not mean rearrange or sort documents."
+            }
+          ],
+          "id": "word-usage/W04-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "In which sentence(s) is “viable” used INCORRECTLY?",
+          "instructions": "Select the complete combination of incorrect uses. In the explanation, valid means the word is used correctly.",
+          "options": [
+            "I only",
+            "III only",
+            "I and II only",
+            "I and III only",
+            "II only"
+          ],
+          "answer": "II only",
+          "skill": "contextual usage combination",
+          "explanation": {
+            "relationship": "Direction: select incorrect USES",
+            "clue": "Check the meaning, grammatical role and usual partners of viable in each sentence.",
+            "rule": "A familiar word can have several valid senses; judge each actual construction.",
+            "model": "The plan is commercially viable because expected income exceeds costs. The bank described the password as legible because it was easy to read. A viable alternative must work within the available resources.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Evaluate all three uses; the complete required combination is II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "viable"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The plan is commercially viable because expected income exceeds costs.",
+              "valid": true,
+              "reason": "Commercial viability concerns sustainable financial operation."
+            },
+            {
+              "label": "II",
+              "text": "The bank described the password as viable because it was easy to read.",
+              "valid": false,
+              "reason": "Legible or readable describes ease of reading, not viable."
+            },
+            {
+              "label": "III",
+              "text": "A viable alternative must work within the available resources.",
+              "valid": true,
+              "reason": "Viable can mean capable of working successfully."
+            }
+          ],
+          "id": "word-usage/W04-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        }
+      ]
+    },
+    {
+      "id": "W05",
+      "title": "Restore a single pair",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The emergency loan helped exacerbate (A) hardship, but repeated outages continued to alleviate (B) uncertainty; verified notices could dispel (C) rumours and bolster (D) confidence.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C only",
+            "A–D only",
+            "B–C only",
+            "No interchange required"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The emergency loan helped alleviate”; B belongs in “repeated outages continued to exacerbate”; C belongs in “verified notices could dispel”; D belongs in “could {C} rumours and bolster”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The emergency loan helped alleviate hardship, but repeated outages continued to exacerbate uncertainty; verified notices could dispel rumours and bolster confidence.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “alleviate”, not “dispel”; Position B needs “exacerbate”, not “alleviate”; Position C needs “dispel”, not “exacerbate”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “alleviate”, not “bolster”; Position B needs “exacerbate”, not “alleviate”; Position D needs “bolster”, not “exacerbate”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “alleviate”, not “exacerbate”; Position B needs “exacerbate”, not “dispel”; Position C needs “dispel”, not “alleviate”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “alleviate”, not “exacerbate”; Position B needs “exacerbate”, not “alleviate”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "alleviate",
+            "bolster",
+            "dispel",
+            "exacerbate"
+          ],
+          "id": "word-usage/W05-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "A meticulous (A) inspection barely glanced at the records, whereas a cursory (B) review checked every entry; the former missed a discrepancy (C), and the latter restored confidence (D).",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–C only",
+            "A–B only",
+            "A–D only",
+            "B–C only",
+            "No interchange required"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “A cursory”; B belongs in “the records, whereas a meticulous”; C belongs in “the former missed a discrepancy”; D belongs in “and the latter restored confidence”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "A cursory inspection barely glanced at the records, whereas a meticulous review checked every entry; the former missed a discrepancy, and the latter restored confidence.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “cursory”, not “discrepancy”; Position B needs “meticulous”, not “cursory”; Position C needs “discrepancy”, not “meticulous”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “cursory”, not “confidence”; Position B needs “meticulous”, not “cursory”; Position D needs “confidence”, not “meticulous”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “cursory”, not “meticulous”; Position B needs “meticulous”, not “discrepancy”; Position C needs “discrepancy”, not “cursory”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “cursory”, not “meticulous”; Position B needs “meticulous”, not “cursory”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "cursory",
+            "discrepancy",
+            "meticulous",
+            "review"
+          ],
+          "id": "word-usage/W05-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The firm had enough assets to remain liquidity (A), but a shortage of ready cash created a solvent (B) problem; selling an investment could release (C) funds and ease (D) immediate pressure.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–C only",
+            "A–D only",
+            "A–B only",
+            "B–C only",
+            "No interchange required"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “enough assets to remain solvent”; B belongs in “ready cash created a liquidity”; C belongs in “selling an investment could release”; D belongs in “could {C} funds and ease”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The firm had enough assets to remain solvent, but a shortage of ready cash created a liquidity problem; selling an investment could release funds and ease immediate pressure.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “solvent”, not “release”; Position B needs “liquidity”, not “solvent”; Position C needs “release”, not “liquidity”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “solvent”, not “ease”; Position B needs “liquidity”, not “solvent”; Position D needs “ease”, not “liquidity”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “solvent”, not “liquidity”; Position B needs “liquidity”, not “release”; Position C needs “release”, not “solvent”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “solvent”, not “liquidity”; Position B needs “liquidity”, not “solvent”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "ease",
+            "liquidity",
+            "solvent"
+          ],
+          "id": "word-usage/W05-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The engineer called the design technically tentative (A), but missing cost estimates made the commercial forecast feasible (B); the panel would defer (C) approval until it could verify (D) the figures.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–C only",
+            "A–D only",
+            "B–C only",
+            "A–B only",
+            "No interchange required"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “called the design technically feasible”; B belongs in “made the commercial forecast tentative”; C belongs in “the panel would defer”; D belongs in “approval until it could verify”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The engineer called the design technically feasible, but missing cost estimates made the commercial forecast tentative; the panel would defer approval until it could verify the figures.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “feasible”, not “defer”; Position B needs “tentative”, not “feasible”; Position C needs “defer”, not “tentative”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “feasible”, not “verify”; Position B needs “tentative”, not “feasible”; Position D needs “verify”, not “tentative”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “feasible”, not “tentative”; Position B needs “tentative”, not “defer”; Position C needs “defer”, not “feasible”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “feasible”, not “tentative”; Position B needs “tentative”, not “feasible”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "defer",
+            "feasible",
+            "tentative"
+          ],
+          "id": "word-usage/W05-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The auditor sought documents to obscure (A) the claim, not rumours to substantiate (B) it; the evidence had to be credible (C) and the reasoning cogent (D).",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–C only",
+            "A–D only",
+            "B–C only",
+            "No interchange required",
+            "A–B only"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “auditor sought documents to substantiate”; B belongs in “claim, not rumours to obscure”; C belongs in “evidence had to be credible”; D belongs in “{C} and the reasoning cogent”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The auditor sought documents to substantiate the claim, not rumours to obscure it; the evidence had to be credible and the reasoning cogent.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “substantiate”, not “credible”; Position B needs “obscure”, not “substantiate”; Position C needs “credible”, not “obscure”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “substantiate”, not “cogent”; Position B needs “obscure”, not “substantiate”; Position D needs “cogent”, not “obscure”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “substantiate”, not “obscure”; Position B needs “obscure”, not “credible”; Position C needs “credible”, not “substantiate”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “substantiate”, not “obscure”; Position B needs “obscure”, not “substantiate”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "cogent",
+            "credible",
+            "substantiate"
+          ],
+          "id": "word-usage/W05-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "W06",
+      "title": "Check every labelled position",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Clear instructions should reduce (A) uncertainty, whereas contradictory notices may increase (B) confusion; the notice must be conflicting (C) enough to prevent explicit (D) interpretations.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "C–D only",
+            "A–B only",
+            "A–C only",
+            "A–D only",
+            "No interchange required"
+          ],
+          "answer": "C–D only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “Clear instructions should reduce”; B belongs in “whereas contradictory notices may increase”; C belongs in “the notice must be explicit”; D belongs in “{C} enough to prevent conflicting”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "Clear instructions should reduce uncertainty, whereas contradictory notices may increase confusion; the notice must be explicit enough to prevent conflicting interpretations.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “reduce”, not “increase”; Position B needs “increase”, not “reduce”; Position C needs “explicit”, not “conflicting”; Position D needs “conflicting”, not “explicit”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “reduce”, not “conflicting”; Position C needs “explicit”, not “reduce”; Position D needs “conflicting”, not “explicit”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “reduce”, not “explicit”; Position C needs “explicit”, not “conflicting”; Position D needs “conflicting”, not “reduce”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position C needs “explicit”, not “conflicting”; Position D needs “conflicting”, not “explicit”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "clear",
+            "explicit",
+            "increase",
+            "reduce"
+          ],
+          "id": "word-usage/W06-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The bank used a pragmatic (A) approach that tested a practical solution; a prudent (B) reserve protected against future losses, while a lucid (C) audit examined details and a meticulous (D) explanation made the findings understandable.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "C–D only",
+            "A–C only",
+            "A–D only",
+            "No interchange required"
+          ],
+          "answer": "C–D only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The bank used a pragmatic”; B belongs in “a prudent”; C belongs in “future losses, while a meticulous”; D belongs in “examined details and a lucid”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The bank used a pragmatic approach that tested a practical solution; a prudent reserve protected against future losses, while a meticulous audit examined details and a lucid explanation made the findings understandable.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “pragmatic”, not “prudent”; Position B needs “prudent”, not “pragmatic”; Position C needs “meticulous”, not “lucid”; Position D needs “lucid”, not “meticulous”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “pragmatic”, not “lucid”; Position C needs “meticulous”, not “pragmatic”; Position D needs “lucid”, not “meticulous”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “pragmatic”, not “meticulous”; Position C needs “meticulous”, not “lucid”; Position D needs “lucid”, not “pragmatic”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position C needs “meticulous”, not “lucid”; Position D needs “lucid”, not “meticulous”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "lucid",
+            "meticulous",
+            "pragmatic",
+            "prudent"
+          ],
+          "id": "word-usage/W06-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The revised rules demand compliance (A) with reporting requirements; an independent audit (B) will check adherence, and the bank must conceal (C) defects rather than rectify (D) them from inspectors.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C only",
+            "C–D only",
+            "A–D only",
+            "No interchange required"
+          ],
+          "answer": "C–D only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The revised rules demand compliance”; B belongs in “an independent audit”; C belongs in “and the bank must rectify”; D belongs in “{C} defects rather than conceal”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The revised rules demand compliance with reporting requirements; an independent audit will check adherence, and the bank must rectify defects rather than conceal them from inspectors.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “compliance”, not “audit”; Position B needs “audit”, not “compliance”; Position C needs “rectify”, not “conceal”; Position D needs “conceal”, not “rectify”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “compliance”, not “conceal”; Position C needs “rectify”, not “compliance”; Position D needs “conceal”, not “rectify”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “compliance”, not “rectify”; Position C needs “rectify”, not “conceal”; Position D needs “conceal”, not “compliance”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position C needs “rectify”, not “conceal”; Position D needs “conceal”, not “rectify”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "compliance",
+            "conceal",
+            "rectify"
+          ],
+          "id": "word-usage/W06-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The board will expedite (A) the vote until Friday but defer (B) urgent relief payments; the delay is temporary (C), while the payment deadline remains unchanged (D).",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–C only",
+            "A–D only",
+            "B–C only",
+            "A–B only",
+            "No interchange required"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The board will defer”; B belongs in “vote until Friday but expedite”; C belongs in “the delay is temporary”; D belongs in “the payment deadline remains unchanged”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The board will defer the vote until Friday but expedite urgent relief payments; the delay is temporary, while the payment deadline remains unchanged.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “defer”, not “temporary”; Position B needs “expedite”, not “defer”; Position C needs “temporary”, not “expedite”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “defer”, not “unchanged”; Position B needs “expedite”, not “defer”; Position D needs “unchanged”, not “expedite”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “defer”, not “expedite”; Position B needs “expedite”, not “temporary”; Position C needs “temporary”, not “defer”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “defer”, not “expedite”; Position B needs “expedite”, not “defer”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "defer",
+            "expedite"
+          ],
+          "id": "word-usage/W06-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "A consensus (A) between two figures requires reconciliation; a discrepancy (B) among members reflects agreement, while equity (C) means fairness and transparency (D) means openness.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–C only",
+            "A–D only",
+            "B–C only",
+            "No interchange required",
+            "A–B only"
+          ],
+          "answer": "A–B only",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “A discrepancy”; B belongs in “a consensus”; C belongs in “members reflects agreement, while equity”; D belongs in “{C} means fairness and transparency”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "A discrepancy between two figures requires reconciliation; a consensus among members reflects agreement, while equity means fairness and transparency means openness.",
+            "rejects": [
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “discrepancy”, not “equity”; Position B needs “consensus”, not “discrepancy”; Position C needs “equity”, not “consensus”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “discrepancy”, not “transparency”; Position B needs “consensus”, not “discrepancy”; Position D needs “transparency”, not “consensus”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position A needs “discrepancy”, not “consensus”; Position B needs “consensus”, not “equity”; Position C needs “equity”, not “discrepancy”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “discrepancy”, not “consensus”; Position B needs “consensus”, not “discrepancy”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "consensus",
+            "discrepancy",
+            "transparency"
+          ],
+          "id": "word-usage/W06-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "W07",
+      "title": "Two swaps: neither pair is enough",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The first report was conclusive (A) because key inputs were missing; the final evidence was tentative (B) and settled the issue. The first check was meticulous (C) and superficial, but the second was cursory (D) and thorough.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B and C–D",
+            "A–B only",
+            "A–C and B–D",
+            "A–D and B–C",
+            "No interchange required"
+          ],
+          "answer": "A–B and C–D",
+          "skill": "two-pair word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The first report was tentative”; B belongs in “the final evidence was conclusive”; C belongs in “The first check was cursory”; D belongs in “but the second was meticulous”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The first report was tentative because key inputs were missing; the final evidence was conclusive and settled the issue. The first check was cursory and superficial, but the second was meticulous and thorough.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position C needs “cursory”, not “meticulous”; Position D needs “meticulous”, not “cursory”. Re-read all four positions."
+              },
+              {
+                "option": "A–C and B–D",
+                "reason": "Position A needs “tentative”, not “meticulous”; Position B needs “conclusive”, not “cursory”; Position C needs “cursory”, not “conclusive”; Position D needs “meticulous”, not “tentative”. Re-read all four positions."
+              },
+              {
+                "option": "A–D and B–C",
+                "reason": "Position A needs “tentative”, not “cursory”; Position B needs “conclusive”, not “meticulous”; Position C needs “cursory”, not “tentative”; Position D needs “meticulous”, not “conclusive”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “tentative”, not “conclusive”; Position B needs “conclusive”, not “tentative”; Position C needs “cursory”, not “meticulous”; Position D needs “meticulous”, not “cursory”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "conclusive",
+            "cursory",
+            "meticulous",
+            "tentative",
+            "thorough"
+          ],
+          "id": "word-usage/W07-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Rules designed to impede (A) fraud should not deter (B) access for genuine borrowers. They should erode (C) confidence rather than bolster (D) trust.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–B and C–D",
+            "A–C and B–D",
+            "A–D and B–C",
+            "No interchange required"
+          ],
+          "answer": "A–B and C–D",
+          "skill": "two-pair word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “Rules designed to deter”; B belongs in “{A} fraud should not impede”; C belongs in “They should bolster”; D belongs in “{C} confidence rather than erode”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "Rules designed to deter fraud should not impede access for genuine borrowers. They should bolster confidence rather than erode trust.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position C needs “bolster”, not “erode”; Position D needs “erode”, not “bolster”. Re-read all four positions."
+              },
+              {
+                "option": "A–C and B–D",
+                "reason": "Position A needs “deter”, not “erode”; Position B needs “impede”, not “bolster”; Position C needs “bolster”, not “impede”; Position D needs “erode”, not “deter”. Re-read all four positions."
+              },
+              {
+                "option": "A–D and B–C",
+                "reason": "Position A needs “deter”, not “bolster”; Position B needs “impede”, not “erode”; Position C needs “bolster”, not “deter”; Position D needs “erode”, not “impede”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “deter”, not “impede”; Position B needs “impede”, not “deter”; Position C needs “bolster”, not “erode”; Position D needs “erode”, not “bolster”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "bolster",
+            "erode",
+            "impede",
+            "deter"
+          ],
+          "id": "word-usage/W07-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The speaker used a opaque (A) explanation that everyone understood, not an lucid (B) account that concealed the facts. The new evidence could refute (C) the claim rather than corroborate (D) it as false.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C and B–D",
+            "A–B and C–D",
+            "A–D and B–C",
+            "No interchange required"
+          ],
+          "answer": "A–B and C–D",
+          "skill": "two-pair word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The speaker used a lucid”; B belongs in “everyone understood, not an opaque”; C belongs in “The new evidence could corroborate”; D belongs in “the claim rather than refute”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The speaker used a lucid explanation that everyone understood, not an opaque account that concealed the facts. The new evidence could corroborate the claim rather than refute it as false.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position C needs “corroborate”, not “refute”; Position D needs “refute”, not “corroborate”. Re-read all four positions."
+              },
+              {
+                "option": "A–C and B–D",
+                "reason": "Position A needs “lucid”, not “refute”; Position B needs “opaque”, not “corroborate”; Position C needs “corroborate”, not “opaque”; Position D needs “refute”, not “lucid”. Re-read all four positions."
+              },
+              {
+                "option": "A–D and B–C",
+                "reason": "Position A needs “lucid”, not “corroborate”; Position B needs “opaque”, not “refute”; Position C needs “corroborate”, not “lucid”; Position D needs “refute”, not “opaque”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “lucid”, not “opaque”; Position B needs “opaque”, not “lucid”; Position C needs “corroborate”, not “refute”; Position D needs “refute”, not “corroborate”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "corroborate",
+            "lucid",
+            "opaque",
+            "refute"
+          ],
+          "id": "word-usage/W07-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The lender accepted land as solvency (A) for the loan and checked the borrower’s collateral (B) to repay total debts. The firm needed moratorium (C) for immediate payments and a formal liquidity (D) to suspend repayments temporarily.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C and B–D",
+            "A–D and B–C",
+            "A–B and C–D",
+            "No interchange required"
+          ],
+          "answer": "A–B and C–D",
+          "skill": "two-pair word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “lender accepted land as collateral”; B belongs in “and checked the borrower’s solvency”; C belongs in “The firm needed liquidity”; D belongs in “payments and a formal moratorium”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The lender accepted land as collateral for the loan and checked the borrower’s solvency to repay total debts. The firm needed liquidity for immediate payments and a formal moratorium to suspend repayments temporarily.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position C needs “liquidity”, not “moratorium”; Position D needs “moratorium”, not “liquidity”. Re-read all four positions."
+              },
+              {
+                "option": "A–C and B–D",
+                "reason": "Position A needs “collateral”, not “moratorium”; Position B needs “solvency”, not “liquidity”; Position C needs “liquidity”, not “solvency”; Position D needs “moratorium”, not “collateral”. Re-read all four positions."
+              },
+              {
+                "option": "A–D and B–C",
+                "reason": "Position A needs “collateral”, not “liquidity”; Position B needs “solvency”, not “moratorium”; Position C needs “liquidity”, not “collateral”; Position D needs “moratorium”, not “solvency”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “collateral”, not “solvency”; Position B needs “solvency”, not “collateral”; Position C needs “liquidity”, not “moratorium”; Position D needs “moratorium”, not “liquidity”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "collateral",
+            "liquidity",
+            "moratorium",
+            "solvency"
+          ],
+          "id": "word-usage/W07-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "A bank should fabricate (A) accurate information widely but must not disseminate (B) false records; sound evidence may obfuscate (C) an allegation and an unclear explanation may substantiate (D) the issue.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C and B–D",
+            "A–D and B–C",
+            "No interchange required",
+            "A–B and C–D"
+          ],
+          "answer": "A–B and C–D",
+          "skill": "two-pair word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “A bank should disseminate”; B belongs in “widely but must not fabricate”; C belongs in “sound evidence may substantiate”; D belongs in “an unclear explanation may obfuscate”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "A bank should disseminate accurate information widely but must not fabricate false records; sound evidence may substantiate an allegation and an unclear explanation may obfuscate the issue.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position C needs “substantiate”, not “obfuscate”; Position D needs “obfuscate”, not “substantiate”. Re-read all four positions."
+              },
+              {
+                "option": "A–C and B–D",
+                "reason": "Position A needs “disseminate”, not “obfuscate”; Position B needs “fabricate”, not “substantiate”; Position C needs “substantiate”, not “fabricate”; Position D needs “obfuscate”, not “disseminate”. Re-read all four positions."
+              },
+              {
+                "option": "A–D and B–C",
+                "reason": "Position A needs “disseminate”, not “substantiate”; Position B needs “fabricate”, not “obfuscate”; Position C needs “substantiate”, not “disseminate”; Position D needs “obfuscate”, not “fabricate”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “disseminate”, not “fabricate”; Position B needs “fabricate”, not “disseminate”; Position C needs “substantiate”, not “obfuscate”; Position D needs “obfuscate”, not “substantiate”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "disseminate",
+            "fabricate",
+            "obfuscate",
+            "substantiate"
+          ],
+          "id": "word-usage/W07-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "W08",
+      "title": "No interchange is a real answer",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The new route was unviable (A), meaning it could operate within available resources, but the old route was viable (B) because it could never cover its costs; the review sought to enhance (C) losses and curtail (D) efficiency.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B and C–D",
+            "A–B only",
+            "A–C and B–D",
+            "A–D and B–C",
+            "No interchange required"
+          ],
+          "answer": "A–B and C–D",
+          "skill": "two-pair word swap",
+          "explanation": {
+            "relationship": "Direction: restore the intended words to every labelled position",
+            "clue": "A belongs in “The new route was viable”; B belongs in “the old route was unviable”; C belongs in “the review sought to curtail”; D belongs in “to {C} losses and enhance”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The new route was viable, meaning it could operate within available resources, but the old route was unviable because it could never cover its costs; the review sought to curtail losses and enhance efficiency.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position C needs “curtail”, not “enhance”; Position D needs “enhance”, not “curtail”. Re-read all four positions."
+              },
+              {
+                "option": "A–C and B–D",
+                "reason": "Position A needs “viable”, not “enhance”; Position B needs “unviable”, not “curtail”; Position C needs “curtail”, not “unviable”; Position D needs “enhance”, not “viable”. Re-read all four positions."
+              },
+              {
+                "option": "A–D and B–C",
+                "reason": "Position A needs “viable”, not “curtail”; Position B needs “unviable”, not “enhance”; Position C needs “curtail”, not “viable”; Position D needs “enhance”, not “unviable”. Re-read all four positions."
+              },
+              {
+                "option": "No interchange required",
+                "reason": "Position A needs “viable”, not “unviable”; Position B needs “unviable”, not “viable”; Position C needs “curtail”, not “enhance”; Position D needs “enhance”, not “curtail”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "curtail",
+            "enhance",
+            "review",
+            "viable"
+          ],
+          "id": "word-usage/W08-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The bank introduced stringent (A) controls with no exceptions, supported equitable (B) access without discrimination, offered transparent (C) terms stated openly, and conducted a meticulous (D) review checking every entry.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "No interchange required",
+            "A–C only",
+            "A–D only",
+            "B–C only"
+          ],
+          "answer": "No interchange required",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: all four words already fit",
+            "clue": "A belongs in “The bank introduced stringent”; B belongs in “with no exceptions, supported equitable”; C belongs in “access without discrimination, offered transparent”; D belongs in “openly, and conducted a meticulous”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The bank introduced stringent controls with no exceptions, supported equitable access without discrimination, offered transparent terms stated openly, and conducted a meticulous review checking every entry.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “stringent”, not “equitable”; Position B needs “equitable”, not “stringent”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “stringent”, not “transparent”; Position C needs “transparent”, not “stringent”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “stringent”, not “meticulous”; Position D needs “meticulous”, not “stringent”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position B needs “equitable”, not “transparent”; Position C needs “transparent”, not “equitable”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "equitable",
+            "meticulous",
+            "review",
+            "stringent",
+            "transparent"
+          ],
+          "id": "word-usage/W08-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The panel sought credible (A) evidence to support the allegation, a lucid (B) explanation that was easy to understand, cogent (C) reasoning that was persuasive, and an exhaustive (D) review covering every file.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C only",
+            "No interchange required",
+            "A–D only",
+            "B–C only"
+          ],
+          "answer": "No interchange required",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: all four words already fit",
+            "clue": "A belongs in “The panel sought credible”; B belongs in “support the allegation, a lucid”; C belongs in “was easy to understand, cogent”; D belongs in “was persuasive, and an exhaustive”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The panel sought credible evidence to support the allegation, a lucid explanation that was easy to understand, cogent reasoning that was persuasive, and an exhaustive review covering every file.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “credible”, not “lucid”; Position B needs “lucid”, not “credible”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “credible”, not “cogent”; Position C needs “cogent”, not “credible”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “credible”, not “exhaustive”; Position D needs “exhaustive”, not “credible”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position B needs “lucid”, not “cogent”; Position C needs “cogent”, not “lucid”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "cogent",
+            "credible",
+            "exhaustive",
+            "lucid",
+            "review",
+            "support"
+          ],
+          "id": "word-usage/W08-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "A sudden surge (A) in cash demand put pressure on liquidity (B); the bank acted to expedite (C) payments without taking a reckless (D) risk that ignored obvious warning signs.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C only",
+            "A–D only",
+            "No interchange required",
+            "B–C only"
+          ],
+          "answer": "No interchange required",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: all four words already fit",
+            "clue": "A belongs in “A sudden surge”; B belongs in “demand put pressure on liquidity”; C belongs in “the bank acted to expedite”; D belongs in “payments without taking a reckless”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "A sudden surge in cash demand put pressure on liquidity; the bank acted to expedite payments without taking a reckless risk that ignored obvious warning signs.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “surge”, not “liquidity”; Position B needs “liquidity”, not “surge”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “surge”, not “expedite”; Position C needs “expedite”, not “surge”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “surge”, not “reckless”; Position D needs “reckless”, not “surge”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position B needs “liquidity”, not “expedite”; Position C needs “expedite”, not “liquidity”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "expedite",
+            "liquidity",
+            "reckless"
+          ],
+          "id": "word-usage/W08-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The auditor identified an anomaly (A) that differed from the usual pattern, sought corroboration (B) to confirm the claim, recommended redress (C) to remedy the loss, and asked for greater transparency (D) to make decisions visible.",
+          "instructions": "Only the four labelled words may be interchanged. Choose the operation that makes every position fit. Use No interchange required if they already fit.",
+          "options": [
+            "A–B only",
+            "A–C only",
+            "A–D only",
+            "B–C only",
+            "No interchange required"
+          ],
+          "answer": "No interchange required",
+          "skill": "word swap",
+          "explanation": {
+            "relationship": "Direction: all four words already fit",
+            "clue": "A belongs in “The auditor identified an anomaly”; B belongs in “the usual pattern, sought corroboration”; C belongs in “confirm the claim, recommended redress”; D belongs in “and asked for greater transparency”",
+            "rule": "Move only the labelled words. Preserve the unlabelled words and verify all resulting meanings and collocations.",
+            "model": "The auditor identified an anomaly that differed from the usual pattern, sought corroboration to confirm the claim, recommended redress to remedy the loss, and asked for greater transparency to make decisions visible.",
+            "rejects": [
+              {
+                "option": "A–B only",
+                "reason": "Position A needs “anomaly”, not “corroboration”; Position B needs “corroboration”, not “anomaly”. Re-read all four positions."
+              },
+              {
+                "option": "A–C only",
+                "reason": "Position A needs “anomaly”, not “redress”; Position C needs “redress”, not “anomaly”. Re-read all four positions."
+              },
+              {
+                "option": "A–D only",
+                "reason": "Position A needs “anomaly”, not “transparency”; Position D needs “transparency”, not “anomaly”. Re-read all four positions."
+              },
+              {
+                "option": "B–C only",
+                "reason": "Position B needs “corroboration”, not “redress”; Position C needs “redress”, not “corroboration”. Re-read all four positions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "anomaly",
+            "confirm",
+            "corroboration",
+            "redress",
+            "transparency",
+            "visible"
+          ],
+          "id": "word-usage/W08-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q82–87 and Q90",
+              "Mains Checklist 48: incorrect usage",
+              "Mains Checklist 57: standalone word swaps"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "MH-W01",
+      "title": "Close senses and the role of the subject",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-2",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "Which statements use “infer / imply” correctly?",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "I and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "From the receipt and timestamp, the auditor inferred that the transfer preceded the outage, although no witness had said so explicitly.",
+              "valid": true,
+              "reason": "The auditor draws a conclusion from evidence, which is infer."
+            },
+            {
+              "label": "II",
+              "text": "The discrepancy inferred that the account had been altered, even though the auditor had not drawn that conclusion.",
+              "valid": false,
+              "reason": "A discrepancy is evidence from which someone may infer; it can imply an alteration but does not itself perform the reasoning."
+            },
+            {
+              "label": "III",
+              "text": "The wording of the notice implied that receiving a complaint was not acceptance of its merits.",
+              "valid": true,
+              "reason": "The wording indicates something without directly stating it, which is imply."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense usage combination",
+          "vocabulary": [
+            "discrepancy",
+            "infer",
+            "imply"
+          ],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "Distinguish the person drawing an inference from the evidence or wording carrying an implication.",
+            "rule": "Infer describes the recipient’s reasoning; imply describes what the source indicates. Neither word alone settles whether the conclusion is true.",
+            "model": "From the receipt and timestamp, the auditor inferred that the transfer preceded the outage. The discrepancy implied that the account might have been altered."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination retaining inferred with discrepancy as its subject",
+            "whyNot": "It assigns the mental act of drawing a conclusion to the evidence rather than to its reader.",
+            "reasoningSteps": [
+              "Identify who or what is the grammatical subject.",
+              "Distinguish receiving an implication from giving one."
+            ]
+          },
+          "id": "word-usage/MH-W01-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which statements use “prescribe / proscribe” INCORRECTLY?",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the incorrect ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The circular proscribed the mandatory verification step by setting it out as the procedure every branch must follow.",
+              "valid": false,
+              "reason": "Setting out a mandatory procedure is prescribing it; proscribing would ban it."
+            },
+            {
+              "label": "II",
+              "text": "The regulator prescribed a minimum retention period and proscribed destruction of the records before that period expired.",
+              "valid": true,
+              "reason": "Prescribe lays down the required period; proscribe prohibits the premature destruction."
+            },
+            {
+              "label": "III",
+              "text": "Because the circular was intended to prohibit password sharing, it prescribed that practice rather than merely discouraging it.",
+              "valid": false,
+              "reason": "Prohibiting the practice requires proscribed, not prescribed; prescribed would lay it down as the required practice."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense usage combination",
+          "vocabulary": [
+            "prescribe",
+            "proscribe"
+          ],
+          "explanation": {
+            "relationship": "Select incorrect candidates; valid means grammatically and contextually correct",
+            "clue": "The words differ by one vowel but reverse the rule’s direction: lay down a requirement versus prohibit a practice.",
+            "rule": "Do not judge by general association with rules. Determine whether the sentence mandates or bans the action.",
+            "model": "The regulator prescribed a minimum retention period and proscribed destruction of the records before that period expired."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination treating prescribed as another word for prohibited",
+            "whyNot": "It makes a banned action a required procedure, reversing the stated intention.",
+            "reasoningSteps": [
+              "Locate the action governed by the rule.",
+              "Check whether the action is required or forbidden."
+            ]
+          },
+          "id": "word-usage/MH-W01-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which statements use “credible / creditable / credulous” correctly?",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I only",
+            "I and III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The team’s prompt disclosure of its own error was creditable, although the disclosure did not prove that every other entry was correct.",
+              "valid": true,
+              "reason": "Creditable means deserving praise; praise for disclosure is not proof of all transactions."
+            },
+            {
+              "label": "II",
+              "text": "The forecast was described as credulous solely to say that it was worthy of belief, not that anyone accepted claims too readily.",
+              "valid": false,
+              "reason": "Worthy of belief requires credible; credulous describes excessive readiness to believe."
+            },
+            {
+              "label": "III",
+              "text": "The panel found the witness’s account credible, while noting that the separate cost forecast remained tentative.",
+              "valid": true,
+              "reason": "Credible means worthy of belief; it need not make an unrelated forecast final."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense usage combination",
+          "vocabulary": [
+            "credible",
+            "credulous",
+            "creditable"
+          ],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "Believability, praiseworthiness and readiness to believe are three separate attributes.",
+            "rule": "Keep the property attached to the correct object and do not turn praise into verification.",
+            "model": "The account was credible. The team’s disclosure was creditable. A listener who accepts claims too readily is credulous."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination accepting credulous as worthy of belief",
+            "whyNot": "That word describes the believer’s excessive trust, not the forecast’s credibility.",
+            "reasoningSteps": [
+              "Identify the intended attribute.",
+              "Then check whether the word describes the claim, the action or its audience."
+            ]
+          },
+          "id": "word-usage/MH-W01-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which statements use “detract / distract” INCORRECTLY?",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the incorrect ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "II only",
+            "III only"
+          ],
+          "answer": "II only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The missing annex did not detract from the central finding because independent records established the same point.",
+              "valid": true,
+              "reason": "Detract from concerns diminishing force, value or credibility."
+            },
+            {
+              "label": "II",
+              "text": "The absence of a receipt distracted from the credibility of the account, even though nobody’s attention was diverted.",
+              "valid": false,
+              "reason": "The intended reduction in credibility is detracted from; distracted would concern diverted attention."
+            },
+            {
+              "label": "III",
+              "text": "The chair would not allow arguments about room allocation to distract the panel from examining eligibility.",
+              "valid": true,
+              "reason": "Distract concerns diverting attention from the task."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense usage combination",
+          "vocabulary": [
+            "detract"
+          ],
+          "explanation": {
+            "relationship": "Select incorrect candidates; valid means grammatically and contextually correct",
+            "clue": "Both verbs can occur with from, so the preposition alone cannot solve the question.",
+            "rule": "Determine whether the effect is reduced value or diverted attention.",
+            "model": "The absence of a receipt detracted from the credibility of the account; unrelated arguments could distract the panel from examining it."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination accepting distracted from credibility",
+            "whyNot": "Nobody’s attention is diverted; the stated effect is on the strength of the account.",
+            "reasoningSteps": [
+              "Identify what is affected.",
+              "Use meaning rather than the shared from pattern."
+            ]
+          },
+          "id": "word-usage/MH-W01-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which statements use “exhaustive / exhausting / exhausted” correctly?",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "II and III only"
+          ],
+          "answer": "II and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The review was exhaustive merely because it exhausted the staff, despite covering only a small sample of the required accounts.",
+              "valid": false,
+              "reason": "Fatiguing the staff does not make coverage exhaustive; the required coverage is expressly incomplete."
+            },
+            {
+              "label": "II",
+              "text": "The review was exhaustive in coverage, examining every required account, but it did not exhaust the allocated budget.",
+              "valid": true,
+              "reason": "Exhaustive concerns complete coverage; exhaust a budget means use it up, a separate dimension."
+            },
+            {
+              "label": "III",
+              "text": "The exhausting review left even experienced auditors exhausted, although it covered only a small sample of the required accounts.",
+              "valid": true,
+              "reason": "Exhausting causes fatigue, exhausted describes the tired people, and neither entails complete coverage."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense usage combination",
+          "vocabulary": [
+            "exhaustive",
+            "review"
+          ],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "The amount of effort and the completeness of coverage can differ sharply.",
+            "rule": "Exhaustive describes scope, exhausting causes fatigue, and exhausted describes depletion or fatigue.",
+            "model": "An exhausting review can leave auditors exhausted without being exhaustive in its required coverage."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination identifying complete coverage from staff fatigue",
+            "whyNot": "Effort and fatigue do not establish that all required accounts were examined.",
+            "reasoningSteps": [
+              "Separate the review’s coverage from its effect on people.",
+              "Check whether the stated sample can satisfy exhaustive."
+            ]
+          },
+          "id": "word-usage/MH-W01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-W02",
+      "title": "Restore all four related words",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-2",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The initial account was conclusive (A): believable but still unverified. The final evidence was feasible (B): it settled the disputed point. The notice was plausible (C): every exception was stated directly. The design was explicit (D): it could be built with the available resources.",
+          "instructions": "Choose the original word labels to place at A, B, C and D, in that order. Use every word once. A, B, C, D means no interchange.",
+          "options": [
+            "C, A, D, B",
+            "A, B, C, D",
+            "B, A, C, D",
+            "A, C, B, D",
+            "A, B, D, C"
+          ],
+          "answer": "C, A, D, B",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense word restoration",
+          "vocabulary": [
+            "conclusive",
+            "explicit",
+            "feasible",
+            "plausible",
+            "unverified"
+          ],
+          "explanation": {
+            "clue": "All four words have favourable meanings, but they describe belief, evidential finality, direct wording and practical implementation respectively.",
+            "rule": "Each option gives the original labels to place at A, B, C and D. Check every context, including words already correctly positioned; A, B, C, D makes no change.",
+            "model": "The initial account was plausible: believable but still unverified. The final evidence was conclusive: it settled the disputed point. The notice was explicit: every exception was stated directly. The design was feasible: it could be built with the available resources.",
+            "relationship": "Restore all four words while preserving each distinct dimension",
+            "rejects": [
+              {
+                "option": "A, B, C, D",
+                "reason": "Position A would contain “conclusive” instead of “plausible”. Believable but unverified requires plausible, not conclusive."
+              },
+              {
+                "option": "B, A, C, D",
+                "reason": "Position A would contain “feasible” instead of “plausible”. Believable but unverified requires plausible, not conclusive."
+              },
+              {
+                "option": "A, C, B, D",
+                "reason": "Position A would contain “conclusive” instead of “plausible”. Believable but unverified requires plausible, not conclusive."
+              },
+              {
+                "option": "A, B, D, C",
+                "reason": "Position A would contain “conclusive” instead of “plausible”. Believable but unverified requires plausible, not conclusive."
+              }
+            ],
+            "modelLabel": "Correct wording"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A, B, C, D",
+            "whyNot": "This restores at most part of the required wording and leaves a different semantic dimension in at least one slot.",
+            "reasoningSteps": [
+              "Identify the property or action described at every position.",
+              "Apply the whole permutation and reread all four positions."
+            ]
+          },
+          "restoration": {
+            "template": "The initial account was {A}: believable but still unverified. The final evidence was {B}: it settled the disputed point. The notice was {C}: every exception was stated directly. The design was {D}: it could be built with the available resources.",
+            "shown": [
+              "conclusive",
+              "feasible",
+              "plausible",
+              "explicit"
+            ],
+            "correctWords": [
+              "plausible",
+              "conclusive",
+              "explicit",
+              "feasible"
+            ],
+            "repair": [
+              "C",
+              "A",
+              "D",
+              "B"
+            ],
+            "bindings": [
+              "Believable but unverified requires plausible, not conclusive.",
+              "Settling the disputed point requires conclusive, not merely plausible.",
+              "Directly stated exceptions concern explicit wording.",
+              "A design that can be built concerns feasibility, not whether its story is believable."
+            ]
+          },
+          "id": "word-usage/MH-W02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Verification was necessary (A) for release because no unverified application could proceed. For a separate service with several access routes, a valid card was relevant (B): it alone granted access, though other routes also existed. The location data were sufficient (C): they concerned the dispute without settling it. The dated receipt was conclusive (D): it settled whether payment had occurred.",
+          "instructions": "Choose the original word labels to place at A, B, C and D, in that order. Use every word once. A, B, C, D means no interchange.",
+          "options": [
+            "A, B, C, D",
+            "A, C, B, D",
+            "B, A, C, D",
+            "A, B, D, C",
+            "B, A, D, C"
+          ],
+          "answer": "A, C, B, D",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense word restoration",
+          "vocabulary": [
+            "conclusive",
+            "unverified"
+          ],
+          "explanation": {
+            "clue": "The first condition is mandatory; the second is one enough-by-itself route among others; the last two distinguish relevance from decisive proof.",
+            "rule": "Each option gives the original labels to place at A, B, C and D. Check every context, including words already correctly positioned; A, B, C, D makes no change.",
+            "model": "Verification was necessary for release because no unverified application could proceed. For a separate service with several access routes, a valid card was sufficient: it alone granted access, though other routes also existed. The location data were relevant: they concerned the dispute without settling it. The dated receipt was conclusive: it settled whether payment had occurred.",
+            "relationship": "Restore all four words while preserving each distinct dimension",
+            "rejects": [
+              {
+                "option": "A, B, C, D",
+                "reason": "Position B would contain “relevant” instead of “sufficient”. A valid card alone grants access, but other routes remain: it is sufficient, not necessary."
+              },
+              {
+                "option": "B, A, C, D",
+                "reason": "Position A would contain “relevant” instead of “necessary”. No unverified application may proceed, so verification is necessary."
+              },
+              {
+                "option": "A, B, D, C",
+                "reason": "Position B would contain “relevant” instead of “sufficient”. A valid card alone grants access, but other routes remain: it is sufficient, not necessary."
+              },
+              {
+                "option": "B, A, D, C",
+                "reason": "Position A would contain “relevant” instead of “necessary”. No unverified application may proceed, so verification is necessary."
+              }
+            ],
+            "modelLabel": "Correct wording"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A, B, C, D",
+            "whyNot": "This restores at most part of the required wording and leaves a different semantic dimension in at least one slot.",
+            "reasoningSteps": [
+              "Identify the property or action described at every position.",
+              "Apply the whole permutation and reread all four positions."
+            ]
+          },
+          "restoration": {
+            "template": "Verification was {A} for release because no unverified application could proceed. For a separate service with several access routes, a valid card was {B}: it alone granted access, though other routes also existed. The location data were {C}: they concerned the dispute without settling it. The dated receipt was {D}: it settled whether payment had occurred.",
+            "shown": [
+              "necessary",
+              "relevant",
+              "sufficient",
+              "conclusive"
+            ],
+            "correctWords": [
+              "necessary",
+              "sufficient",
+              "relevant",
+              "conclusive"
+            ],
+            "repair": [
+              "A",
+              "C",
+              "B",
+              "D"
+            ],
+            "bindings": [
+              "No unverified application may proceed, so verification is necessary.",
+              "A valid card alone grants access, but other routes remain: it is sufficient, not necessary.",
+              "Concerning the dispute without settling it describes relevance.",
+              "The receipt settles the payment question and is conclusive on that point."
+            ]
+          },
+          "id": "word-usage/MH-W02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The new revenue was provisional (A) on an authorisation that might be refused. The estimate was discretionary (B), awaiting missing costs. After all prerequisites were met, the board’s final approval remained contingent (C): it could still choose refusal. In contrast, the receipt acknowledgement was automatic (D): the system generated it immediately on submission with no human choice.",
+          "instructions": "Choose the original word labels to place at A, B, C and D, in that order. Use every word once. A, B, C, D means no interchange.",
+          "options": [
+            "A, B, C, D",
+            "B, A, C, D",
+            "C, A, B, D",
+            "A, C, B, D",
+            "A, B, D, C"
+          ],
+          "answer": "C, A, B, D",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense word restoration",
+          "vocabulary": [
+            "contingent",
+            "provisional"
+          ],
+          "explanation": {
+            "clue": "Dependence on an event, an unfinished estimate, retained choice and a fixed system response are different properties.",
+            "rule": "Each option gives the original labels to place at A, B, C and D. Check every context, including words already correctly positioned; A, B, C, D makes no change.",
+            "model": "The new revenue was contingent on an authorisation that might be refused. The estimate was provisional, awaiting missing costs. After all prerequisites were met, the board’s final approval remained discretionary: it could still choose refusal. In contrast, the receipt acknowledgement was automatic: the system generated it immediately on submission with no human choice.",
+            "relationship": "Restore all four words while preserving each distinct dimension",
+            "rejects": [
+              {
+                "option": "A, B, C, D",
+                "reason": "Position A would contain “provisional” instead of “contingent”. Revenue depends on an unresolved authorisation, making it contingent on that event."
+              },
+              {
+                "option": "B, A, C, D",
+                "reason": "Position A would contain “discretionary” instead of “contingent”. Revenue depends on an unresolved authorisation, making it contingent on that event."
+              },
+              {
+                "option": "A, C, B, D",
+                "reason": "Position A would contain “provisional” instead of “contingent”. Revenue depends on an unresolved authorisation, making it contingent on that event."
+              },
+              {
+                "option": "A, B, D, C",
+                "reason": "Position A would contain “provisional” instead of “contingent”. Revenue depends on an unresolved authorisation, making it contingent on that event."
+              }
+            ],
+            "modelLabel": "Correct wording"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A, B, C, D",
+            "whyNot": "This restores at most part of the required wording and leaves a different semantic dimension in at least one slot.",
+            "reasoningSteps": [
+              "Identify the property or action described at every position.",
+              "Apply the whole permutation and reread all four positions."
+            ]
+          },
+          "restoration": {
+            "template": "The new revenue was {A} on an authorisation that might be refused. The estimate was {B}, awaiting missing costs. After all prerequisites were met, the board’s final approval remained {C}: it could still choose refusal. In contrast, the receipt acknowledgement was {D}: the system generated it immediately on submission with no human choice.",
+            "shown": [
+              "provisional",
+              "discretionary",
+              "contingent",
+              "automatic"
+            ],
+            "correctWords": [
+              "contingent",
+              "provisional",
+              "discretionary",
+              "automatic"
+            ],
+            "repair": [
+              "C",
+              "A",
+              "B",
+              "D"
+            ],
+            "bindings": [
+              "Revenue depends on an unresolved authorisation, making it contingent on that event.",
+              "Missing costs leave the estimate provisional rather than final.",
+              "The board retains choice even after prerequisites: discretionary.",
+              "The acknowledgement follows a fixed trigger with no discretion: automatic."
+            ]
+          },
+          "id": "word-usage/MH-W02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The partial match could verify (A) the witness’s account by adding support, without checking every detail. A complete authenticity check could corroborate (B) the signature. A dated record showing the alleged transfer never happened could qualify (C) that allegation. A reservation about excluded files could refute (D) a favourable assessment without withdrawing it.",
+          "instructions": "Choose the original word labels to place at A, B, C and D, in that order. Use every word once. A, B, C, D means no interchange.",
+          "options": [
+            "A, B, C, D",
+            "B, A, C, D",
+            "A, C, B, D",
+            "B, A, D, C",
+            "A, B, D, C"
+          ],
+          "answer": "B, A, D, C",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense word restoration",
+          "vocabulary": [
+            "corroborate",
+            "qualify",
+            "refute",
+            "support"
+          ],
+          "explanation": {
+            "clue": "All four verbs concern evidence or evaluation, but they add support, check truth, disprove and limit a claim respectively.",
+            "rule": "Each option gives the original labels to place at A, B, C and D. Check every context, including words already correctly positioned; A, B, C, D makes no change.",
+            "model": "The partial match could corroborate the witness’s account by adding support, without checking every detail. A complete authenticity check could verify the signature. A dated record showing the alleged transfer never happened could refute that allegation. A reservation about excluded files could qualify a favourable assessment without withdrawing it.",
+            "relationship": "Restore all four words while preserving each distinct dimension",
+            "rejects": [
+              {
+                "option": "A, B, C, D",
+                "reason": "Position A would contain “verify” instead of “corroborate”. Adding partial independent support without checking everything is corroboration."
+              },
+              {
+                "option": "B, A, C, D",
+                "reason": "Position C would contain “qualify” instead of “refute”. Showing the alleged event did not occur refutes that allegation."
+              },
+              {
+                "option": "A, C, B, D",
+                "reason": "Position A would contain “verify” instead of “corroborate”. Adding partial independent support without checking everything is corroboration."
+              },
+              {
+                "option": "A, B, D, C",
+                "reason": "Position A would contain “verify” instead of “corroborate”. Adding partial independent support without checking everything is corroboration."
+              }
+            ],
+            "modelLabel": "Correct wording"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A, B, C, D",
+            "whyNot": "This restores at most part of the required wording and leaves a different semantic dimension in at least one slot.",
+            "reasoningSteps": [
+              "Identify the property or action described at every position.",
+              "Apply the whole permutation and reread all four positions."
+            ]
+          },
+          "restoration": {
+            "template": "The partial match could {A} the witness’s account by adding support, without checking every detail. A complete authenticity check could {B} the signature. A dated record showing the alleged transfer never happened could {C} that allegation. A reservation about excluded files could {D} a favourable assessment without withdrawing it.",
+            "shown": [
+              "verify",
+              "corroborate",
+              "qualify",
+              "refute"
+            ],
+            "correctWords": [
+              "corroborate",
+              "verify",
+              "refute",
+              "qualify"
+            ],
+            "repair": [
+              "B",
+              "A",
+              "D",
+              "C"
+            ],
+            "bindings": [
+              "Adding partial independent support without checking everything is corroboration.",
+              "Checking the signature’s authenticity is verification.",
+              "Showing the alleged event did not occur refutes that allegation.",
+              "Adding a reservation limits or qualifies the assessment without retracting it."
+            ]
+          },
+          "id": "word-usage/MH-W02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The undecided vote was deferred (A) until Friday. The completed funding decision was negative, so the request was declined (B). Before another decision was made, the applicant removed that separate request, so it was withdrawn (C). The operating service was suspended (D) for maintenance and was due to resume afterwards.",
+          "instructions": "Choose the original word labels to place at A, B, C and D, in that order. Use every word once. A, B, C, D means no interchange.",
+          "options": [
+            "B, A, C, D",
+            "A, C, B, D",
+            "A, B, D, C",
+            "B, A, D, C",
+            "A, B, C, D"
+          ],
+          "answer": "A, B, C, D",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "close-sense word restoration",
+          "vocabulary": [],
+          "explanation": {
+            "clue": "Every slot concerns a pause or cessation, but the actor, finality and expected next event distinguish them. The existing positions already fit.",
+            "rule": "Each option gives the original labels to place at A, B, C and D. Check every context, including words already correctly positioned; A, B, C, D makes no change.",
+            "model": "The undecided vote was deferred until Friday. The completed funding decision was negative, so the request was declined. Before another decision was made, the applicant removed that separate request, so it was withdrawn. The operating service was suspended for maintenance and was due to resume afterwards.",
+            "relationship": "Restore all four words while preserving each distinct dimension",
+            "rejects": [
+              {
+                "option": "B, A, C, D",
+                "reason": "Position A would contain “declined” instead of “deferred”. Moving an undecided vote to a later day is deferral."
+              },
+              {
+                "option": "A, C, B, D",
+                "reason": "Position B would contain “withdrawn” instead of “declined”. A completed negative decision declines the request."
+              },
+              {
+                "option": "A, B, D, C",
+                "reason": "Position C would contain “suspended” instead of “withdrawn”. An applicant removing its own request withdraws it."
+              },
+              {
+                "option": "B, A, D, C",
+                "reason": "Position A would contain “declined” instead of “deferred”. Moving an undecided vote to a later day is deferral."
+              }
+            ],
+            "modelLabel": "Correct wording"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "B, A, C, D",
+            "whyNot": "This restores at most part of the required wording and leaves a different semantic dimension in at least one slot.",
+            "reasoningSteps": [
+              "Identify the property or action described at every position.",
+              "Apply the whole permutation and reread all four positions."
+            ]
+          },
+          "restoration": {
+            "template": "The undecided vote was {A} until Friday. The completed funding decision was negative, so the request was {B}. Before another decision was made, the applicant removed that separate request, so it was {C}. The operating service was {D} for maintenance and was due to resume afterwards.",
+            "shown": [
+              "deferred",
+              "declined",
+              "withdrawn",
+              "suspended"
+            ],
+            "correctWords": [
+              "deferred",
+              "declined",
+              "withdrawn",
+              "suspended"
+            ],
+            "repair": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "bindings": [
+              "Moving an undecided vote to a later day is deferral.",
+              "A completed negative decision declines the request.",
+              "An applicant removing its own request withdraws it.",
+              "A temporary halt to an operating service is suspension."
+            ]
+          },
+          "id": "word-usage/MH-W02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-W03",
+      "title": "Paired replacements: synonyms and scope",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-2",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "The potential loss was measured in rupees, and the favourable assessment was then limited by a reservation about missing files. The auditor ___ the potential loss and ___ the assessment. Select every pair preserving those separate actions.",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "I and II only",
+            "None",
+            "I only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "measured / limited",
+              "valid": true,
+              "reason": "These replacements preserve both actions without introducing proof or withdrawal."
+            },
+            {
+              "label": "II",
+              "text": "quantified / qualified",
+              "valid": true,
+              "reason": "Quantified gives the numerical measure; qualified adds the limiting reservation."
+            },
+            {
+              "label": "III",
+              "text": "qualified / quantified",
+              "valid": false,
+              "reason": "This reverses the measured quantity and the restricted judgement."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "paired contextual replacements",
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "A numerical estimate is not the same act as attaching a reservation to a judgement.",
+            "rule": "Both words must fit their objects and retain the direction of the two actions.",
+            "model": "The auditor quantified the potential loss and qualified the assessment."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination accepting qualified / quantified",
+            "whyNot": "It associates the right general topic with the wrong objects, reversing both operations.",
+            "reasoningSteps": [
+              "Identify what receives a numerical value.",
+              "Identify what receives a limitation rather than a number."
+            ]
+          },
+          "id": "word-usage/MH-W03-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The record added independent support to the account but left details unchecked. It ___ the account without ___ every detail. Select every pair preserving both the support and its limit.",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "supported / proving",
+              "valid": true,
+              "reason": "Supported and without proving preserve the same weaker-versus-stronger distinction."
+            },
+            {
+              "label": "II",
+              "text": "refuted / qualifying",
+              "valid": false,
+              "reason": "Refuted would disprove the account, reversing the stated support, regardless of the second word."
+            },
+            {
+              "label": "III",
+              "text": "corroborated / establishing",
+              "valid": true,
+              "reason": "Corroborated adds support; without establishing every detail retains the limit."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "paired contextual replacements",
+          "vocabulary": [
+            "limit",
+            "support"
+          ],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "A partial evidential match supports an account without proving its whole content.",
+            "rule": "Do not confuse confirmation in part, complete proof and disproof.",
+            "model": "It corroborated the account without establishing every detail."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination retaining refuted",
+            "whyNot": "The evidence supports the account; a verb of disproof reverses that fact.",
+            "reasoningSteps": [
+              "Retain the favourable direction.",
+              "Then preserve the explicit boundary on completeness."
+            ]
+          },
+          "id": "word-usage/MH-W03-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The committee moved an undecided vote from Monday to Friday. Separately, the applicant removed a request before any decision. The vote was ___; the other request was ___. Select every faithful pair.",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I only",
+            "I and III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "deferred / withdrawn",
+              "valid": true,
+              "reason": "Deferred preserves a later decision; withdrawn preserves removal by the applicant before a decision."
+            },
+            {
+              "label": "II",
+              "text": "declined / suspended",
+              "valid": false,
+              "reason": "Declined invents a completed refusal of the vote; suspended substitutes a temporary halt for removal of the request."
+            },
+            {
+              "label": "III",
+              "text": "postponed / retracted",
+              "valid": true,
+              "reason": "Postponed is valid for the vote; retracting the request also means taking it back."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "paired contextual replacements",
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "The two actions have different actors and different implications for whether a decision exists.",
+            "rule": "Keep a delayed vote separate from an applicant taking back a request.",
+            "model": "The vote was deferred; the other request was withdrawn."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination accepting declined / suspended",
+            "whyNot": "It changes both a pending decision and a removed request into different procedural states.",
+            "reasoningSteps": [
+              "Locate the actor and timing of each action.",
+              "Check whether the original event remains pending or has been removed."
+            ]
+          },
+          "id": "word-usage/MH-W03-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The transaction records were final and independently authenticated, while the forecast still depended on undecided tariffs. The records were ___, while the forecast remained ___. Select every faithful pair.",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "II and III only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "provisional / authentic",
+              "valid": false,
+              "reason": "The records are expressly final, not provisional, and authenticity does not preserve the forecast’s unfinished status."
+            },
+            {
+              "label": "II",
+              "text": "authentic / tentative",
+              "valid": true,
+              "reason": "Authentic preserves the authenticated records; tentative preserves the unsettled forecast."
+            },
+            {
+              "label": "III",
+              "text": "genuine / provisional",
+              "valid": true,
+              "reason": "Genuine and provisional express the same respective dimensions."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "paired contextual replacements",
+          "vocabulary": [
+            "tentative"
+          ],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "Uncertainty belongs to future assumptions, not to the authenticity or final status of the historical records.",
+            "rule": "A property true of one object cannot be transferred to another merely because the objects are related.",
+            "model": "The records were authentic, while the forecast remained tentative."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination accepting provisional / authentic",
+            "whyNot": "It relocates uncertainty to final records and fails to state uncertainty about the forecast.",
+            "reasoningSteps": [
+              "Separate historical data from future estimates.",
+              "Track which property belongs to which object."
+            ]
+          },
+          "id": "word-usage/MH-W03-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The account was worthy of belief; the team’s prompt disclosure was deserving of praise, though disclosure alone did not prove every transaction. The account was ___; the disclosure was ___. Select every pair preserving the intended attributes.",
+          "instructions": "Evaluate all three candidates and choose ALL and ONLY the valid ones. Preserve the degree and direction of every claim.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "believable / praiseworthy",
+              "valid": true,
+              "reason": "These ordinary synonyms preserve the same two attributes."
+            },
+            {
+              "label": "II",
+              "text": "credulous / credible",
+              "valid": false,
+              "reason": "Credulous describes excessive readiness to believe, not a believable account; the second word also fails to preserve the specified praise."
+            },
+            {
+              "label": "III",
+              "text": "credible / creditable",
+              "valid": true,
+              "reason": "Credible describes belief-worthiness; creditable describes praiseworthiness without proving other facts."
+            }
+          ],
+          "selectionDirection": "correct",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q113–115, connectors",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q57–60, fragments; Q82–87 and Q90, contextual replacement and swaps",
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q82–86, usage and replacement",
+              "Mains Checklist 1 and 12, word swaps; checklist 16 and 18, phrase rearrangement"
+            ],
+            "note": "New original practice informed by local formats. Moderate–Hard is a reviewed reasoning target, not independently calibrated exam equivalence."
+          },
+          "batch": "moderate-hard-2",
+          "skill": "paired contextual replacements",
+          "vocabulary": [
+            "credible",
+            "creditable"
+          ],
+          "explanation": {
+            "relationship": "Every selected candidate must preserve all stated constraints",
+            "clue": "A statement, its audience and an action can receive different evaluations. Praise is not complete verification.",
+            "rule": "Distinguish credible, credulous and creditable without inventing a difference between genuine synonyms.",
+            "model": "The account was credible; the disclosure was creditable."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination accepting credulous / credible",
+            "whyNot": "The words have familiar roots but attach the wrong attributes to the two objects.",
+            "reasoningSteps": [
+              "Identify whether the text evaluates truth, trust or conduct.",
+              "Check both replacements rather than accepting one familiar-looking word."
+            ]
+          },
+          "id": "word-usage/MH-W03-Q5"
+        }
+      ]
+    }
+  ]
+}

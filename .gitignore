@@ -1,0 +1,32 @@
+# Publish the maintained app and its documented entry points, not the local source archive.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/AGENTS.md
+!/study-app/
+!/cloze_trainer/
+!/connectors_trainer/
+!/English_Practice.html
+!/Cloze_Mains_Trainer.html
+!/Connectors_Mains_Trainer.html
+!/dense_bank_exam_vocabulary_improved.html
+!/English_Mains_Plan.md
+!/English_Mains_Source_Audit.md
+
+# These two legacy banks are fixtures for content-preservation tests.
+/cloze_trainer/*
+!/cloze_trainer/bank.json
+/connectors_trainer/*
+!/connectors_trainer/bank.json
+
+**/node_modules/
+**/.npm-cache/
+**/dist/
+**/backups/
+**/__pycache__/
+**/*.log
+**/.env
+**/.env.*
+**/*-qa.json
+

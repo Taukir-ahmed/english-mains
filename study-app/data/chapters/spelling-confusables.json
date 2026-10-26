@@ -1,0 +1,3246 @@
+{
+  "id": "spelling-confusables",
+  "title": "Spelling & confused words",
+  "description": "55 original questions: the earlier 40 plus 15 Moderate–Hard items. Select Moderate–Hard for close alternatives and complete meaning checks. This is a reviewed training target, not an independently calibrated exam rating.",
+  "source": {
+    "kind": "original-format-practice",
+    "formatReferences": [
+      "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+      "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+    ]
+  },
+  "vocabularyCandidates": [
+    {
+      "term": "credulous",
+      "meaning": "too ready to believe claims without sufficient checking",
+      "collocations": [
+        "credulous customers / a credulous listener"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "Credulous customers accepted the unverified message without checking who had sent it."
+    },
+    {
+      "term": "discreet",
+      "meaning": "careful and tactful about what is said or disclosed",
+      "collocations": [
+        "a discreet officer / discreet handling"
+      ],
+      "forms": [
+        "discreetly"
+      ],
+      "important": true,
+      "readingExample": "The discreet officer protected the borrower’s private information during the enquiry."
+    },
+    {
+      "term": "adverse",
+      "meaning": "harmful or unfavourable",
+      "collocations": [
+        "an adverse effect / adverse conditions"
+      ],
+      "forms": [
+        "adversely"
+      ],
+      "important": true,
+      "readingExample": "The unexplained delay had an adverse effect on borrower confidence."
+    },
+    {
+      "term": "complement",
+      "meaning": "add something useful that completes or improves something else",
+      "collocations": [
+        "complement a review / complement existing safeguards"
+      ],
+      "forms": [
+        "complements",
+        "complemented",
+        "complementary"
+      ],
+      "important": true,
+      "readingExample": "The independent audit will complement the internal review by providing additional evidence."
+    },
+    {
+      "term": "complaisance",
+      "meaning": "willingness or eagerness to please or accommodate other people",
+      "collocations": [
+        "complaisance towards clients / excessive complaisance"
+      ],
+      "forms": [
+        "complaisant"
+      ],
+      "important": true,
+      "readingExample": "The manager’s complaisance towards an influential client did not excuse failure to follow the rules."
+    },
+    {
+      "term": "precedence",
+      "meaning": "priority in importance, order or treatment",
+      "collocations": [
+        "take precedence over / give precedence to"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "Verification took precedence over speed because an incorrect approval would be difficult to reverse."
+    }
+  ],
+  "packs": [
+    {
+      "id": "B01",
+      "title": "Double letters and vowel patterns",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The bank must make a suitable ___ for customers who cannot use the stairs.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "accommodation",
+            "accomodation",
+            "acommodation",
+            "accommadation",
+            "accomodattion"
+          ],
+          "answer": "accommodation",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Accommodation has double c and double m.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The bank must make a suitable accommodation for customers who cannot use the stairs.",
+            "rejects": [
+              {
+                "option": "accomodation",
+                "reason": "“accomodation” misspells the intended word. Accommodation has double c and double m."
+              },
+              {
+                "option": "acommodation",
+                "reason": "“acommodation” misspells the intended word. Accommodation has double c and double m."
+              },
+              {
+                "option": "accommadation",
+                "reason": "“accommadation” misspells the intended word. Accommodation has double c and double m."
+              },
+              {
+                "option": "accomodattion",
+                "reason": "“accomodattion” misspells the intended word. Accommodation has double c and double m."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "accommodation"
+          },
+          "id": "spelling-confusables/B01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The committee will ___ a change only after examining the evidence.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "recomend",
+            "recommend",
+            "reccommend",
+            "recommmend",
+            "recomand"
+          ],
+          "answer": "recommend",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Recommend has one c and two m’s.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The committee will recommend a change only after examining the evidence.",
+            "rejects": [
+              {
+                "option": "recomend",
+                "reason": "“recomend” misspells the intended word. Recommend has one c and two m’s."
+              },
+              {
+                "option": "reccommend",
+                "reason": "“reccommend” misspells the intended word. Recommend has one c and two m’s."
+              },
+              {
+                "option": "recommmend",
+                "reason": "“recommmend” misspells the intended word. Recommend has one c and two m’s."
+              },
+              {
+                "option": "recomand",
+                "reason": "“recomand” misspells the intended word. Recommend has one c and two m’s."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "recommend"
+          },
+          "id": "spelling-confusables/B01-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The two accounts must remain ___.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "seperate",
+            "seperrate",
+            "separate",
+            "separrate",
+            "separite"
+          ],
+          "answer": "separate",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The middle vowel sequence in separate is -par-, not -per-.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The two accounts must remain separate.",
+            "rejects": [
+              {
+                "option": "seperate",
+                "reason": "“seperate” misspells the intended word. The middle vowel sequence in separate is -par-, not -per-."
+              },
+              {
+                "option": "seperrate",
+                "reason": "“seperrate” misspells the intended word. The middle vowel sequence in separate is -par-, not -per-."
+              },
+              {
+                "option": "separrate",
+                "reason": "“separrate” misspells the intended word. The middle vowel sequence in separate is -par-, not -per-."
+              },
+              {
+                "option": "separite",
+                "reason": "“separite” misspells the intended word. The middle vowel sequence in separate is -par-, not -per-."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "separate"
+          },
+          "id": "spelling-confusables/B01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Only authorised staff have ___ access to these records.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "priviledged",
+            "priveleged",
+            "priviliged",
+            "privileged",
+            "privilleged"
+          ],
+          "answer": "privileged",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Privileged contains -vileg- and has no extra d before g.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "Only authorised staff have privileged access to these records.",
+            "rejects": [
+              {
+                "option": "priviledged",
+                "reason": "“priviledged” misspells the intended word. Privileged contains -vileg- and has no extra d before g."
+              },
+              {
+                "option": "priveleged",
+                "reason": "“priveleged” misspells the intended word. Privileged contains -vileg- and has no extra d before g."
+              },
+              {
+                "option": "priviliged",
+                "reason": "“priviliged” misspells the intended word. Privileged contains -vileg- and has no extra d before g."
+              },
+              {
+                "option": "privilleged",
+                "reason": "“privilleged” misspells the intended word. Privileged contains -vileg- and has no extra d before g."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "privileged"
+          },
+          "id": "spelling-confusables/B01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "A second ___ of the same error requires investigation.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "occurence",
+            "ocurrence",
+            "occurrance",
+            "ocurrance",
+            "occurrence"
+          ],
+          "answer": "occurrence",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Occurrence has double c, double r and the ending -ence.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "A second occurrence of the same error requires investigation.",
+            "rejects": [
+              {
+                "option": "occurence",
+                "reason": "“occurence” misspells the intended word. Occurrence has double c, double r and the ending -ence."
+              },
+              {
+                "option": "ocurrence",
+                "reason": "“ocurrence” misspells the intended word. Occurrence has double c, double r and the ending -ence."
+              },
+              {
+                "option": "occurrance",
+                "reason": "“occurrance” misspells the intended word. Occurrence has double c, double r and the ending -ence."
+              },
+              {
+                "option": "ocurrance",
+                "reason": "“ocurrance” misspells the intended word. Occurrence has double c, double r and the ending -ence."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "occurrence"
+          },
+          "id": "spelling-confusables/B01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "title": "Administrative spelling",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The forecast omitted annual ___ costs.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "maintenance",
+            "maintainance",
+            "maintenence",
+            "maintainence",
+            "maintenanse"
+          ],
+          "answer": "maintenance",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Maintenance is spelled main-ten-ance; the noun does not retain the full maintain spelling.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The forecast omitted annual maintenance costs.",
+            "rejects": [
+              {
+                "option": "maintainance",
+                "reason": "“maintainance” misspells the intended word. Maintenance is spelled main-ten-ance; the noun does not retain the full maintain spelling."
+              },
+              {
+                "option": "maintenence",
+                "reason": "“maintenence” misspells the intended word. Maintenance is spelled main-ten-ance; the noun does not retain the full maintain spelling."
+              },
+              {
+                "option": "maintainence",
+                "reason": "“maintainence” misspells the intended word. Maintenance is spelled main-ten-ance; the noun does not retain the full maintain spelling."
+              },
+              {
+                "option": "maintenanse",
+                "reason": "“maintenanse” misspells the intended word. Maintenance is spelled main-ten-ance; the noun does not retain the full maintain spelling."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "maintenance"
+          },
+          "id": "spelling-confusables/B02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Original documents are ___ for final verification.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "neccessary",
+            "necessary",
+            "necesary",
+            "neccessery",
+            "necessery"
+          ],
+          "answer": "necessary",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Necessary has one c and two s’s.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "Original documents are necessary for final verification.",
+            "rejects": [
+              {
+                "option": "neccessary",
+                "reason": "“neccessary” misspells the intended word. Necessary has one c and two s’s."
+              },
+              {
+                "option": "necesary",
+                "reason": "“necesary” misspells the intended word. Necessary has one c and two s’s."
+              },
+              {
+                "option": "neccessery",
+                "reason": "“neccessery” misspells the intended word. Necessary has one c and two s’s."
+              },
+              {
+                "option": "necessery",
+                "reason": "“necessery” misspells the intended word. Necessary has one c and two s’s."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "necessary"
+          },
+          "id": "spelling-confusables/B02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The auditor found a ___ between the totals.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "discrepency",
+            "discripancy",
+            "discrepancy",
+            "descrepancy",
+            "discreppancy"
+          ],
+          "answer": "discrepancy",
+          "skill": "spelling selection",
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Discrepancy ends in -ancy, with one p.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The auditor found a discrepancy between the totals.",
+            "rejects": [
+              {
+                "option": "discrepency",
+                "reason": "“discrepency” misspells the intended word. Discrepancy ends in -ancy, with one p."
+              },
+              {
+                "option": "discripancy",
+                "reason": "“discripancy” misspells the intended word. Discrepancy ends in -ancy, with one p."
+              },
+              {
+                "option": "descrepancy",
+                "reason": "“descrepancy” misspells the intended word. Discrepancy ends in -ancy, with one p."
+              },
+              {
+                "option": "discreppancy",
+                "reason": "“discreppancy” misspells the intended word. Discrepancy ends in -ancy, with one p."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "discrepancy"
+          },
+          "id": "spelling-confusables/B02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The notice explained the ___ conditions for the scheme.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "eligiblity",
+            "eligibilty",
+            "ellegibility",
+            "eligibility",
+            "eligebility"
+          ],
+          "answer": "eligibility",
+          "skill": "spelling selection",
+          "vocabulary": [
+            "eligibility"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Eligibility contains the full -ibility ending.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The notice explained the eligibility conditions for the scheme.",
+            "rejects": [
+              {
+                "option": "eligiblity",
+                "reason": "“eligiblity” misspells the intended word. Eligibility contains the full -ibility ending."
+              },
+              {
+                "option": "eligibilty",
+                "reason": "“eligibilty” misspells the intended word. Eligibility contains the full -ibility ending."
+              },
+              {
+                "option": "ellegibility",
+                "reason": "“ellegibility” misspells the intended word. Eligibility contains the full -ibility ending."
+              },
+              {
+                "option": "eligebility",
+                "reason": "“eligebility” misspells the intended word. Eligibility contains the full -ibility ending."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "eligibility"
+          },
+          "id": "spelling-confusables/B02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The applicant retained the payment ___.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "reciept",
+            "receit",
+            "recipt",
+            "receept",
+            "receipt"
+          ],
+          "answer": "receipt",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Receipt contains -cei- and a silent p.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The applicant retained the payment receipt.",
+            "rejects": [
+              {
+                "option": "reciept",
+                "reason": "“reciept” misspells the intended word. Receipt contains -cei- and a silent p."
+              },
+              {
+                "option": "receit",
+                "reason": "“receit” misspells the intended word. Receipt contains -cei- and a silent p."
+              },
+              {
+                "option": "recipt",
+                "reason": "“recipt” misspells the intended word. Receipt contains -cei- and a silent p."
+              },
+              {
+                "option": "receept",
+                "reason": "“receept” misspells the intended word. Receipt contains -cei- and a silent p."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "receipt"
+          },
+          "id": "spelling-confusables/B02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "title": "Difficult endings and silent letters",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The bank would not ___ approval before verification.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "guarantee",
+            "garantee",
+            "guarentee",
+            "guaranttee",
+            "guarantyie"
+          ],
+          "answer": "guarantee",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Guarantee begins gua- and ends -tee; these alternatives misspell this intended verb.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The bank would not guarantee approval before verification.",
+            "rejects": [
+              {
+                "option": "garantee",
+                "reason": "“garantee” misspells the intended word. Guarantee begins gua- and ends -tee; these alternatives misspell this intended verb."
+              },
+              {
+                "option": "guarentee",
+                "reason": "“guarentee” misspells the intended word. Guarantee begins gua- and ends -tee; these alternatives misspell this intended verb."
+              },
+              {
+                "option": "guaranttee",
+                "reason": "“guaranttee” misspells the intended word. Guarantee begins gua- and ends -tee; these alternatives misspell this intended verb."
+              },
+              {
+                "option": "guarantyie",
+                "reason": "“guarantyie” misspells the intended word. Guarantee begins gua- and ends -tee; these alternatives misspell this intended verb."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "guarantee"
+          },
+          "id": "spelling-confusables/B03-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The ___ officer checked every entry carefully.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "consciencious",
+            "conscientious",
+            "consientious",
+            "conscientous",
+            "conscientiouus"
+          ],
+          "answer": "conscientious",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Conscientious contains -scient- and ends -ious.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The conscientious officer checked every entry carefully.",
+            "rejects": [
+              {
+                "option": "consciencious",
+                "reason": "“consciencious” misspells the intended word. Conscientious contains -scient- and ends -ious."
+              },
+              {
+                "option": "consientious",
+                "reason": "“consientious” misspells the intended word. Conscientious contains -scient- and ends -ious."
+              },
+              {
+                "option": "conscientous",
+                "reason": "“conscientous” misspells the intended word. Conscientious contains -scient- and ends -ious."
+              },
+              {
+                "option": "conscientiouus",
+                "reason": "“conscientiouus” misspells the intended word. Conscientious contains -scient- and ends -ious."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "conscientious"
+          },
+          "id": "spelling-confusables/B03-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank appointed a ___ officer to coordinate with the regulator.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "liason",
+            "liasion",
+            "liaison",
+            "liaision",
+            "leiaison"
+          ],
+          "answer": "liaison",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Liaison is spelled l-i-a-i-s-o-n.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The bank appointed a liaison officer to coordinate with the regulator.",
+            "rejects": [
+              {
+                "option": "liason",
+                "reason": "“liason” misspells the intended word. Liaison is spelled l-i-a-i-s-o-n."
+              },
+              {
+                "option": "liasion",
+                "reason": "“liasion” misspells the intended word. Liaison is spelled l-i-a-i-s-o-n."
+              },
+              {
+                "option": "liaision",
+                "reason": "“liaision” misspells the intended word. Liaison is spelled l-i-a-i-s-o-n."
+              },
+              {
+                "option": "leiaison",
+                "reason": "“leiaison” misspells the intended word. Liaison is spelled l-i-a-i-s-o-n."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "liaison"
+          },
+          "id": "spelling-confusables/B03-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Her ___ helped her complete the difficult reconciliation.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "perseverence",
+            "perserverance",
+            "persevarance",
+            "perseverance",
+            "perseverrance"
+          ],
+          "answer": "perseverance",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Perseverance ends in -ance, not -ence.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "Her perseverance helped her complete the difficult reconciliation.",
+            "rejects": [
+              {
+                "option": "perseverence",
+                "reason": "“perseverence” misspells the intended word. Perseverance ends in -ance, not -ence."
+              },
+              {
+                "option": "perserverance",
+                "reason": "“perserverance” misspells the intended word. Perseverance ends in -ance, not -ence."
+              },
+              {
+                "option": "persevarance",
+                "reason": "“persevarance” misspells the intended word. Perseverance ends in -ance, not -ence."
+              },
+              {
+                "option": "perseverrance",
+                "reason": "“perseverrance” misspells the intended word. Perseverance ends in -ance, not -ence."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "perseverance"
+          },
+          "id": "spelling-confusables/B03-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The borrower requested ___ of the excess charge.",
+          "instructions": "Choose the correctly spelled word that completes the sentence.",
+          "options": [
+            "reimbursment",
+            "reinbursement",
+            "reimbursemant",
+            "reimburseement",
+            "reimbursement"
+          ],
+          "answer": "reimbursement",
+          "skill": "spelling selection",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Reimbursement retains reimburse followed by -ment, without an extra e.",
+            "rule": "Choose the conventional spelling of the intended word; do not invent a spelling from pronunciation.",
+            "model": "The borrower requested reimbursement of the excess charge.",
+            "rejects": [
+              {
+                "option": "reimbursment",
+                "reason": "“reimbursment” misspells the intended word. Reimbursement retains reimburse followed by -ment, without an extra e."
+              },
+              {
+                "option": "reinbursement",
+                "reason": "“reinbursement” misspells the intended word. Reimbursement retains reimburse followed by -ment, without an extra e."
+              },
+              {
+                "option": "reimbursemant",
+                "reason": "“reimbursemant” misspells the intended word. Reimbursement retains reimburse followed by -ment, without an extra e."
+              },
+              {
+                "option": "reimburseement",
+                "reason": "“reimburseement” misspells the intended word. Reimbursement retains reimburse followed by -ment, without an extra e."
+              }
+            ]
+          },
+          "spelling": {
+            "correct": "reimbursement"
+          },
+          "id": "spelling-confusables/B03-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "title": "Loan terms, influence and belief",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The borrower repaid the ___ amount before paying the remaining interest.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "principal",
+            "principle",
+            "principals",
+            "principled",
+            "principally"
+          ],
+          "answer": "principal",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Amount excluding interest is principal.",
+            "rule": "Principal can name the original loan sum; principle means a rule or belief.",
+            "model": "The borrower repaid the principal amount before paying the remaining interest.",
+            "rejects": [
+              {
+                "option": "principle",
+                "reason": "Principle is a rule or belief, not the loan amount."
+              },
+              {
+                "option": "principals",
+                "reason": "The singular noun modifier is principal; no plural amount is being named."
+              },
+              {
+                "option": "principled",
+                "reason": "Principled describes ethical conduct, not a loan component."
+              },
+              {
+                "option": "principally",
+                "reason": "Principally is an adverb meaning mainly."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B04-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The outage may ___ the processing of refunds.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "effect",
+            "affect",
+            "affected",
+            "effective",
+            "effects"
+          ],
+          "answer": "affect",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "May needs a verb meaning influence.",
+            "rule": "Affect usually means influence; effect as a noun means result, and as a verb means bring about.",
+            "model": "The outage may affect the processing of refunds.",
+            "rejects": [
+              {
+                "option": "effect",
+                "reason": "As a verb effect means bring about; the outage influences processing rather than brings processing into existence."
+              },
+              {
+                "option": "affected",
+                "reason": "May requires a base verb."
+              },
+              {
+                "option": "effective",
+                "reason": "Effective is an adjective, not the verb after may."
+              },
+              {
+                "option": "effects",
+                "reason": "The modal may does not take a third-person -s form."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B04-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The independent audit will ___ the internal review by supplying additional evidence.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "compliment",
+            "complementary",
+            "complement",
+            "complimentary",
+            "complements"
+          ],
+          "answer": "complement",
+          "skill": "confusable word choice",
+          "vocabulary": [
+            "review",
+            "complement"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The second review adds something useful rather than offers praise.",
+            "rule": "Complement completes or enhances; compliment praises.",
+            "model": "The independent audit will complement the internal review by supplying additional evidence.",
+            "rejects": [
+              {
+                "option": "compliment",
+                "reason": "Compliment means praise, not add a useful supporting component."
+              },
+              {
+                "option": "complementary",
+                "reason": "Complementary is an adjective and cannot be the main verb after will."
+              },
+              {
+                "option": "complimentary",
+                "reason": "Complimentary means praising or free of charge, not the verb required here."
+              },
+              {
+                "option": "complements",
+                "reason": "Will requires base complement."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B04-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The officer was ___ and did not reveal the customer’s private details.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "discrete",
+            "discretion",
+            "discretely",
+            "discreet",
+            "discreetly"
+          ],
+          "answer": "discreet",
+          "skill": "confusable word choice",
+          "vocabulary": [
+            "discreet"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Not revealing private details shows careful judgement about disclosure.",
+            "rule": "Discreet means careful or tactful; discrete means separate.",
+            "model": "The officer was discreet and did not reveal the customer’s private details.",
+            "rejects": [
+              {
+                "option": "discrete",
+                "reason": "Discrete means distinct or separate, not tactful and careful with information."
+              },
+              {
+                "option": "discretion",
+                "reason": "Discretion is a noun, not the adjective describing the officer here."
+              },
+              {
+                "option": "discretely",
+                "reason": "Discretely is an adverb about distinct units, not an adjective."
+              },
+              {
+                "option": "discreetly",
+                "reason": "Discreetly is an adverb; was requires an adjective to describe the officer here."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B04-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The fraudster targeted ___ customers who accepted every claim without checking it.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "credible",
+            "credibility",
+            "credibly",
+            "credit",
+            "credulous"
+          ],
+          "answer": "credulous",
+          "skill": "confusable word choice",
+          "vocabulary": [
+            "credulous"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Accepted every claim without checking describes excessive trust.",
+            "rule": "Credulous means too ready to believe; credible means worthy of belief.",
+            "model": "The fraudster targeted credulous customers who accepted every claim without checking it.",
+            "rejects": [
+              {
+                "option": "credible",
+                "reason": "Credible means believable; it describes the claim or account, not excessive readiness to believe."
+              },
+              {
+                "option": "credibility",
+                "reason": "Credibility is a noun, not the adjective modifying customers."
+              },
+              {
+                "option": "credibly",
+                "reason": "Credibly is an adverb, not the adjective here."
+              },
+              {
+                "option": "credit",
+                "reason": "Credit is not the adjective for readiness to believe."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B04-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "title": "Disclosure, reassurance and access",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The sudden policy reversal had an ___ effect on borrower confidence.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "adverse",
+            "averse",
+            "adversely",
+            "aversion",
+            "adversity"
+          ],
+          "answer": "adverse",
+          "skill": "confusable word choice",
+          "vocabulary": [
+            "adverse"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The effect on confidence was harmful.",
+            "rule": "Adverse means unfavourable or harmful; averse describes unwillingness.",
+            "model": "The sudden policy reversal had an adverse effect on borrower confidence.",
+            "rejects": [
+              {
+                "option": "averse",
+                "reason": "Averse means opposed or reluctant and normally takes to; it does not describe a harmful effect."
+              },
+              {
+                "option": "adversely",
+                "reason": "Adversely is an adverb, not the adjective before effect."
+              },
+              {
+                "option": "aversion",
+                "reason": "Aversion is a noun for strong dislike."
+              },
+              {
+                "option": "adversity",
+                "reason": "Adversity names hardship, not the adjective modifying effect."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B05-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The branch ordered paper, envelopes and other ___.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "stationary",
+            "stationery",
+            "stationer",
+            "station",
+            "stationarily"
+          ],
+          "answer": "stationery",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Paper and envelopes are writing materials.",
+            "rule": "Stationery with e is writing material; stationary with a means not moving.",
+            "model": "The branch ordered paper, envelopes and other stationery.",
+            "rejects": [
+              {
+                "option": "stationary",
+                "reason": "Stationary means not moving, not writing materials."
+              },
+              {
+                "option": "stationer",
+                "reason": "A stationer is a person or shop selling such materials."
+              },
+              {
+                "option": "station",
+                "reason": "A station is a place, not the collective materials."
+              },
+              {
+                "option": "stationarily",
+                "reason": "This is not the noun for writing supplies."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B05-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The officer ___ the customer that the incorrect debit would be reversed.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "ensured",
+            "insured",
+            "assured",
+            "assurance",
+            "assuring"
+          ],
+          "answer": "assured",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The customer is the person being reassured.",
+            "rule": "Assure someone that ... differs from ensure that ... and insure against a risk.",
+            "model": "The officer assured the customer that the incorrect debit would be reversed.",
+            "rejects": [
+              {
+                "option": "ensured",
+                "reason": "Ensure does not take this person + that-clause construction; use assure someone that."
+              },
+              {
+                "option": "insured",
+                "reason": "Insuring someone provides insurance cover; it does not express the spoken reassurance here."
+              },
+              {
+                "option": "assurance",
+                "reason": "Assurance is a noun and cannot serve as this finite past-tense verb."
+              },
+              {
+                "option": "assuring",
+                "reason": "Assuring needs an auxiliary to be the finite predicate; the sentence supplies none."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B05-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Only authorised employees may gain ___ to these records.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "excess",
+            "accessible",
+            "accessibly",
+            "access",
+            "excessive"
+          ],
+          "answer": "access",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Gain ___ to needs the noun for permission or ability to use.",
+            "rule": "Access to records differs from excess funds.",
+            "model": "Only authorised employees may gain access to these records.",
+            "rejects": [
+              {
+                "option": "excess",
+                "reason": "Excess means more than needed, not permission to enter or use."
+              },
+              {
+                "option": "accessible",
+                "reason": "Accessible is an adjective, not the noun after gain."
+              },
+              {
+                "option": "accessibly",
+                "reason": "Accessibly is an adverb, not the noun here."
+              },
+              {
+                "option": "excessive",
+                "reason": "Excessive is an adjective meaning too much."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B05-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank will ___ the documents only after checking their authenticity.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "except",
+            "acceptance",
+            "accepted",
+            "acceptable",
+            "accept"
+          ],
+          "answer": "accept",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The bank will receive the verified documents.",
+            "rule": "Accept means receive or agree to; except marks exclusion.",
+            "model": "The bank will accept the documents only after checking their authenticity.",
+            "rejects": [
+              {
+                "option": "except",
+                "reason": "Except means excluding, or as a verb exclude; the bank is receiving documents subject to checks."
+              },
+              {
+                "option": "acceptance",
+                "reason": "Acceptance is a noun, not the main verb after will."
+              },
+              {
+                "option": "accepted",
+                "reason": "Will requires the base form."
+              },
+              {
+                "option": "acceptable",
+                "reason": "Acceptable is an adjective, not the verb."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B05-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "title": "Order, advice and word forms",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Identity verification must ___ disbursement; funds cannot be released first.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "precede",
+            "proceed",
+            "precedent",
+            "preceding",
+            "procedure"
+          ],
+          "answer": "precede",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Cannot be released first establishes the required time order.",
+            "rule": "Precede means come before; proceed means continue or begin an action.",
+            "model": "Identity verification must precede disbursement; funds cannot be released first.",
+            "rejects": [
+              {
+                "option": "proceed",
+                "reason": "Proceed means continue or go ahead, not come before a direct object."
+              },
+              {
+                "option": "precedent",
+                "reason": "Precedent is an earlier example, not the verb after must."
+              },
+              {
+                "option": "preceding",
+                "reason": "Must needs the base verb, not an -ing form."
+              },
+              {
+                "option": "procedure",
+                "reason": "Procedure is a noun, not the action before disbursement."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B06-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank asked the independent auditor for ___.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "advise",
+            "advice",
+            "advised",
+            "advises",
+            "advicing"
+          ],
+          "answer": "advice",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "For needs the noun naming guidance.",
+            "rule": "Advice is the noun; advise is the verb.",
+            "model": "The bank asked the independent auditor for advice.",
+            "rejects": [
+              {
+                "option": "advise",
+                "reason": "Advise is a verb; the preposition for needs the noun here."
+              },
+              {
+                "option": "advised",
+                "reason": "Advised is not the noun for guidance."
+              },
+              {
+                "option": "advises",
+                "reason": "Advises is a verb form and cannot be the requested object after for."
+              },
+              {
+                "option": "advicing",
+                "reason": "Advicing is not the standard noun or verb form."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B06-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank chose an ___ lighting system because it used less electricity.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "economise",
+            "economy",
+            "economical",
+            "economically",
+            "economics"
+          ],
+          "answer": "economical",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Used less electricity calls for resource efficiency.",
+            "rule": "Economical means avoiding waste; economic relates to the economy.",
+            "model": "The bank chose an economical lighting system because it used less electricity.",
+            "rejects": [
+              {
+                "option": "economise",
+                "reason": "Economise is a verb, not the adjective describing the lighting system."
+              },
+              {
+                "option": "economy",
+                "reason": "Economy is not the adjective required after an here."
+              },
+              {
+                "option": "economically",
+                "reason": "Economically is an adverb, not the adjective modifying system."
+              },
+              {
+                "option": "economics",
+                "reason": "Economics is the field of study, not this resource-saving adjective."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B06-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The ___ department arranged the staff transfers.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "personal",
+            "personally",
+            "personality",
+            "personnel",
+            "personals"
+          ],
+          "answer": "personnel",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Staff transfers are handled by the personnel function.",
+            "rule": "Personnel means staff; personal means individual or private.",
+            "model": "The personnel department arranged the staff transfers.",
+            "rejects": [
+              {
+                "option": "personal",
+                "reason": "Personal means private or relating to an individual, not the conventional staff-management department."
+              },
+              {
+                "option": "personally",
+                "reason": "Personally is an adverb, not the department’s noun modifier."
+              },
+              {
+                "option": "personality",
+                "reason": "Personality is a person’s character, not staff collectively."
+              },
+              {
+                "option": "personals",
+                "reason": "Personals is not the conventional department name."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B06-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Without a backup, the branch could ___ its records during an outage.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "loose",
+            "loss",
+            "losing",
+            "lost",
+            "lose"
+          ],
+          "answer": "lose",
+          "skill": "confusable word choice",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The risk is no longer having the records.",
+            "rule": "Lose is the verb; loose is usually an adjective meaning not tight.",
+            "model": "Without a backup, the branch could lose its records during an outage.",
+            "rejects": [
+              {
+                "option": "loose",
+                "reason": "Loose means not tight; it is not the verb for no longer having the records."
+              },
+              {
+                "option": "loss",
+                "reason": "Loss is a noun, not a base verb after could."
+              },
+              {
+                "option": "losing",
+                "reason": "Could requires the base form."
+              },
+              {
+                "option": "lost",
+                "reason": "The modal could does not take the past form here."
+              }
+            ]
+          },
+          "id": "spelling-confusables/B06-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "title": "Judge every use",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Which statements use “principal / principle” correctly?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "I and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "confusable usage combination",
+          "vocabulary": [
+            "fair"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The principal amount excludes interest. The principal amount was repaid yesterday. The bank follows the principle of fair treatment.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Principal names the loan sum. II: The loan sum is principal, not principle. III: Principle names a rule or standard."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Principal names the loan sum. II: The loan sum is principal, not principle. III: Principle names a rule or standard."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Principal names the loan sum. II: The loan sum is principal, not principle. III: Principle names a rule or standard."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Principal names the loan sum. II: The loan sum is principal, not principle. III: Principle names a rule or standard."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The principal amount excludes interest.",
+              "valid": true,
+              "reason": "Principal names the loan sum."
+            },
+            {
+              "label": "II",
+              "text": "The principle amount was repaid yesterday.",
+              "valid": false,
+              "reason": "The loan sum is principal, not principle."
+            },
+            {
+              "label": "III",
+              "text": "The bank follows the principle of fair treatment.",
+              "valid": true,
+              "reason": "Principle names a rule or standard."
+            }
+          ],
+          "id": "spelling-confusables/B07-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “affect / effect” INCORRECTLY?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "I only",
+            "None",
+            "II only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "None",
+          "skill": "confusable usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The change may affect repayment behaviour. The new procedure had a positive effect. The committee hopes to effect a lasting improvement.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Affect is a verb meaning influence. II: Effect is a noun meaning result. III: Effect can correctly be a verb meaning bring about."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Affect is a verb meaning influence. II: Effect is a noun meaning result. III: Effect can correctly be a verb meaning bring about."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Affect is a verb meaning influence. II: Effect is a noun meaning result. III: Effect can correctly be a verb meaning bring about."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Affect is a verb meaning influence. II: Effect is a noun meaning result. III: Effect can correctly be a verb meaning bring about."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The change may affect repayment behaviour.",
+              "valid": true,
+              "reason": "Affect is a verb meaning influence."
+            },
+            {
+              "label": "II",
+              "text": "The new procedure had a positive effect.",
+              "valid": true,
+              "reason": "Effect is a noun meaning result."
+            },
+            {
+              "label": "III",
+              "text": "The committee hopes to effect a lasting improvement.",
+              "valid": true,
+              "reason": "Effect can correctly be a verb meaning bring about."
+            }
+          ],
+          "id": "spelling-confusables/B07-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “complement / compliment” correctly?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II and III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "confusable usage combination",
+          "vocabulary": [
+            "review",
+            "complement"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The second review was a useful complement to the first. The second review complements the first. The manager paid the auditor a compliment.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: A useful addition is a complement, not a compliment. II: Complements means adds a useful component. III: A compliment is praise."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: A useful addition is a complement, not a compliment. II: Complements means adds a useful component. III: A compliment is praise."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: A useful addition is a complement, not a compliment. II: Complements means adds a useful component. III: A compliment is praise."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: A useful addition is a complement, not a compliment. II: Complements means adds a useful component. III: A compliment is praise."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The second review was a useful compliment to the first.",
+              "valid": false,
+              "reason": "A useful addition is a complement, not a compliment."
+            },
+            {
+              "label": "II",
+              "text": "The second review complements the first.",
+              "valid": true,
+              "reason": "Complements means adds a useful component."
+            },
+            {
+              "label": "III",
+              "text": "The manager paid the auditor a compliment.",
+              "valid": true,
+              "reason": "A compliment is praise."
+            }
+          ],
+          "id": "spelling-confusables/B07-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “discreet / discrete” INCORRECTLY?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "II only",
+            "III only"
+          ],
+          "answer": "II only",
+          "skill": "confusable usage combination",
+          "vocabulary": [
+            "discreet"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The officer was discreet about confidential information. The officer was discreet and kept the information private. The report analysed three discrete groups of borrowers.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Discreet means careful about disclosure. II: The intended privacy-related adjective is discreet. III: Discrete means separate or distinct."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Discreet means careful about disclosure. II: The intended privacy-related adjective is discreet. III: Discrete means separate or distinct."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Discreet means careful about disclosure. II: The intended privacy-related adjective is discreet. III: Discrete means separate or distinct."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Discreet means careful about disclosure. II: The intended privacy-related adjective is discreet. III: Discrete means separate or distinct."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The officer was discreet about confidential information.",
+              "valid": true,
+              "reason": "Discreet means careful about disclosure."
+            },
+            {
+              "label": "II",
+              "text": "The officer was discrete and kept the information private.",
+              "valid": false,
+              "reason": "The intended privacy-related adjective is discreet."
+            },
+            {
+              "label": "III",
+              "text": "The report analysed three discrete groups of borrowers.",
+              "valid": true,
+              "reason": "Discrete means separate or distinct."
+            }
+          ],
+          "id": "spelling-confusables/B07-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “credible / credulous” correctly?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "I and II only",
+          "skill": "confusable usage combination",
+          "vocabulary": [
+            "credible",
+            "unverified",
+            "credulous"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The receipt made the account credible. Credulous callers believed the unverified message. The customer supplied a credible explanation that the panel found believable.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Credible describes a believable account. II: Credulous describes people too ready to believe. III: The explanation is credible; credulous describes the believer."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Credible describes a believable account. II: Credulous describes people too ready to believe. III: The explanation is credible; credulous describes the believer."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Credible describes a believable account. II: Credulous describes people too ready to believe. III: The explanation is credible; credulous describes the believer."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Credible describes a believable account. II: Credulous describes people too ready to believe. III: The explanation is credible; credulous describes the believer."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The receipt made the account credible.",
+              "valid": true,
+              "reason": "Credible describes a believable account."
+            },
+            {
+              "label": "II",
+              "text": "Credulous callers believed the unverified message.",
+              "valid": true,
+              "reason": "Credulous describes people too ready to believe."
+            },
+            {
+              "label": "III",
+              "text": "The customer supplied a credulous explanation that the panel found believable.",
+              "valid": false,
+              "reason": "The explanation is credible; credulous describes the believer."
+            }
+          ],
+          "id": "spelling-confusables/B07-Q5"
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "title": "Valid senses and incorrect-use combinations",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Which statements use “adverse / averse” INCORRECTLY?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "I only",
+            "None",
+            "II only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "I only",
+          "skill": "confusable usage combination",
+          "vocabulary": [
+            "adverse"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The board was averse to unnecessary risk. The outage had an adverse effect on processing. The board was averse to unnecessary risk.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: The intended construction is averse to risk. II: Adverse describes a harmful effect. III: Averse to means opposed or reluctant."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: The intended construction is averse to risk. II: Adverse describes a harmful effect. III: Averse to means opposed or reluctant."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: The intended construction is averse to risk. II: Adverse describes a harmful effect. III: Averse to means opposed or reluctant."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: The intended construction is averse to risk. II: Adverse describes a harmful effect. III: Averse to means opposed or reluctant."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The board was adverse to unnecessary risk.",
+              "valid": false,
+              "reason": "The intended construction is averse to risk."
+            },
+            {
+              "label": "II",
+              "text": "The outage had an adverse effect on processing.",
+              "valid": true,
+              "reason": "Adverse describes a harmful effect."
+            },
+            {
+              "label": "III",
+              "text": "The board was averse to unnecessary risk.",
+              "valid": true,
+              "reason": "Averse to means opposed or reluctant."
+            }
+          ],
+          "id": "spelling-confusables/B08-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “advice / advise” correctly?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "confusable usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The officer gave sound advice. The officer gave several useful pieces of advice. The officer will advise the applicant.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Advice is the uncountable noun. II: Use useful advice or several useful pieces of advice; advices is not this ordinary guidance sense. III: Advise is the verb after will."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Advice is the uncountable noun. II: Use useful advice or several useful pieces of advice; advices is not this ordinary guidance sense. III: Advise is the verb after will."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Advice is the uncountable noun. II: Use useful advice or several useful pieces of advice; advices is not this ordinary guidance sense. III: Advise is the verb after will."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Advice is the uncountable noun. II: Use useful advice or several useful pieces of advice; advices is not this ordinary guidance sense. III: Advise is the verb after will."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The officer gave sound advice.",
+              "valid": true,
+              "reason": "Advice is the uncountable noun."
+            },
+            {
+              "label": "II",
+              "text": "The officer gave several useful advices.",
+              "valid": false,
+              "reason": "Use useful advice or several useful pieces of advice; advices is not this ordinary guidance sense."
+            },
+            {
+              "label": "III",
+              "text": "The officer will advise the applicant.",
+              "valid": true,
+              "reason": "Advise is the verb after will."
+            }
+          ],
+          "id": "spelling-confusables/B08-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “accept / except” INCORRECTLY?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "III only",
+          "skill": "confusable usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The bank will accept verified copies. All documents except the receipt were available. All documents except the receipt were available.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Accept is the verb meaning receive. II: Except excludes the receipt. III: The intended exception is expressed by except."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Accept is the verb meaning receive. II: Except excludes the receipt. III: The intended exception is expressed by except."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Accept is the verb meaning receive. II: Except excludes the receipt. III: The intended exception is expressed by except."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Accept is the verb meaning receive. II: Except excludes the receipt. III: The intended exception is expressed by except."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank will accept verified copies.",
+              "valid": true,
+              "reason": "Accept is the verb meaning receive."
+            },
+            {
+              "label": "II",
+              "text": "All documents except the receipt were available.",
+              "valid": true,
+              "reason": "Except excludes the receipt."
+            },
+            {
+              "label": "III",
+              "text": "All documents accept the receipt were available.",
+              "valid": false,
+              "reason": "The intended exception is expressed by except."
+            }
+          ],
+          "id": "spelling-confusables/B08-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “precede / proceed” correctly?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "II and III only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "confusable usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "Verification must precede disbursement. Verification must precede disbursement. After verification, the bank may proceed with disbursement.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: To say come before, use precede, not proceed. II: Precede takes the event it comes before as its object. III: Proceed with means continue or begin the action."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: To say come before, use precede, not proceed. II: Precede takes the event it comes before as its object. III: Proceed with means continue or begin the action."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: To say come before, use precede, not proceed. II: Precede takes the event it comes before as its object. III: Proceed with means continue or begin the action."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: To say come before, use precede, not proceed. II: Precede takes the event it comes before as its object. III: Proceed with means continue or begin the action."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Verification must proceed disbursement.",
+              "valid": false,
+              "reason": "To say come before, use precede, not proceed."
+            },
+            {
+              "label": "II",
+              "text": "Verification must precede disbursement.",
+              "valid": true,
+              "reason": "Precede takes the event it comes before as its object."
+            },
+            {
+              "label": "III",
+              "text": "After verification, the bank may proceed with disbursement.",
+              "valid": true,
+              "reason": "Proceed with means continue or begin the action."
+            }
+          ],
+          "id": "spelling-confusables/B08-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Which statements use “stationary / stationery” INCORRECTLY?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "III only",
+            "II only"
+          ],
+          "answer": "II only",
+          "skill": "confusable usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The service van remained stationary during the inspection. The branch ordered stationery for writing letters. The branch ordered stationery for the new office.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Stationary means not moving. II: Writing supplies are stationery, not stationary. III: Stationery means writing materials."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Stationary means not moving. II: Writing supplies are stationery, not stationary. III: Stationery means writing materials."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Stationary means not moving. II: Writing supplies are stationery, not stationary. III: Stationery means writing materials."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Stationary means not moving. II: Writing supplies are stationery, not stationary. III: Stationery means writing materials."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The service van remained stationary during the inspection.",
+              "valid": true,
+              "reason": "Stationary means not moving."
+            },
+            {
+              "label": "II",
+              "text": "The branch ordered stationary for writing letters.",
+              "valid": false,
+              "reason": "Writing supplies are stationery, not stationary."
+            },
+            {
+              "label": "III",
+              "text": "The branch ordered stationery for the new office.",
+              "valid": true,
+              "reason": "Stationery means writing materials."
+            }
+          ],
+          "id": "spelling-confusables/B08-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-T01",
+      "title": "Real words: spelling plus intended sense",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence whose bracketed word is correct in the stated context.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "I and II only",
+            "None",
+            "I only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "confusable usage: correct spelling plus correct sense",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "correct"
+          ],
+          "explanation": {
+            "relationship": "confusable usage: correct spelling plus correct sense",
+            "clue": "Both effect and affect are real verbs. Determine whether the action causes something to exist or changes something already there.",
+            "rule": "Do not mechanically reserve effect for nouns. The object and the supplied meaning decide the verb.",
+            "model": "The outage affected access, while the patch effected an improvement."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The outage [effected] customers’ access, meaning that it disrupted access that had already existed.",
+            "whyNot": "For influencing or disrupting existing access, affected is required. Effected would mean brought access about.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The failure [affected] several accounts, but the subsequent patch [effected] a lasting improvement.",
+              "valid": true,
+              "reason": "Affected means influenced; effected means brought about. Both past-tense verbs match their objects."
+            },
+            {
+              "label": "II",
+              "text": "The board hoped to [effect] a settlement, although it could not yet predict how the settlement would [affect] borrowers.",
+              "valid": true,
+              "reason": "Effect a settlement is bring one about; affect borrowers is influence them."
+            },
+            {
+              "label": "III",
+              "text": "The outage [effected] customers’ access, meaning that it disrupted access that had already existed.",
+              "valid": false,
+              "reason": "For influencing or disrupting existing access, affected is required. Effected would mean brought access about."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T01-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence using principal or principle correctly.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "II and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "confusable usage: correct spelling plus correct sense",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "confusable usage: correct spelling plus correct sense",
+            "clue": "A financial amount and the adjective chief share principal; a guiding rule is principle.",
+            "rule": "A word can be correctly spelled yet wrong for its intended sense.",
+            "model": "The principal objection concerned the repayment principle and the outstanding principal."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The officer explained the [principle] and interest outstanding, using principle to mean the original loan amount.",
+            "whyNot": "The financial sum is principal. Principle means a rule, standard or belief.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The officer explained the [principle] and interest outstanding, using principle to mean the original loan amount.",
+              "valid": false,
+              "reason": "The financial sum is principal. Principle means a rule, standard or belief."
+            },
+            {
+              "label": "II",
+              "text": "The [principal] objection concerned how much [principal] the borrower still owed.",
+              "valid": true,
+              "reason": "Principal can mean chief as an adjective and the original capital sum as a noun."
+            },
+            {
+              "label": "III",
+              "text": "The policy’s guiding [principle] was that no fee should be charged for the bank’s own error.",
+              "valid": true,
+              "reason": "Principle names a guiding rule or standard."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T01-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence that distinguishes confidentiality from separateness correctly.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "I and III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "confusable usage: correct spelling plus correct sense",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "discreet"
+          ],
+          "explanation": {
+            "relationship": "confusable usage: correct spelling plus correct sense",
+            "clue": "Both forms may occur in the same sentence with different roles. The explicit gloss rules out the wrong sense.",
+            "rule": "Associate discreet with conduct and disclosure, discrete with separate units.",
+            "model": "The discreet officer handled the discrete claims discreetly."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The claims were [discreet], meaning that they were statistically separate observations.",
+            "whyNot": "Separate observations are discrete; discreet describes tact or restraint in disclosure.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The review treated the incidents as [discrete] events but handled the witnesses [discreetly].",
+              "valid": true,
+              "reason": "Separate incidents are discrete; tactful handling is done discreetly."
+            },
+            {
+              "label": "II",
+              "text": "The claims were [discreet], meaning that they were statistically separate observations.",
+              "valid": false,
+              "reason": "Separate observations are discrete; discreet describes tact or restraint in disclosure."
+            },
+            {
+              "label": "III",
+              "text": "The officer was [discreet] when discussing the two [discrete] complaints.",
+              "valid": true,
+              "reason": "Discreet means tactful or careful about disclosure; discrete means separate and distinct."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T01-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence with a correct use of allude, elude or evade.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "confusable usage: correct spelling plus correct sense",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "correct",
+            "evade"
+          ],
+          "explanation": {
+            "relationship": "confusable usage: correct spelling plus correct sense",
+            "clue": "Indirect reference, failure to discover, and deliberate avoidance are different actions.",
+            "rule": "Check both the meaning and the verb’s complement; a nearby spelling is not sufficient.",
+            "model": "The notice alluded to the breach, but its source continued to elude the reviewers."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The officer [alluded] the question by refusing to answer it.",
+            "whyNot": "Avoiding the question is evaded the question; allude requires an indirect-reference meaning and ordinarily allude to.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The notice [alluded] to the earlier breach without describing it directly.",
+              "valid": true,
+              "reason": "Allude to means refer indirectly and correctly takes to here."
+            },
+            {
+              "label": "II",
+              "text": "The source of the mismatch continued to [elude] the reviewers despite repeated checks.",
+              "valid": true,
+              "reason": "Elude takes a direct object and can mean remain beyond someone’s understanding or discovery."
+            },
+            {
+              "label": "III",
+              "text": "The officer [alluded] the question by refusing to answer it.",
+              "valid": false,
+              "reason": "Avoiding the question is evaded the question; allude requires an indirect-reference meaning and ordinarily allude to."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T01-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence using precede or proceed correctly.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "II and III only"
+          ],
+          "answer": "II and III only",
+          "skill": "confusable usage: correct spelling plus correct sense",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "confusable usage: correct spelling plus correct sense",
+            "clue": "One verb sets an order between events; the other permits continuing an action.",
+            "rule": "Test the complement too: precede something, but proceed with something.",
+            "model": "Verification must precede activation; the officer may then proceed with it."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The officer will [precede] with activation after the identity check.",
+            "whyNot": "Precede does not mean go ahead with; proceed with is required.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The officer will [precede] with activation after the identity check.",
+              "valid": false,
+              "reason": "Precede does not mean go ahead with; proceed with is required."
+            },
+            {
+              "label": "II",
+              "text": "Identity verification must [precede] activation of the account.",
+              "valid": true,
+              "reason": "Precede means come before and takes the activation as its direct object."
+            },
+            {
+              "label": "III",
+              "text": "Once verification is complete, the officer may [proceed] with activation.",
+              "valid": true,
+              "reason": "Proceed with means continue or go ahead with the action."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-T02",
+      "title": "Paired corrections: both must be right",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Replace BOTH bracketed words, in their displayed order.\n\nThe advisory body was a [counsel], while the solicitor provided legal [council].",
+          "instructions": "Choose the pair that restores both specified meanings. A repair of only one bracket is insufficient.",
+          "options": [
+            "council / counsel",
+            "counsel / council",
+            "council / council",
+            "counsel / counsel",
+            "consul / counsel"
+          ],
+          "answer": "council / counsel",
+          "skill": "paired confusables: repair both senses",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "paired confusables: repair both senses",
+            "clue": "The first referent is a group of people; the second is advice, not another group.",
+            "rule": "Distinguish council as a body, counsel as advice, and consul as an official.",
+            "model": "The advisory body was a council, while the solicitor provided legal counsel.",
+            "rejects": [
+              {
+                "option": "counsel / council",
+                "reason": "This retains the original reversal: council is the body and counsel is advice."
+              },
+              {
+                "option": "council / council",
+                "reason": "The body is corrected, but legal advice is counsel, not council."
+              },
+              {
+                "option": "counsel / counsel",
+                "reason": "The advice is corrected, but the advisory body is a council."
+              },
+              {
+                "option": "consul / counsel",
+                "reason": "A consul is a consular official, not the advisory body in this context."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "counsel / council",
+            "whyNot": "This retains the original reversal: council is the body and counsel is advice.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "spelling-confusables/MH-T02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Replace BOTH bracketed words, in their displayed order.\n\nThe vehicle remained [stationery] while the officer collected the office [stationary]. Intended meanings: not moving, then office writing materials.",
+          "instructions": "Choose the pair that restores both specified meanings. A repair of only one bracket is insufficient.",
+          "options": [
+            "stationary / stationary",
+            "stationary / stationery",
+            "stationery / stationery",
+            "stationery / stationary",
+            "stationed / stationery"
+          ],
+          "answer": "stationary / stationery",
+          "skill": "paired confusables: repair both senses",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "paired confusables: repair both senses",
+            "clue": "The first bracket describes absence of motion; the second names office writing supplies.",
+            "rule": "Read both roles. A pair with one correct repair still fails the joint task.",
+            "model": "The vehicle remained stationary while the officer collected the office stationery.",
+            "rejects": [
+              {
+                "option": "stationary / stationary",
+                "reason": "The motionless vehicle is corrected, but writing materials are stationery."
+              },
+              {
+                "option": "stationery / stationery",
+                "reason": "Writing materials fit the second gap; the vehicle needs stationary, meaning not moving."
+              },
+              {
+                "option": "stationery / stationary",
+                "reason": "Both original confusables remain in the wrong places."
+              },
+              {
+                "option": "stationed / stationery",
+                "reason": "The frame remained stationed could describe an assigned position, but the requested contrast is specifically motionless versus writing materials; stationary directly supplies that sense."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "stationary / stationary",
+            "whyNot": "The motionless vehicle is corrected, but writing materials are stationery.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "spelling-confusables/MH-T02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Replace BOTH bracketed words, in their displayed order.\n\nAuditors needed to [access] the reliability of the records before they could [assess] the archive itself. Intended meanings: evaluate reliability, then gain entry to the archive.",
+          "instructions": "Choose the pair that restores both specified meanings. A repair of only one bracket is insufficient.",
+          "options": [
+            "access / assess",
+            "assess / assess",
+            "assess / access",
+            "access / access",
+            "accede / access"
+          ],
+          "answer": "assess / access",
+          "skill": "paired confusables: repair both senses",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "paired confusables: repair both senses",
+            "clue": "The explicit intended meanings govern the two brackets; both words are otherwise valid English.",
+            "rule": "A correction must restore the specified sense at both positions.",
+            "model": "Auditors needed to assess the reliability of the records before they could access the archive itself.",
+            "rejects": [
+              {
+                "option": "access / assess",
+                "reason": "This retains the original reversal between evaluation and entry."
+              },
+              {
+                "option": "assess / assess",
+                "reason": "Reliability is evaluated correctly, but gaining entry to the archive is access."
+              },
+              {
+                "option": "access / access",
+                "reason": "The archive is entered correctly, but reliability is assessed, not accessed."
+              },
+              {
+                "option": "accede / access",
+                "reason": "Accede means agree or assume an office; it does not mean evaluate reliability."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "access / assess",
+            "whyNot": "This retains the original reversal between evaluation and entry.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "spelling-confusables/MH-T02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Replace BOTH bracketed words, in their displayed order.\n\nThe officer’s [assurance] policy covered fire damage, while her personal [insurance] was merely a promise that the review would be fair.",
+          "instructions": "Choose the pair that restores both specified meanings. A repair of only one bracket is insufficient.",
+          "options": [
+            "insurance / insurance",
+            "assurance / assurance",
+            "assurance / insurance",
+            "insurance / assurance",
+            "reassurance / insurance"
+          ],
+          "answer": "insurance / assurance",
+          "skill": "paired confusables: repair both senses",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "fair",
+            "review"
+          ],
+          "explanation": {
+            "relationship": "paired confusables: repair both senses",
+            "clue": "The context fixes general fire cover and a verbal promise. It does not ask about regional terminology for life assurance.",
+            "rule": "Use the specified product and speech act rather than inventing a universal insurance/assurance rule.",
+            "model": "The officer’s insurance policy covered fire damage, while her personal assurance was merely a promise that the review would be fair.",
+            "rejects": [
+              {
+                "option": "insurance / insurance",
+                "reason": "Fire cover fits insurance, but a personal promise here is an assurance."
+              },
+              {
+                "option": "assurance / assurance",
+                "reason": "The promise fits assurance, but the policy is expressly general fire insurance, not life assurance."
+              },
+              {
+                "option": "assurance / insurance",
+                "reason": "Both original words retain the wrong specified senses."
+              },
+              {
+                "option": "reassurance / insurance",
+                "reason": "Reassurance can reduce anxiety but does not name the fire policy; insurance is still wrong for the personal promise."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "insurance / insurance",
+            "whyNot": "Fire cover fits insurance, but a personal promise here is an assurance.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "spelling-confusables/MH-T02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Replace BOTH bracketed words, in their displayed order.\n\nThe audit measured legal [complaisance], not the manager’s [compliance] towards influential clients. Intended meanings: adherence to rules, then eagerness to please.",
+          "instructions": "Choose the pair that restores both specified meanings. A repair of only one bracket is insufficient.",
+          "options": [
+            "compliance / compliance",
+            "complaisance / complaisance",
+            "complaisance / compliance",
+            "complacency / complaisance",
+            "compliance / complaisance"
+          ],
+          "answer": "compliance / complaisance",
+          "skill": "paired confusables: repair both senses",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "compliance",
+            "complaisance"
+          ],
+          "explanation": {
+            "relationship": "paired confusables: repair both senses",
+            "clue": "Rule-following, obliging behaviour and complacent self-satisfaction are three distinct meanings.",
+            "rule": "Correct spelling alone cannot choose among real words with similar forms.",
+            "model": "The audit measured legal compliance, not the manager’s complaisance towards influential clients.",
+            "rejects": [
+              {
+                "option": "compliance / compliance",
+                "reason": "Rule-following fits the first bracket, but eagerness to please is complaisance."
+              },
+              {
+                "option": "complaisance / complaisance",
+                "reason": "The second sense fits, but legal adherence is compliance."
+              },
+              {
+                "option": "complaisance / compliance",
+                "reason": "The original reversal remains: pleasing people is not the same as obeying rules."
+              },
+              {
+                "option": "complacency / complaisance",
+                "reason": "Complacency means self-satisfied lack of concern, not adherence to legal requirements."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "compliance / compliance",
+            "whyNot": "Rule-following fits the first bracket, but eagerness to please is complaisance.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "spelling-confusables/MH-T02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-T03",
+      "title": "Spelling clusters with contextual controls",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence in which BOTH bracketed words are correctly spelled and correctly used.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "II and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "spelling with contextual controls: both words must pass",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "spelling with contextual controls: both words must pass",
+            "clue": "A candidate qualifies only when both forms and both uses pass. One familiar correct word cannot validate its partner.",
+            "rule": "Check the entire pair. Conventional spellings used here do not turn on British versus American variants.",
+            "model": "Accommodation must be separate; an occurrence may require maintenance, and commitment belongs in correspondence."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The bank’s [commitment] was recorded in its formal [correspondance].",
+            "whyNot": "Commitment is correct, but correspondence ends in -ence, not -ance.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank’s [commitment] was recorded in its formal [correspondance].",
+              "valid": false,
+              "reason": "Commitment is correct, but correspondence ends in -ence, not -ance."
+            },
+            {
+              "label": "II",
+              "text": "The [accommodation] for visiting auditors was [separate] from the records office.",
+              "valid": true,
+              "reason": "Accommodation has double c and double m; separate retains a after par. Both senses fit."
+            },
+            {
+              "label": "III",
+              "text": "The report described the discrepancy as a regular [occurrence] requiring careful [maintenance].",
+              "valid": true,
+              "reason": "Occurrence has double c and double r, and maintenance has ten rather than tain after main. The nouns fit the context."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T03-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence in which BOTH bracketed words are correctly spelled and correctly used.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "spelling with contextual controls: both words must pass",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "spelling with contextual controls: both words must pass",
+            "clue": "Conscience, conscientious and conscious are different forms and senses; careful duty is conscientious.",
+            "rule": "A long word should be checked by its stable stem and suffix, not its appearance alone.",
+            "model": "A conscientious reviewer followed her conscience and disclosed the embarrassing finding."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The board made a [unanimous] decision after a [concientious] discussion.",
+            "whyNot": "Unanimous is correct; conscientious needs the full -scient- sequence.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The reviewer’s [conscience] prevented her from suppressing an [embarrassing] finding.",
+              "valid": true,
+              "reason": "Conscience is the moral sense; embarrassing has double r and double s. Both words fit."
+            },
+            {
+              "label": "II",
+              "text": "The board made a [unanimous] decision after a [concientious] discussion.",
+              "valid": false,
+              "reason": "Unanimous is correct; conscientious needs the full -scient- sequence."
+            },
+            {
+              "label": "III",
+              "text": "The proposal was [feasible] but required a [conscientious] review of the risks.",
+              "valid": true,
+              "reason": "Feasible means capable of being done; conscientious describes careful attention to duty. Both spellings are conventional."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T03-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence in which BOTH bracketed words are correctly spelled and correctly used.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "spelling with contextual controls: both words must pass",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "spelling with contextual controls: both words must pass",
+            "clue": "One candidate contains an accepted regional variant alongside a genuine missing-letter error. Do not reject acknowledgement.",
+            "rule": "Penalise an actual misspelling, not a valid British or American variant.",
+            "model": "The liaison officer was conscious of the privilege of accessing confidential records."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The [liason] officer requested an [acknowledgement] of receipt.",
+            "whyNot": "Liaison is misspelled as liason. Acknowledgement is an accepted British spelling and is not the error.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The [liaison] officer arranged a [privilege] review before granting special access.",
+              "valid": true,
+              "reason": "Liaison is l-i-a-i-s-o-n, and privilege has no d. Both nouns fit the access context."
+            },
+            {
+              "label": "II",
+              "text": "The officer was [conscious] of the need to protect [confidential] records.",
+              "valid": true,
+              "reason": "Conscious means aware, not conscientious; confidential means private or restricted. Both spellings fit."
+            },
+            {
+              "label": "III",
+              "text": "The [liason] officer requested an [acknowledgement] of receipt.",
+              "valid": false,
+              "reason": "Liaison is misspelled as liason. Acknowledgement is an accepted British spelling and is not the error."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T03-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence in which BOTH bracketed words are correctly spelled and correctly used.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "II and III only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "spelling with contextual controls: both words must pass",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "precedence"
+          ],
+          "explanation": {
+            "relationship": "spelling with contextual controls: both words must pass",
+            "clue": "Precedent is a guiding earlier case, precedence is priority, and statutory derives from statute.",
+            "rule": "Check sense as well as spelling; do not treat similarly formed legal terms as interchangeable.",
+            "model": "A precedent can guide subsequent cases, while verification may take precedence under a statutory duty."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The annex listed [statutary] duties and the consequences of [noncompliance].",
+            "whyNot": "Statutory, relating to a statute, is required. Noncompliance is a conventional closed form.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The annex listed [statutary] duties and the consequences of [noncompliance].",
+              "valid": false,
+              "reason": "Statutory, relating to a statute, is required. Noncompliance is a conventional closed form."
+            },
+            {
+              "label": "II",
+              "text": "The [precedent] established by that ruling would guide [subsequent] appeals.",
+              "valid": true,
+              "reason": "Precedent is an earlier case used as a guide; subsequent means later. Both spellings and senses fit."
+            },
+            {
+              "label": "III",
+              "text": "Verification took [precedence] over speed because the consequences of error were [irreversible].",
+              "valid": true,
+              "reason": "Precedence is priority, distinct from precedent; irreversible has double r and means not capable of being undone."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T03-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence in which BOTH bracketed words are correctly spelled and correctly used.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and III only",
+          "skill": "spelling with contextual controls: both words must pass",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "English_Mains_Plan.md: spelling and commonly confused words, maintenance category",
+              "Original author-reviewed spelling and word-choice drills; no claim of an unchanged PYQ"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "corroboration",
+            "justified",
+            "repair"
+          ],
+          "explanation": {
+            "relationship": "spelling with contextual controls: both words must pass",
+            "clue": "Supersede, corroboration and necessary have different spelling patterns; evaluate both words in each candidate.",
+            "rule": "An option is valid only when neither bracket contains a spelling or contextual error.",
+            "model": "The board would supersede the earlier procedure after receiving corroboration that the necessary repair justified the expenditure."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The [expenditure] needed for a [neccessary] repair was approved.",
+            "whyNot": "Expenditure is correct, but necessary has one c and double s.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The board would [supersede] the earlier notice only after receiving [corroboration] of the new figures.",
+              "valid": true,
+              "reason": "Supersede means replace or displace; corroboration is supporting evidence. Both forms are correct."
+            },
+            {
+              "label": "II",
+              "text": "The [expenditure] needed for a [neccessary] repair was approved.",
+              "valid": false,
+              "reason": "Expenditure is correct, but necessary has one c and double s."
+            },
+            {
+              "label": "III",
+              "text": "The new circular would [supersede] the earlier [procedure].",
+              "valid": true,
+              "reason": "Supersede is conventionally spelled with -sede and means replace; procedure is the conventional spelling for an established method."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "spelling-confusables/MH-T03-Q5"
+        }
+      ]
+    }
+  ]
+}

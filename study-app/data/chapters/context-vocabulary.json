@@ -1,0 +1,3297 @@
+{
+  "id": "context-vocabulary",
+  "title": "Synonyms & antonyms",
+  "description": "55 original questions: the earlier 40 plus 15 Moderate–Hard items. Select Moderate–Hard for close alternatives and complete meaning checks. This is a reviewed training target, not an independently calibrated exam rating.",
+  "source": {
+    "kind": "original-format-practice",
+    "formatReferences": [
+      "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+      "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+    ]
+  },
+  "vocabularyCandidates": [
+    {
+      "term": "carry out",
+      "meaning": "perform or complete a task or instruction",
+      "collocations": [
+        "carry out an audit / carry the checks out"
+      ],
+      "forms": [
+        "carried out",
+        "carrying out"
+      ],
+      "important": true,
+      "readingExample": "The independent team will carry out the audit before the funds are released."
+    },
+    {
+      "term": "credulous",
+      "meaning": "too ready to believe claims without sufficient checking",
+      "collocations": [
+        "credulous customers / a credulous listener"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "Credulous customers accepted the unverified message without checking who had sent it."
+    },
+    {
+      "term": "caveat",
+      "meaning": "a warning or qualification that limits a statement or agreement",
+      "collocations": [
+        "a caveat about assumptions / add a caveat"
+      ],
+      "forms": [
+        "caveats"
+      ],
+      "important": true,
+      "readingExample": "The forecast included a caveat that its figures depended on stable borrowing costs."
+    },
+    {
+      "term": "tenable",
+      "meaning": "capable of being defended or maintained on reasonable grounds",
+      "collocations": [
+        "a tenable explanation / no longer tenable"
+      ],
+      "forms": [
+        "untenable"
+      ],
+      "important": true,
+      "readingExample": "The explanation was no longer tenable once the original receipts established that payment had occurred."
+    },
+    {
+      "term": "disinterested",
+      "meaning": "impartial because of having no personal stake in the outcome",
+      "collocations": [
+        "a disinterested reviewer / disinterested advice"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "A disinterested reviewer examined the appeal carefully without having a financial stake in its outcome."
+    },
+    {
+      "term": "equivocal",
+      "meaning": "ambiguous or open to more than one interpretation",
+      "collocations": [
+        "an equivocal statement / equivocal wording"
+      ],
+      "forms": [
+        "equivocally"
+      ],
+      "important": true,
+      "readingExample": "The equivocal wording allowed two conflicting interpretations of the deadline."
+    },
+    {
+      "term": "material",
+      "meaning": "significant or relevant enough to affect a judgement or decision",
+      "collocations": [
+        "a material discrepancy / material evidence"
+      ],
+      "forms": [
+        "materially"
+      ],
+      "important": true,
+      "readingExample": "The auditor reported every material discrepancy that could change the lending decision."
+    }
+  ],
+  "packs": [
+    {
+      "id": "V01",
+      "title": "Meaning and direction",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The safeguards should [mitigate] the loss rather than eliminate every risk.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "lessen",
+            "worsen",
+            "conceal",
+            "postpone",
+            "remove"
+          ],
+          "answer": "lessen",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "lessen",
+            "mitigate"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Mitigate means reduce severity. Remove overstates the degree: the sentence explicitly retains some risk.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The safeguards should lessen the loss rather than eliminate every risk.",
+            "rejects": [
+              {
+                "option": "worsen",
+                "reason": "“worsen” means make more severe. It does not preserve the required contextual meaning. Mitigate means reduce severity. Remove overstates the degree: the sentence explicitly retains some risk."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. Mitigate means reduce severity. Remove overstates the degree: the sentence explicitly retains some risk."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. Mitigate means reduce severity. Remove overstates the degree: the sentence explicitly retains some risk."
+              },
+              {
+                "option": "remove",
+                "reason": "“remove” means take away or eliminate. It does not preserve the required contextual meaning. Mitigate means reduce severity. Remove overstates the degree: the sentence explicitly retains some risk."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "mitigate",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Contradictory notices may [exacerbate] the confusion.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "remove",
+            "worsen",
+            "conceal",
+            "confirm",
+            "postpone"
+          ],
+          "answer": "worsen",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "exacerbate"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The notices intensify an existing problem; they do not remove or merely defer it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Contradictory notices may worsen the confusion.",
+            "rejects": [
+              {
+                "option": "remove",
+                "reason": "“remove” means take away or eliminate. It does not preserve the required contextual meaning. The notices intensify an existing problem; they do not remove or merely defer it."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. The notices intensify an existing problem; they do not remove or merely defer it."
+              },
+              {
+                "option": "confirm",
+                "reason": "“confirm” means support or establish as correct. It does not preserve the required contextual meaning. The notices intensify an existing problem; they do not remove or merely defer it."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. The notices intensify an existing problem; they do not remove or merely defer it."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "exacerbate",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V01-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The verified statement should [bolster] public confidence.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "weaken",
+            "postpone",
+            "strengthen",
+            "conceal",
+            "confuse"
+          ],
+          "answer": "strengthen",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "bolster",
+            "public",
+            "strengthen"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Bolster supports confidence; weaken reverses the positive effect.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The verified statement should strengthen public confidence.",
+            "rejects": [
+              {
+                "option": "weaken",
+                "reason": "“weaken” means make less strong. It does not preserve the required contextual meaning. Bolster supports confidence; weaken reverses the positive effect."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. Bolster supports confidence; weaken reverses the positive effect."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. Bolster supports confidence; weaken reverses the positive effect."
+              },
+              {
+                "option": "confuse",
+                "reason": "“confuse” means make less clear. It does not preserve the required contextual meaning. Bolster supports confidence; weaken reverses the positive effect."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "bolster",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Repeated unexplained charges can [erode] trust.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "strengthen",
+            "spread",
+            "confirm",
+            "weaken",
+            "hasten"
+          ],
+          "answer": "weaken",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "erode"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Erode means gradually damage or wear away; the object here is trust.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Repeated unexplained charges can weaken trust.",
+            "rejects": [
+              {
+                "option": "strengthen",
+                "reason": "“strengthen” means make stronger. It does not preserve the required contextual meaning. Erode means gradually damage or wear away; the object here is trust."
+              },
+              {
+                "option": "spread",
+                "reason": "“spread” means distribute widely. It does not preserve the required contextual meaning. Erode means gradually damage or wear away; the object here is trust."
+              },
+              {
+                "option": "confirm",
+                "reason": "“confirm” means support or establish as correct. It does not preserve the required contextual meaning. Erode means gradually damage or wear away; the object here is trust."
+              },
+              {
+                "option": "hasten",
+                "reason": "“hasten” means make happen sooner. It does not preserve the required contextual meaning. Erode means gradually damage or wear away; the object here is trust."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "erode",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Keeping a cash buffer was a [prudent] decision.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "reckless",
+            "extravagant",
+            "unclear",
+            "superficial",
+            "cautious"
+          ],
+          "answer": "cautious",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "cautious",
+            "prudent"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The decision takes future risk into account; prudent means sensibly careful.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Keeping a cash buffer was a cautious decision.",
+            "rejects": [
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not preserve the required contextual meaning. The decision takes future risk into account; prudent means sensibly careful."
+              },
+              {
+                "option": "extravagant",
+                "reason": "“extravagant” means spending or using more than needed. It does not preserve the required contextual meaning. The decision takes future risk into account; prudent means sensibly careful."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. The decision takes future risk into account; prudent means sensibly careful."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. The decision takes future risk into account; prudent means sensibly careful."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "prudent",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V02",
+      "title": "Believability, practicality and clarity",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The board adopted a [pragmatic] approach using the resources already available.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "practical",
+            "impractical",
+            "reckless",
+            "unclear",
+            "extravagant"
+          ],
+          "answer": "practical",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "pragmatic"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The emphasis is on workable action with available resources, not theoretical perfection.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The board adopted a practical approach using the resources already available.",
+            "rejects": [
+              {
+                "option": "impractical",
+                "reason": "“impractical” means not workable in practice. It does not preserve the required contextual meaning. The emphasis is on workable action with available resources, not theoretical perfection."
+              },
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not preserve the required contextual meaning. The emphasis is on workable action with available resources, not theoretical perfection."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. The emphasis is on workable action with available resources, not theoretical perfection."
+              },
+              {
+                "option": "extravagant",
+                "reason": "“extravagant” means spending or using more than needed. It does not preserve the required contextual meaning. The emphasis is on workable action with available resources, not theoretical perfection."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "pragmatic",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Engineers confirmed that the revised design was [feasible].",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "believable",
+            "practicable",
+            "decisive",
+            "fair",
+            "superficial"
+          ],
+          "answer": "practicable",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "feasible",
+            "practicable",
+            "carry out"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "An engineering judgement concerns whether it can be carried out, not merely whether a claim sounds believable.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Engineers confirmed that the revised design was practicable.",
+            "rejects": [
+              {
+                "option": "believable",
+                "reason": "“believable” means apparently worthy of belief. It does not preserve the required contextual meaning. An engineering judgement concerns whether it can be carried out, not merely whether a claim sounds believable."
+              },
+              {
+                "option": "decisive",
+                "reason": "“decisive” means settling an issue. It does not preserve the required contextual meaning. An engineering judgement concerns whether it can be carried out, not merely whether a claim sounds believable."
+              },
+              {
+                "option": "fair",
+                "reason": "“fair” means just or impartial. It does not preserve the required contextual meaning. An engineering judgement concerns whether it can be carried out, not merely whether a claim sounds believable."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. An engineering judgement concerns whether it can be carried out, not merely whether a claim sounds believable."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "feasible",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The explanation was [plausible], although independent evidence was still missing.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "practicable",
+            "decisive",
+            "believable",
+            "fair",
+            "superficial"
+          ],
+          "answer": "believable",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "plausible",
+            "carry out"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Plausible means believable at first consideration, not proved or practically executable.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The explanation was believable, although independent evidence was still missing.",
+            "rejects": [
+              {
+                "option": "practicable",
+                "reason": "“practicable” means capable of being carried out. It does not preserve the required contextual meaning. Plausible means believable at first consideration, not proved or practically executable."
+              },
+              {
+                "option": "decisive",
+                "reason": "“decisive” means settling an issue. It does not preserve the required contextual meaning. Plausible means believable at first consideration, not proved or practically executable."
+              },
+              {
+                "option": "fair",
+                "reason": "“fair” means just or impartial. It does not preserve the required contextual meaning. Plausible means believable at first consideration, not proved or practically executable."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. Plausible means believable at first consideration, not proved or practically executable."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "plausible",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The panel accepted the argument because it was [cogent] and answered the objections.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "unclear",
+            "superficial",
+            "reckless",
+            "convincing",
+            "clear"
+          ],
+          "answer": "convincing",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "cogent"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Cogent concerns persuasive reasoning. Clear alone describes understandability without guaranteeing a convincing argument.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The panel accepted the argument because it was convincing and answered the objections.",
+            "rejects": [
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. Cogent concerns persuasive reasoning. Clear alone describes understandability without guaranteeing a convincing argument."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. Cogent concerns persuasive reasoning. Clear alone describes understandability without guaranteeing a convincing argument."
+              },
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not preserve the required contextual meaning. Cogent concerns persuasive reasoning. Clear alone describes understandability without guaranteeing a convincing argument."
+              },
+              {
+                "option": "clear",
+                "reason": "“clear” means easy to understand. It does not preserve the required contextual meaning. Cogent concerns persuasive reasoning. Clear alone describes understandability without guaranteeing a convincing argument."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "cogent",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The officer gave a [lucid] explanation that first-time applicants could follow.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "convincing",
+            "unclear",
+            "extravagant",
+            "provisional",
+            "clear"
+          ],
+          "answer": "clear",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "clear",
+            "lucid"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Could follow establishes clarity; persuasiveness is a separate property.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The officer gave a clear explanation that first-time applicants could follow.",
+            "rejects": [
+              {
+                "option": "convincing",
+                "reason": "“convincing” means persuasive. It does not preserve the required contextual meaning. Could follow establishes clarity; persuasiveness is a separate property."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. Could follow establishes clarity; persuasiveness is a separate property."
+              },
+              {
+                "option": "extravagant",
+                "reason": "“extravagant” means spending or using more than needed. It does not preserve the required contextual meaning. Could follow establishes clarity; persuasiveness is a separate property."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not preserve the required contextual meaning. Could follow establishes clarity; persuasiveness is a separate property."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "lucid",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V03",
+      "title": "Care, coverage and certainty",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The [ambiguous] clause allowed two different interpretations.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "unclear",
+            "explicit",
+            "decisive",
+            "permanent",
+            "fair"
+          ],
+          "answer": "unclear",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "ambiguous"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Two interpretations point to uncertainty of meaning, not direct precision.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The unclear clause allowed two different interpretations.",
+            "rejects": [
+              {
+                "option": "explicit",
+                "reason": "“explicit” means clearly and directly stated. It does not preserve the required contextual meaning. Two interpretations point to uncertainty of meaning, not direct precision."
+              },
+              {
+                "option": "decisive",
+                "reason": "“decisive” means settling an issue. It does not preserve the required contextual meaning. Two interpretations point to uncertainty of meaning, not direct precision."
+              },
+              {
+                "option": "permanent",
+                "reason": "“permanent” means intended to last indefinitely. It does not preserve the required contextual meaning. Two interpretations point to uncertainty of meaning, not direct precision."
+              },
+              {
+                "option": "fair",
+                "reason": "“fair” means just or impartial. It does not preserve the required contextual meaning. Two interpretations point to uncertainty of meaning, not direct precision."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "ambiguous",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V03-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "A [meticulous] auditor checked every figure against the original receipt.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "careless",
+            "painstaking",
+            "superficial",
+            "lenient",
+            "reckless"
+          ],
+          "answer": "painstaking",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "meticulous"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Every figure checked against its original indicates great care and attention to detail.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "A painstaking auditor checked every figure against the original receipt.",
+            "rejects": [
+              {
+                "option": "careless",
+                "reason": "“careless” means not taking sufficient care. It does not preserve the required contextual meaning. Every figure checked against its original indicates great care and attention to detail."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. Every figure checked against its original indicates great care and attention to detail."
+              },
+              {
+                "option": "lenient",
+                "reason": "“lenient” means not strict. It does not preserve the required contextual meaning. Every figure checked against its original indicates great care and attention to detail."
+              },
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not preserve the required contextual meaning. Every figure checked against its original indicates great care and attention to detail."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "meticulous",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V03-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "A [cursory] inspection glanced at only the first page.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "meticulous",
+            "decisive",
+            "superficial",
+            "strict",
+            "permanent"
+          ],
+          "answer": "superficial",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "cursory"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Only a brief glance lacks depth; cursory is not a synonym for comprehensive.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "A superficial inspection glanced at only the first page.",
+            "rejects": [
+              {
+                "option": "meticulous",
+                "reason": "“meticulous” means extremely careful about details. It does not preserve the required contextual meaning. Only a brief glance lacks depth; cursory is not a synonym for comprehensive."
+              },
+              {
+                "option": "decisive",
+                "reason": "“decisive” means settling an issue. It does not preserve the required contextual meaning. Only a brief glance lacks depth; cursory is not a synonym for comprehensive."
+              },
+              {
+                "option": "strict",
+                "reason": "“strict” means demanding close observance. It does not preserve the required contextual meaning. Only a brief glance lacks depth; cursory is not a synonym for comprehensive."
+              },
+              {
+                "option": "permanent",
+                "reason": "“permanent” means intended to last indefinitely. It does not preserve the required contextual meaning. Only a brief glance lacks depth; cursory is not a synonym for comprehensive."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "cursory",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V03-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank introduced [stringent] checks that allowed no exceptions.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "lenient",
+            "provisional",
+            "unclear",
+            "strict",
+            "superficial"
+          ],
+          "answer": "strict",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "stringent"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "No exceptions signals demanding observance, not leniency.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The bank introduced strict checks that allowed no exceptions.",
+            "rejects": [
+              {
+                "option": "lenient",
+                "reason": "“lenient” means not strict. It does not preserve the required contextual meaning. No exceptions signals demanding observance, not leniency."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not preserve the required contextual meaning. No exceptions signals demanding observance, not leniency."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. No exceptions signals demanding observance, not leniency."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. No exceptions signals demanding observance, not leniency."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "stringent",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V03-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The dated record provided [conclusive] evidence that the payment had occurred.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "provisional",
+            "unclear",
+            "superficial",
+            "reckless",
+            "decisive"
+          ],
+          "answer": "decisive",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "conclusive"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Conclusive evidence settles the stated issue rather than leaving it tentative.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The dated record provided decisive evidence that the payment had occurred.",
+            "rejects": [
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not preserve the required contextual meaning. Conclusive evidence settles the stated issue rather than leaving it tentative."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. Conclusive evidence settles the stated issue rather than leaving it tentative."
+              },
+              {
+                "option": "superficial",
+                "reason": "“superficial” means lacking depth or thoroughness. It does not preserve the required contextual meaning. Conclusive evidence settles the stated issue rather than leaving it tentative."
+              },
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not preserve the required contextual meaning. Conclusive evidence settles the stated issue rather than leaving it tentative."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "conclusive",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V03-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V04",
+      "title": "Evidence, removal and timing",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The estimate remains [tentative] until the missing costs are known.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "provisional",
+            "definitive",
+            "permanent",
+            "decisive",
+            "explicit"
+          ],
+          "answer": "provisional",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "provisional",
+            "tentative"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The missing inputs leave the estimate open to revision; explicit concerns clarity, not finality.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The estimate remains provisional until the missing costs are known.",
+            "rejects": [
+              {
+                "option": "definitive",
+                "reason": "“definitive” means final or authoritative in this context. It does not preserve the required contextual meaning. The missing inputs leave the estimate open to revision; explicit concerns clarity, not finality."
+              },
+              {
+                "option": "permanent",
+                "reason": "“permanent” means intended to last indefinitely. It does not preserve the required contextual meaning. The missing inputs leave the estimate open to revision; explicit concerns clarity, not finality."
+              },
+              {
+                "option": "decisive",
+                "reason": "“decisive” means settling an issue. It does not preserve the required contextual meaning. The missing inputs leave the estimate open to revision; explicit concerns clarity, not finality."
+              },
+              {
+                "option": "explicit",
+                "reason": "“explicit” means clearly and directly stated. It does not preserve the required contextual meaning. The missing inputs leave the estimate open to revision; explicit concerns clarity, not finality."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "tentative",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V04-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The applicant must [substantiate] the claim with independent records.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "conceal",
+            "support",
+            "worsen",
+            "postpone",
+            "remove"
+          ],
+          "answer": "support",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "substantiate",
+            "support"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The records are sought as evidence for the claim, not as a means to hide or defer it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The applicant must support the claim with independent records.",
+            "rejects": [
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. The records are sought as evidence for the claim, not as a means to hide or defer it."
+              },
+              {
+                "option": "worsen",
+                "reason": "“worsen” means make more severe. It does not preserve the required contextual meaning. The records are sought as evidence for the claim, not as a means to hide or defer it."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. The records are sought as evidence for the claim, not as a means to hide or defer it."
+              },
+              {
+                "option": "remove",
+                "reason": "“remove” means take away or eliminate. It does not preserve the required contextual meaning. The records are sought as evidence for the claim, not as a means to hide or defer it."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "substantiate",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V04-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "A second independent record can [corroborate] the witness’s account.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "conceal",
+            "worsen",
+            "confirm",
+            "postpone",
+            "deny"
+          ],
+          "answer": "confirm",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "confirm",
+            "corroborate"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The second record supplies confirming support; it need not establish every detail beyond doubt.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "A second independent record can confirm the witness’s account.",
+            "rejects": [
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. The second record supplies confirming support; it need not establish every detail beyond doubt."
+              },
+              {
+                "option": "worsen",
+                "reason": "“worsen” means make more severe. It does not preserve the required contextual meaning. The second record supplies confirming support; it need not establish every detail beyond doubt."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. The second record supplies confirming support; it need not establish every detail beyond doubt."
+              },
+              {
+                "option": "deny",
+                "reason": "“deny” means assert that a claim is false. It does not preserve the required contextual meaning. The second record supplies confirming support; it need not establish every detail beyond doubt."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "corroborate",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V04-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The dated receipt can [refute] the claim that no payment was made.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "deny",
+            "support",
+            "postpone",
+            "disprove",
+            "conceal"
+          ],
+          "answer": "disprove",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "refute"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "A receipt supplies disproof. Deny only asserts falsity and need not offer evidence.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The dated receipt can disprove the claim that no payment was made.",
+            "rejects": [
+              {
+                "option": "deny",
+                "reason": "“deny” means assert that a claim is false. It does not preserve the required contextual meaning. A receipt supplies disproof. Deny only asserts falsity and need not offer evidence."
+              },
+              {
+                "option": "support",
+                "reason": "“support” means provide backing or evidence. It does not preserve the required contextual meaning. A receipt supplies disproof. Deny only asserts falsity and need not offer evidence."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. A receipt supplies disproof. Deny only asserts falsity and need not offer evidence."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. A receipt supplies disproof. Deny only asserts falsity and need not offer evidence."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "refute",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V04-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The clarification should [dispel] doubts about the deadline.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "spread",
+            "worsen",
+            "postpone",
+            "confirm",
+            "remove"
+          ],
+          "answer": "remove",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "dispel"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Dispel doubts means clear them away rather than spread or confirm them.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The clarification should remove doubts about the deadline.",
+            "rejects": [
+              {
+                "option": "spread",
+                "reason": "“spread” means distribute widely. It does not preserve the required contextual meaning. Dispel doubts means clear them away rather than spread or confirm them."
+              },
+              {
+                "option": "worsen",
+                "reason": "“worsen” means make more severe. It does not preserve the required contextual meaning. Dispel doubts means clear them away rather than spread or confirm them."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. Dispel doubts means clear them away rather than spread or confirm them."
+              },
+              {
+                "option": "confirm",
+                "reason": "“confirm” means support or establish as correct. It does not preserve the required contextual meaning. Dispel doubts means clear them away rather than spread or confirm them."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "dispel",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V04-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V05",
+      "title": "Fairness, finance and remedies",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The regulator asked the bank to [expedite] urgent refunds.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "hasten",
+            "delay",
+            "conceal",
+            "weaken",
+            "confuse"
+          ],
+          "answer": "hasten",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "expedite",
+            "hasten"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Urgent refunds are to be processed sooner, not delayed.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The regulator asked the bank to hasten urgent refunds.",
+            "rejects": [
+              {
+                "option": "delay",
+                "reason": "“delay” means make happen later. It does not preserve the required contextual meaning. Urgent refunds are to be processed sooner, not delayed."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. Urgent refunds are to be processed sooner, not delayed."
+              },
+              {
+                "option": "weaken",
+                "reason": "“weaken” means make less strong. It does not preserve the required contextual meaning. Urgent refunds are to be processed sooner, not delayed."
+              },
+              {
+                "option": "confuse",
+                "reason": "“confuse” means make less clear. It does not preserve the required contextual meaning. Urgent refunds are to be processed sooner, not delayed."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "expedite",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V05-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The committee will [defer] the vote until the audit is complete.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "hasten",
+            "postpone",
+            "confirm",
+            "spread",
+            "remove"
+          ],
+          "answer": "postpone",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "defer"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Until the audit is complete indicates delay to a later time, not cancellation.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The committee will postpone the vote until the audit is complete.",
+            "rejects": [
+              {
+                "option": "hasten",
+                "reason": "“hasten” means make happen sooner. It does not preserve the required contextual meaning. Until the audit is complete indicates delay to a later time, not cancellation."
+              },
+              {
+                "option": "confirm",
+                "reason": "“confirm” means support or establish as correct. It does not preserve the required contextual meaning. Until the audit is complete indicates delay to a later time, not cancellation."
+              },
+              {
+                "option": "spread",
+                "reason": "“spread” means distribute widely. It does not preserve the required contextual meaning. Until the audit is complete indicates delay to a later time, not cancellation."
+              },
+              {
+                "option": "remove",
+                "reason": "“remove” means take away or eliminate. It does not preserve the required contextual meaning. Until the audit is complete indicates delay to a later time, not cancellation."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "defer",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V05-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Removing discriminatory barriers should produce more [equitable] access.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "unfair",
+            "unclear",
+            "fair",
+            "provisional",
+            "reckless"
+          ],
+          "answer": "fair",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "discriminatory",
+            "equitable",
+            "fair"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "The context concerns just treatment rather than certainty or clarity.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Removing discriminatory barriers should produce more fair access.",
+            "rejects": [
+              {
+                "option": "unfair",
+                "reason": "“unfair” means not treating people justly. It does not preserve the required contextual meaning. The context concerns just treatment rather than certainty or clarity."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not preserve the required contextual meaning. The context concerns just treatment rather than certainty or clarity."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not preserve the required contextual meaning. The context concerns just treatment rather than certainty or clarity."
+              },
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not preserve the required contextual meaning. The context concerns just treatment rather than certainty or clarity."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "equitable",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V05-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The firm needs greater [liquidity] to meet payments due this week.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "solvency",
+            "collateral",
+            "profit",
+            "ready cash",
+            "secrecy"
+          ],
+          "answer": "ready cash",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "liquidity"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "This week’s payments concern immediately available funds, not total debt capacity or loan security.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The firm needs greater ready cash to meet payments due this week.",
+            "rejects": [
+              {
+                "option": "solvency",
+                "reason": "“solvency” means ability to meet total liabilities. It does not preserve the required contextual meaning. This week’s payments concern immediately available funds, not total debt capacity or loan security."
+              },
+              {
+                "option": "collateral",
+                "reason": "“collateral” means property pledged as security for a debt. It does not preserve the required contextual meaning. This week’s payments concern immediately available funds, not total debt capacity or loan security."
+              },
+              {
+                "option": "profit",
+                "reason": "“profit” means income remaining after costs. It does not preserve the required contextual meaning. This week’s payments concern immediately available funds, not total debt capacity or loan security."
+              },
+              {
+                "option": "secrecy",
+                "reason": "“secrecy” means concealment from others. It does not preserve the required contextual meaning. This week’s payments concern immediately available funds, not total debt capacity or loan security."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "liquidity",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V05-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank offered to [redress] the loss caused by the incorrect debit.",
+          "instructions": "Choose the NEAREST meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "complain",
+            "conceal",
+            "postpone",
+            "worsen",
+            "remedy"
+          ],
+          "answer": "remedy",
+          "skill": "contextual synonym",
+          "vocabulary": [
+            "redress"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "SYNONYM: preserve the contextual meaning",
+            "clue": "Redress is the corrective action or compensation, not merely complaining about a loss.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "The bank offered to remedy the loss caused by the incorrect debit.",
+            "rejects": [
+              {
+                "option": "complain",
+                "reason": "“complain” means express dissatisfaction. It does not preserve the required contextual meaning. Redress is the corrective action or compensation, not merely complaining about a loss."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not preserve the required contextual meaning. Redress is the corrective action or compensation, not merely complaining about a loss."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not preserve the required contextual meaning. Redress is the corrective action or compensation, not merely complaining about a loss."
+              },
+              {
+                "option": "worsen",
+                "reason": "“worsen” means make more severe. It does not preserve the required contextual meaning. Redress is the corrective action or compensation, not merely complaining about a loss."
+              }
+            ]
+          },
+          "lexical": {
+            "target": "redress",
+            "direction": "nearest"
+          },
+          "id": "context-vocabulary/V05-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V06",
+      "title": "Opposites: meaning, not word association",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The safeguards are designed to [mitigate] the harm.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "worsen",
+            "support",
+            "confirm",
+            "postpone",
+            "remove"
+          ],
+          "answer": "worsen",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "mitigate"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Mitigate lessens harm; its opposite increases the harm, rather than merely delays or removes it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: mitigate. Requested opposite: worsen.",
+            "rejects": [
+              {
+                "option": "support",
+                "reason": "“support” means provide backing or evidence. It does not give the requested opposite. Mitigate lessens harm; its opposite increases the harm, rather than merely delays or removes it."
+              },
+              {
+                "option": "confirm",
+                "reason": "“confirm” means support or establish as correct. It does not give the requested opposite. Mitigate lessens harm; its opposite increases the harm, rather than merely delays or removes it."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not give the requested opposite. Mitigate lessens harm; its opposite increases the harm, rather than merely delays or removes it."
+              },
+              {
+                "option": "remove",
+                "reason": "“remove” means take away or eliminate. It does not give the requested opposite. Mitigate lessens harm; its opposite increases the harm, rather than merely delays or removes it."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "mitigate",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V06-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank will [curtail] the scheme’s scope.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "weaken",
+            "expand",
+            "postpone",
+            "conceal",
+            "separate"
+          ],
+          "answer": "expand",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "curtail"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Curtail restricts scope; expand increases it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: curtail. Requested opposite: expand.",
+            "rejects": [
+              {
+                "option": "weaken",
+                "reason": "“weaken” means make less strong. It does not give the requested opposite. Curtail restricts scope; expand increases it."
+              },
+              {
+                "option": "postpone",
+                "reason": "“postpone” means delay until later. It does not give the requested opposite. Curtail restricts scope; expand increases it."
+              },
+              {
+                "option": "conceal",
+                "reason": "“conceal” means hide. It does not give the requested opposite. Curtail restricts scope; expand increases it."
+              },
+              {
+                "option": "separate",
+                "reason": "“separate” means divide or keep apart. It does not give the requested opposite. Curtail restricts scope; expand increases it."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "curtail",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V06-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The audit was [meticulous] in its treatment of every entry.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "cautious",
+            "strict",
+            "careless",
+            "practical",
+            "provisional"
+          ],
+          "answer": "careless",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "meticulous"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Meticulous stresses care; careless reverses that care, while cautious is compatible with it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: meticulous. Requested opposite: careless.",
+            "rejects": [
+              {
+                "option": "cautious",
+                "reason": "“cautious” means careful to avoid risk. It does not give the requested opposite. Meticulous stresses care; careless reverses that care, while cautious is compatible with it."
+              },
+              {
+                "option": "strict",
+                "reason": "“strict” means demanding close observance. It does not give the requested opposite. Meticulous stresses care; careless reverses that care, while cautious is compatible with it."
+              },
+              {
+                "option": "practical",
+                "reason": "“practical” means focused on workable action. It does not give the requested opposite. Meticulous stresses care; careless reverses that care, while cautious is compatible with it."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Meticulous stresses care; careless reverses that care, while cautious is compatible with it."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "meticulous",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V06-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The regulator imposed [stringent] conditions.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "strict",
+            "explicit",
+            "provisional",
+            "lenient",
+            "fair"
+          ],
+          "answer": "lenient",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "stringent"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Stringent concerns strictness; lenient is the opposite. Clarity and fairness are separate dimensions.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: stringent. Requested opposite: lenient.",
+            "rejects": [
+              {
+                "option": "strict",
+                "reason": "“strict” means demanding close observance. It does not give the requested opposite. Stringent concerns strictness; lenient is the opposite. Clarity and fairness are separate dimensions."
+              },
+              {
+                "option": "explicit",
+                "reason": "“explicit” means clearly and directly stated. It does not give the requested opposite. Stringent concerns strictness; lenient is the opposite. Clarity and fairness are separate dimensions."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Stringent concerns strictness; lenient is the opposite. Clarity and fairness are separate dimensions."
+              },
+              {
+                "option": "fair",
+                "reason": "“fair” means just or impartial. It does not give the requested opposite. Stringent concerns strictness; lenient is the opposite. Clarity and fairness are separate dimensions."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "stringent",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V06-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The dated records made the account [credible].",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "believable",
+            "credulous",
+            "explicit",
+            "provisional",
+            "unbelievable"
+          ],
+          "answer": "unbelievable",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "credible",
+            "credulous"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Credible describes something worthy of belief. Credulous describes a person too ready to believe, not an unbelievable account.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: credible. Requested opposite: unbelievable.",
+            "rejects": [
+              {
+                "option": "believable",
+                "reason": "“believable” means apparently worthy of belief. It does not give the requested opposite. Credible describes something worthy of belief. Credulous describes a person too ready to believe, not an unbelievable account."
+              },
+              {
+                "option": "credulous",
+                "reason": "“credulous” means too ready to believe claims. It does not give the requested opposite. Credible describes something worthy of belief. Credulous describes a person too ready to believe, not an unbelievable account."
+              },
+              {
+                "option": "explicit",
+                "reason": "“explicit” means clearly and directly stated. It does not give the requested opposite. Credible describes something worthy of belief. Credulous describes a person too ready to believe, not an unbelievable account."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Credible describes something worthy of belief. Credulous describes a person too ready to believe, not an unbelievable account."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "credible",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V06-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V07",
+      "title": "Opposites: degree and stability",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The notice gave [explicit] instructions.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "implicit",
+            "clear",
+            "strict",
+            "provisional",
+            "permanent"
+          ],
+          "answer": "implicit",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "explicit"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Explicit means directly stated; implicit means left suggested rather than directly expressed.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: explicit. Requested opposite: implicit.",
+            "rejects": [
+              {
+                "option": "clear",
+                "reason": "“clear” means easy to understand. It does not give the requested opposite. Explicit means directly stated; implicit means left suggested rather than directly expressed."
+              },
+              {
+                "option": "strict",
+                "reason": "“strict” means demanding close observance. It does not give the requested opposite. Explicit means directly stated; implicit means left suggested rather than directly expressed."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Explicit means directly stated; implicit means left suggested rather than directly expressed."
+              },
+              {
+                "option": "permanent",
+                "reason": "“permanent” means intended to last indefinitely. It does not give the requested opposite. Explicit means directly stated; implicit means left suggested rather than directly expressed."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "explicit",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V07-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The scheme aims for [equitable] treatment of borrowers.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "fair",
+            "unfair",
+            "explicit",
+            "stable",
+            "cautious"
+          ],
+          "answer": "unfair",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "equitable"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Equitable concerns fairness; unfair directly reverses it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: equitable. Requested opposite: unfair.",
+            "rejects": [
+              {
+                "option": "fair",
+                "reason": "“fair” means just or impartial. It does not give the requested opposite. Equitable concerns fairness; unfair directly reverses it."
+              },
+              {
+                "option": "explicit",
+                "reason": "“explicit” means clearly and directly stated. It does not give the requested opposite. Equitable concerns fairness; unfair directly reverses it."
+              },
+              {
+                "option": "stable",
+                "reason": "“stable” means not subject to marked fluctuation. It does not give the requested opposite. Equitable concerns fairness; unfair directly reverses it."
+              },
+              {
+                "option": "cautious",
+                "reason": "“cautious” means careful to avoid risk. It does not give the requested opposite. Equitable concerns fairness; unfair directly reverses it."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "equitable",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V07-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The panel’s finding is [tentative].",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "provisional",
+            "unclear",
+            "definitive",
+            "plausible",
+            "cautious"
+          ],
+          "answer": "definitive",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "tentative"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Tentative concerns provisional status; definitive supplies finality, whereas unclear concerns meaning.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: tentative. Requested opposite: definitive.",
+            "rejects": [
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Tentative concerns provisional status; definitive supplies finality, whereas unclear concerns meaning."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not give the requested opposite. Tentative concerns provisional status; definitive supplies finality, whereas unclear concerns meaning."
+              },
+              {
+                "option": "plausible",
+                "reason": "“plausible” means seemingly believable. It does not give the requested opposite. Tentative concerns provisional status; definitive supplies finality, whereas unclear concerns meaning."
+              },
+              {
+                "option": "cautious",
+                "reason": "“cautious” means careful to avoid risk. It does not give the requested opposite. Tentative concerns provisional status; definitive supplies finality, whereas unclear concerns meaning."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "tentative",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V07-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The market price remained [volatile].",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "fragile",
+            "provisional",
+            "unclear",
+            "stable",
+            "reckless"
+          ],
+          "answer": "stable",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "volatile"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Volatile means liable to marked changes; stable opposes that movement.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: volatile. Requested opposite: stable.",
+            "rejects": [
+              {
+                "option": "fragile",
+                "reason": "“fragile” means easily damaged or disrupted. It does not give the requested opposite. Volatile means liable to marked changes; stable opposes that movement."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Volatile means liable to marked changes; stable opposes that movement."
+              },
+              {
+                "option": "unclear",
+                "reason": "“unclear” means hard to understand. It does not give the requested opposite. Volatile means liable to marked changes; stable opposes that movement."
+              },
+              {
+                "option": "reckless",
+                "reason": "“reckless” means disregarding obvious risks. It does not give the requested opposite. Volatile means liable to marked changes; stable opposes that movement."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "volatile",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V07-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Retaining a reserve was a [prudent] action.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "cautious",
+            "practical",
+            "fair",
+            "provisional",
+            "reckless"
+          ],
+          "answer": "reckless",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "prudent",
+            "reckless"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Prudent gives positive judgement of risk-aware conduct; reckless disregards risk.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: prudent. Requested opposite: reckless.",
+            "rejects": [
+              {
+                "option": "cautious",
+                "reason": "“cautious” means careful to avoid risk. It does not give the requested opposite. Prudent gives positive judgement of risk-aware conduct; reckless disregards risk."
+              },
+              {
+                "option": "practical",
+                "reason": "“practical” means focused on workable action. It does not give the requested opposite. Prudent gives positive judgement of risk-aware conduct; reckless disregards risk."
+              },
+              {
+                "option": "fair",
+                "reason": "“fair” means just or impartial. It does not give the requested opposite. Prudent gives positive judgement of risk-aware conduct; reckless disregards risk."
+              },
+              {
+                "option": "provisional",
+                "reason": "“provisional” means not yet final. It does not give the requested opposite. Prudent gives positive judgement of risk-aware conduct; reckless disregards risk."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "prudent",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V07-Q5"
+        }
+      ]
+    },
+    {
+      "id": "V08",
+      "title": "Opposites: recovery, inequality and openness",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The explanation was [lucid].",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "opaque",
+            "clear",
+            "convincing",
+            "explicit",
+            "credible"
+          ],
+          "answer": "opaque",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "lucid",
+            "opaque"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Lucid concerns clarity. Opaque opposes clarity, not persuasiveness or credibility.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: lucid. Requested opposite: opaque.",
+            "rejects": [
+              {
+                "option": "clear",
+                "reason": "“clear” means easy to understand. It does not give the requested opposite. Lucid concerns clarity. Opaque opposes clarity, not persuasiveness or credibility."
+              },
+              {
+                "option": "convincing",
+                "reason": "“convincing” means persuasive. It does not give the requested opposite. Lucid concerns clarity. Opaque opposes clarity, not persuasiveness or credibility."
+              },
+              {
+                "option": "explicit",
+                "reason": "“explicit” means clearly and directly stated. It does not give the requested opposite. Lucid concerns clarity. Opaque opposes clarity, not persuasiveness or credibility."
+              },
+              {
+                "option": "credible",
+                "reason": "“credible” means worthy of belief. It does not give the requested opposite. Lucid concerns clarity. Opaque opposes clarity, not persuasiveness or credibility."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "lucid",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V08-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The payment system proved [resilient] after the disruption.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "stable",
+            "fragile",
+            "practical",
+            "strict",
+            "credible"
+          ],
+          "answer": "fragile",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "fragile",
+            "resilient"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Resilient describes recovery or resistance after difficulty; fragile describes vulnerability.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: resilient. Requested opposite: fragile.",
+            "rejects": [
+              {
+                "option": "stable",
+                "reason": "“stable” means not subject to marked fluctuation. It does not give the requested opposite. Resilient describes recovery or resistance after difficulty; fragile describes vulnerability."
+              },
+              {
+                "option": "practical",
+                "reason": "“practical” means focused on workable action. It does not give the requested opposite. Resilient describes recovery or resistance after difficulty; fragile describes vulnerability."
+              },
+              {
+                "option": "strict",
+                "reason": "“strict” means demanding close observance. It does not give the requested opposite. Resilient describes recovery or resistance after difficulty; fragile describes vulnerability."
+              },
+              {
+                "option": "credible",
+                "reason": "“credible” means worthy of belief. It does not give the requested opposite. Resilient describes recovery or resistance after difficulty; fragile describes vulnerability."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "resilient",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V08-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The review highlighted a large [disparity] in access.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "solvency",
+            "collateral",
+            "equality",
+            "profit",
+            "secrecy"
+          ],
+          "answer": "equality",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "disparity",
+            "review"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Disparity is an inequality or difference; equality removes the compared difference.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: disparity. Requested opposite: equality.",
+            "rejects": [
+              {
+                "option": "solvency",
+                "reason": "“solvency” means ability to meet total liabilities. It does not give the requested opposite. Disparity is an inequality or difference; equality removes the compared difference."
+              },
+              {
+                "option": "collateral",
+                "reason": "“collateral” means property pledged as security for a debt. It does not give the requested opposite. Disparity is an inequality or difference; equality removes the compared difference."
+              },
+              {
+                "option": "profit",
+                "reason": "“profit” means income remaining after costs. It does not give the requested opposite. Disparity is an inequality or difference; equality removes the compared difference."
+              },
+              {
+                "option": "secrecy",
+                "reason": "“secrecy” means concealment from others. It does not give the requested opposite. Disparity is an inequality or difference; equality removes the compared difference."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "disparity",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V08-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Verified information should [bolster] confidence.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "strengthen",
+            "support",
+            "confirm",
+            "undermine",
+            "hasten"
+          ],
+          "answer": "undermine",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "bolster",
+            "undermine"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Bolster strengthens confidence; undermine weakens it.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: bolster. Requested opposite: undermine.",
+            "rejects": [
+              {
+                "option": "strengthen",
+                "reason": "“strengthen” means make stronger. It does not give the requested opposite. Bolster strengthens confidence; undermine weakens it."
+              },
+              {
+                "option": "support",
+                "reason": "“support” means provide backing or evidence. It does not give the requested opposite. Bolster strengthens confidence; undermine weakens it."
+              },
+              {
+                "option": "confirm",
+                "reason": "“confirm” means support or establish as correct. It does not give the requested opposite. Bolster strengthens confidence; undermine weakens it."
+              },
+              {
+                "option": "hasten",
+                "reason": "“hasten” means make happen sooner. It does not give the requested opposite. Bolster strengthens confidence; undermine weakens it."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "bolster",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V08-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The reform increased [transparency] in decision-making.",
+          "instructions": "Choose the OPPOSITE meaning of the word in square brackets AS USED HERE.",
+          "options": [
+            "equality",
+            "liquidity",
+            "solvency",
+            "profit",
+            "secrecy"
+          ],
+          "answer": "secrecy",
+          "skill": "contextual antonym",
+          "vocabulary": [
+            "transparency"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ]
+          },
+          "explanation": {
+            "relationship": "ANTONYM: choose the contextual opposite",
+            "clue": "Transparency concerns openness; secrecy is the opposite information condition.",
+            "rule": "Match the contextual sense and grammatical role. A related word, a stronger claim and a word with the opposite direction are different choices.",
+            "model": "Original contextual word: transparency. Requested opposite: secrecy.",
+            "rejects": [
+              {
+                "option": "equality",
+                "reason": "“equality” means absence of a difference in the compared measure. It does not give the requested opposite. Transparency concerns openness; secrecy is the opposite information condition."
+              },
+              {
+                "option": "liquidity",
+                "reason": "“liquidity” means funds available for immediate payments. It does not give the requested opposite. Transparency concerns openness; secrecy is the opposite information condition."
+              },
+              {
+                "option": "solvency",
+                "reason": "“solvency” means ability to meet total liabilities. It does not give the requested opposite. Transparency concerns openness; secrecy is the opposite information condition."
+              },
+              {
+                "option": "profit",
+                "reason": "“profit” means income remaining after costs. It does not give the requested opposite. Transparency concerns openness; secrecy is the opposite information condition."
+              }
+            ],
+            "modelLabel": "Meaning contrast"
+          },
+          "lexical": {
+            "target": "transparency",
+            "direction": "opposite"
+          },
+          "id": "context-vocabulary/V08-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-V01",
+      "title": "Nearest meaning: the precise contextual sense",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The report offered a [qualified] endorsement: it supported the proposal only if independent checks were retained.",
+          "instructions": "Choose the NEAREST meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "conditional",
+            "expert",
+            "unreserved",
+            "tentative",
+            "partial"
+          ],
+          "answer": "conditional",
+          "skill": "contextual synonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "contextual synonym: exact sense and scope",
+            "clue": "Only if explicitly limits the endorsement. The target modifies the nature of support, not the credentials of the author.",
+            "rule": "Use the sense selected by the nearby condition, not the most familiar dictionary meaning.",
+            "model": "The report offered a conditional endorsement: it supported the proposal only if independent checks were retained.",
+            "rejects": [
+              {
+                "option": "expert",
+                "reason": "Qualified can describe a person with credentials, but endorsement here is restricted by a condition, not professionally trained."
+              },
+              {
+                "option": "unreserved",
+                "reason": "Unreserved removes the limitation expressly introduced by only if."
+              },
+              {
+                "option": "tentative",
+                "reason": "Tentative concerns provisional confidence; the stated limitation is an explicit condition, even if confidence is otherwise firm."
+              },
+              {
+                "option": "partial",
+                "reason": "Partial can suggest incomplete support or bias, but conditional captures the exact if-clause rather than an unspecified degree or favouritism."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "expert",
+            "whyNot": "Qualified can describe a person with credentials, but endorsement here is restricted by a condition, not professionally trained.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "nearest",
+            "target": "qualified"
+          },
+          "id": "context-vocabulary/MH-V01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The auditor ignored minor formatting defects but reported every [material] discrepancy that could alter the lending decision.",
+          "instructions": "Choose the NEAREST meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "financial in form",
+            "significant to the decision",
+            "physical rather than digital",
+            "certainly fraudulent",
+            "widely publicised"
+          ],
+          "answer": "significant to the decision",
+          "skill": "contextual synonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "discrepancy",
+            "material"
+          ],
+          "explanation": {
+            "relationship": "contextual synonym: exact sense and scope",
+            "clue": "Minor formatting defects are contrasted with discrepancies able to change the decision.",
+            "rule": "Importance, truth and culpability are separate dimensions; do not smuggle fraud into significance.",
+            "model": "The auditor ignored minor formatting defects but reported every significant to the decision discrepancy that could alter the lending decision.",
+            "rejects": [
+              {
+                "option": "financial in form",
+                "reason": "A material discrepancy may affect a decision without being a monetary entry; the contrast concerns importance."
+              },
+              {
+                "option": "physical rather than digital",
+                "reason": "Material can mean physical substance, but a discrepancy affecting a decision is significant, not a physical object."
+              },
+              {
+                "option": "certainly fraudulent",
+                "reason": "A significant discrepancy does not establish deliberate fraud."
+              },
+              {
+                "option": "widely publicised",
+                "reason": "Visibility or publicity is not the criterion; potential effect on the decision is."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "financial in form",
+            "whyNot": "A material discrepancy may affect a decision without being a monetary entry; the contrast concerns importance.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "nearest",
+            "target": "material"
+          },
+          "id": "context-vocabulary/MH-V01-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The forecast included a [caveat]: its figures assumed that no new restrictions would be imposed.",
+          "instructions": "Choose the NEAREST meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "unconditional promise",
+            "contradictory finding",
+            "limiting qualification",
+            "supporting measurement",
+            "complete withdrawal"
+          ],
+          "answer": "limiting qualification",
+          "skill": "contextual synonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "caveat"
+          ],
+          "explanation": {
+            "relationship": "contextual synonym: exact sense and scope",
+            "clue": "The forecast is retained but its applicability depends on a stated assumption.",
+            "rule": "Read qualifying language as a boundary on a claim, not automatic rejection of it.",
+            "model": "The forecast included a limiting qualification: its figures assumed that no new restrictions would be imposed.",
+            "rejects": [
+              {
+                "option": "unconditional promise",
+                "reason": "The assumption restricts applicability rather than guaranteeing the forecast."
+              },
+              {
+                "option": "contradictory finding",
+                "reason": "A caveat can limit a forecast without contradicting it."
+              },
+              {
+                "option": "supporting measurement",
+                "reason": "No additional measurement is offered; the sentence sets an assumption."
+              },
+              {
+                "option": "complete withdrawal",
+                "reason": "The forecast remains in place subject to the stated condition."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "unconditional promise",
+            "whyNot": "The assumption restricts applicability rather than guaranteeing the forecast.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "nearest",
+            "target": "caveat"
+          },
+          "id": "context-vocabulary/MH-V01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Once the original receipts were found, the allegation that no payment had occurred was no longer [tenable].",
+          "instructions": "Choose the NEAREST meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "profitable",
+            "easy to understand",
+            "formally published",
+            "defensible on the evidence",
+            "legally compulsory"
+          ],
+          "answer": "defensible on the evidence",
+          "skill": "contextual synonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "tenable"
+          ],
+          "explanation": {
+            "relationship": "contextual synonym: exact sense and scope",
+            "clue": "Receipts directly weaken the claim of no payment; no longer concerns whether that claim can still be defended.",
+            "rule": "Track the evidential relation rather than topic-associated financial words.",
+            "model": "Once the original receipts were found, the allegation that no payment had occurred was no longer defensible on the evidence.",
+            "rejects": [
+              {
+                "option": "profitable",
+                "reason": "The allegation is being tested against receipts, not evaluated for commercial return."
+              },
+              {
+                "option": "easy to understand",
+                "reason": "An allegation can remain clear even after evidence makes it indefensible."
+              },
+              {
+                "option": "formally published",
+                "reason": "Publication status is not changed by the discovery of receipts."
+              },
+              {
+                "option": "legally compulsory",
+                "reason": "The sentence assesses evidential support, not an obligation to maintain the allegation."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "profitable",
+            "whyNot": "The allegation is being tested against receipts, not evaluated for commercial return.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "nearest",
+            "target": "tenable"
+          },
+          "id": "context-vocabulary/MH-V01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The appeal was assigned to a [disinterested] reviewer who had no financial stake in either outcome but examined the evidence closely.",
+          "instructions": "Choose the NEAREST meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "uninterested",
+            "uninformed",
+            "unsympathetic",
+            "financially distressed",
+            "impartial"
+          ],
+          "answer": "impartial",
+          "skill": "contextual synonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "impartial",
+            "disinterested"
+          ],
+          "explanation": {
+            "relationship": "contextual synonym: exact sense and scope",
+            "clue": "The reviewer is engaged but has no stake in the result.",
+            "rule": "For this context disinterested means impartial; the sentence explicitly excludes the uninterested sense.",
+            "model": "The appeal was assigned to a impartial reviewer who had no financial stake in either outcome but examined the evidence closely.",
+            "rejects": [
+              {
+                "option": "uninterested",
+                "reason": "Examined closely excludes lack of interest or attention; no stake identifies absence of bias."
+              },
+              {
+                "option": "uninformed",
+                "reason": "The reviewer’s knowledge is not denied; the evidence is examined."
+              },
+              {
+                "option": "unsympathetic",
+                "reason": "Absence of a personal stake does not imply hostility."
+              },
+              {
+                "option": "financially distressed",
+                "reason": "No financial stake means no interest in the outcome, not lack of money."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "uninterested",
+            "whyNot": "Examined closely excludes lack of interest or attention; no stake identifies absence of bias.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "nearest",
+            "target": "disinterested"
+          },
+          "id": "context-vocabulary/MH-V01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-V02",
+      "title": "Opposite meaning: stay on the same dimension",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The extra payment is [contingent] on completion of the audit; it is not assured beforehand.",
+          "instructions": "Choose the OPPOSITE meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "unconditional",
+            "dependent",
+            "uncertain",
+            "provisional",
+            "unpaid"
+          ],
+          "answer": "unconditional",
+          "skill": "contextual antonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "contingent"
+          ],
+          "explanation": {
+            "relationship": "contextual antonym: exact sense and scope",
+            "clue": "The target means dependent on a specified event. The opposite must remove that dependence.",
+            "rule": "Choose the opposite on the same semantic axis: conditional versus unconditional.",
+            "model": "The extra payment is unconditional on completion of the audit; it is not assured beforehand.",
+            "rejects": [
+              {
+                "option": "dependent",
+                "reason": "Dependent preserves the audit condition rather than reversing it."
+              },
+              {
+                "option": "uncertain",
+                "reason": "Uncertain is compatible with not assured and does not specifically remove the condition."
+              },
+              {
+                "option": "provisional",
+                "reason": "Provisional describes a temporary or non-final status and is not the opposite of conditional dependence."
+              },
+              {
+                "option": "unpaid",
+                "reason": "Unpaid concerns current settlement, not whether payment is subject to a condition."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "dependent",
+            "whyNot": "Dependent preserves the audit condition rather than reversing it.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "opposite",
+            "target": "contingent"
+          },
+          "id": "context-vocabulary/MH-V02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The first inspection was [perfunctory]: the officer ticked the boxes without examining the supporting records.",
+          "instructions": "Choose the OPPOSITE meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "cursory",
+            "meticulous",
+            "routine",
+            "mandatory",
+            "lengthy"
+          ],
+          "answer": "meticulous",
+          "skill": "contextual antonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "meticulous",
+            "perfunctory"
+          ],
+          "explanation": {
+            "relationship": "contextual antonym: exact sense and scope",
+            "clue": "The definition in context is careless and superficial, not merely short.",
+            "rule": "Reverse quality of attention rather than time taken or whether the check was required.",
+            "model": "The first inspection was meticulous: the officer ticked the boxes without examining the supporting records.",
+            "rejects": [
+              {
+                "option": "cursory",
+                "reason": "Cursory is similarly superficial, not an opposite."
+              },
+              {
+                "option": "routine",
+                "reason": "A routine check can be thorough or careless; frequency does not reverse lack of care."
+              },
+              {
+                "option": "mandatory",
+                "reason": "An obligatory check may still be perfunctory."
+              },
+              {
+                "option": "lengthy",
+                "reason": "A long inspection can remain superficial; duration alone is not thoroughness."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "cursory",
+            "whyNot": "Cursory is similarly superficial, not an opposite.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "opposite",
+            "target": "perfunctory"
+          },
+          "id": "context-vocabulary/MH-V02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Although every charge was listed, the technical wording left the fee schedule [opaque] to ordinary borrowers.",
+          "instructions": "Choose the OPPOSITE meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "incomplete",
+            "confidential",
+            "intelligible",
+            "exhaustive",
+            "inaccurate"
+          ],
+          "answer": "intelligible",
+          "skill": "contextual antonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "intelligible",
+            "opaque"
+          ],
+          "explanation": {
+            "relationship": "contextual antonym: exact sense and scope",
+            "clue": "All charges are visible, but their meaning is not clear to readers.",
+            "rule": "Reverse the clarity dimension; do not change completeness, availability or truth.",
+            "model": "Although every charge was listed, the technical wording left the fee schedule intelligible to ordinary borrowers.",
+            "rejects": [
+              {
+                "option": "incomplete",
+                "reason": "The schedule is explicitly complete; the problem is understanding it."
+              },
+              {
+                "option": "confidential",
+                "reason": "Confidential concerns access, while this published schedule is hard to understand."
+              },
+              {
+                "option": "exhaustive",
+                "reason": "Exhaustive concerns coverage, not clarity, and the listing is already complete."
+              },
+              {
+                "option": "inaccurate",
+                "reason": "An accurate statement can still be difficult to understand."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "incomplete",
+            "whyNot": "The schedule is explicitly complete; the problem is understanding it.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "opposite",
+            "target": "opaque"
+          },
+          "id": "context-vocabulary/MH-V02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The policy [proscribed] sharing passwords with callers, even if they claimed to be officials. Choose the opposite policy status that would allow sharing without requiring it.",
+          "instructions": "Choose the OPPOSITE meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "prescribed",
+            "discouraged",
+            "prevented",
+            "permitted",
+            "disclosed"
+          ],
+          "answer": "permitted",
+          "skill": "contextual antonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "contextual antonym: exact sense and scope",
+            "clue": "Proscribe is prohibit. The direct policy opposite is allow, without requiring anyone to do it.",
+            "rule": "Do not confuse the near spellings prescribe and proscribe; choose the least added commitment that reverses prohibition.",
+            "model": "The policy permitted sharing passwords with callers, even if they claimed to be officials. Choose the opposite policy status that would allow sharing without requiring it.",
+            "rejects": [
+              {
+                "option": "prescribed",
+                "reason": "Prescribed would require or specify the practice, a stronger claim than the neutral removal of prohibition; permitted is the direct opposition here."
+              },
+              {
+                "option": "discouraged",
+                "reason": "Discouraged still expresses an adverse policy stance rather than permission."
+              },
+              {
+                "option": "prevented",
+                "reason": "Prevented describes obstruction or a completed result, not the opposite policy position."
+              },
+              {
+                "option": "disclosed",
+                "reason": "Disclosure has no necessary relation to whether sharing is allowed."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "prescribed",
+            "whyNot": "Prescribed would require or specify the practice, a stronger claim than the neutral removal of prohibition; permitted is the direct opposition here.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "opposite",
+            "target": "proscribed"
+          },
+          "id": "context-vocabulary/MH-V02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The provisional restriction was [reversible]: it could be withdrawn without permanently changing the account.",
+          "instructions": "Choose the OPPOSITE meaning of the bracketed expression IN THIS CONTEXT. Preserve its semantic dimension.",
+          "options": [
+            "revocable",
+            "temporary",
+            "discretionary",
+            "unnecessary",
+            "irreversible"
+          ],
+          "answer": "irreversible",
+          "skill": "contextual antonym: exact sense and scope",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "provisional"
+          ],
+          "explanation": {
+            "relationship": "contextual antonym: exact sense and scope",
+            "clue": "The target describes whether a change can be undone, not whether it is compulsory or brief.",
+            "rule": "Keep an antonym on the target’s precise dimension.",
+            "model": "The provisional restriction was irreversible: it could be withdrawn without permanently changing the account.",
+            "rejects": [
+              {
+                "option": "revocable",
+                "reason": "Revocable also means capable of withdrawal, so it agrees with the context."
+              },
+              {
+                "option": "temporary",
+                "reason": "Temporary concerns duration and is compatible with reversible."
+              },
+              {
+                "option": "discretionary",
+                "reason": "Discretionary concerns who may decide, not whether a change can be undone."
+              },
+              {
+                "option": "unnecessary",
+                "reason": "Necessity is separate from reversibility."
+              }
+            ],
+            "modelLabel": "Meaning check"
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "revocable",
+            "whyNot": "Revocable also means capable of withdrawal, so it agrees with the context.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "lexical": {
+            "direction": "opposite",
+            "target": "reversible"
+          },
+          "id": "context-vocabulary/MH-V02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-V03",
+      "title": "Multiple fits and limits on evidence",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "The report called the proposed timetable [impracticable] because the required inspections could not be completed before launch. Which replacements preserve that specific judgement?",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently. Choose every NEAREST replacement or paraphrase in this context.",
+          "options": [
+            "II and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "multiple-fit contextual meaning",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "preserve",
+            "unworkable"
+          ],
+          "explanation": {
+            "relationship": "multiple-fit contextual meaning",
+            "clue": "The problem is feasibility within the time constraint, not ethics or popularity.",
+            "rule": "Accept multiple close synonyms when they preserve the same feasibility claim.",
+            "model": "The timetable was unworkable or infeasible under the stated inspection constraints."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "unethical",
+            "whyNot": "An impossible timetable is not thereby a morally wrong one; the ethical dimension is not supplied.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "unethical",
+              "valid": false,
+              "reason": "An impossible timetable is not thereby a morally wrong one; the ethical dimension is not supplied."
+            },
+            {
+              "label": "II",
+              "text": "unworkable",
+              "valid": true,
+              "reason": "It says the timetable cannot be carried out under the supplied constraints."
+            },
+            {
+              "label": "III",
+              "text": "infeasible",
+              "valid": true,
+              "reason": "It likewise expresses inability to carry out the timetable under the stated conditions."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "context-vocabulary/MH-V03-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The auditor described the reported improvement as [illusory]: it vanished when a duplicated entry was removed. Select every faithful replacement.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently. Choose every NEAREST replacement or paraphrase in this context.",
+          "options": [
+            "None",
+            "I and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "multiple-fit contextual meaning",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "multiple-fit contextual meaning",
+            "clue": "The improvement is unreal; no intention to deceive has been established.",
+            "rule": "Separate appearance from intent. An error can mislead without being fraud.",
+            "model": "The reported improvement was apparent rather than real, deceptive in appearance rather than proven deliberate fabrication."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "deliberately fabricated",
+            "whyNot": "The context establishes an erroneous appearance, not that someone intentionally falsified the figure.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "deceptive in appearance",
+              "valid": true,
+              "reason": "This refers to misleading appearance without requiring deliberate deceit."
+            },
+            {
+              "label": "II",
+              "text": "deliberately fabricated",
+              "valid": false,
+              "reason": "The context establishes an erroneous appearance, not that someone intentionally falsified the figure."
+            },
+            {
+              "label": "III",
+              "text": "apparent rather than real",
+              "valid": true,
+              "reason": "The seeming improvement arose from a duplicate and disappeared on correction."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "context-vocabulary/MH-V03-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The report’s conclusion was [equivocal]: its wording could support two conflicting interpretations. Which replacements fit this stated sense?",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently. Choose every NEAREST replacement or paraphrase in this context.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "multiple-fit contextual meaning",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "ambiguous",
+            "open",
+            "support",
+            "equivocal"
+          ],
+          "explanation": {
+            "relationship": "multiple-fit contextual meaning",
+            "clue": "The target is defined here by multiple readings, not merely by restrained confidence.",
+            "rule": "Use the explicit gloss to select the intended sense of a word with related but distinct uses.",
+            "model": "The conclusion was ambiguous, open to conflicting interpretations."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "cautious but perfectly clear",
+            "whyNot": "Caution concerns commitment; perfectly clear excludes the expressly supplied interpretive ambiguity.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "ambiguous",
+              "valid": true,
+              "reason": "Ambiguous directly expresses more than one possible interpretation."
+            },
+            {
+              "label": "II",
+              "text": "open to conflicting interpretations",
+              "valid": true,
+              "reason": "This preserves the specific two-reading problem."
+            },
+            {
+              "label": "III",
+              "text": "cautious but perfectly clear",
+              "valid": false,
+              "reason": "Caution concerns commitment; perfectly clear excludes the expressly supplied interpretive ambiguity."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "context-vocabulary/MH-V03-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The committee’s endorsement was [unreserved]: it imposed no qualifications on its support. Select every expression that preserves the degree of support.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently. Choose every NEAREST replacement or paraphrase in this context.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "II and III only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "multiple-fit contextual meaning",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "support"
+          ],
+          "explanation": {
+            "relationship": "multiple-fit contextual meaning",
+            "clue": "The issue is the absence of reservations, not whether the proposal itself is guaranteed to succeed.",
+            "rule": "Do not infer certainty of outcome from strength of endorsement.",
+            "model": "The endorsement was wholehearted and without qualification."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "provisional",
+            "whyNot": "Provisional makes support non-final, adding a reservation absent from the original.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "provisional",
+              "valid": false,
+              "reason": "Provisional makes support non-final, adding a reservation absent from the original."
+            },
+            {
+              "label": "II",
+              "text": "wholehearted",
+              "valid": true,
+              "reason": "Wholehearted describes full support without the withheld commitment of a qualified endorsement."
+            },
+            {
+              "label": "III",
+              "text": "without qualification",
+              "valid": true,
+              "reason": "This explicitly retains the absence of reservations."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "context-vocabulary/MH-V03-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The initial evidence was [inconclusive]: it supported further inquiry but did not settle the disputed claim. Select every faithful description.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently. Choose every NEAREST replacement or paraphrase in this context.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and III only",
+          "skill": "multiple-fit contextual meaning",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q79–81, contextual synonym/antonym formats",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q64–67, contextual synonyms"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "multiple-fit contextual meaning",
+            "clue": "Not enough to decide does not mean no relevance or no evidential weight.",
+            "rule": "Preserve the difference between weak support, no support and proof of the opposite.",
+            "model": "The evidence was not decisive: it was insufficient to settle the claim but still relevant to further inquiry."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "wholly irrelevant",
+            "whyNot": "The evidence supports further inquiry, so the context does not treat it as having no bearing on the claim.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "not decisive",
+              "valid": true,
+              "reason": "Not decisive retains the failure to establish a final answer."
+            },
+            {
+              "label": "II",
+              "text": "wholly irrelevant",
+              "valid": false,
+              "reason": "The evidence supports further inquiry, so the context does not treat it as having no bearing on the claim."
+            },
+            {
+              "label": "III",
+              "text": "insufficient to settle the claim",
+              "valid": true,
+              "reason": "This preserves the evidential limit without saying the evidence had no value."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "context-vocabulary/MH-V03-Q5"
+        }
+      ]
+    }
+  ]
+}

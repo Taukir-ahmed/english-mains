@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cloze",
+    "file": "cloze.json"
+  },
+  {
+    "id": "connectors",
+    "file": "connectors.json"
+  },
+  {
+    "id": "grammar",
+    "file": "grammar.json"
+  },
+  {
+    "id": "fillers",
+    "file": "fillers.json"
+  },
+  {
+    "id": "word-usage",
+    "file": "word-usage.json"
+  },
+  {
+    "id": "sentence-order",
+    "file": "sentence-order.json"
+  },
+  {
+    "id": "paragraph-coherence",
+    "file": "paragraph-coherence.json"
+  },
+  {
+    "id": "column-matching",
+    "file": "column-matching.json"
+  },
+  {
+    "id": "idioms-phrasal",
+    "file": "idioms-phrasal.json"
+  },
+  {
+    "id": "context-vocabulary",
+    "file": "context-vocabulary.json"
+  },
+  {
+    "id": "spelling-confusables",
+    "file": "spelling-confusables.json"
+  },
+  {
+    "id": "advanced-mixed",
+    "file": "advanced-mixed.json"
+  }
+]

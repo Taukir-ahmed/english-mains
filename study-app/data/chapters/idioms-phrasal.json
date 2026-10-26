@@ -1,0 +1,3311 @@
+{
+  "id": "idioms-phrasal",
+  "title": "Idioms & phrasal verbs",
+  "description": "55 original questions: the earlier 40 plus 15 Moderate–Hard items. Select Moderate–Hard for close alternatives and complete meaning checks. This is a reviewed training target, not an independently calibrated exam rating.",
+  "source": {
+    "kind": "original-format-practice",
+    "formatReferences": [
+      "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+      "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+      "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+    ]
+  },
+  "vocabularyCandidates": [
+    {
+      "term": "rule out",
+      "meaning": "exclude something as a possibility",
+      "collocations": [
+        "rule out an explanation / rule it out"
+      ],
+      "forms": [
+        "ruled out",
+        "ruling out"
+      ],
+      "important": true,
+      "readingExample": "The missing receipt did not rule out a valid payment, so the auditor checked the transaction log."
+    },
+    {
+      "term": "carry out",
+      "meaning": "perform or complete a task or instruction",
+      "collocations": [
+        "carry out an audit / carry the checks out"
+      ],
+      "forms": [
+        "carried out",
+        "carrying out"
+      ],
+      "important": true,
+      "readingExample": "The independent team will carry out the audit before the funds are released."
+    },
+    {
+      "term": "look into",
+      "meaning": "investigate or examine a matter",
+      "collocations": [
+        "look into a complaint / look into it"
+      ],
+      "forms": [
+        "looked into",
+        "looking into"
+      ],
+      "important": true,
+      "readingExample": "The bank agreed to look into the unexplained charge and examine the payment records."
+    },
+    {
+      "term": "at stake",
+      "meaning": "at risk or dependent on the outcome",
+      "collocations": [
+        "savings at stake / public confidence at stake"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "With public confidence at stake, the bank published a clear account of the error."
+    },
+    {
+      "term": "red herring",
+      "meaning": "something that distracts attention from the relevant question or issue",
+      "collocations": [
+        "a red herring in the debate / introduce a red herring"
+      ],
+      "forms": [
+        "red herrings"
+      ],
+      "important": true,
+      "readingExample": "The accurate growth figure became a red herring when it diverted attention from the unresolved liquidity problem."
+    },
+    {
+      "term": "at face value",
+      "meaning": "according to the apparent meaning or appearance, without further examination",
+      "collocations": [
+        "take a claim at face value / accept an assurance at face value"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "The reviewer did not accept the assurance at face value and asked for independent evidence."
+    },
+    {
+      "term": "put up with",
+      "meaning": "tolerate or endure an unpleasant situation or behaviour",
+      "collocations": [
+        "put up with delays / put up with them"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "Borrowers would no longer put up with unexplained charges and asked for a written account."
+    }
+  ],
+  "packs": [
+    {
+      "id": "I01",
+      "title": "Investigate, perform and postpone",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The bank will ___ the complaint by examining the transaction records.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "look into",
+            "look after",
+            "look up to",
+            "look down on",
+            "look out for"
+          ],
+          "answer": "look into",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "look into"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Examining the records is investigation.",
+            "rule": "Look into a complaint means investigate it.",
+            "model": "The bank will look into the complaint by examining the transaction records.",
+            "rejects": [
+              {
+                "option": "look after",
+                "reason": "Look after means care for; the task here is investigation."
+              },
+              {
+                "option": "look up to",
+                "reason": "Look up to means admire, not investigate a complaint."
+              },
+              {
+                "option": "look down on",
+                "reason": "Look down on means regard with contempt, not investigate."
+              },
+              {
+                "option": "look out for",
+                "reason": "Look out for means watch for something, not investigate this existing complaint."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The audit team has not yet begun the work; it must ___ the checks specified in the approved procedure.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "carry off",
+            "carry out",
+            "carry over",
+            "carry on with",
+            "carry away"
+          ],
+          "answer": "carry out",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "carry out"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Specified checks are to be performed.",
+            "rule": "Carry out a check means perform it.",
+            "model": "The audit team has not yet begun the work; it must carry out the checks specified in the approved procedure.",
+            "rejects": [
+              {
+                "option": "carry off",
+                "reason": "Carry off can mean succeed in doing something difficult; it is not the ordinary perform-the-checks construction here."
+              },
+              {
+                "option": "carry over",
+                "reason": "Carry over means transfer or postpone to a later period."
+              },
+              {
+                "option": "carry on with",
+                "reason": "Carry on with means continue; this instruction specifies performing the checks, without a prior activity to continue."
+              },
+              {
+                "option": "carry away",
+                "reason": "Carry away means remove or transport, not perform checks."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I01-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The panel decided to ___ the hearing until Friday, rather than cancel it.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "call off",
+            "rule out",
+            "put off",
+            "bring forward",
+            "take over"
+          ],
+          "answer": "put off",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "rule out"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Until Friday and rather than cancel distinguish postponement from cancellation.",
+            "rule": "Put off a hearing means postpone it.",
+            "model": "The panel decided to put off the hearing until Friday, rather than cancel it.",
+            "rejects": [
+              {
+                "option": "call off",
+                "reason": "Call off cancels the event, explicitly excluded here."
+              },
+              {
+                "option": "rule out",
+                "reason": "Rule out excludes a possibility; it does not reschedule a hearing."
+              },
+              {
+                "option": "bring forward",
+                "reason": "Bring forward moves an event earlier, contrary to postponement until Friday."
+              },
+              {
+                "option": "take over",
+                "reason": "Take over means assume control, not postpone."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "After the project was abandoned permanently, the bank decided to ___ the launch altogether.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "put off",
+            "carry out",
+            "bring about",
+            "call off",
+            "look into"
+          ],
+          "answer": "call off",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "rule out",
+            "carry out",
+            "look into"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Permanently and altogether rule out mere delay.",
+            "rule": "Call off an event means cancel it.",
+            "model": "After the project was abandoned permanently, the bank decided to call off the launch altogether.",
+            "rejects": [
+              {
+                "option": "put off",
+                "reason": "Put off merely postpones; abandoned permanently and altogether require cancellation."
+              },
+              {
+                "option": "carry out",
+                "reason": "Carry out performs the launch, opposite to abandoning it."
+              },
+              {
+                "option": "bring about",
+                "reason": "Bring about causes an event, rather than cancels it."
+              },
+              {
+                "option": "look into",
+                "reason": "Look into investigates, rather than cancels."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The evidence did not ___ the possibility of a clerical error; investigators still had to check it.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "bring about",
+            "carry out",
+            "put up with",
+            "look after",
+            "rule out"
+          ],
+          "answer": "rule out",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "rule out",
+            "carry out",
+            "put up with"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The possibility remains to be checked.",
+            "rule": "Not rule out means not exclude; it does not mean the possibility has been proved.",
+            "model": "The evidence did not rule out the possibility of a clerical error; investigators still had to check it.",
+            "rejects": [
+              {
+                "option": "bring about",
+                "reason": "Evidence does not mean cause a clerical error in this sentence."
+              },
+              {
+                "option": "carry out",
+                "reason": "A possibility is not an activity to perform."
+              },
+              {
+                "option": "put up with",
+                "reason": "Put up with means tolerate, not exclude a possibility."
+              },
+              {
+                "option": "look after",
+                "reason": "Look after means care for, not eliminate an explanation."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "title": "Plans, follow-up and resources",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Before seeking approval, the team had to ___ a detailed implementation plan.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "draw up",
+            "draw back",
+            "draw out",
+            "draw in",
+            "draw away"
+          ],
+          "answer": "draw up",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "A detailed plan needs to be drafted before approval.",
+            "rule": "Draw up a plan or agreement means prepare it.",
+            "model": "Before seeking approval, the team had to draw up a detailed implementation plan.",
+            "rejects": [
+              {
+                "option": "draw back",
+                "reason": "Draw back means retreat, not prepare a document."
+              },
+              {
+                "option": "draw out",
+                "reason": "Draw out means prolong or elicit, not prepare the plan in this context."
+              },
+              {
+                "option": "draw in",
+                "reason": "Draw in means attract or involve, not draft a plan."
+              },
+              {
+                "option": "draw away",
+                "reason": "Draw away means move away, not prepare a plan."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The officer agreed to ___ the refund request after checking why the first attempt had failed.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "fall back on",
+            "follow up on",
+            "put up with",
+            "look down on",
+            "do away with"
+          ],
+          "answer": "follow up on",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "put up with"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The request needs further action after an unsuccessful attempt.",
+            "rule": "Follow up on a request means pursue it with further action.",
+            "model": "The officer agreed to follow up on the refund request after checking why the first attempt had failed.",
+            "rejects": [
+              {
+                "option": "fall back on",
+                "reason": "Fall back on means resort to an alternative when needed."
+              },
+              {
+                "option": "put up with",
+                "reason": "Put up with means tolerate an unpleasant thing."
+              },
+              {
+                "option": "look down on",
+                "reason": "Look down on means regard as inferior."
+              },
+              {
+                "option": "do away with",
+                "reason": "Do away with means abolish or remove, not pursue the request."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The firm had exhausted its cash reserve and was about to ___ funds needed for salaries.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "run into",
+            "run over",
+            "run out of",
+            "run for",
+            "run after"
+          ],
+          "answer": "run out of",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Exhausted its reserve points to having no funds left.",
+            "rule": "Run out of something means exhaust its supply.",
+            "model": "The firm had exhausted its cash reserve and was about to run out of funds needed for salaries.",
+            "rejects": [
+              {
+                "option": "run into",
+                "reason": "Run into means encounter; it does not express depletion."
+              },
+              {
+                "option": "run over",
+                "reason": "Run over can mean exceed a limit or review briefly, not exhaust a supply."
+              },
+              {
+                "option": "run for",
+                "reason": "Run for means seek an elected role or move towards safety."
+              },
+              {
+                "option": "run after",
+                "reason": "Run after means chase, not exhaust funds."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The committee must ___ the maintenance costs when judging the plan’s viability.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "take for granted",
+            "take issue with",
+            "take over",
+            "take into account",
+            "take after"
+          ],
+          "answer": "take into account",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Viability requires including maintenance costs in the judgement.",
+            "rule": "Take something into account means consider it when deciding.",
+            "model": "The committee must take into account the maintenance costs when judging the plan’s viability.",
+            "rejects": [
+              {
+                "option": "take for granted",
+                "reason": "Take for granted assumes something without questioning; the costs need deliberate consideration."
+              },
+              {
+                "option": "take issue with",
+                "reason": "Take issue with means disagree with, not merely consider."
+              },
+              {
+                "option": "take over",
+                "reason": "Take over assumes control, not considers an expense."
+              },
+              {
+                "option": "take after",
+                "reason": "Take after means resemble a relative."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank refused to ___ repeated breaches of the security rules.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "put forward",
+            "put through",
+            "put aside",
+            "put on",
+            "put up with"
+          ],
+          "answer": "put up with",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "put up with"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Refusal concerns accepting repeated misconduct.",
+            "rule": "Put up with means tolerate.",
+            "model": "The bank refused to put up with repeated breaches of the security rules.",
+            "rejects": [
+              {
+                "option": "put forward",
+                "reason": "Put forward means propose, not tolerate."
+              },
+              {
+                "option": "put through",
+                "reason": "Put through can connect a call or make someone undergo something."
+              },
+              {
+                "option": "put aside",
+                "reason": "Put aside means set apart or temporarily disregard, not tolerate repeated breaches."
+              },
+              {
+                "option": "put on",
+                "reason": "Put on means wear, stage or pretend; it does not mean tolerate here."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "title": "Risk, authority and empty promises",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "With borrowers’ savings ___, the board insisted on a careful independent review.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "at stake",
+            "on leave",
+            "in advance",
+            "by chance",
+            "at ease"
+          ],
+          "answer": "at stake",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "review",
+            "at stake"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Savings are exposed to possible loss.",
+            "rule": "At stake means at risk or dependent on the outcome.",
+            "model": "With borrowers’ savings at stake, the board insisted on a careful independent review.",
+            "rejects": [
+              {
+                "option": "on leave",
+                "reason": "On leave means temporarily absent from work."
+              },
+              {
+                "option": "in advance",
+                "reason": "In advance means beforehand, not exposed to loss."
+              },
+              {
+                "option": "by chance",
+                "reason": "By chance means accidentally."
+              },
+              {
+                "option": "at ease",
+                "reason": "At ease means comfortable or relaxed, opposite to the concern about savings."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I03-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The firm could barely pay its recurring bills and struggled to ___.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "turn a blind eye",
+            "make ends meet",
+            "break the ice",
+            "spill the beans",
+            "call the shots"
+          ],
+          "answer": "make ends meet",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Barely paying recurring bills concerns income covering expenses.",
+            "rule": "Make ends meet means manage within available income.",
+            "model": "The firm could barely pay its recurring bills and struggled to make ends meet.",
+            "rejects": [
+              {
+                "option": "turn a blind eye",
+                "reason": "This means deliberately ignore wrongdoing, not balance income and expenses."
+              },
+              {
+                "option": "break the ice",
+                "reason": "This means ease an initially awkward interaction."
+              },
+              {
+                "option": "spill the beans",
+                "reason": "This means reveal a secret."
+              },
+              {
+                "option": "call the shots",
+                "reason": "This means make the decisions."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I03-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "A single favourable result is only ___ when the remaining evidence points the other way.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "a clean slate",
+            "a blessing in disguise",
+            "a drop in the ocean",
+            "the last straw",
+            "the lion’s share"
+          ],
+          "answer": "a drop in the ocean",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Single versus the remaining evidence stresses a very small contribution.",
+            "rule": "A drop in the ocean is a very small amount compared with what is needed or relevant.",
+            "model": "A single favourable result is only a drop in the ocean when the remaining evidence points the other way.",
+            "rejects": [
+              {
+                "option": "a clean slate",
+                "reason": "A clean slate is a fresh start without past liabilities or records of fault."
+              },
+              {
+                "option": "a blessing in disguise",
+                "reason": "This is something initially unwelcome that later proves beneficial."
+              },
+              {
+                "option": "the last straw",
+                "reason": "The last straw is the final problem that makes a situation intolerable."
+              },
+              {
+                "option": "the lion’s share",
+                "reason": "The lion’s share is the largest part, opposite to a tiny contribution."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I03-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The branch manager could not approve the exception because the final decision was ___.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "up her sleeve",
+            "under her thumb",
+            "on her toes",
+            "out of her hands",
+            "at her fingertips"
+          ],
+          "answer": "out of her hands",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Could not approve because authority lay elsewhere.",
+            "rule": "Out of someone’s hands means beyond that person’s control.",
+            "model": "The branch manager could not approve the exception because the final decision was out of her hands.",
+            "rejects": [
+              {
+                "option": "up her sleeve",
+                "reason": "This describes a concealed plan or resource, not lack of authority."
+              },
+              {
+                "option": "under her thumb",
+                "reason": "This implies being under her control, opposite to the stated limit."
+              },
+              {
+                "option": "on her toes",
+                "reason": "On one’s toes means alert and ready, not outside authority."
+              },
+              {
+                "option": "at her fingertips",
+                "reason": "At one’s fingertips means readily available, not outside control."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I03-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The company said it valued transparency but concealed every important figure; it merely ___.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "left no stone unturned",
+            "put its cards on the table",
+            "called a spade a spade",
+            "turned over a new leaf",
+            "paid lip service to transparency"
+          ],
+          "answer": "paid lip service to transparency",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "transparency"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Its stated values conflict with its concealment.",
+            "rule": "Pay lip service to something means express support without matching action.",
+            "model": "The company said it valued transparency but concealed every important figure; it merely paid lip service to transparency.",
+            "rejects": [
+              {
+                "option": "left no stone unturned",
+                "reason": "This would mean made every effort, not offered empty verbal support."
+              },
+              {
+                "option": "put its cards on the table",
+                "reason": "This would mean revealed intentions or facts openly."
+              },
+              {
+                "option": "called a spade a spade",
+                "reason": "This would mean spoke plainly and directly."
+              },
+              {
+                "option": "turned over a new leaf",
+                "reason": "This would mean genuinely changed behaviour for the better."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I03-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "title": "Actions and practical consequences",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The auditor refused to ___ to an obvious discrepancy merely to avoid an argument.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "turn a blind eye",
+            "keep an open mind",
+            "break the ice",
+            "make a clean breast",
+            "take the plunge"
+          ],
+          "answer": "turn a blind eye",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The temptation is deliberate ignoring of an obvious fault.",
+            "rule": "Turn a blind eye to means deliberately ignore.",
+            "model": "The auditor refused to turn a blind eye to an obvious discrepancy merely to avoid an argument.",
+            "rejects": [
+              {
+                "option": "keep an open mind",
+                "reason": "Keeping an open mind avoids premature judgement; it does not mean deliberately ignore an obvious problem."
+              },
+              {
+                "option": "break the ice",
+                "reason": "Breaking the ice eases social tension, not conceals a discrepancy."
+              },
+              {
+                "option": "make a clean breast",
+                "reason": "Make a clean breast of means confess, and does not take to in this pattern."
+              },
+              {
+                "option": "take the plunge",
+                "reason": "Taking the plunge means decide on a difficult action."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I04-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The panel would not ___ on identity checks, even if skipping them would save time.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "draw a blank",
+            "cut corners",
+            "lose face",
+            "break even",
+            "change hands"
+          ],
+          "answer": "cut corners",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Skipping required checks to save time is an improper shortcut.",
+            "rule": "Cut corners means omit proper steps to save effort, time or cost.",
+            "model": "The panel would not cut corners on identity checks, even if skipping them would save time.",
+            "rejects": [
+              {
+                "option": "draw a blank",
+                "reason": "Draw a blank means fail to obtain an answer or result."
+              },
+              {
+                "option": "lose face",
+                "reason": "Lose face means suffer humiliation."
+              },
+              {
+                "option": "break even",
+                "reason": "Break even means neither make profit nor loss."
+              },
+              {
+                "option": "change hands",
+                "reason": "Change hands means pass into new ownership."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I04-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "After the borrower submitted the last document, ___; only the bank could decide what happened next.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "the bank was in hot water",
+            "the bank was on cloud nine",
+            "the ball was in the bank’s court",
+            "the bank had bitten off more than it could chew",
+            "the bank had missed the boat"
+          ],
+          "answer": "the ball was in the bank’s court",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Only the bank could take the next decision.",
+            "rule": "The ball is in someone’s court means it is their turn or responsibility to act.",
+            "model": "After the borrower submitted the last document, the ball was in the bank’s court; only the bank could decide what happened next.",
+            "rejects": [
+              {
+                "option": "the bank was in hot water",
+                "reason": "In hot water means in trouble, not next to act."
+              },
+              {
+                "option": "the bank was on cloud nine",
+                "reason": "On cloud nine means extremely happy."
+              },
+              {
+                "option": "the bank had bitten off more than it could chew",
+                "reason": "This means accepted more work than it could handle."
+              },
+              {
+                "option": "the bank had missed the boat",
+                "reason": "This means lost an opportunity."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I04-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Despite receiving a larger loan, the firm kept ___; its salary payments remained a constant struggle.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "its cards close to its chest",
+            "its fingers crossed",
+            "its nose in the air",
+            "its head above water",
+            "its ear to the ground"
+          ],
+          "answer": "its head above water",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "despite"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "Constant struggle to meet obligations suggests barely managing.",
+            "rule": "Keep one’s head above water means manage to avoid failure or being overwhelmed.",
+            "model": "Despite receiving a larger loan, the firm kept its head above water; its salary payments remained a constant struggle.",
+            "rejects": [
+              {
+                "option": "its cards close to its chest",
+                "reason": "This means kept intentions secret, not narrowly avoided financial failure."
+              },
+              {
+                "option": "its fingers crossed",
+                "reason": "This means hoped for good luck, not remained barely solvent."
+              },
+              {
+                "option": "its nose in the air",
+                "reason": "This suggests an arrogant attitude."
+              },
+              {
+                "option": "its ear to the ground",
+                "reason": "This means stayed informed about developments."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I04-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The verified backup proved to be ___: without it, the bank could not have recovered its records.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "a red herring",
+            "a white elephant",
+            "a storm in a teacup",
+            "a wild-goose chase",
+            "a saving grace"
+          ],
+          "answer": "a saving grace",
+          "skill": "idiom/phrasal completion",
+          "vocabulary": [
+            "red herring"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Context and construction: keep the intended action and direction",
+            "clue": "The backup was the feature that rescued the situation.",
+            "rule": "A saving grace is a redeeming feature that makes a bad situation less bad.",
+            "model": "The verified backup proved to be a saving grace: without it, the bank could not have recovered its records.",
+            "rejects": [
+              {
+                "option": "a red herring",
+                "reason": "A red herring distracts attention from the relevant issue."
+              },
+              {
+                "option": "a white elephant",
+                "reason": "A white elephant is costly to maintain and of little use."
+              },
+              {
+                "option": "a storm in a teacup",
+                "reason": "This means excessive concern over a minor matter."
+              },
+              {
+                "option": "a wild-goose chase",
+                "reason": "This means a futile search."
+              }
+            ]
+          },
+          "id": "idioms-phrasal/I04-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "title": "Interpret the whole expression",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The review left [no stone unturned] in tracing the missing records.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "made every possible effort",
+            "avoided all difficult questions",
+            "accepted the first plausible story",
+            "stopped after checking one file",
+            "hid the remaining evidence"
+          ],
+          "answer": "made every possible effort",
+          "skill": "idiom meaning",
+          "vocabulary": [
+            "review"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "The review pursued every avenue, rather than doing a cursory check.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“no stone unturned” here means “made every possible effort”.",
+            "rejects": [
+              {
+                "option": "avoided all difficult questions",
+                "reason": "This does not express the phrase in this context. The review pursued every avenue, rather than doing a cursory check."
+              },
+              {
+                "option": "accepted the first plausible story",
+                "reason": "This does not express the phrase in this context. The review pursued every avenue, rather than doing a cursory check."
+              },
+              {
+                "option": "stopped after checking one file",
+                "reason": "This does not express the phrase in this context. The review pursued every avenue, rather than doing a cursory check."
+              },
+              {
+                "option": "hid the remaining evidence",
+                "reason": "This does not express the phrase in this context. The review pursued every avenue, rather than doing a cursory check."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I05-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The proposed side issue was [a red herring] in the debate about the missing funds.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "decisive evidence of fraud",
+            "a distraction from the relevant issue",
+            "an agreed repayment date",
+            "a complete solution to the loss",
+            "a formal admission of guilt"
+          ],
+          "answer": "a distraction from the relevant issue",
+          "skill": "idiom meaning",
+          "vocabulary": [
+            "red herring"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "The phrase identifies a diversion, not proof or a remedy.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“a red herring” here means “a distraction from the relevant issue”.",
+            "rejects": [
+              {
+                "option": "decisive evidence of fraud",
+                "reason": "This does not express the phrase in this context. The phrase identifies a diversion, not proof or a remedy."
+              },
+              {
+                "option": "an agreed repayment date",
+                "reason": "This does not express the phrase in this context. The phrase identifies a diversion, not proof or a remedy."
+              },
+              {
+                "option": "a complete solution to the loss",
+                "reason": "This does not express the phrase in this context. The phrase identifies a diversion, not proof or a remedy."
+              },
+              {
+                "option": "a formal admission of guilt",
+                "reason": "This does not express the phrase in this context. The phrase identifies a diversion, not proof or a remedy."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I05-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The chair asked both sides to [put their cards on the table] before negotiating.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "conceal their demands",
+            "leave the negotiation immediately",
+            "state their intentions openly",
+            "accept every proposal without reading it",
+            "postpone the decision indefinitely"
+          ],
+          "answer": "state their intentions openly",
+          "skill": "idiom meaning",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "The request is for openness before negotiation.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“put their cards on the table” here means “state their intentions openly”.",
+            "rejects": [
+              {
+                "option": "conceal their demands",
+                "reason": "This does not express the phrase in this context. The request is for openness before negotiation."
+              },
+              {
+                "option": "leave the negotiation immediately",
+                "reason": "This does not express the phrase in this context. The request is for openness before negotiation."
+              },
+              {
+                "option": "accept every proposal without reading it",
+                "reason": "This does not express the phrase in this context. The request is for openness before negotiation."
+              },
+              {
+                "option": "postpone the decision indefinitely",
+                "reason": "This does not express the phrase in this context. The request is for openness before negotiation."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I05-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The firm [broke even] after paying all the operating costs.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "doubled its profits",
+            "stopped trading permanently",
+            "failed to pay its debts",
+            "made neither a profit nor a loss",
+            "spent more than it earned"
+          ],
+          "answer": "made neither a profit nor a loss",
+          "skill": "idiom meaning",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "After costs, breaking even means zero net profit or loss.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“broke even” here means “made neither a profit nor a loss”.",
+            "rejects": [
+              {
+                "option": "doubled its profits",
+                "reason": "This does not express the phrase in this context. After costs, breaking even means zero net profit or loss."
+              },
+              {
+                "option": "stopped trading permanently",
+                "reason": "This does not express the phrase in this context. After costs, breaking even means zero net profit or loss."
+              },
+              {
+                "option": "failed to pay its debts",
+                "reason": "This does not express the phrase in this context. After costs, breaking even means zero net profit or loss."
+              },
+              {
+                "option": "spent more than it earned",
+                "reason": "This does not express the phrase in this context. After costs, breaking even means zero net profit or loss."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I05-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The committee [drew a line] between a temporary cash shortage and insolvency.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "treated them as identical",
+            "proved they could never coexist",
+            "postponed both indefinitely",
+            "removed every financial risk",
+            "made a distinction"
+          ],
+          "answer": "made a distinction",
+          "skill": "idiom meaning",
+          "vocabulary": [
+            "insolvency"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "The phrase separates two concepts; it does not prove that only one can exist.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“drew a line” here means “made a distinction”.",
+            "rejects": [
+              {
+                "option": "treated them as identical",
+                "reason": "This does not express the phrase in this context. The phrase separates two concepts; it does not prove that only one can exist."
+              },
+              {
+                "option": "proved they could never coexist",
+                "reason": "This does not express the phrase in this context. The phrase separates two concepts; it does not prove that only one can exist."
+              },
+              {
+                "option": "postponed both indefinitely",
+                "reason": "This does not express the phrase in this context. The phrase separates two concepts; it does not prove that only one can exist."
+              },
+              {
+                "option": "removed every financial risk",
+                "reason": "This does not express the phrase in this context. The phrase separates two concepts; it does not prove that only one can exist."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I05-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "title": "Degree, priority and evidence",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The auditor would not [jump to conclusions] merely because one document was missing.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "form a judgement before sufficient examination",
+            "refuse all conclusions even after proof",
+            "publish a final report on schedule",
+            "compare all available records carefully",
+            "ask for additional supporting evidence"
+          ],
+          "answer": "form a judgement before sufficient examination",
+          "skill": "idiom meaning",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "Merely one missing document is an insufficient basis for a hasty judgement.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“jump to conclusions” here means “form a judgement before sufficient examination”.",
+            "rejects": [
+              {
+                "option": "refuse all conclusions even after proof",
+                "reason": "This does not express the phrase in this context. Merely one missing document is an insufficient basis for a hasty judgement."
+              },
+              {
+                "option": "publish a final report on schedule",
+                "reason": "This does not express the phrase in this context. Merely one missing document is an insufficient basis for a hasty judgement."
+              },
+              {
+                "option": "compare all available records carefully",
+                "reason": "This does not express the phrase in this context. Merely one missing document is an insufficient basis for a hasty judgement."
+              },
+              {
+                "option": "ask for additional supporting evidence",
+                "reason": "This does not express the phrase in this context. Merely one missing document is an insufficient basis for a hasty judgement."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I06-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The project was [put on the back burner] while the urgent security repair was completed.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "permanently prohibited",
+            "temporarily given lower priority",
+            "finished ahead of schedule",
+            "proved commercially profitable",
+            "transferred to a new owner"
+          ],
+          "answer": "temporarily given lower priority",
+          "skill": "idiom meaning",
+          "vocabulary": [
+            "repair"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "While the urgent repair was completed indicates temporary deprioritisation, not abandonment.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“put on the back burner” here means “temporarily given lower priority”.",
+            "rejects": [
+              {
+                "option": "permanently prohibited",
+                "reason": "This does not express the phrase in this context. While the urgent repair was completed indicates temporary deprioritisation, not abandonment."
+              },
+              {
+                "option": "finished ahead of schedule",
+                "reason": "This does not express the phrase in this context. While the urgent repair was completed indicates temporary deprioritisation, not abandonment."
+              },
+              {
+                "option": "proved commercially profitable",
+                "reason": "This does not express the phrase in this context. While the urgent repair was completed indicates temporary deprioritisation, not abandonment."
+              },
+              {
+                "option": "transferred to a new owner",
+                "reason": "This does not express the phrase in this context. While the urgent repair was completed indicates temporary deprioritisation, not abandonment."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I06-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The board [held off on] approving the plan until costs were verified.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "accelerated",
+            "guaranteed",
+            "delayed",
+            "secretly delegated",
+            "permanently abolished"
+          ],
+          "answer": "delayed",
+          "skill": "idiom meaning",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "Until verification gives the endpoint of a delay.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“held off on” here means “delayed”.",
+            "rejects": [
+              {
+                "option": "accelerated",
+                "reason": "This does not express the phrase in this context. Until verification gives the endpoint of a delay."
+              },
+              {
+                "option": "guaranteed",
+                "reason": "This does not express the phrase in this context. Until verification gives the endpoint of a delay."
+              },
+              {
+                "option": "secretly delegated",
+                "reason": "This does not express the phrase in this context. Until verification gives the endpoint of a delay."
+              },
+              {
+                "option": "permanently abolished",
+                "reason": "This does not express the phrase in this context. Until verification gives the endpoint of a delay."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I06-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The investigation [brought to light] a repeated pattern of duplicate debits.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "concealed",
+            "caused to disappear",
+            "formally approved",
+            "revealed",
+            "proved to be harmless"
+          ],
+          "answer": "revealed",
+          "skill": "idiom meaning",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "The pattern became known through investigation.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“brought to light” here means “revealed”.",
+            "rejects": [
+              {
+                "option": "concealed",
+                "reason": "This does not express the phrase in this context. The pattern became known through investigation."
+              },
+              {
+                "option": "caused to disappear",
+                "reason": "This does not express the phrase in this context. The pattern became known through investigation."
+              },
+              {
+                "option": "formally approved",
+                "reason": "This does not express the phrase in this context. The pattern became known through investigation."
+              },
+              {
+                "option": "proved to be harmless",
+                "reason": "This does not express the phrase in this context. The pattern became known through investigation."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I06-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The applicant [took the assurance with a pinch of salt] because no records supported it.",
+          "instructions": "Choose the single best answer using the complete context.",
+          "options": [
+            "accepted it as certain",
+            "rejected every possible explanation forever",
+            "publicised it as verified proof",
+            "treated it as a binding legal order",
+            "viewed it with some scepticism"
+          ],
+          "answer": "viewed it with some scepticism",
+          "skill": "idiom meaning",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Meaning in context, including degree and timing",
+            "clue": "Some scepticism is weaker than absolute disbelief; the missing support warrants caution.",
+            "rule": "Interpret the whole expression in context; do not assign a literal meaning to each word.",
+            "model": "“took the assurance with a pinch of salt” here means “viewed it with some scepticism”.",
+            "rejects": [
+              {
+                "option": "accepted it as certain",
+                "reason": "This does not express the phrase in this context. Some scepticism is weaker than absolute disbelief; the missing support warrants caution."
+              },
+              {
+                "option": "rejected every possible explanation forever",
+                "reason": "This does not express the phrase in this context. Some scepticism is weaker than absolute disbelief; the missing support warrants caution."
+              },
+              {
+                "option": "publicised it as verified proof",
+                "reason": "This does not express the phrase in this context. Some scepticism is weaker than absolute disbelief; the missing support warrants caution."
+              },
+              {
+                "option": "treated it as a binding legal order",
+                "reason": "This does not express the phrase in this context. Some scepticism is weaker than absolute disbelief; the missing support warrants caution."
+              }
+            ],
+            "modelLabel": "Meaning"
+          },
+          "id": "idioms-phrasal/I06-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "title": "Phrasal verbs: pronoun placement",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Which uses of “rule out” are correct?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "I and II only",
+            "None",
+            "I only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [
+            "correct",
+            "rule out"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The audit could not rule out a duplicate import. The audit ruled it out after checking the import log. The audit ruled it out after checking the import log.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Rule out means exclude a possible explanation. II: A pronoun object goes between rule and out: rule it out. III: Use ruled it out, not ruled out it."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Rule out means exclude a possible explanation. II: A pronoun object goes between rule and out: rule it out. III: Use ruled it out, not ruled out it."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Rule out means exclude a possible explanation. II: A pronoun object goes between rule and out: rule it out. III: Use ruled it out, not ruled out it."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Rule out means exclude a possible explanation. II: A pronoun object goes between rule and out: rule it out. III: Use ruled it out, not ruled out it."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The audit could not rule out a duplicate import.",
+              "valid": true,
+              "reason": "Rule out means exclude a possible explanation."
+            },
+            {
+              "label": "II",
+              "text": "The audit ruled it out after checking the import log.",
+              "valid": true,
+              "reason": "A pronoun object goes between rule and out: rule it out."
+            },
+            {
+              "label": "III",
+              "text": "The audit ruled out it after checking the import log.",
+              "valid": false,
+              "reason": "Use ruled it out, not ruled out it."
+            }
+          ],
+          "id": "idioms-phrasal/I07-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “carry out” are INCORRECT?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "I only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [
+            "carry out"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The team carried them out before release. The team carried out the approved checks. The team carried them out before release.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Use carried them out, not carried out them. II: Carry out means perform. III: The pronoun them separates carried and out."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Use carried them out, not carried out them. II: Carry out means perform. III: The pronoun them separates carried and out."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Use carried them out, not carried out them. II: Carry out means perform. III: The pronoun them separates carried and out."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Use carried them out, not carried out them. II: Carry out means perform. III: The pronoun them separates carried and out."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The team carried out them before release.",
+              "valid": false,
+              "reason": "Use carried them out, not carried out them."
+            },
+            {
+              "label": "II",
+              "text": "The team carried out the approved checks.",
+              "valid": true,
+              "reason": "Carry out means perform."
+            },
+            {
+              "label": "III",
+              "text": "The team carried them out before release.",
+              "valid": true,
+              "reason": "The pronoun them separates carried and out."
+            }
+          ],
+          "id": "idioms-phrasal/I07-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “look into” are correct?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "I and III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [
+            "correct",
+            "look into"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The regulator looked into the complaint. The regulator looked into it immediately. The regulator looked into it immediately.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Look into means investigate. II: Use looked into it; this construction cannot be split by it. III: Into remains before its object in this inseparable construction."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Look into means investigate. II: Use looked into it; this construction cannot be split by it. III: Into remains before its object in this inseparable construction."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Look into means investigate. II: Use looked into it; this construction cannot be split by it. III: Into remains before its object in this inseparable construction."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Look into means investigate. II: Use looked into it; this construction cannot be split by it. III: Into remains before its object in this inseparable construction."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The regulator looked into the complaint.",
+              "valid": true,
+              "reason": "Look into means investigate."
+            },
+            {
+              "label": "II",
+              "text": "The regulator looked it into immediately.",
+              "valid": false,
+              "reason": "Use looked into it; this construction cannot be split by it."
+            },
+            {
+              "label": "III",
+              "text": "The regulator looked into it immediately.",
+              "valid": true,
+              "reason": "Into remains before its object in this inseparable construction."
+            }
+          ],
+          "id": "idioms-phrasal/I07-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “put off” are INCORRECT?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "III only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The bank put off the hearing until Monday. The bank put it off until Monday. The bank put it off until Monday.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Put off can mean postpone. II: The pronoun object belongs between put and off. III: Use put it off, not put off it."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Put off can mean postpone. II: The pronoun object belongs between put and off. III: Use put it off, not put off it."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Put off can mean postpone. II: The pronoun object belongs between put and off. III: Use put it off, not put off it."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Put off can mean postpone. II: The pronoun object belongs between put and off. III: Use put it off, not put off it."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank put off the hearing until Monday.",
+              "valid": true,
+              "reason": "Put off can mean postpone."
+            },
+            {
+              "label": "II",
+              "text": "The bank put it off until Monday.",
+              "valid": true,
+              "reason": "The pronoun object belongs between put and off."
+            },
+            {
+              "label": "III",
+              "text": "The bank put off it until Monday.",
+              "valid": false,
+              "reason": "Use put it off, not put off it."
+            }
+          ],
+          "id": "idioms-phrasal/I07-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “call off” are correct?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "II and III only"
+          ],
+          "answer": "II and III only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [
+            "correct"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The bank called it off because the project had been abandoned. The bank called off the launch because the project had been abandoned. The bank called the launch off because the project had been abandoned.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: A pronoun must separate the verb and particle: called it off. II: Call off means cancel. III: A noun object may separate call and off."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: A pronoun must separate the verb and particle: called it off. II: Call off means cancel. III: A noun object may separate call and off."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: A pronoun must separate the verb and particle: called it off. II: Call off means cancel. III: A noun object may separate call and off."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: A pronoun must separate the verb and particle: called it off. II: Call off means cancel. III: A noun object may separate call and off."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank called off it because the project had been abandoned.",
+              "valid": false,
+              "reason": "A pronoun must separate the verb and particle: called it off."
+            },
+            {
+              "label": "II",
+              "text": "The bank called off the launch because the project had been abandoned.",
+              "valid": true,
+              "reason": "Call off means cancel."
+            },
+            {
+              "label": "III",
+              "text": "The bank called the launch off because the project had been abandoned.",
+              "valid": true,
+              "reason": "A noun object may separate call and off."
+            }
+          ],
+          "id": "idioms-phrasal/I07-Q5"
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "title": "Valid alternatives and incorrect directions",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Which uses of “take into account” are INCORRECT?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "II only",
+            "None",
+            "I only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "II only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The panel took the maintenance costs into account. The panel took the maintenance costs into account. The panel took into account the maintenance costs.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Take something into account is a valid arrangement. II: The fixed expression ends in account, not accountable. III: Take into account + a noun object is also valid."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Take something into account is a valid arrangement. II: The fixed expression ends in account, not accountable. III: Take into account + a noun object is also valid."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Take something into account is a valid arrangement. II: The fixed expression ends in account, not accountable. III: Take into account + a noun object is also valid."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Take something into account is a valid arrangement. II: The fixed expression ends in account, not accountable. III: Take into account + a noun object is also valid."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The panel took the maintenance costs into account.",
+              "valid": true,
+              "reason": "Take something into account is a valid arrangement."
+            },
+            {
+              "label": "II",
+              "text": "The panel took the maintenance costs into accountable.",
+              "valid": false,
+              "reason": "The fixed expression ends in account, not accountable."
+            },
+            {
+              "label": "III",
+              "text": "The panel took into account the maintenance costs.",
+              "valid": true,
+              "reason": "Take into account + a noun object is also valid."
+            }
+          ],
+          "id": "idioms-phrasal/I08-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “run out of” are correct?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I and II only",
+            "I only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [
+            "correct"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The firm ran out of ready cash. Ready cash ran out before Friday. The firm ran out of ready cash.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Run out of + resource means exhaust it. II: The resource can be the subject of intransitive run out. III: The object cannot be placed inside run out of in this way."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Run out of + resource means exhaust it. II: The resource can be the subject of intransitive run out. III: The object cannot be placed inside run out of in this way."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Run out of + resource means exhaust it. II: The resource can be the subject of intransitive run out. III: The object cannot be placed inside run out of in this way."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Run out of + resource means exhaust it. II: The resource can be the subject of intransitive run out. III: The object cannot be placed inside run out of in this way."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The firm ran out of ready cash.",
+              "valid": true,
+              "reason": "Run out of + resource means exhaust it."
+            },
+            {
+              "label": "II",
+              "text": "Ready cash ran out before Friday.",
+              "valid": true,
+              "reason": "The resource can be the subject of intransitive run out."
+            },
+            {
+              "label": "III",
+              "text": "The firm ran ready cash out of.",
+              "valid": false,
+              "reason": "The object cannot be placed inside run out of in this way."
+            }
+          ],
+          "id": "idioms-phrasal/I08-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “bring up” are INCORRECT?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "II only",
+            "I only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "I only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The auditor brought it up at the meeting. The auditor brought up the missing receipt at the meeting. The auditor brought it up at the meeting.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Bring up it incorrectly leaves the pronoun after the particle. II: Bring up means raise a topic for discussion. III: With a pronoun object use bring it up."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Bring up it incorrectly leaves the pronoun after the particle. II: Bring up means raise a topic for discussion. III: With a pronoun object use bring it up."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Bring up it incorrectly leaves the pronoun after the particle. II: Bring up means raise a topic for discussion. III: With a pronoun object use bring it up."
+              },
+              {
+                "option": "III only",
+                "reason": "This is not the complete required set. I: Bring up it incorrectly leaves the pronoun after the particle. II: Bring up means raise a topic for discussion. III: With a pronoun object use bring it up."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The auditor brought up it at the meeting.",
+              "valid": false,
+              "reason": "Bring up it incorrectly leaves the pronoun after the particle."
+            },
+            {
+              "label": "II",
+              "text": "The auditor brought up the missing receipt at the meeting.",
+              "valid": true,
+              "reason": "Bring up means raise a topic for discussion."
+            },
+            {
+              "label": "III",
+              "text": "The auditor brought it up at the meeting.",
+              "valid": true,
+              "reason": "With a pronoun object use bring it up."
+            }
+          ],
+          "id": "idioms-phrasal/I08-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “set aside” are correct?",
+          "instructions": "Choose all and only the correct statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [
+            "correct"
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select CORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The bank set aside a reserve for emergencies. The bank set it aside for emergencies. The bank set the reserve aside for emergencies.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Set aside can mean reserve for a purpose. II: The pronoun requires set it aside. III: A noun object can appear between set and aside."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Set aside can mean reserve for a purpose. II: The pronoun requires set it aside. III: A noun object can appear between set and aside."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Set aside can mean reserve for a purpose. II: The pronoun requires set it aside. III: A noun object can appear between set and aside."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Set aside can mean reserve for a purpose. II: The pronoun requires set it aside. III: A noun object can appear between set and aside."
+              }
+            ]
+          },
+          "selectionDirection": "correct",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank set aside a reserve for emergencies.",
+              "valid": true,
+              "reason": "Set aside can mean reserve for a purpose."
+            },
+            {
+              "label": "II",
+              "text": "The bank set aside it for emergencies.",
+              "valid": false,
+              "reason": "The pronoun requires set it aside."
+            },
+            {
+              "label": "III",
+              "text": "The bank set the reserve aside for emergencies.",
+              "valid": true,
+              "reason": "A noun object can appear between set and aside."
+            }
+          ],
+          "id": "idioms-phrasal/I08-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Which uses of “turn down” are INCORRECT?",
+          "instructions": "Choose all and only the incorrect statements. In the explanation, valid means the sentence is correct.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "III only"
+          ],
+          "answer": "III only",
+          "skill": "phrasal usage combination",
+          "vocabulary": [],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ]
+          },
+          "explanation": {
+            "relationship": "Direction: select INCORRECT statements",
+            "clue": "Check each statement independently before selecting a combination.",
+            "rule": "A combination must contain every required statement and no extra one.",
+            "model": "The panel turned down the request because essential evidence was missing. The panel turned it down because essential evidence was missing. The panel turned it down because essential evidence was missing.",
+            "rejects": [
+              {
+                "option": "None",
+                "reason": "This is not the complete required set. I: Turn down a request means reject it. II: A pronoun object separates turn and down. III: Use turned it down, not turned down it."
+              },
+              {
+                "option": "I only",
+                "reason": "This is not the complete required set. I: Turn down a request means reject it. II: A pronoun object separates turn and down. III: Use turned it down, not turned down it."
+              },
+              {
+                "option": "II only",
+                "reason": "This is not the complete required set. I: Turn down a request means reject it. II: A pronoun object separates turn and down. III: Use turned it down, not turned down it."
+              },
+              {
+                "option": "I and II only",
+                "reason": "This is not the complete required set. I: Turn down a request means reject it. II: A pronoun object separates turn and down. III: Use turned it down, not turned down it."
+              }
+            ]
+          },
+          "selectionDirection": "incorrect",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The panel turned down the request because essential evidence was missing.",
+              "valid": true,
+              "reason": "Turn down a request means reject it."
+            },
+            {
+              "label": "II",
+              "text": "The panel turned it down because essential evidence was missing.",
+              "valid": true,
+              "reason": "A pronoun object separates turn and down."
+            },
+            {
+              "label": "III",
+              "text": "The panel turned down it because essential evidence was missing.",
+              "valid": false,
+              "reason": "Use turned it down, not turned down it."
+            }
+          ],
+          "id": "idioms-phrasal/I08-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-I01",
+      "title": "Paired idioms and the exact contrast",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The panel postponed a final judgement until independent checks were complete; it did not conceal a known defect. It chose to ___ rather than ___.",
+          "instructions": "Choose the complete answer after checking every stated constraint.",
+          "options": [
+            "reserve judgement / sweep the issue under the carpet",
+            "sit on the fence / reserve judgement",
+            "sweep the issue under the carpet / reserve judgement",
+            "jump to conclusions / keep an open mind",
+            "take the claim at face value / hold off on a verdict"
+          ],
+          "answer": "reserve judgement / sweep the issue under the carpet",
+          "skill": "paired idioms: contrast, relevance and negation",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "conceal",
+            "at face value"
+          ],
+          "explanation": {
+            "relationship": "paired idioms: contrast, relevance and negation",
+            "clue": "The first gap is temporary suspension of a verdict for a stated evidential reason; the second is deliberate concealment.",
+            "rule": "Do not reject an idiom just because it is negative. Map both expressions to the two distinct actions.",
+            "model": "The panel chose to reserve judgement rather than sweep the issue under the carpet.",
+            "rejects": [
+              {
+                "option": "sit on the fence / reserve judgement",
+                "reason": "Sit on the fence can suggest avoiding a decision, but the second phrase would contrast waiting with waiting, not with concealing the defect."
+              },
+              {
+                "option": "sweep the issue under the carpet / reserve judgement",
+                "reason": "This reverses the supplied contrast by making concealment the panel’s chosen action."
+              },
+              {
+                "option": "jump to conclusions / keep an open mind",
+                "reason": "Jump to conclusions is a premature judgement, contrary to waiting for independent checks."
+              },
+              {
+                "option": "take the claim at face value / hold off on a verdict",
+                "reason": "Taking at face value accepts the claim without the scrutiny for which the panel is waiting."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "sit on the fence / reserve judgement",
+            "whyNot": "Sit on the fence can suggest avoiding a decision, but the second phrase would contrast waiting with waiting, not with concealing the defect.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "idioms-phrasal/MH-I01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "The deposit-growth figure was accurate, but it distracted the meeting from the unaddressed liquidity problem. In that discussion it was ___; the liquidity issue was still ___.",
+          "instructions": "Choose the complete answer after checking every stated constraint.",
+          "options": [
+            "the tip of the iceberg / water under the bridge",
+            "a red herring / hanging over the bank",
+            "a red herring / water under the bridge",
+            "a blessing in disguise / on its last legs",
+            "a level playing field / hanging by a thread"
+          ],
+          "answer": "a red herring / hanging over the bank",
+          "skill": "paired idioms: contrast, relevance and negation",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "liquidity",
+            "red herring"
+          ],
+          "explanation": {
+            "relationship": "paired idioms: contrast, relevance and negation",
+            "clue": "A red herring need not be a false statement: its defect is distracting attention from the relevant question. Hanging over describes a continuing unresolved concern.",
+            "rule": "Evaluate relevance separately from truth. A favourable figure can still divert an argument.",
+            "model": "The growth figure was a red herring in the discussion, while the liquidity issue was still hanging over the bank.",
+            "rejects": [
+              {
+                "option": "the tip of the iceberg / water under the bridge",
+                "reason": "The growth figure is not identified as the visible part of a larger hidden problem, and the liquidity issue remains unresolved rather than past and settled."
+              },
+              {
+                "option": "a red herring / water under the bridge",
+                "reason": "The distraction fits the first gap, but the second idiom wrongly dismisses the continuing liquidity problem as settled history."
+              },
+              {
+                "option": "a blessing in disguise / on its last legs",
+                "reason": "An accurate distracting statistic is not shown to be an apparent misfortune with hidden benefits; the problem itself is not a failing institution."
+              },
+              {
+                "option": "a level playing field / hanging by a thread",
+                "reason": "A level playing field concerns fair competitive conditions, not a distracting argument."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "the tip of the iceberg / water under the bridge",
+            "whyNot": "The growth figure is not identified as the visible part of a larger hidden problem, and the liquidity issue remains unresolved rather than past and settled.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "idioms-phrasal/MH-I01-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "The lender retained its unpopular safeguard despite public criticism, but it refused to accept an unverifiable assurance without checking it. It decided to ___ and not ___.",
+          "instructions": "Choose the complete answer after checking every stated constraint.",
+          "options": [
+            "stand its ground / look into the assurance",
+            "move the goalposts / take the assurance at face value",
+            "stand its ground / take the assurance at face value",
+            "throw in the towel / take the assurance at face value",
+            "stand its ground / leave no stone unturned"
+          ],
+          "answer": "stand its ground / take the assurance at face value",
+          "skill": "paired idioms: contrast, relevance and negation",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "despite",
+            "public",
+            "at face value",
+            "look into"
+          ],
+          "explanation": {
+            "relationship": "paired idioms: contrast, relevance and negation",
+            "clue": "One action is firmness under pressure; the other, rejected action is accepting surface assurances without scrutiny.",
+            "rule": "The shared negative applies to the second idiom. Read not take at face value as a commitment to examine, not a rejection of examination.",
+            "model": "The lender decided to stand its ground and not take the assurance at face value.",
+            "rejects": [
+              {
+                "option": "stand its ground / look into the assurance",
+                "reason": "Standing firm fits, but not look into would refuse investigation, contrary to the stated checking."
+              },
+              {
+                "option": "move the goalposts / take the assurance at face value",
+                "reason": "Move the goalposts means alter the criteria, whereas the lender retained the existing safeguard."
+              },
+              {
+                "option": "throw in the towel / take the assurance at face value",
+                "reason": "Throw in the towel means give up, the opposite of retaining the safeguard under criticism."
+              },
+              {
+                "option": "stand its ground / leave no stone unturned",
+                "reason": "Not leave no stone unturned would reject thorough checking; the second action supplied is uncritical acceptance."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "stand its ground / look into the assurance",
+            "whyNot": "Standing firm fits, but not look into would refuse investigation, contrary to the stated checking.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "idioms-phrasal/MH-I01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "A temporary guarantee kept the enterprise operating during a cash shortage, but it did not solve the underlying losses. It helped the firm ___ without letting it ___.",
+          "instructions": "Choose the complete answer after checking every stated constraint.",
+          "options": [
+            "keep its head above water / make ends meet",
+            "turn the corner / keep its head above water",
+            "go back to square one / turn the corner",
+            "keep its head above water / turn the corner",
+            "keep its head above water / cut corners"
+          ],
+          "answer": "keep its head above water / turn the corner",
+          "skill": "paired idioms: contrast, relevance and negation",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "underlying"
+          ],
+          "explanation": {
+            "relationship": "paired idioms: contrast, relevance and negation",
+            "clue": "Temporary survival is established, while a genuine recovery is expressly withheld. Keep head above water and make ends meet overlap, so the second gap must supply the distinct recovery sense.",
+            "rule": "A paired answer must maintain the contrast, not merely contain two finance-related idioms.",
+            "model": "The guarantee helped the firm keep its head above water without letting it turn the corner.",
+            "rejects": [
+              {
+                "option": "keep its head above water / make ends meet",
+                "reason": "Make ends meet can also refer to managing financially; this does not clearly express the withheld sustained recovery from underlying losses."
+              },
+              {
+                "option": "turn the corner / keep its head above water",
+                "reason": "This reverses temporary survival and sustained improvement."
+              },
+              {
+                "option": "go back to square one / turn the corner",
+                "reason": "The guarantee kept operations going rather than resetting the enterprise to the starting point."
+              },
+              {
+                "option": "keep its head above water / cut corners",
+                "reason": "The statement withholds lasting improvement, not the opportunity to omit required procedures."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "keep its head above water / make ends meet",
+            "whyNot": "Make ends meet can also refer to managing financially; this does not clearly express the withheld sustained recovery from underlying losses.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "idioms-phrasal/MH-I01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The branch agreed to a limited trial to avoid rejecting the idea prematurely, but it refused to skip mandatory identity checks to speed the trial up. It would ___, but would not ___.",
+          "instructions": "Choose the complete answer after checking every stated constraint.",
+          "options": [
+            "give the idea a fair hearing / leave no stone unturned",
+            "jump the gun / cut corners",
+            "give the idea the cold shoulder / cut corners",
+            "give the idea a fair hearing / go the extra mile",
+            "give the idea a fair hearing / cut corners"
+          ],
+          "answer": "give the idea a fair hearing / cut corners",
+          "skill": "paired idioms: contrast, relevance and negation",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "fair"
+          ],
+          "explanation": {
+            "relationship": "paired idioms: contrast, relevance and negation",
+            "clue": "The positive action is a fair opportunity to test; the negative action is bypassing required steps, not effort in general.",
+            "rule": "The concessive but does not license an arbitrary opposite idiom: identify exactly which action is refused.",
+            "model": "The branch would give the idea a fair hearing, but would not cut corners.",
+            "rejects": [
+              {
+                "option": "give the idea a fair hearing / leave no stone unturned",
+                "reason": "The first fits, but refusing exhaustive investigation is not the stated refusal to omit mandatory checks."
+              },
+              {
+                "option": "jump the gun / cut corners",
+                "reason": "Jump the gun is premature action, whereas a limited trial avoids a premature rejection and still respects prerequisites."
+              },
+              {
+                "option": "give the idea the cold shoulder / cut corners",
+                "reason": "Giving the cold shoulder means ignoring or rejecting the approach, contrary to agreeing to test it."
+              },
+              {
+                "option": "give the idea a fair hearing / go the extra mile",
+                "reason": "Refusing extra effort is different from refusing shortcuts that breach requirements."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "give the idea a fair hearing / leave no stone unturned",
+            "whyNot": "The first fits, but refusing exhaustive investigation is not the stated refusal to omit mandatory checks.",
+            "reasoningSteps": [
+              "Identify the exact meaning, grammatical head or reference link required.",
+              "Test the nearest alternative against the entire context, including any limiting clause."
+            ]
+          },
+          "id": "idioms-phrasal/MH-I01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-I02",
+      "title": "Phrasal verbs: sense and object placement",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "Select every sentence using the phrasal verb correctly in the stated sense.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "I and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "phrasal usage: sense and object placement",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "phrasal usage: sense and object placement",
+            "clue": "Discovery is the intended sense of turn up. A full noun object allows separation; an unstressed personal pronoun requires it.",
+            "rule": "Do not mark an unusual but grammatical separable order wrong merely because the unsplit form is more familiar.",
+            "model": "The audit turned up two duplicate entries and turned them up during the final check."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The audit turned up them during the final check.",
+            "whyNot": "With a personal pronoun object in the discover sense, the pronoun must precede up: turned them up.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The audit turned two duplicate entries up during the final check.",
+              "valid": true,
+              "reason": "With a full noun object, separable turn up can place the noun between verb and particle."
+            },
+            {
+              "label": "II",
+              "text": "The audit turned up them during the final check.",
+              "valid": false,
+              "reason": "With a personal pronoun object in the discover sense, the pronoun must precede up: turned them up."
+            },
+            {
+              "label": "III",
+              "text": "The audit turned up two duplicate entries that the first check had missed.",
+              "valid": true,
+              "reason": "Turn up can mean discover or bring to light; the audit is the investigation producing the discovery."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I02-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The intended sense is tolerate a continuing problem. Select all correct uses.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "phrasal usage: sense and object placement",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "correct",
+            "put up with"
+          ],
+          "explanation": {
+            "relationship": "phrasal usage: sense and object placement",
+            "clue": "Put up with differs from separable put off or turn down; the object belongs after with.",
+            "rule": "Do not apply the pronoun-before-particle rule to an inseparable verb plus preposition.",
+            "model": "The borrowers would no longer put up with unexplained charges; they would no longer put up with them."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The borrowers would no longer put unexplained charges up with.",
+            "whyNot": "The object of put up with follows the complete three-word construction; this order splits it incorrectly.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The borrowers would no longer put up with unexplained charges.",
+              "valid": true,
+              "reason": "Put up with is an inseparable three-word construction in the tolerate sense."
+            },
+            {
+              "label": "II",
+              "text": "The borrowers would no longer put unexplained charges up with.",
+              "valid": false,
+              "reason": "The object of put up with follows the complete three-word construction; this order splits it incorrectly."
+            },
+            {
+              "label": "III",
+              "text": "The borrowers would no longer put up with them.",
+              "valid": true,
+              "reason": "The pronoun follows with because this tolerate construction is inseparable."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I02-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The intended sense is examine records in detail, not revise the decision. Select all valid sentences.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "phrasal usage: sense and object placement",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "examine"
+          ],
+          "explanation": {
+            "relationship": "phrasal usage: sense and object placement",
+            "clue": "The requested sense selects go over records, not a superficially similar separable pattern.",
+            "rule": "Learn the placement with the intended construction rather than assuming every two-word verb separates.",
+            "model": "The reviewer went over the records and went over them before confirming the amount."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The reviewer went them over before confirming the amount.",
+            "whyNot": "In the examine sense, go over takes its object after over: went over them.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The reviewer went over them before confirming the amount.",
+              "valid": true,
+              "reason": "The pronoun is correctly placed after over in this review construction."
+            },
+            {
+              "label": "II",
+              "text": "The reviewer went over the records before confirming the amount.",
+              "valid": true,
+              "reason": "Go over can mean examine or review, and the noun object correctly follows over."
+            },
+            {
+              "label": "III",
+              "text": "The reviewer went them over before confirming the amount.",
+              "valid": false,
+              "reason": "In the examine sense, go over takes its object after over: went over them."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I02-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Each sentence must use the bold idea correctly: an investigation is initiated, a rumour is dismissed, or an outcome is caused. Select every valid sentence.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "phrasal usage: sense and object placement",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "phrasal usage: sense and object placement",
+            "clue": "A sentence can describe undesirable conduct and still use an expression correctly. Bring about creates an outcome rather than removes it.",
+            "rule": "Separate correctness of usage from approval of the action. Check the supplied paraphrase as well as the particle placement.",
+            "model": "The branch set up an inquiry; dismissing the complaint would brush it off, while causing confusion would bring it about."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The revised notice brought the misunderstanding about, meaning that it eliminated the misunderstanding.",
+            "whyNot": "Bring about means cause, not eliminate. The stated interpretation contradicts what brought ... about actually says.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The branch brushed off the complaint without examining the attached evidence.",
+              "valid": true,
+              "reason": "Brush off means dismiss or disregard; the sentence describes that dismissal, whether or not it was good conduct."
+            },
+            {
+              "label": "II",
+              "text": "The revised notice brought the misunderstanding about, meaning that it eliminated the misunderstanding.",
+              "valid": false,
+              "reason": "Bring about means cause, not eliminate. The stated interpretation contradicts what brought ... about actually says."
+            },
+            {
+              "label": "III",
+              "text": "The branch set up an inquiry into the disputed transfer.",
+              "valid": true,
+              "reason": "Set up means establish or initiate an inquiry."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I02-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The context is postponement, refusal and cancellation respectively. Select every valid sentence.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and III only",
+          "skill": "phrasal usage: sense and object placement",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "phrasal usage: sense and object placement",
+            "clue": "Postponement is not cancellation. After selecting the sense, check pronoun placement in separable turn down.",
+            "rule": "A correct temporal or decision meaning does not excuse a broken pronoun construction.",
+            "model": "The panel put the meeting off, turned the proposal down, and called off the trial."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The panel turned down it because the proposal breached the rule.",
+            "whyNot": "For refuse, turn down is separable and requires turned it down with a pronoun object.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The panel put the meeting off until the missing annex arrived.",
+              "valid": true,
+              "reason": "Put off is separable and expresses postponement; the full noun object can appear before off."
+            },
+            {
+              "label": "II",
+              "text": "The panel turned down it because the proposal breached the rule.",
+              "valid": false,
+              "reason": "For refuse, turn down is separable and requires turned it down with a pronoun object."
+            },
+            {
+              "label": "III",
+              "text": "The panel called off the trial rather than merely postponing it.",
+              "valid": true,
+              "reason": "Call off expresses cancellation, which is correctly distinguished from postponement."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-I03",
+      "title": "Idiomatic paraphrases: every genuine fit",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-rest",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "The board had not yet decided between two options and was deliberately preserving its freedom to choose later. Which expressions fit “The board was ___”?",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "II and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "idiomatic paraphrase: accept all genuine fits",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "open"
+          ],
+          "explanation": {
+            "relationship": "idiomatic paraphrase: accept all genuine fits",
+            "clue": "The uncertainty is deliberate flexibility, not an irreversible rupture.",
+            "rule": "Accept overlapping ways to express withheld commitment; reject the expression that closes routes.",
+            "model": "The board was keeping its options open while reserving its position."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "burning its bridges",
+            "whyNot": "Burning bridges makes returning to an alternative difficult, contrary to preserving both options.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "burning its bridges",
+              "valid": false,
+              "reason": "Burning bridges makes returning to an alternative difficult, contrary to preserving both options."
+            },
+            {
+              "label": "II",
+              "text": "keeping its options open",
+              "valid": true,
+              "reason": "This directly describes preserving the ability to choose later."
+            },
+            {
+              "label": "III",
+              "text": "reserving its position",
+              "valid": true,
+              "reason": "Reserving a position withholds a final commitment, which fits the stated deliberate non-decision."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I03-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "An apparently unfortunate system outage exposed a serious security flaw before customers were harmed. Which descriptions of the outage fit that outcome?",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "II and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "idiomatic paraphrase: accept all genuine fits",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "idiomatic paraphrase: accept all genuine fits",
+            "clue": "The event is an apparent setback that turns out useful; the benefit was not assumed inevitable in advance.",
+            "rule": "Choose according to the full pattern, not the mere presence of one good and one bad word.",
+            "model": "The outage was a blessing in disguise: a setback with an unforeseen benefit."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "a foregone conclusion",
+            "whyNot": "A foregone conclusion is a result regarded as inevitable in advance. The useful discovery here was an unforeseen benefit.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "a foregone conclusion",
+              "valid": false,
+              "reason": "A foregone conclusion is a result regarded as inevitable in advance. The useful discovery here was an unforeseen benefit."
+            },
+            {
+              "label": "II",
+              "text": "a setback with an unforeseen benefit",
+              "valid": true,
+              "reason": "This literal paraphrase retains the initial misfortune and the later protective outcome."
+            },
+            {
+              "label": "III",
+              "text": "a blessing in disguise",
+              "valid": true,
+              "reason": "An apparent misfortune produced an unexpected benefit: early discovery of the flaw."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I03-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The reviewer refuses to accept the claim unquestioningly, yet does not say it is false. Select every faithful paraphrase.",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "I and II only",
+            "II only",
+            "III only"
+          ],
+          "answer": "I and II only",
+          "skill": "idiomatic paraphrase: accept all genuine fits",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "corroboration"
+          ],
+          "explanation": {
+            "relationship": "idiomatic paraphrase: accept all genuine fits",
+            "clue": "The reviewer’s position is qualified scepticism, not refutation.",
+            "rule": "Do not turn caution about truth into certainty of falsity.",
+            "model": "The reviewer takes the claim with a pinch of salt and seeks corroboration."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "The reviewer rules the claim out.",
+            "whyNot": "Rule out excludes the claim as a possibility, which is stronger than withholding uncritical acceptance.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The reviewer takes the claim with a pinch of salt.",
+              "valid": true,
+              "reason": "The idiom marks sceptical caution without asserting that the claim is definitely false."
+            },
+            {
+              "label": "II",
+              "text": "The reviewer keeps an open mind but seeks corroboration.",
+              "valid": true,
+              "reason": "Seeking supporting evidence while withholding judgement preserves the limited scepticism."
+            },
+            {
+              "label": "III",
+              "text": "The reviewer rules the claim out.",
+              "valid": false,
+              "reason": "Rule out excludes the claim as a possibility, which is stronger than withholding uncritical acceptance."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I03-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The audit initially checked the only visible discrepancy; later evidence showed that it was a small sign of a much larger hidden problem. Which descriptions fit that discrepancy?",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "II and III only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "skill": "idiomatic paraphrase: accept all genuine fits",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [
+            "discrepancy",
+            "visible"
+          ],
+          "explanation": {
+            "relationship": "idiomatic paraphrase: accept all genuine fits",
+            "clue": "The visible problem is smaller than the real problem; concern is not exaggerated relative to a trivial event.",
+            "rule": "Do not confuse small visible scale with small actual significance.",
+            "model": "The discrepancy was the tip of the iceberg, an early visible sign of a deeper problem."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "a storm in a teacup",
+            "whyNot": "A storm in a teacup is excessive excitement about a trivial matter; the larger serious problem is expressly established here.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "a storm in a teacup",
+              "valid": false,
+              "reason": "A storm in a teacup is excessive excitement about a trivial matter; the larger serious problem is expressly established here."
+            },
+            {
+              "label": "II",
+              "text": "the tip of the iceberg",
+              "valid": true,
+              "reason": "A small visible part revealing a much larger concealed problem is the core meaning."
+            },
+            {
+              "label": "III",
+              "text": "an early visible sign of a deeper problem",
+              "valid": true,
+              "reason": "This paraphrase retains both visibility and the larger concealed issue."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I03-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The deadline is approaching and the team must work with very little time remaining. Select every completion of “The team is ___ to finish the reconciliation.”",
+          "instructions": "Select ALL and ONLY the valid candidates. Several may fit; evaluate each independently.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and III only",
+          "skill": "idiomatic paraphrase: accept all genuine fits",
+          "batch": "moderate-hard-rest",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-RRB-PO-Mains-2025-Memory-Based-Paper.pdf: Q17–22, idiom cloze format",
+              "IBPS-Clerk-Mains-Memory-Based-29-November-2025-Shift-1.pdf: Q112, phrasal usage format",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q90, phrasal swap format"
+            ],
+            "note": "New original format practice. Moderate–Hard is a reviewed training target, not independently calibrated exam equivalence."
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "idiomatic paraphrase: accept all genuine fits",
+            "clue": "The required sense is urgency caused by limited time; it does not imply evasive communication.",
+            "rule": "Accept genuine synonyms when both satisfy the same grammatical frame and time constraint.",
+            "model": "The team is working against the clock, racing against time to finish the reconciliation."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "beating around the bush",
+            "whyNot": "This means avoiding a direct point, not working under a tight deadline.",
+            "reasoningSteps": [
+              "Read the selection direction, then evaluate every candidate separately.",
+              "Combine all valid verdicts; a partly correct option is not the complete answer."
+            ]
+          },
+          "candidates": [
+            {
+              "label": "I",
+              "text": "racing against time",
+              "valid": true,
+              "reason": "This also expresses trying to finish before time runs out."
+            },
+            {
+              "label": "II",
+              "text": "beating around the bush",
+              "valid": false,
+              "reason": "This means avoiding a direct point, not working under a tight deadline."
+            },
+            {
+              "label": "III",
+              "text": "working against the clock",
+              "valid": true,
+              "reason": "This expresses effort under severe time pressure."
+            }
+          ],
+          "selectionDirection": "correct",
+          "id": "idioms-phrasal/MH-I03-Q5"
+        }
+      ]
+    }
+  ]
+}

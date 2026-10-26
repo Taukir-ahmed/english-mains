@@ -1,0 +1,3191 @@
+{
+  "id": "fillers",
+  "title": "Contextual fillers",
+  "description": "55 questions: the existing 40 plus 15 new Moderate–Hard items. Select Moderate–Hard for the new sets with close alternatives and full-context checks. Difficulty is a reviewed training target, not an independently calibrated exam rating.",
+  "source": {
+    "kind": "original-format-practice",
+    "formatReferences": [
+      "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+      "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+      "Mains Checklist 53: PDF p2, double fillers"
+    ],
+    "note": "Source references describe formats only; all sentences, options and explanations in this chapter are newly authored."
+  },
+  "vocabularyCandidates": [
+    {
+      "term": "cursory",
+      "meaning": "quick and superficial, without careful examination",
+      "collocations": [
+        "a cursory inspection / a cursory glance"
+      ],
+      "forms": [
+        "cursorily"
+      ],
+      "important": true,
+      "readingExample": "The cursory inspection missed a discrepancy that a later detailed audit identified."
+    },
+    {
+      "term": "exhaustive",
+      "meaning": "covering every relevant part or possibility",
+      "collocations": [
+        "an exhaustive review / an exhaustive investigation"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "The exhaustive review covered every branch and every disputed transaction."
+    },
+    {
+      "term": "explicit",
+      "meaning": "clearly and directly stated",
+      "collocations": [
+        "explicit instructions / explicit consent"
+      ],
+      "forms": [
+        "explicitly"
+      ],
+      "important": true,
+      "readingExample": "The notice gave explicit instructions about the documents needed for verification."
+    },
+    {
+      "term": "refute",
+      "meaning": "show that a claim is false",
+      "collocations": [
+        "refute a claim / refute an allegation"
+      ],
+      "forms": [
+        "refuted",
+        "refuting"
+      ],
+      "important": true,
+      "readingExample": "The dated receipt helped refute the claim that the payment had never been made."
+    },
+    {
+      "term": "deter",
+      "meaning": "discourage someone from doing something, especially by making consequences seem unpleasant",
+      "collocations": [
+        "deter fraud / deter someone from doing something"
+      ],
+      "forms": [
+        "deterred",
+        "deterring",
+        "deterrent"
+      ],
+      "important": true,
+      "readingExample": "Additional identity checks can deter fraud without delaying genuine applications."
+    },
+    {
+      "term": "lucrative",
+      "meaning": "producing a great deal of profit",
+      "collocations": [
+        "a lucrative business / a lucrative contract"
+      ],
+      "forms": [],
+      "important": true,
+      "readingExample": "The contract looked lucrative, but the bank still examined the risks before financing it."
+    },
+    {
+      "term": "qualify",
+      "meaning": "limit or modify the force of a statement; also, meet the requirements for something",
+      "collocations": [
+        "qualify an assessment / qualify for relief"
+      ],
+      "forms": [
+        "qualified",
+        "qualifying",
+        "qualification"
+      ],
+      "important": true,
+      "readingExample": "The auditor qualified the favourable assessment by noting that several records were still missing."
+    },
+    {
+      "term": "preclude",
+      "meaning": "prevent something or make it impossible",
+      "collocations": [
+        "preclude an outcome / preclude verification"
+      ],
+      "forms": [
+        "precluded",
+        "precluding"
+      ],
+      "important": true,
+      "readingExample": "A delay in receiving the record did not preclude a later review."
+    },
+    {
+      "term": "calibrate",
+      "meaning": "adjust something to an appropriate scale, level or standard",
+      "collocations": [
+        "calibrate scrutiny to risk / calibrate a measure"
+      ],
+      "forms": [
+        "calibrated",
+        "calibrating",
+        "calibration"
+      ],
+      "important": true,
+      "readingExample": "The bank decided to calibrate the intensity of its checks to the risk of each transaction."
+    },
+    {
+      "term": "discount",
+      "meaning": "give less weight to a claim or evidence; in finance, purchase a bill before maturity for less than its face value",
+      "collocations": [
+        "discount a claim / discount a bill"
+      ],
+      "forms": [
+        "discounted",
+        "discounting",
+        "discounts"
+      ],
+      "important": true,
+      "readingExample": "The lender agreed to discount the bill, paying less than its face value before maturity."
+    }
+  ],
+  "packs": [
+    {
+      "id": "F01",
+      "title": "Direction, collocation and context",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The report recommends extra checks to ___ the risk of identity theft, not to eliminate every possible risk.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "mitigate",
+            "exacerbate",
+            "corroborate",
+            "disseminate",
+            "defer"
+          ],
+          "answer": "mitigate",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Extra checks aim to lower a harmful risk; not eliminate signals reduction rather than total removal.",
+            "rule": "Mitigate risk is a natural verb–noun combination.",
+            "model": "The report recommends extra checks to mitigate the risk of identity theft, not to eliminate every possible risk.",
+            "rejects": [
+              {
+                "option": "exacerbate",
+                "reason": "Negative direction: exacerbate would worsen the risk the checks are intended to reduce."
+              },
+              {
+                "option": "corroborate",
+                "reason": "Corroborate means support a claim with evidence; it does not mean reduce risk."
+              },
+              {
+                "option": "disseminate",
+                "reason": "Disseminate means spread information, not lower risk."
+              },
+              {
+                "option": "defer",
+                "reason": "Defer postpones an action; risk is not an action being postponed here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "mitigate"
+          ],
+          "id": "fillers/F01-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Repeated policy reversals may ___ public trust even if each change is presented as an improvement.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "bolster",
+            "erode",
+            "dispel",
+            "allocate",
+            "comply"
+          ],
+          "answer": "erode",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Even if contrasts the claimed improvement with a damaging effect.",
+            "rule": "Erode trust means gradually weaken it.",
+            "model": "Repeated policy reversals may erode public trust even if each change is presented as an improvement.",
+            "rejects": [
+              {
+                "option": "bolster",
+                "reason": "Bolster strengthens trust, opposite to the warning about reversals."
+              },
+              {
+                "option": "dispel",
+                "reason": "Dispel normally removes doubts, fears or rumours; trust is not the misconception to remove."
+              },
+              {
+                "option": "allocate",
+                "reason": "Allocate distributes resources; trust is not being assigned."
+              },
+              {
+                "option": "comply",
+                "reason": "Comply is normally followed by with and does not take public trust as a direct object."
+              }
+            ]
+          },
+          "vocabulary": [
+            "erode",
+            "public"
+          ],
+          "id": "fillers/F01-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Because the witness could provide no documents, the allegation remained ___.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "conclusive",
+            "meticulous",
+            "unsubstantiated",
+            "equitable",
+            "solvent"
+          ],
+          "answer": "unsubstantiated",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "No documents means there is no supporting evidence.",
+            "rule": "An unsubstantiated allegation is one not supported by adequate evidence.",
+            "model": "Because the witness could provide no documents, the allegation remained unsubstantiated.",
+            "rejects": [
+              {
+                "option": "conclusive",
+                "reason": "Conclusive would mean decisive; the evidence is absent."
+              },
+              {
+                "option": "meticulous",
+                "reason": "Meticulous describes great care, not the evidence status of an allegation."
+              },
+              {
+                "option": "equitable",
+                "reason": "Equitable concerns fairness, not support for a claim."
+              },
+              {
+                "option": "solvent",
+                "reason": "Solvent describes ability to pay debts, not an allegation."
+              }
+            ]
+          },
+          "vocabulary": [
+            "unsubstantiated"
+          ],
+          "id": "fillers/F01-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The plan appeared ___ until engineers discovered that the site could not support the proposed structure.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "insolvent",
+            "cursory",
+            "fraudulent",
+            "feasible",
+            "deterrent"
+          ],
+          "answer": "feasible",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Until marks a reversal from apparent workability to an engineering obstacle.",
+            "rule": "Feasible means capable of being carried out in practice.",
+            "model": "The plan appeared feasible until engineers discovered that the site could not support the proposed structure.",
+            "rejects": [
+              {
+                "option": "insolvent",
+                "reason": "A plan does not owe debts in the company-solvency sense."
+              },
+              {
+                "option": "cursory",
+                "reason": "Cursory means superficial and normally describes a check or reading."
+              },
+              {
+                "option": "fraudulent",
+                "reason": "Discovery of an engineering obstacle does not establish deliberate deception."
+              },
+              {
+                "option": "deterrent",
+                "reason": "A deterrent discourages conduct; it does not express practical workability here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "feasible",
+            "support",
+            "cursory",
+            "deter"
+          ],
+          "id": "fillers/F01-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The auditor found a ___ between the cash balance and the ledger total.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "consensus",
+            "liquidity",
+            "moratorium",
+            "collateral",
+            "discrepancy"
+          ],
+          "answer": "discrepancy",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Between two balances calls for a word naming their failure to match.",
+            "rule": "A discrepancy between records is an inconsistency.",
+            "model": "The auditor found a discrepancy between the cash balance and the ledger total.",
+            "rejects": [
+              {
+                "option": "consensus",
+                "reason": "Consensus is agreement, while the two totals do not match."
+              },
+              {
+                "option": "liquidity",
+                "reason": "Liquidity concerns available cash, not a mismatch between records."
+              },
+              {
+                "option": "moratorium",
+                "reason": "A moratorium is a temporary suspension, not an accounting difference."
+              },
+              {
+                "option": "collateral",
+                "reason": "Collateral secures a loan; it is not a difference in totals."
+              }
+            ]
+          },
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "id": "fillers/F01-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "title": "Clarity, coverage and financial meaning",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The board chose a ___ approach: it tested the cheaper solution before committing to a costly redesign.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "pragmatic",
+            "reckless",
+            "clandestine",
+            "ambiguous",
+            "perfunctory"
+          ],
+          "answer": "pragmatic",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Testing an available solution first stresses practical action.",
+            "rule": "Pragmatic means dealing with a problem in a practical way.",
+            "model": "The board chose a pragmatic approach: it tested the cheaper solution before committing to a costly redesign.",
+            "rejects": [
+              {
+                "option": "reckless",
+                "reason": "Testing before major commitment signals care, not disregard for risk."
+              },
+              {
+                "option": "clandestine",
+                "reason": "Nothing says the trial was secret."
+              },
+              {
+                "option": "ambiguous",
+                "reason": "The approach is clearly described; uncertainty of meaning is not the point."
+              },
+              {
+                "option": "perfunctory",
+                "reason": "A practical staged test is not presented as careless or merely routine."
+              }
+            ]
+          },
+          "vocabulary": [
+            "pragmatic"
+          ],
+          "id": "fillers/F02-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The instructions were so ___ that applicants could not tell whether photocopies were acceptable.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "lucid",
+            "ambiguous",
+            "conclusive",
+            "equitable",
+            "meticulous"
+          ],
+          "answer": "ambiguous",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Could not tell whether identifies uncertainty of interpretation.",
+            "rule": "Ambiguous instructions permit more than one interpretation.",
+            "model": "The instructions were so ambiguous that applicants could not tell whether photocopies were acceptable.",
+            "rejects": [
+              {
+                "option": "lucid",
+                "reason": "Lucid means clear, contradicted by could not tell."
+              },
+              {
+                "option": "conclusive",
+                "reason": "Conclusive settles an issue; these instructions leave one unresolved."
+              },
+              {
+                "option": "equitable",
+                "reason": "Fairness does not explain uncertainty about photocopies."
+              },
+              {
+                "option": "meticulous",
+                "reason": "Meticulous means extremely careful; the sentence specifically points to unclear meaning."
+              }
+            ]
+          },
+          "vocabulary": [
+            "ambiguous"
+          ],
+          "id": "fillers/F02-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The regulator required an ___ review covering every branch and every category of transaction.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "anecdotal",
+            "tentative",
+            "exhaustive",
+            "opaque",
+            "cursory"
+          ],
+          "answer": "exhaustive",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Every branch and every category point to complete coverage.",
+            "rule": "Exhaustive means thorough and comprehensive; cursory is a useful contrast.",
+            "model": "The regulator required an exhaustive review covering every branch and every category of transaction.",
+            "rejects": [
+              {
+                "option": "anecdotal",
+                "reason": "Anecdotal evidence comes from individual reports, unlike full systematic coverage."
+              },
+              {
+                "option": "tentative",
+                "reason": "Tentative means provisional, not complete in coverage."
+              },
+              {
+                "option": "opaque",
+                "reason": "Opaque means hard to understand, not comprehensive."
+              },
+              {
+                "option": "cursory",
+                "reason": "Cursory is superficial; every branch and category demand thorough coverage."
+              }
+            ]
+          },
+          "vocabulary": [
+            "exhaustive",
+            "review",
+            "cursory"
+          ],
+          "id": "fillers/F02-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The bank remained ___ because it could meet all its long-term liabilities, despite a temporary cash shortage.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "liquid",
+            "insolvent",
+            "volatile",
+            "solvent",
+            "fraudulent"
+          ],
+          "answer": "solvent",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Long-term ability to pay debts differs from immediately available cash.",
+            "rule": "Distinguish solvency from liquidity; a solvent bank can still face a liquidity shortage.",
+            "model": "The bank remained solvent because it could meet all its long-term liabilities, despite a temporary cash shortage.",
+            "rejects": [
+              {
+                "option": "liquid",
+                "reason": "The temporary cash shortage prevents inferring ready cash availability."
+              },
+              {
+                "option": "insolvent",
+                "reason": "Insolvent contradicts ability to meet liabilities."
+              },
+              {
+                "option": "volatile",
+                "reason": "Price instability is not the condition described."
+              },
+              {
+                "option": "fraudulent",
+                "reason": "No deception is established by a temporary shortage."
+              }
+            ]
+          },
+          "vocabulary": [
+            "despite",
+            "solvent"
+          ],
+          "id": "fillers/F02-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The panel agreed to ___ its decision until the missing evidence arrived.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "expedite",
+            "corroborate",
+            "dilute",
+            "dispel",
+            "defer"
+          ],
+          "answer": "defer",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Until the missing evidence arrived gives the endpoint of postponement.",
+            "rule": "Defer a decision means put it off until later.",
+            "model": "The panel agreed to defer its decision until the missing evidence arrived.",
+            "rejects": [
+              {
+                "option": "expedite",
+                "reason": "Expedite speeds an action up; until evidence arrives indicates waiting."
+              },
+              {
+                "option": "corroborate",
+                "reason": "Evidence may corroborate a claim; it does not mean postpone a decision."
+              },
+              {
+                "option": "dilute",
+                "reason": "Dilute weakens something; it does not express the timing condition."
+              },
+              {
+                "option": "dispel",
+                "reason": "Dispel removes doubt or rumour rather than postponing a decision."
+              }
+            ]
+          },
+          "vocabulary": [
+            "defer"
+          ],
+          "id": "fillers/F02-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "title": "Evidence limits and precise meaning",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The complaint was ___: it specified the disputed amount, the date and the transaction reference, leaving no uncertainty about what was challenged.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "explicit",
+            "implicit",
+            "tenuous",
+            "provisional",
+            "fictitious"
+          ],
+          "answer": "explicit",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Leaving no uncertainty and the listed particulars point to direct statement.",
+            "rule": "Explicit describes information clearly and directly stated.",
+            "model": "The complaint was explicit: it specified the disputed amount, the date and the transaction reference, leaving no uncertainty about what was challenged.",
+            "rejects": [
+              {
+                "option": "implicit",
+                "reason": "Implicit means suggested rather than directly stated; the details here are stated."
+              },
+              {
+                "option": "tenuous",
+                "reason": "Tenuous means weak; the clue concerns clarity of specification, not strength of proof."
+              },
+              {
+                "option": "provisional",
+                "reason": "No temporary status is mentioned."
+              },
+              {
+                "option": "fictitious",
+                "reason": "Detailed specification does not establish invention or falsehood."
+              }
+            ]
+          },
+          "vocabulary": [
+            "explicit"
+          ],
+          "id": "fillers/F03-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The new evidence did not merely question the earlier claim; it ___ it by proving that the event had never occurred.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "corroborated",
+            "refuted",
+            "anticipated",
+            "deferred",
+            "disseminated"
+          ],
+          "answer": "refuted",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Not merely question ... proving ... never occurred requires disproof.",
+            "rule": "Refute means disprove a claim, stronger than simply deny it.",
+            "model": "The new evidence did not merely question the earlier claim; it refuted it by proving that the event had never occurred.",
+            "rejects": [
+              {
+                "option": "corroborated",
+                "reason": "Corroborated would support the claim, opposite to proof it was false."
+              },
+              {
+                "option": "anticipated",
+                "reason": "Anticipated means expected beforehand, not disproved."
+              },
+              {
+                "option": "deferred",
+                "reason": "Deferred means postponed, not disproved."
+              },
+              {
+                "option": "disseminated",
+                "reason": "Disseminated means spread, not demonstrated false."
+              }
+            ]
+          },
+          "vocabulary": [
+            "refute"
+          ],
+          "id": "fillers/F03-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Although the forecast sounded ___, the committee would not accept it without independent evidence.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "irrefutable",
+            "incomprehensible",
+            "plausible",
+            "insolvent",
+            "equitable"
+          ],
+          "answer": "plausible",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Although contrasts apparent believability with insufficient proof.",
+            "rule": "Plausible does not mean proven or certain.",
+            "model": "Although the forecast sounded plausible, the committee would not accept it without independent evidence.",
+            "rejects": [
+              {
+                "option": "irrefutable",
+                "reason": "Irrefutable would mean impossible to disprove, stronger than sounded believable without evidence."
+              },
+              {
+                "option": "incomprehensible",
+                "reason": "An unintelligible forecast would not form the stated concession about believable appearance."
+              },
+              {
+                "option": "insolvent",
+                "reason": "A forecast has no debt-paying capacity."
+              },
+              {
+                "option": "equitable",
+                "reason": "The issue is believability, not fairness."
+              }
+            ]
+          },
+          "vocabulary": [
+            "plausible"
+          ],
+          "id": "fillers/F03-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "A single unusual transaction is an ___; a repeated pattern across all branches calls for a broader explanation.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "axiom",
+            "incentive",
+            "consensus",
+            "anomaly",
+            "moratorium"
+          ],
+          "answer": "anomaly",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "Single unusual contrasts with repeated pattern.",
+            "rule": "An anomaly deviates from what is usual or expected.",
+            "model": "A single unusual transaction is an anomaly; a repeated pattern across all branches calls for a broader explanation.",
+            "rejects": [
+              {
+                "option": "axiom",
+                "reason": "An axiom is an accepted starting principle, not an unusual observation."
+              },
+              {
+                "option": "incentive",
+                "reason": "An incentive motivates action, rather than naming an outlier."
+              },
+              {
+                "option": "consensus",
+                "reason": "Consensus is shared agreement, not an exceptional transaction."
+              },
+              {
+                "option": "moratorium",
+                "reason": "A moratorium suspends an activity; it is not an unusual observation."
+              }
+            ]
+          },
+          "vocabulary": [
+            "anomaly"
+          ],
+          "id": "fillers/F03-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The bank sought to ___ the relief process so that eligible borrowers would receive help sooner.",
+          "instructions": "Choose the single best answer. Check the entire sentence before selecting.",
+          "options": [
+            "impede",
+            "defer",
+            "obfuscate",
+            "curtail",
+            "expedite"
+          ],
+          "answer": "expedite",
+          "skill": "contextual filler",
+          "explanation": {
+            "relationship": "Context: choose the meaning supported by the sentence",
+            "clue": "So that ... sooner states the desired acceleration.",
+            "rule": "Expedite a process means make it proceed more quickly.",
+            "model": "The bank sought to expedite the relief process so that eligible borrowers would receive help sooner.",
+            "rejects": [
+              {
+                "option": "impede",
+                "reason": "Impede obstructs progress, opposite to sooner."
+              },
+              {
+                "option": "defer",
+                "reason": "Defer postpones the process, opposite to the aim."
+              },
+              {
+                "option": "obfuscate",
+                "reason": "Obfuscate makes matters unclear; it does not speed processing."
+              },
+              {
+                "option": "curtail",
+                "reason": "Curtail cuts scope or duration; the sentence asks for faster delivery, not reduced relief."
+              }
+            ]
+          },
+          "vocabulary": [
+            "expedite",
+            "so that"
+          ],
+          "id": "fillers/F03-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "title": "Double fillers: check both blanks",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The bank introduced additional checks to ___ fraud without creating an unnecessary ___ to genuine applicants.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "deter / impediment",
+            "encourage / incentive",
+            "deter / impetus",
+            "conceal / impediment",
+            "deteriorate / impediment"
+          ],
+          "answer": "deter / impediment",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Two directions: prevent harm while avoiding a new obstacle",
+            "clue": "Fraud is to be discouraged; genuine applications should not be obstructed.",
+            "rule": "Check both blanks: deter fraud and an impediment to applicants.",
+            "model": "The bank introduced additional checks to deter fraud without creating an unnecessary impediment to genuine applicants.",
+            "rejects": [
+              {
+                "option": "encourage / incentive",
+                "reason": "Encourage reverses the intended action on fraud; incentive means encouragement, not obstruction."
+              },
+              {
+                "option": "deter / impetus",
+                "reason": "Deter fits, but impetus is a driving force, not an obstacle."
+              },
+              {
+                "option": "conceal / impediment",
+                "reason": "The second word fits, but concealing fraud is not the stated preventive purpose."
+              },
+              {
+                "option": "deteriorate / impediment",
+                "reason": "Deteriorate is not normally used transitively to mean prevent fraud."
+              }
+            ]
+          },
+          "vocabulary": [
+            "impediment",
+            "deter"
+          ],
+          "id": "fillers/F04-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The initial estimate was ___, but the final report offered ___ evidence based on verified records.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "conclusive / tentative",
+            "tentative / conclusive",
+            "tentative / ambiguous",
+            "volatile / perfunctory",
+            "equitable / solvent"
+          ],
+          "answer": "tentative / conclusive",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Contrast: provisional assessment versus decisive evidence",
+            "clue": "Initial versus final and verified records signal increasing certainty.",
+            "rule": "Tentative is provisional; conclusive is decisive.",
+            "model": "The initial estimate was tentative, but the final report offered conclusive evidence based on verified records.",
+            "rejects": [
+              {
+                "option": "conclusive / tentative",
+                "reason": "This reverses the initial-versus-final evidence progression."
+              },
+              {
+                "option": "tentative / ambiguous",
+                "reason": "The first fits, but verified final evidence is presented as decisive, not unclear."
+              },
+              {
+                "option": "volatile / perfunctory",
+                "reason": "Volatile describes instability; perfunctory suggests superficial work despite verification."
+              },
+              {
+                "option": "equitable / solvent",
+                "reason": "Fairness and debt-paying ability do not describe this evidential progression."
+              }
+            ]
+          },
+          "vocabulary": [
+            "conclusive",
+            "tentative"
+          ],
+          "id": "fillers/F04-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The explanation was ___ enough for first-time borrowers to understand, yet ___ enough to address the legal objections.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "opaque / cogent",
+            "lucid / frivolous",
+            "lucid / cogent",
+            "tenuous / cursory",
+            "conclusive / insolvent"
+          ],
+          "answer": "lucid / cogent",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Complementary requirements: clear and persuasive",
+            "clue": "Understand points to clarity; address legal objections points to convincing reasoning.",
+            "rule": "Lucid concerns clarity; cogent concerns a convincing argument.",
+            "model": "The explanation was lucid enough for first-time borrowers to understand, yet cogent enough to address the legal objections.",
+            "rejects": [
+              {
+                "option": "opaque / cogent",
+                "reason": "Cogent fits the second, but opaque contradicts easy understanding."
+              },
+              {
+                "option": "lucid / frivolous",
+                "reason": "Lucid fits, but frivolous does not answer serious legal objections."
+              },
+              {
+                "option": "tenuous / cursory",
+                "reason": "Weak and superficial do not satisfy the two positive requirements."
+              },
+              {
+                "option": "conclusive / insolvent",
+                "reason": "Insolvent cannot describe the reasoning quality of an explanation."
+              }
+            ]
+          },
+          "vocabulary": [
+            "cogent",
+            "lucid",
+            "cursory"
+          ],
+          "id": "fillers/F04-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "A ___ inspection missed the defect, whereas a later ___ examination identified its precise cause.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "meticulous / cursory",
+            "cursory / perfunctory",
+            "equitable / volatile",
+            "cursory / meticulous",
+            "conclusive / tentative"
+          ],
+          "answer": "cursory / meticulous",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Contrast: shallow review versus careful investigation",
+            "clue": "Missed versus identified its precise cause contrasts levels of care.",
+            "rule": "Cursory means superficial; meticulous means showing great care.",
+            "model": "A cursory inspection missed the defect, whereas a later meticulous examination identified its precise cause.",
+            "rejects": [
+              {
+                "option": "meticulous / cursory",
+                "reason": "This reverses superficial failure and careful detection."
+              },
+              {
+                "option": "cursory / perfunctory",
+                "reason": "The first fits; perfunctory conflicts with precise, careful identification."
+              },
+              {
+                "option": "equitable / volatile",
+                "reason": "Neither fairness nor volatility explains inspection thoroughness."
+              },
+              {
+                "option": "conclusive / tentative",
+                "reason": "Certainty labels do not express the stated contrast in care."
+              }
+            ]
+          },
+          "vocabulary": [
+            "cursory",
+            "meticulous"
+          ],
+          "id": "fillers/F04-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The proposal may be technically ___, yet commercially ___ because expected revenue cannot cover operating costs.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "unfeasible / lucrative",
+            "feasible / lucrative",
+            "ambiguous / solvent",
+            "equitable / meticulous",
+            "feasible / unviable"
+          ],
+          "answer": "feasible / unviable",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Contrast: practical possibility versus financial sustainability",
+            "clue": "Technically yet commercially separates workability from financial sustainability.",
+            "rule": "A technically feasible project can be commercially unviable.",
+            "model": "The proposal may be technically feasible, yet commercially unviable because expected revenue cannot cover operating costs.",
+            "rejects": [
+              {
+                "option": "unfeasible / lucrative",
+                "reason": "Both reverse the given technical possibility and commercial failure."
+              },
+              {
+                "option": "feasible / lucrative",
+                "reason": "The first fits; lucrative contradicts revenue below operating costs."
+              },
+              {
+                "option": "ambiguous / solvent",
+                "reason": "Unclear meaning and debt capacity do not express the technical/commercial contrast."
+              },
+              {
+                "option": "equitable / meticulous",
+                "reason": "Fair and careful do not address engineering possibility or economic sustainability."
+              }
+            ]
+          },
+          "vocabulary": [
+            "feasible",
+            "lucrative"
+          ],
+          "id": "fillers/F04-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "title": "Double fillers: opposing meanings",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The board asked the auditor to ___ the allegation rather than merely ___ it without evidence.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "substantiate / repeat",
+            "repeat / substantiate",
+            "substantiate / verify",
+            "obfuscate / repeat",
+            "disseminate / refute"
+          ],
+          "answer": "substantiate / repeat",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Preferred action: support with evidence",
+            "clue": "Rather than merely and without evidence contrast proof with unsupported repetition.",
+            "rule": "Substantiate an allegation means support it with evidence.",
+            "model": "The board asked the auditor to substantiate the allegation rather than merely repeat it without evidence.",
+            "rejects": [
+              {
+                "option": "repeat / substantiate",
+                "reason": "This reverses the preferred action and the insufficient one."
+              },
+              {
+                "option": "substantiate / verify",
+                "reason": "Verify would itself involve checking truth, not merely repeating an unsupported claim."
+              },
+              {
+                "option": "obfuscate / repeat",
+                "reason": "The board wants support, not deliberate obscurity."
+              },
+              {
+                "option": "disseminate / refute",
+                "reason": "Spreading and disproving do not satisfy the demand for evidential support."
+              }
+            ]
+          },
+          "vocabulary": [
+            "substantiate",
+            "refute"
+          ],
+          "id": "fillers/F05-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Poor communication can ___ uncertainty, while a timely clarification can ___ unnecessary fears.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "alleviate / amplify",
+            "exacerbate / dispel",
+            "exacerbate / intensify",
+            "corroborate / defer",
+            "bolster / entrench"
+          ],
+          "answer": "exacerbate / dispel",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Opposing effects: worsen uncertainty and remove fear",
+            "clue": "Poor communication worsens confusion; clarification should remove fears.",
+            "rule": "Exacerbate uncertainty; dispel fears or rumours.",
+            "model": "Poor communication can exacerbate uncertainty, while a timely clarification can dispel unnecessary fears.",
+            "rejects": [
+              {
+                "option": "alleviate / amplify",
+                "reason": "Both reverse the negative first effect and remedial second effect."
+              },
+              {
+                "option": "exacerbate / intensify",
+                "reason": "The first fits, but intensify increases the fears instead of removing them."
+              },
+              {
+                "option": "corroborate / defer",
+                "reason": "Uncertainty is not evidence being confirmed, and fears are not postponed decisions."
+              },
+              {
+                "option": "bolster / entrench",
+                "reason": "The second would make fears more firmly established, contrary to clarification."
+              }
+            ]
+          },
+          "vocabulary": [
+            "dispel",
+            "exacerbate"
+          ],
+          "id": "fillers/F05-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The scheme promises ___ access by removing discriminatory restrictions, but its success depends on strict ___ with the eligibility rules.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "exclusive / compliance",
+            "equitable / collusion",
+            "equitable / compliance",
+            "opaque / liquidity",
+            "arbitrary / disparity"
+          ],
+          "answer": "equitable / compliance",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Fair access combined with observance of rules",
+            "clue": "Removing discrimination points to fairness; with the rules points to observance.",
+            "rule": "Equitable access; compliance with rules.",
+            "model": "The scheme promises equitable access by removing discriminatory restrictions, but its success depends on strict compliance with the eligibility rules.",
+            "rejects": [
+              {
+                "option": "exclusive / compliance",
+                "reason": "Compliance fits, but exclusive conflicts with removing discrimination."
+              },
+              {
+                "option": "equitable / collusion",
+                "reason": "The first fits; collusion is secret cooperation for wrongdoing, not observance of rules."
+              },
+              {
+                "option": "opaque / liquidity",
+                "reason": "Neither obscure access nor cash availability matches these clues."
+              },
+              {
+                "option": "arbitrary / disparity",
+                "reason": "Arbitrary treatment and inequality undermine the stated fairness goal."
+              }
+            ]
+          },
+          "vocabulary": [
+            "compliance",
+            "discriminatory",
+            "eligibility",
+            "equitable"
+          ],
+          "id": "fillers/F05-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The company was ___ on paper because its assets exceeded liabilities, but it lacked the ___ to pay salaries that week.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "liquid / solvency",
+            "solvent / collateral",
+            "insolvent / liquidity",
+            "solvent / liquidity",
+            "volatile / consensus"
+          ],
+          "answer": "solvent / liquidity",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Contrast: solvency versus immediate liquidity",
+            "clue": "Assets versus liabilities and salaries that week separate long-term position from current cash.",
+            "rule": "Use solvent for debt capacity and liquidity for ready funds.",
+            "model": "The company was solvent on paper because its assets exceeded liabilities, but it lacked the liquidity to pay salaries that week.",
+            "rejects": [
+              {
+                "option": "liquid / solvency",
+                "reason": "Immediate cash shortage conflicts with liquid; the salary problem concerns liquidity."
+              },
+              {
+                "option": "solvent / collateral",
+                "reason": "Solvent fits; collateral is loan security, not funds ready to pay salaries."
+              },
+              {
+                "option": "insolvent / liquidity",
+                "reason": "The first contradicts the stated asset-liability position in this exercise."
+              },
+              {
+                "option": "volatile / consensus",
+                "reason": "Instability and agreement do not identify the two financial conditions."
+              }
+            ]
+          },
+          "vocabulary": [
+            "liquidity",
+            "solvent"
+          ],
+          "id": "fillers/F05-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The findings establish a ___ between the variables, but they do not prove that one ___ the other.",
+          "instructions": "Choose the pair that fits BOTH blanks in the given order. Do not stop after the first fit.",
+          "options": [
+            "causation / causes",
+            "correlation / conceals",
+            "consensus / defers",
+            "moratorium / corroborates",
+            "correlation / causes"
+          ],
+          "answer": "correlation / causes",
+          "skill": "double filler",
+          "explanation": {
+            "relationship": "Evidence limit: association is not proof of cause",
+            "clue": "But ... do not prove blocks a leap from association to cause.",
+            "rule": "Correlation alone does not establish causation.",
+            "model": "The findings establish a correlation between the variables, but they do not prove that one causes the other.",
+            "rejects": [
+              {
+                "option": "causation / causes",
+                "reason": "The first overstates what the findings establish, contradicting the explicit limitation."
+              },
+              {
+                "option": "correlation / conceals",
+                "reason": "Correlation fits, but concealment is unrelated to the limit on causal inference."
+              },
+              {
+                "option": "consensus / defers",
+                "reason": "Agreement and postponement are not statistical association and cause."
+              },
+              {
+                "option": "moratorium / corroborates",
+                "reason": "Suspension does not describe an observed association."
+              }
+            ]
+          },
+          "vocabulary": [
+            "correlation"
+          ],
+          "id": "fillers/F05-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "title": "Same word: two roles, two checks",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "I. The bank decided to ___ the amount wrongly debited. II. The committee rejected the request for a full ___.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "refund",
+            "repayment",
+            "repay",
+            "reimburse",
+            "restore"
+          ],
+          "answer": "refund",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: test meaning and part of speech in BOTH sentences",
+            "clue": "The same form must be both a verb and a noun naming money paid back.",
+            "rule": "Refund works unchanged as verb and count noun.",
+            "model": "I. The bank decided to refund the amount wrongly debited. II. The committee rejected the request for a full refund.",
+            "rejects": [
+              {
+                "option": "repayment",
+                "reason": "Repayment is a noun and cannot follow decided to as the main verb."
+              },
+              {
+                "option": "repay",
+                "reason": "Repay can fill I, but a full repay is not a noun phrase."
+              },
+              {
+                "option": "reimburse",
+                "reason": "Reimburse normally takes the person; it also does not function as the required noun in II."
+              },
+              {
+                "option": "restore",
+                "reason": "Restore may take an amount in I but a full restore is not the required noun."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "fillers/F06-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The auditor will ___ the disputed entries before closing the file. II. The decision is subject to an independent ___.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "inspect",
+            "review",
+            "scrutiny",
+            "verify",
+            "examination"
+          ],
+          "answer": "review",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: verb and noun requirements",
+            "clue": "Will needs a base verb; an independent needs a singular count noun.",
+            "rule": "Review serves as both verb and count noun.",
+            "model": "I. The auditor will review the disputed entries before closing the file. II. The decision is subject to an independent review.",
+            "rejects": [
+              {
+                "option": "inspect",
+                "reason": "Inspect is a verb, not the noun after an independent."
+              },
+              {
+                "option": "scrutiny",
+                "reason": "Scrutiny is a noun and cannot directly follow will."
+              },
+              {
+                "option": "verify",
+                "reason": "Verify is a verb, not the required count noun in II."
+              },
+              {
+                "option": "examination",
+                "reason": "Examination is a noun and cannot follow will as the main verb."
+              }
+            ]
+          },
+          "vocabulary": [
+            "review"
+          ],
+          "id": "fillers/F06-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The applicant agreed to ___ the original documents at the hearing. II. All committee members were ___ when the vote was taken.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "submit",
+            "available",
+            "present",
+            "produce",
+            "attend"
+          ],
+          "answer": "present",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same form, different meaning and grammatical role",
+            "clue": "I needs a verb meaning produce; II needs an adjective meaning in attendance.",
+            "rule": "Present has distinct verb and adjective uses.",
+            "model": "I. The applicant agreed to present the original documents at the hearing. II. All committee members were present when the vote was taken.",
+            "rejects": [
+              {
+                "option": "submit",
+                "reason": "Submit works in I but were submit is ungrammatical in II."
+              },
+              {
+                "option": "available",
+                "reason": "Available fits II but to available the documents is not a verb construction."
+              },
+              {
+                "option": "produce",
+                "reason": "Produce works in I but were produce cannot mean in attendance."
+              },
+              {
+                "option": "attend",
+                "reason": "Attend may describe people going to an event, not putting documents before a hearing."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "fillers/F06-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The bank will ___ the cheque after verifying the signature. II. The instructions were ___ enough for a new applicant to follow without help.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "settle",
+            "lucid",
+            "process",
+            "clear",
+            "transparent"
+          ],
+          "answer": "clear",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: check both contextual senses",
+            "clue": "Cheque processing and understandable instructions require different senses of the same form.",
+            "rule": "Clear can be a transaction verb and an adjective meaning easy to understand.",
+            "model": "I. The bank will clear the cheque after verifying the signature. II. The instructions were clear enough for a new applicant to follow without help.",
+            "rejects": [
+              {
+                "option": "settle",
+                "reason": "Settle may describe a payment but is not the adjective in II."
+              },
+              {
+                "option": "lucid",
+                "reason": "Lucid fits II but cannot be the verb after will in I."
+              },
+              {
+                "option": "process",
+                "reason": "Process fits I but not the adjective slot in II."
+              },
+              {
+                "option": "transparent",
+                "reason": "Transparent may mean understandable but cannot take the cheque as this verb."
+              }
+            ]
+          },
+          "vocabulary": [
+            "clear"
+          ],
+          "id": "fillers/F06-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. Please ___ the discrepancy before the file is closed. II. The branch of the bank has moved to a new ___.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "resolve",
+            "location",
+            "rectify",
+            "premises",
+            "address"
+          ],
+          "answer": "address",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: action and place",
+            "clue": "The first sentence asks for action on a problem; the second needs a location.",
+            "rule": "Address means deal with as a verb and a location as a noun.",
+            "model": "I. Please address the discrepancy before the file is closed. II. The branch of the bank has moved to a new address.",
+            "rejects": [
+              {
+                "option": "resolve",
+                "reason": "Resolve fits I but not the location noun in II."
+              },
+              {
+                "option": "location",
+                "reason": "Location fits II but cannot directly follow please as this verb."
+              },
+              {
+                "option": "rectify",
+                "reason": "Rectify fits I but not the noun after a new."
+              },
+              {
+                "option": "premises",
+                "reason": "Premises is a plural location noun; a new premises is not the required singular form, and it cannot perform I."
+              }
+            ]
+          },
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "id": "fillers/F06-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "title": "Same word: no forced answer",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "I. The regulator may ___ the bank for repeated violations. II. The print was too ___ for the applicant to read easily.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "fine",
+            "penalise",
+            "small",
+            "charge",
+            "minute"
+          ],
+          "answer": "fine",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word with different senses",
+            "clue": "A financial penalty and very small print are two senses of fine.",
+            "rule": "Check unchanged spelling and grammatical role in both slots.",
+            "model": "I. The regulator may fine the bank for repeated violations. II. The print was too fine for the applicant to read easily.",
+            "rejects": [
+              {
+                "option": "penalise",
+                "reason": "Penalise fits I but not the adjective in II."
+              },
+              {
+                "option": "small",
+                "reason": "Small fits II but is not a verb meaning penalise in I."
+              },
+              {
+                "option": "charge",
+                "reason": "Charge may be a verb, but too charge is not grammatical."
+              },
+              {
+                "option": "minute",
+                "reason": "Minute can describe very small print but does not mean impose a financial penalty here."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "fillers/F07-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The bank will ___ no interest on this account. II. The applicant disputed the service ___ shown on the statement.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "payment",
+            "charge",
+            "collect",
+            "fee",
+            "impose"
+          ],
+          "answer": "charge",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: conventional combinations matter",
+            "clue": "No interest needs a verb; service ___ needs the noun for a banking fee.",
+            "rule": "Charge interest; a service charge. Both are standard collocations.",
+            "model": "I. The bank will charge no interest on this account. II. The applicant disputed the service charge shown on the statement.",
+            "rejects": [
+              {
+                "option": "payment",
+                "reason": "Payment is a noun and cannot be the main verb after will."
+              },
+              {
+                "option": "collect",
+                "reason": "Collect fits I but not service collect in II."
+              },
+              {
+                "option": "fee",
+                "reason": "Fee is the required kind of noun in II but cannot take no interest as its verb object."
+              },
+              {
+                "option": "impose",
+                "reason": "Impose fits I but not service impose in II."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "fillers/F07-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The committee will ___ on the proposal tomorrow. II. The applicant must enter the transaction ___ printed on the receipt.",
+          "instructions": "Choose one word that fits BOTH blanks unchanged. If no listed word does so, choose None of these.",
+          "options": [
+            "deliberate",
+            "decide",
+            "None of these",
+            "reference",
+            "code"
+          ],
+          "answer": "None of these",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: detect absence of a valid shared completion",
+            "clue": "No single listed word satisfies both the decision action and the receipt identifier.",
+            "rule": "When no common word fits, do not accept an option that solves only one sentence.",
+            "model": "The committee will vote on the proposal tomorrow. The applicant must enter the transaction reference printed on the receipt.",
+            "rejects": [
+              {
+                "option": "deliberate",
+                "reason": "Deliberate on works in I, but transaction deliberate is not a receipt identifier."
+              },
+              {
+                "option": "decide",
+                "reason": "Decide on fits I but not the noun in II."
+              },
+              {
+                "option": "reference",
+                "reason": "Reference fits II, but reference on the proposal does not mean take a vote in I."
+              },
+              {
+                "option": "code",
+                "reason": "Code fits II, but code on the proposal is not the required decision verb in I."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "fillers/F07-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The bank needs to ___ sufficient liquid assets. II. The building was in a poor state of ___ after years of neglect.",
+          "instructions": "Choose one word that fits BOTH blanks unchanged. If no listed word does so, choose None of these.",
+          "options": [
+            "retain",
+            "repair",
+            "preserve",
+            "None of these",
+            "upkeep"
+          ],
+          "answer": "None of these",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: do not force a shared answer",
+            "clue": "The first needs a verb meaning keep; the second needs a noun describing condition.",
+            "rule": "Check grammar as well as meaning in both slots; none of the offered words supplies both.",
+            "model": "The bank needs to maintain sufficient liquid assets. The building was in a poor state of repair after years of neglect.",
+            "rejects": [
+              {
+                "option": "retain",
+                "reason": "Retain can fill I but state of retain is not grammatical in II."
+              },
+              {
+                "option": "repair",
+                "reason": "Repair fits II but repair sufficient liquid assets does not mean keep them available."
+              },
+              {
+                "option": "preserve",
+                "reason": "Preserve can fill I but state of preserve is not the required noun."
+              },
+              {
+                "option": "upkeep",
+                "reason": "Upkeep is a noun and cannot be the verb after needs to."
+              }
+            ]
+          },
+          "vocabulary": [
+            "repair"
+          ],
+          "id": "fillers/F07-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "I. The court may ___ the assets until the dispute is resolved. II. A sudden ___ in lending followed the crisis.",
+          "instructions": "Choose ONE word that fits BOTH blanks unchanged, checking the meaning and grammar of each sentence.",
+          "options": [
+            "seize",
+            "halt",
+            "blockage",
+            "suspension",
+            "freeze"
+          ],
+          "answer": "freeze",
+          "skill": "same-word filler",
+          "explanation": {
+            "relationship": "Same word: restrictive action and resulting stoppage",
+            "clue": "I concerns temporary restriction on assets; II concerns a stoppage of lending.",
+            "rule": "Freeze is both a verb and a count noun.",
+            "model": "I. The court may freeze the assets until the dispute is resolved. II. A sudden freeze in lending followed the crisis.",
+            "rejects": [
+              {
+                "option": "seize",
+                "reason": "Seize may fit I but a sudden seize is not a noun phrase in II."
+              },
+              {
+                "option": "halt",
+                "reason": "Halt the assets does not mean prevent their transfer; halt normally stops an activity."
+              },
+              {
+                "option": "blockage",
+                "reason": "Blockage is a noun, not the required verb after may."
+              },
+              {
+                "option": "suspension",
+                "reason": "Suspension is a noun, not the required verb in I."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "fillers/F07-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "title": "Triple blanks and multiple-fit phrases",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "id": "fillers/F08-Q1",
+          "type": "multiple",
+          "skill": "multiple-fit phrase filler",
+          "selectionDirection": "correct",
+          "prompt": "___ accepting the estimate at face value, the panel asked for ___ evidence.",
+          "instructions": "More than one proposed completion may fit. Choose the complete combination of valid completions, checking both blanks.",
+          "options": [
+            "I only",
+            "I and II only",
+            "II only",
+            "I and III only",
+            "I, II and III"
+          ],
+          "answer": "I and II only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Rather than / further",
+              "valid": true,
+              "reason": "Rather than + -ing contrasts accepting with asking; further evidence means additional evidence."
+            },
+            {
+              "label": "II",
+              "text": "Instead of / additional",
+              "valid": true,
+              "reason": "Instead of + -ing expresses the same alternative; additional naturally modifies evidence."
+            },
+            {
+              "label": "III",
+              "text": "Rather / further",
+              "valid": false,
+              "reason": "Rather alone cannot introduce accepting in this contrast; the construction needs rather than."
+            }
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "Multiple-fit direction: include EVERY completion that preserves grammar and meaning",
+            "clue": "The panel sought extra support instead of accepting the figure without examination.",
+            "rule": "Evaluate I, II and III independently. Do not stop when the first acceptable pair is found.",
+            "model": "Rather than accepting the estimate at face value, the panel asked for further evidence."
+          }
+        },
+        {
+          "id": "fillers/F08-Q2",
+          "type": "single",
+          "skill": "triple filler",
+          "prompt": "Engineering trials showed that the design could be built. Although the design was technically ___, its commercial prospects remained ___ because projected revenue was insufficient to ___ operating costs.",
+          "instructions": "Choose the word sequence that fits ALL THREE blanks in the given order.",
+          "options": [
+            "feasible / promising / cover",
+            "feasible / uncertain / cover",
+            "impossible / uncertain / cover",
+            "feasible / uncertain / incur",
+            "feasible / conclusive / cover"
+          ],
+          "answer": "feasible / uncertain / cover",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "Check all three meanings, collocations and grammatical slots together",
+            "clue": "Although separates technical workability from uncertain financial sustainability; insufficient revenue gives the commercial problem.",
+            "rule": "A workable design is not automatically a sustainable business. Check feasible, uncertain and cover costs separately.",
+            "model": "Engineering trials showed that the design could be built. Although the design was technically feasible, its commercial prospects remained uncertain because projected revenue was insufficient to cover operating costs.",
+            "rejects": [
+              {
+                "option": "feasible / promising / cover",
+                "reason": "Feasible and cover fit, but promising conflicts with the reason that revenue cannot cover costs."
+              },
+              {
+                "option": "impossible / uncertain / cover",
+                "reason": "If the design is technically impossible, although no longer establishes the intended practical-versus-commercial contrast."
+              },
+              {
+                "option": "feasible / uncertain / incur",
+                "reason": "A business incurs costs; revenue covers costs. Revenue does not incur operating costs."
+              },
+              {
+                "option": "feasible / conclusive / cover",
+                "reason": "Conclusive means decisive; it cannot describe these unresolved, adverse commercial prospects."
+              }
+            ]
+          }
+        },
+        {
+          "id": "fillers/F08-Q3",
+          "type": "single",
+          "skill": "triple filler",
+          "prompt": "The initial account was based only on isolated personal reports and was therefore ___; to find support for the allegation, the panel sought ___ records of systematically measured results to ___ it.",
+          "instructions": "Choose the word sequence that fits ALL THREE blanks in the given order.",
+          "options": [
+            "empirical / anecdotal / substantiate",
+            "anecdotal / empirical / refute",
+            "anecdotal / empirical / substantiate",
+            "anecdotal / empirical / substantiation",
+            "conclusive / empirical / substantiate"
+          ],
+          "answer": "anecdotal / empirical / substantiate",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          },
+          "vocabulary": [
+            "refute"
+          ],
+          "explanation": {
+            "relationship": "Check all three meanings, collocations and grammatical slots together",
+            "clue": "Only isolated personal reports limits the initial account; records are sought as evidential support.",
+            "rule": "Anecdotal describes individual reports; empirical describes evidence grounded in observation; substantiate means support with evidence.",
+            "model": "The initial account was based only on isolated personal reports and was therefore anecdotal; to find support for the allegation, the panel sought empirical records of systematically measured results to substantiate it.",
+            "rejects": [
+              {
+                "option": "empirical / anecdotal / substantiate",
+                "reason": "This reverses personal accounts and records grounded in observation or measurement."
+              },
+              {
+                "option": "anecdotal / empirical / refute",
+                "reason": "The panel is seeking supporting records for the allegation, not records to disprove it."
+              },
+              {
+                "option": "anecdotal / empirical / substantiation",
+                "reason": "The infinitive marker to requires the verb substantiate, not noun substantiation."
+              },
+              {
+                "option": "conclusive / empirical / substantiate",
+                "reason": "Only isolated personal reports do not justify calling the initial account decisive."
+              }
+            ]
+          }
+        },
+        {
+          "id": "fillers/F08-Q4",
+          "type": "multiple",
+          "skill": "multiple-fit phrase filler",
+          "selectionDirection": "correct",
+          "prompt": "Verification was a mandatory prerequisite, not an optional step. The bank released the approved funds ___ the borrower first ___ the required verification.",
+          "instructions": "More than one proposed completion may fit. Choose the complete combination of valid completions, checking both blanks.",
+          "options": [
+            "I only",
+            "I and II only",
+            "II only",
+            "II and III only",
+            "I, II and III"
+          ],
+          "answer": "I and II only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "subject to / completing",
+              "valid": true,
+              "reason": "Subject to introduces a condition; prepositional to permits the -ing clause the borrower completing ... ."
+            },
+            {
+              "label": "II",
+              "text": "on condition that / completed",
+              "valid": true,
+              "reason": "On condition that introduces a finite clause; completed agrees with the past narrative and preserves the prerequisite."
+            },
+            {
+              "label": "III",
+              "text": "regardless of / completing",
+              "valid": false,
+              "reason": "Although grammatically formed, regardless of removes the requirement that verification must be completed first."
+            }
+          ],
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "Multiple-fit direction: include EVERY completion that preserves grammar and meaning",
+            "clue": "First and required make verification a prerequisite, not something the bank may ignore.",
+            "rule": "Evaluate I, II and III independently. Do not stop when the first acceptable pair is found.",
+            "model": "Verification was a mandatory prerequisite, not an optional step. The bank released the approved funds on condition that the borrower first completed the required verification."
+          }
+        },
+        {
+          "id": "fillers/F08-Q5",
+          "type": "single",
+          "skill": "triple filler",
+          "prompt": "The statistical association was ___, but the evidence remained ___ on causation; treating the result as proof would therefore be ___.",
+          "instructions": "Choose the word sequence that fits ALL THREE blanks in the given order.",
+          "options": [
+            "credible / conclusive / unwarranted",
+            "credible / inconclusive / warranted",
+            "fraudulent / conclusive / prudent",
+            "credible / inconclusive / inevitable",
+            "credible / inconclusive / unwarranted"
+          ],
+          "answer": "credible / inconclusive / unwarranted",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q88–89",
+              "ibps-clerk-mains-question-paper-2021.pdf: Q32–36, same-word fillers",
+              "Mains Checklist 53: PDF p2, double fillers"
+            ]
+          },
+          "vocabulary": [],
+          "explanation": {
+            "relationship": "Check all three meanings, collocations and grammatical slots together",
+            "clue": "But separates a believable association from unresolved causation; therefore calls the leap unjustified.",
+            "rule": "A credible correlation can coexist with inconclusive causal evidence. Unwarranted means not justified by the available grounds.",
+            "model": "The statistical association was credible, but the evidence remained inconclusive on causation; treating the result as proof would therefore be unwarranted.",
+            "rejects": [
+              {
+                "option": "credible / conclusive / unwarranted",
+                "reason": "Conclusive evidence would not support the warning that treating the result as proof is unwarranted."
+              },
+              {
+                "option": "credible / inconclusive / warranted",
+                "reason": "The first two fit, but warranted reverses the stated warning about a causal leap."
+              },
+              {
+                "option": "fraudulent / conclusive / prudent",
+                "reason": "The association is not described as fabricated, and the last two words conflict with the caution."
+              },
+              {
+                "option": "credible / inconclusive / inevitable",
+                "reason": "Inevitable predicts that the leap must happen; the sentence assesses whether it is justified."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "MH-F01",
+      "title": "Two constraints, one pair",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-1",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The policy prohibits release before identity verification, yet verified applications can still be refused on credit grounds. Verification is therefore ___ for release, but not ___.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "sufficient / necessary",
+            "optional / sufficient",
+            "necessary / sufficient",
+            "necessary / relevant",
+            "sufficient / conclusive"
+          ],
+          "answer": "necessary / sufficient",
+          "skill": "double/triple contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "A verified application may still be refused; an unverified one cannot be released. Test both directions rather than treating verified as approved.",
+            "rule": "Necessary means required; sufficient means enough by itself. A condition may be necessary without being sufficient.",
+            "model": "The policy prohibits release before identity verification, yet verified applications can still be refused on credit grounds. Verification is therefore necessary for release, but not sufficient.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "sufficient / necessary",
+                "reason": "The first word grants a guarantee that credit checks explicitly withhold; the second denies the stated prerequisite."
+              },
+              {
+                "option": "optional / sufficient",
+                "reason": "Optional contradicts the explicit prohibition on release before verification."
+              },
+              {
+                "option": "necessary / relevant",
+                "reason": "Necessary fits, but not relevant is false: a mandatory prerequisite is directly relevant to release."
+              },
+              {
+                "option": "sufficient / conclusive",
+                "reason": "Sufficient incorrectly promises release once identity is verified."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "necessary / relevant",
+            "whyNot": "The second blank would deny relevance, not merely deny that verification guarantees release.",
+            "reasoningSteps": [
+              "Translate the prohibition into a prerequisite.",
+              "Retain the independent credit decision."
+            ]
+          },
+          "id": "fillers/MH-F01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Before any overrun occurred, the firm set aside extra cash without changing its most-likely cost forecast. The reserve was ___ rather than ___: it prepared for a possibility without asserting that the possibility would occur.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "compensatory / precautionary",
+            "predictive / compensatory",
+            "retrospective / provisional",
+            "precautionary / predictive",
+            "definitive / precautionary"
+          ],
+          "answer": "precautionary / predictive",
+          "skill": "double/triple contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "The timing is before a loss, and the central forecast is unchanged. Both facts constrain the pair.",
+            "rule": "Separate precautions against a possibility from predictions of that possibility and compensation after a loss.",
+            "model": "Before any overrun occurred, the firm set aside extra cash without changing its most-likely cost forecast. The reserve was precautionary rather than predictive: it prepared for a possibility without asserting that the possibility would occur.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "compensatory / precautionary",
+                "reason": "Compensatory addresses a loss or disadvantage being made good; no overrun has occurred, and the provision is expressly precautionary."
+              },
+              {
+                "option": "predictive / compensatory",
+                "reason": "Predictive would assert an expected outcome, contrary to the unchanged forecast."
+              },
+              {
+                "option": "retrospective / provisional",
+                "reason": "Retrospective looks back at an event; this provision anticipates one that may never occur."
+              },
+              {
+                "option": "definitive / precautionary",
+                "reason": "Definitive claims finality; a reserve for an uncertain event does not settle the future cost."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "compensatory / precautionary",
+            "whyNot": "It reverses preparation before a possible loss and a response after one.",
+            "reasoningSteps": [
+              "Locate the provision in time.",
+              "Check whether the central forecast changes."
+            ]
+          },
+          "id": "fillers/MH-F01-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Branch A blocked ten payments, eight of which were genuine; Branch B blocked forty, twelve of which were genuine. Branch A had a larger ___ but a smaller ___ of genuine payments among those blocked. Select every valid pair.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only",
+            "I, II and III"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "proportion / number",
+              "valid": true,
+              "reason": "Eight out of ten is a larger fraction than twelve out of forty, while eight is a smaller count than twelve."
+            },
+            {
+              "label": "II",
+              "text": "count / percentage",
+              "valid": false,
+              "reason": "This reverses the facts: A has the smaller count and the larger percentage."
+            },
+            {
+              "label": "III",
+              "text": "percentage / count",
+              "valid": true,
+              "reason": "Percentage expresses the relative measure and count expresses the absolute total, so both facts are preserved."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "multiple-fit contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "A has 8/10 = 80%; B has 12/40 = 30%. However, A has 8 genuine blocked payments and B has 12.",
+            "rule": "Compare the same denominator-based measure in the first blank and the absolute count in the second. Synonymous pairs can both be correct.",
+            "model": "Branch A had a larger proportion but a smaller number of genuine payments among those blocked."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "I only",
+            "whyNot": "III preserves exactly the same distinction using percentage and count.",
+            "reasoningSteps": [
+              "Separate relative and absolute measures.",
+              "Evaluate both halves of all three pairs."
+            ]
+          },
+          "id": "fillers/MH-F01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The bank reported a profit and had enough assets to cover its total debts, but it could not obtain enough ready cash for payments due that afternoon. It was ___, but not sufficiently ___.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "liquid / solvent",
+            "solvent / profitable",
+            "profitable / solvent",
+            "insolvent / liquid",
+            "solvent / liquid"
+          ],
+          "answer": "solvent / liquid",
+          "skill": "double/triple contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "solvent",
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "Three separate facts are supplied: profit, total debt capacity and an immediate cash shortage. Do not let one substitute for another.",
+            "rule": "Profitability, solvency and liquidity describe different financial conditions.",
+            "model": "The bank reported a profit and had enough assets to cover its total debts, but it could not obtain enough ready cash for payments due that afternoon. It was solvent, but not sufficiently liquid.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "liquid / solvent",
+                "reason": "This reverses total debt capacity and immediate cash availability."
+              },
+              {
+                "option": "solvent / profitable",
+                "reason": "Solvent fits, but a reported profit is explicitly given; the immediate problem is ready cash, not absence of profit."
+              },
+              {
+                "option": "profitable / solvent",
+                "reason": "Profitable fits one fact, but not solvent contradicts the stated ability to cover total debts."
+              },
+              {
+                "option": "insolvent / liquid",
+                "reason": "Insolvent contradicts the asset–liability position described."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "solvent / profitable",
+            "whyNot": "The profit is already stated; the second word must address the immediate cash shortage.",
+            "reasoningSteps": [
+              "Track all three facts.",
+              "Test both adjectives against their specific financial dimensions."
+            ]
+          },
+          "id": "fillers/MH-F01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "Committee approval remains a prerequisite even when identity verification is complete. Express precisely that approval stays necessary regardless of document status, without making approval alone a sufficient trigger. The bank may release funds ___ the committee approves, ___ all identity documents have already been verified.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "only if / even if",
+            "if / only if",
+            "even if / only if",
+            "unless / because",
+            "whether or not / even if"
+          ],
+          "answer": "only if / even if",
+          "skill": "double/triple contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "prerequisite",
+            "qualify",
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "Completed verification does not remove the separate approval requirement. The first blank must express necessity; the second must retain that necessity despite verification.",
+            "rule": "Only if introduces a necessary condition; even if introduces a circumstance that does not defeat it.",
+            "model": "Committee approval remains a prerequisite even when identity verification is complete. Express precisely that approval stays necessary regardless of document status, without making approval alone a sufficient trigger. The bank may release funds only if the committee approves, even if all identity documents have already been verified.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "if / only if",
+                "reason": "This turns approval into a trigger for release while adding verification as the qualification; it fails to retain the stated even-when-verified restriction on committee approval."
+              },
+              {
+                "option": "even if / only if",
+                "reason": "Even if does not make committee approval necessary; it instead concedes approval while shifting the condition to documents."
+              },
+              {
+                "option": "unless / because",
+                "reason": "Unless reverses the approval requirement, and because treats completed verification as the reason rather than an exception that leaves approval necessary."
+              },
+              {
+                "option": "whether or not / even if",
+                "reason": "Whether or not explicitly permits release without committee approval."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "if / only if",
+            "whyNot": "It makes approval a sufficient trigger instead of retaining approval as a necessary condition even when documents are verified.",
+            "reasoningSteps": [
+              "Translate prerequisite into only if.",
+              "Place the concession where it cannot remove that prerequisite."
+            ]
+          },
+          "id": "fillers/MH-F01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-F02",
+      "title": "Same form, distinct senses and scope",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-1",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "I. The reserve provides funds to ___ possible cost increases without preventing those increases from occurring. II. The venue can ___ up to three hundred delegates.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "contain",
+            "accommodate",
+            "finance",
+            "admit",
+            "enumerate"
+          ],
+          "answer": "accommodate",
+          "skill": "same-word contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "One use concerns capacity to meet a cost variation, and the other concerns capacity to hold people. The identical form must serve both.",
+            "rule": "Accommodate can mean make provision for or provide space for. Do not accept a word that changes the reserve into cost control.",
+            "model": "I. The reserve provides funds to accommodate possible cost increases without preventing those increases from occurring. II. The venue can accommodate up to three hundred delegates.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "contain",
+                "reason": "Contain can describe holding delegates, but containing cost increases means limiting them; the first sentence instead provides money to meet increases that may still occur."
+              },
+              {
+                "option": "finance",
+                "reason": "Finance can meet the first need, but finance delegates does not mean provide venue capacity for them."
+              },
+              {
+                "option": "admit",
+                "reason": "Admit can take delegates as people allowed entry; a reserve does not admit cost increases in the stated funding sense."
+              },
+              {
+                "option": "enumerate",
+                "reason": "Enumerate means list or count; neither funding an increase nor having room for people is enumeration."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "contain",
+            "whyNot": "It fits physical capacity but changes the first sentence from bearing a cost to limiting the cost itself.",
+            "reasoningSteps": [
+              "Test the venue sense.",
+              "Then recheck whether the first word funds or prevents an increase."
+            ]
+          },
+          "id": "fillers/MH-F02-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "I. The committee may ___ its favourable assessment by adding a reservation without withdrawing the assessment. II. Applicants must ___ for relief by meeting the stated criteria.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "validate",
+            "modify",
+            "qualify",
+            "certify",
+            "substantiate"
+          ],
+          "answer": "qualify",
+          "skill": "same-word contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "qualify",
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "The first use limits a statement; the second names eligibility. These are different senses of the same word.",
+            "rule": "Qualify a claim means add a limitation; qualify for something means meet its requirements.",
+            "model": "I. The committee may qualify its favourable assessment by adding a reservation without withdrawing the assessment. II. Applicants must qualify for relief by meeting the stated criteria.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "validate",
+                "reason": "Validate would support or establish an assessment, not limit it; applicants do not validate for relief."
+              },
+              {
+                "option": "modify",
+                "reason": "Modify can alter an assessment, but modify for relief does not mean become eligible."
+              },
+              {
+                "option": "certify",
+                "reason": "Certify can attest to something; it neither limits the favourable assessment nor forms certify for relief with applicants as subject."
+              },
+              {
+                "option": "substantiate",
+                "reason": "Substantiate supports a statement with evidence, not restricts its force, and it does not supply the eligibility construction."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "modify",
+            "whyNot": "It can satisfy the first action but cannot express qualify for relief in the second.",
+            "reasoningSteps": [
+              "Identify the reservation sense.",
+              "Recheck the for-complement and the applicant’s role."
+            ]
+          },
+          "id": "fillers/MH-F02-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "I. The panel did not ___ the claim outright merely because some records were missing. II. The lender agreed to ___ the bill by buying it before maturity for less than its face value.",
+          "instructions": "Choose ONE unchanged word that fits BOTH sentences. Check the precise financial action, not just a broad connection with money.",
+          "options": [
+            "dismiss",
+            "accept",
+            "advance",
+            "discount",
+            "devalue"
+          ],
+          "answer": "discount",
+          "skill": "same-word contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "discount"
+          ],
+          "explanation": {
+            "relationship": "The same form must preserve both the evidential and banking senses",
+            "clue": "The first use concerns the weight given to a claim; the second is a particular purchase of a bill, not acceptance, a loan advance or a change in its face value.",
+            "rule": "Discount can mean disregard or give less weight to evidence; discount a bill means purchase it before maturity at less than face value.",
+            "model": "The panel did not discount the claim outright merely because some records were missing. The lender agreed to discount the bill by buying it before maturity for less than its face value.",
+            "rejects": [
+              {
+                "option": "dismiss",
+                "reason": "Dismiss can disregard a claim in I, but dismiss a bill does not mean buy it below face value before maturity."
+              },
+              {
+                "option": "accept",
+                "reason": "Accepting a bill means undertaking payment liability, not buying it for less than its face value as described in II."
+              },
+              {
+                "option": "advance",
+                "reason": "Advance can mean put a claim forward or provide money; advance the bill is not the specified purchase of the bill below face value."
+              },
+              {
+                "option": "devalue",
+                "reason": "Devalue reduces a stated or perceived value; purchasing a bill for less than face value does not change the face value itself."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "devalue",
+            "whyNot": "Buying below face value is not changing the bill’s face value; the two financial actions differ.",
+            "reasoningSteps": [
+              "Test the evidential sense in I.",
+              "Then distinguish purchase, acceptance, advance and revaluation in II."
+            ]
+          },
+          "id": "fillers/MH-F02-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "I. The board may ___ the right to change the terms before signature. II. Unexpected losses would use up the immediately available cash ___.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "exercise",
+            "provision",
+            "claim",
+            "pledge",
+            "reserve"
+          ],
+          "answer": "reserve",
+          "skill": "same-word contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "The right is retained for possible future use; the second blank is money already available, not a promise or claim.",
+            "rule": "Reserve can be a verb meaning retain and a noun meaning funds kept available.",
+            "model": "I. The board may reserve the right to change the terms before signature. II. Unexpected losses would use up the immediately available cash reserve.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "exercise",
+                "reason": "Exercise a right fits I, but cash exercise does not name a fund that losses can use up."
+              },
+              {
+                "option": "provision",
+                "reason": "A cash provision could fit II, but provision the right is not the construction for retaining a right."
+              },
+              {
+                "option": "claim",
+                "reason": "Claim a right can fit I, but a cash claim is an entitlement to money, not necessarily an immediately available cash fund."
+              },
+              {
+                "option": "pledge",
+                "reason": "A cash pledge is a promise, not the ready fund described, and pledge the right changes retaining authority into offering or committing it."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "claim",
+            "whyNot": "A claim to money is not the already available cash fund described in II.",
+            "reasoningSteps": [
+              "Distinguish retaining a right from exercising it.",
+              "Distinguish a cash fund from an entitlement or promise."
+            ]
+          },
+          "id": "fillers/MH-F02-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The audit’s remit covered only one branch out of the bank’s entire network, but it examined every transaction in that branch in detail. Its overall remit was ___, while its examination within that remit was ___.",
+          "instructions": "Choose the sequence that satisfies EVERY blank in order. Check both the stated facts and the exact degree of the claim.",
+          "options": [
+            "limited / exhaustive",
+            "limited / cursory",
+            "comprehensive / exhaustive",
+            "exhaustive / limited",
+            "narrow / superficial"
+          ],
+          "answer": "limited / exhaustive",
+          "skill": "double/triple contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "exhaustive",
+            "calibrate",
+            "cursory"
+          ],
+          "explanation": {
+            "clue": "The network is the scope reference for the first blank; transactions inside the selected branch are the scope reference for the second.",
+            "rule": "A limited scope can still receive an exhaustive examination. Do not confuse breadth with depth.",
+            "model": "The audit’s remit covered only one branch out of the bank’s entire network, but it examined every transaction in that branch in detail. Its overall remit was limited, while its examination within that remit was exhaustive.",
+            "relationship": "Both constraints must fit: scope, degree and contextual meaning",
+            "rejects": [
+              {
+                "option": "limited / cursory",
+                "reason": "The remit is limited, but checking every transaction in detail contradicts a superficial examination."
+              },
+              {
+                "option": "comprehensive / exhaustive",
+                "reason": "Exhaustive fits local depth; comprehensive misstates the explicitly restricted overall remit."
+              },
+              {
+                "option": "exhaustive / limited",
+                "reason": "This reverses the restricted network coverage and the complete within-branch examination."
+              },
+              {
+                "option": "narrow / superficial",
+                "reason": "Narrow fits coverage, but superficial conflicts with the depth expressly stated."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "comprehensive / exhaustive",
+            "whyNot": "It fits completeness within the branch but improperly transfers that completeness to the entire-network remit.",
+            "reasoningSteps": [
+              "Fix the reference population for each blank.",
+              "Evaluate breadth and depth independently."
+            ]
+          },
+          "id": "fillers/MH-F02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-F03",
+      "title": "Multiple fits, negation and evidence",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-1",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "The rule forbids approval while the record is unverified, but does not promise approval once verification is complete. Approval will not be issued ___ the record has been verified. Select every completion consistent with that rule.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only",
+            "I, II and III"
+          ],
+          "answer": "I and II only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "unless",
+              "valid": true,
+              "reason": "Unless verification has occurred, approval is withheld; the word does not promise approval when it does occur."
+            },
+            {
+              "label": "II",
+              "text": "until",
+              "valid": true,
+              "reason": "Until holds approval back before the verification event without requiring approval after it."
+            },
+            {
+              "label": "III",
+              "text": "once",
+              "valid": false,
+              "reason": "Will not be issued once verification is complete would prohibit approval after verification, not merely before it."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "multiple-fit contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "unverified",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "The ban applies before verification; completing verification removes that one barrier but does not guarantee the outcome.",
+            "rule": "In this context, unless supplies the necessary condition and until the temporal boundary. Neither gives the converse guarantee.",
+            "model": "Approval will not be issued until the record has been verified."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "I, II and III",
+            "whyNot": "Once moves the prohibition to the period after verification.",
+            "reasoningSteps": [
+              "Locate the period covered by the negative clause.",
+              "Keep prerequisite and guarantee separate."
+            ]
+          },
+          "id": "fillers/MH-F03-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The retention rule applied regardless of storage cost. The bank kept the records, ___ retaining them had become expensive. Select every completion that preserves the stated concession rather than inventing a cause.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "II only",
+            "I and II only",
+            "II and III only",
+            "I and III only",
+            "I, II and III"
+          ],
+          "answer": "II and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "because",
+              "valid": false,
+              "reason": "Because would make increased expense the reason for keeping records; the stated rule applies regardless of that expense."
+            },
+            {
+              "label": "II",
+              "text": "although",
+              "valid": true,
+              "reason": "Although marks the expensive retention as a concession that does not prevent compliance."
+            },
+            {
+              "label": "III",
+              "text": "even though",
+              "valid": true,
+              "reason": "Even though also preserves the concession without making cost the cause."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "multiple-fit contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "Storage expense is a circumstance endured, not the reason the retention rule exists or the reason it was followed.",
+            "rule": "A grammatical reason clause is not interchangeable with a concessive clause when the intended relationship is specified.",
+            "model": "The bank kept the records even though retaining them had become expensive."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "I and II only",
+            "whyNot": "I reverses the assigned role of cost, while III is another valid concession.",
+            "reasoningSteps": [
+              "Identify the invariant rule.",
+              "Keep causal and concessive relationships distinct."
+            ]
+          },
+          "id": "fillers/MH-F03-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The records conclusively documented a fall in charges. They also gave a tentative indication of a process effect, without proving causation. Complete both blanks while preserving these degrees of evidence: The figures ___ that charges fell, but did not ___ that the procedure caused the fall.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "I only",
+            "III only",
+            "I and II only",
+            "I and III only",
+            "I, II and III"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "showed / prove",
+              "valid": true,
+              "reason": "Showed preserves the documented outcome; did not prove retains the unresolved causal conclusion."
+            },
+            {
+              "label": "II",
+              "text": "proved / suggest",
+              "valid": false,
+              "reason": "The first blank fits, but did not suggest denies the tentative causal indication explicitly given."
+            },
+            {
+              "label": "III",
+              "text": "established / demonstrate",
+              "valid": true,
+              "reason": "Established retains the documented fall; did not demonstrate withholds causal proof without denying a tentative indication."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "multiple-fit contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "indication",
+            "tentative",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "The outcome is established, the cause is only tentatively indicated, and the sentence must not deny that weak causal indication.",
+            "rule": "Preserve both evidence levels. Not proving causation is weaker than not even suggesting it.",
+            "model": "The figures established that charges fell, but did not demonstrate that the procedure caused the fall."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "I and II only",
+            "whyNot": "II makes the second clause too negative: tentative support already exists.",
+            "reasoningSteps": [
+              "Separate evidence of an outcome from evidence of its cause.",
+              "Check the strength of the negative as well as the positive verb."
+            ]
+          },
+          "id": "fillers/MH-F03-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "The transaction records were confirmed genuine, but two future cost assumptions remained unsettled. The forecast was therefore still ___, even though its underlying transaction records were ___. Select every pair that preserves both facts.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "I only",
+            "II only",
+            "I and III only",
+            "I and II only",
+            "I, II and III"
+          ],
+          "answer": "I and II only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "provisional / genuine",
+              "valid": true,
+              "reason": "Provisional reflects unsettled assumptions; genuine preserves the verified authenticity of the records."
+            },
+            {
+              "label": "II",
+              "text": "tentative / authentic",
+              "valid": true,
+              "reason": "Tentative and authentic express the same two independent dimensions in this context."
+            },
+            {
+              "label": "III",
+              "text": "fraudulent / provisional",
+              "valid": false,
+              "reason": "Unsettled assumptions do not establish deception, and provisional does not preserve the expressly confirmed authenticity dimension."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "multiple-fit contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "tentative",
+            "underlying",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "Uncertainty concerns future assumptions, not whether past transaction records were forged.",
+            "rule": "Keep forecast finality separate from the authenticity of the data used in it.",
+            "model": "The forecast was still tentative, even though its underlying transaction records were authentic."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "I only",
+            "whyNot": "II is an equally valid pair; no grammatical or contextual distinction excludes it.",
+            "reasoningSteps": [
+              "Identify which object is uncertain.",
+              "Evaluate the records on authenticity rather than forecast finality."
+            ]
+          },
+          "id": "fillers/MH-F03-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "A completed review may lead either to approval or to refusal. Completion of a review does not ___ approval. Select every completion consistent with both possible outcomes.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "I only",
+            "I and III only",
+            "II only",
+            "II and III only",
+            "I, II and III"
+          ],
+          "answer": "I, II and III",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "guarantee",
+              "valid": true,
+              "reason": "A refusal remains possible, so review does not guarantee approval."
+            },
+            {
+              "label": "II",
+              "text": "preclude",
+              "valid": true,
+              "reason": "Approval remains possible, so review does not preclude approval either."
+            },
+            {
+              "label": "III",
+              "text": "necessitate",
+              "valid": true,
+              "reason": "Review does not make approval necessary; refusal remains an allowed outcome."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "multiple-fit contextual filler",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "review",
+            "preclude",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "The negative applies to each candidate. An uncertain outcome is neither guaranteed nor impossible.",
+            "rule": "Negating guarantee and negating preclude can both be true: approval is possible but not required.",
+            "model": "Completion of a review does not guarantee approval; it also does not preclude it."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "I and III only",
+            "whyNot": "It recognises that approval is not required but forgets that approval is not ruled out.",
+            "reasoningSteps": [
+              "Apply the negative to each verb independently.",
+              "Retain both possible outcomes."
+            ]
+          },
+          "id": "fillers/MH-F03-Q5"
+        }
+      ]
+    }
+  ]
+}

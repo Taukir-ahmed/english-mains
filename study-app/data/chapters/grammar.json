@@ -1,0 +1,3340 @@
+{
+  "id": "grammar",
+  "title": "Errors & correction",
+  "description": "55 questions: the existing 40 plus 15 new Moderate–Hard items. Select Moderate–Hard for the new sets with close alternatives and full-context checks. Difficulty is a reviewed training target, not an independently calibrated exam rating.",
+  "source": {
+    "kind": "original-format-practice",
+    "formatReferences": [
+      "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+      "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+      "Mains Checklist 53: PDF pp2–5, combined grammar"
+    ],
+    "note": "Source references describe formats only; all sentences, options and explanations in this chapter are newly authored."
+  },
+  "vocabularyCandidates": [
+    {
+      "term": "stipulated",
+      "meaning": "specified or required as part of an agreement or instruction",
+      "collocations": [
+        "within the stipulated period / a stipulated condition"
+      ],
+      "forms": [
+        "stipulate",
+        "stipulation"
+      ],
+      "important": true,
+      "readingExample": "The borrower submitted the documents within the stipulated period."
+    },
+    {
+      "term": "calibrate",
+      "meaning": "adjust something to an appropriate scale, level or standard",
+      "collocations": [
+        "calibrate scrutiny to risk / calibrate a measure"
+      ],
+      "forms": [
+        "calibrated",
+        "calibrating",
+        "calibration"
+      ],
+      "important": true,
+      "readingExample": "The bank decided to calibrate the intensity of its checks to the risk of each transaction."
+    }
+  ],
+  "packs": [
+    {
+      "id": "G01",
+      "title": "Repair the core construction",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The list of discrepancies [have been sent] to the auditor.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "has been sent",
+            "have being sent",
+            "has been send",
+            "were sent",
+            "No change required"
+          ],
+          "answer": "has been sent",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "List, not discrepancies, controls the verb.",
+            "rule": "A singular head noun takes has; perfect passive is has been + past participle.",
+            "model": "The list of discrepancies has been sent to the auditor.",
+            "rejects": [
+              {
+                "option": "have being sent",
+                "reason": "Have disagrees with singular list; being also does not form the required perfect passive."
+              },
+              {
+                "option": "has been send",
+                "reason": "After been, the passive needs the past participle sent."
+              },
+              {
+                "option": "were sent",
+                "reason": "The head noun list is singular, so were does not agree."
+              },
+              {
+                "option": "No change required",
+                "reason": "Discrepancies is inside of the phrase; the subject head is list."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G01-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Every applicant [must submits] an identity document.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "must submitted",
+            "must submit",
+            "must submitting",
+            "must to submit",
+            "No change required"
+          ],
+          "answer": "must submit",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Must already carries the modal function.",
+            "rule": "Use modal + base verb, irrespective of whether the subject is singular.",
+            "model": "Every applicant must submit an identity document.",
+            "rejects": [
+              {
+                "option": "must submitted",
+                "reason": "A modal takes the base form, not the past participle."
+              },
+              {
+                "option": "must submitting",
+                "reason": "An -ing form cannot directly follow must here."
+              },
+              {
+                "option": "must to submit",
+                "reason": "Do not insert to after the modal must."
+              },
+              {
+                "option": "No change required",
+                "reason": "The singular applicant does not add -s to a verb after must."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G01-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The analyst [suggested to revise] the tentative estimate.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "suggested revise",
+            "suggested for revising",
+            "suggested revising",
+            "suggested to revising",
+            "No change required"
+          ],
+          "answer": "suggested revising",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "The action after suggested is revising.",
+            "rule": "Use suggest + -ing, or suggest that + clause; only the -ing construction is offered.",
+            "model": "The analyst suggested revising the tentative estimate.",
+            "rejects": [
+              {
+                "option": "suggested revise",
+                "reason": "A bare verb cannot be the direct complement in this construction."
+              },
+              {
+                "option": "suggested for revising",
+                "reason": "Suggest does not require for before this action complement."
+              },
+              {
+                "option": "suggested to revising",
+                "reason": "To revising does not repair the complement."
+              },
+              {
+                "option": "No change required",
+                "reason": "Suggest + to-infinitive is not the required pattern here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "tentative"
+          ],
+          "id": "grammar/G01-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The revised policy [aims to reduce delays and improving] accountability.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "aims to reducing delays and improve",
+            "aims reduce delays and improving",
+            "aims to reduced delays and improved",
+            "aims to reduce delays and improve",
+            "No change required"
+          ],
+          "answer": "aims to reduce delays and improve",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "The two intended actions share aims to.",
+            "rule": "Coordinate reduce and improve under the same to.",
+            "model": "The revised policy aims to reduce delays and improve accountability.",
+            "rejects": [
+              {
+                "option": "aims to reducing delays and improve",
+                "reason": "Aims to here takes an infinitive, not reducing."
+              },
+              {
+                "option": "aims reduce delays and improving",
+                "reason": "Aims needs to before the infinitive and parallel verb forms."
+              },
+              {
+                "option": "aims to reduced delays and improved",
+                "reason": "To does not take these past forms."
+              },
+              {
+                "option": "No change required",
+                "reason": "Reduce and improving are not parallel in this shared infinitive structure."
+              }
+            ]
+          },
+          "vocabulary": [
+            "accountability",
+            "reduce"
+          ],
+          "id": "grammar/G01-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The bank has [fewer liquidity than] it needs for immediate withdrawals.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "few liquidity than",
+            "lesser liquidity as",
+            "less liquidities than",
+            "No change required",
+            "less liquidity than"
+          ],
+          "answer": "less liquidity than",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Liquidity names an amount, not a count of objects.",
+            "rule": "Use less with an uncountable amount and than for this comparison.",
+            "model": "The bank has less liquidity than it needs for immediate withdrawals.",
+            "rejects": [
+              {
+                "option": "few liquidity than",
+                "reason": "Few requires plural count nouns and does not form this comparison."
+              },
+              {
+                "option": "lesser liquidity as",
+                "reason": "The comparative pairing and normal quantifier are wrong here."
+              },
+              {
+                "option": "less liquidities than",
+                "reason": "Liquidity is uncountable in this cash-availability sense."
+              },
+              {
+                "option": "No change required",
+                "reason": "Fewer counts separate items; liquidity here is an amount."
+              }
+            ]
+          },
+          "vocabulary": [
+            "liquidity"
+          ],
+          "id": "grammar/G01-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "title": "Retain correct sentences",
+      "level": "Warm-up",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The manager is responsible [for verify] the collateral documents.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "for verifying",
+            "to verifying",
+            "for verified",
+            "for to verify",
+            "No change required"
+          ],
+          "answer": "for verifying",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Responsible for introduces the duty.",
+            "rule": "Use responsible for + noun or -ing form.",
+            "model": "The manager is responsible for verifying the collateral documents.",
+            "rejects": [
+              {
+                "option": "to verifying",
+                "reason": "Responsible is followed by for in this construction."
+              },
+              {
+                "option": "for verified",
+                "reason": "A past participle cannot name the action after for here."
+              },
+              {
+                "option": "for to verify",
+                "reason": "A to-infinitive cannot directly follow this preposition."
+              },
+              {
+                "option": "No change required",
+                "reason": "The verb after for must take an -ing form here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "collateral"
+          ],
+          "id": "grammar/G02-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The team has [made considerable progress] in reconciling the accounts.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "made considerable progresses",
+            "No change required",
+            "done a considerable progress",
+            "make considerable progress",
+            "made considerably progress"
+          ],
+          "answer": "No change required",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Has made and uncountable progress already fit.",
+            "rule": "Do not change an accurate sentence just because an error is expected.",
+            "model": "The team has made considerable progress in reconciling the accounts.",
+            "rejects": [
+              {
+                "option": "made considerable progresses",
+                "reason": "Progress is uncountable in this sense."
+              },
+              {
+                "option": "done a considerable progress",
+                "reason": "The natural construction is make progress, without a."
+              },
+              {
+                "option": "make considerable progress",
+                "reason": "Has needs the past participle made."
+              },
+              {
+                "option": "made considerably progress",
+                "reason": "Progress is a noun and needs the adjective considerable."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G02-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The officer asked [whether the records were complete].",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "whether were the records complete",
+            "that were the records complete",
+            "No change required",
+            "whether the records was complete",
+            "whether did the records complete"
+          ],
+          "answer": "No change required",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "The question is embedded after asked.",
+            "rule": "Use whether + subject + verb in an indirect yes/no question.",
+            "model": "The officer asked whether the records were complete.",
+            "rejects": [
+              {
+                "option": "whether were the records complete",
+                "reason": "An embedded question uses statement word order."
+              },
+              {
+                "option": "that were the records complete",
+                "reason": "That does not introduce this yes/no indirect question."
+              },
+              {
+                "option": "whether the records was complete",
+                "reason": "Plural records requires were."
+              },
+              {
+                "option": "whether did the records complete",
+                "reason": "Do-support does not belong in this embedded question and changes the structure."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G02-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The committee decided [to defer the vote until] the audit was complete.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "deferring the vote until",
+            "to deferred the vote until",
+            "to defer the vote unless",
+            "No change required",
+            "to defer the vote by"
+          ],
+          "answer": "No change required",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Completion of the audit marks the end of the waiting period.",
+            "rule": "Decide to do something; until introduces the endpoint.",
+            "model": "The committee decided to defer the vote until the audit was complete.",
+            "rejects": [
+              {
+                "option": "deferring the vote until",
+                "reason": "Decided takes a to-infinitive in this construction."
+              },
+              {
+                "option": "to deferred the vote until",
+                "reason": "To must be followed by base defer."
+              },
+              {
+                "option": "to defer the vote unless",
+                "reason": "Unless changes the intended endpoint into an exception condition."
+              },
+              {
+                "option": "to defer the vote by",
+                "reason": "By cannot introduce the finite clause the audit was complete here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "defer"
+          ],
+          "id": "grammar/G02-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The report describes the measures [taken to mitigate] operational risk.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "took to mitigate",
+            "taken to mitigated",
+            "taking to mitigate",
+            "taken for mitigate",
+            "No change required"
+          ],
+          "answer": "No change required",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "The measures were taken; their purpose was mitigation.",
+            "rule": "Taken is a reduced passive relative clause; to mitigate expresses purpose.",
+            "model": "The report describes the measures taken to mitigate operational risk.",
+            "rejects": [
+              {
+                "option": "took to mitigate",
+                "reason": "Measures needs a passive modifier, not active took."
+              },
+              {
+                "option": "taken to mitigated",
+                "reason": "Purpose to takes base mitigate."
+              },
+              {
+                "option": "taking to mitigate",
+                "reason": "This would make the measures the agents doing the taking."
+              },
+              {
+                "option": "taken for mitigate",
+                "reason": "For cannot be followed directly by base mitigate here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "mitigate"
+          ],
+          "id": "grammar/G02-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "title": "Complements and inversion",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The association looks forward [to receive] a conclusive response.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "to receiving",
+            "for receiving",
+            "to received",
+            "receive",
+            "No change required"
+          ],
+          "answer": "to receiving",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Look forward to is the complete expression.",
+            "rule": "Use look forward to + noun/-ing, unlike ordinary want to + base verb.",
+            "model": "The association looks forward to receiving a conclusive response.",
+            "rejects": [
+              {
+                "option": "for receiving",
+                "reason": "The fixed expression is look forward to."
+              },
+              {
+                "option": "to received",
+                "reason": "The prepositional to needs an -ing action complement here."
+              },
+              {
+                "option": "receive",
+                "reason": "Dropping to breaks the expression."
+              },
+              {
+                "option": "No change required",
+                "reason": "This to is a preposition, not an infinitive marker."
+              }
+            ]
+          },
+          "vocabulary": [
+            "conclusive"
+          ],
+          "id": "grammar/G03-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "The officer prevented the applicant [from submit] an incomplete form.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "to submit",
+            "from submitting",
+            "from submitted",
+            "for submitting",
+            "No change required"
+          ],
+          "answer": "from submitting",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "The application was stopped before submission.",
+            "rule": "Use prevent + person + from + -ing.",
+            "model": "The officer prevented the applicant from submitting an incomplete form.",
+            "rejects": [
+              {
+                "option": "to submit",
+                "reason": "Prevent someone from doing something is the required construction."
+              },
+              {
+                "option": "from submitted",
+                "reason": "The preposition from requires the action noun form submitting here."
+              },
+              {
+                "option": "for submitting",
+                "reason": "For would suggest a reason, not the prevented action."
+              },
+              {
+                "option": "No change required",
+                "reason": "Base submit cannot directly follow from in this pattern."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G03-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Had the discrepancy been detected earlier, the bank [would avoid] the loss last month.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "will have avoided",
+            "would had avoided",
+            "would have avoided",
+            "had avoid",
+            "No change required"
+          ],
+          "answer": "would have avoided",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Had ... been detected and last month refer to an unreal past event.",
+            "rule": "In this past counterfactual, use had + participle and would have + participle.",
+            "model": "Had the discrepancy been detected earlier, the bank would have avoided the loss last month.",
+            "rejects": [
+              {
+                "option": "will have avoided",
+                "reason": "Will does not express this unreal past result."
+              },
+              {
+                "option": "would had avoided",
+                "reason": "A modal takes have, not had."
+              },
+              {
+                "option": "had avoid",
+                "reason": "This lacks the result modal and correct participle."
+              },
+              {
+                "option": "No change required",
+                "reason": "Last month and had been detected make this a past counterfactual."
+              }
+            ]
+          },
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "id": "grammar/G03-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "Rarely [the panel has encountered] such a tenuous argument.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "the panel have encountered",
+            "has encountered the panel",
+            "did the panel encountered",
+            "has the panel encountered",
+            "No change required"
+          ],
+          "answer": "has the panel encountered",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "Rarely opens the clause.",
+            "rule": "With fronted rarely, move the auxiliary before the subject: has the panel encountered.",
+            "model": "Rarely has the panel encountered such a tenuous argument.",
+            "rejects": [
+              {
+                "option": "the panel have encountered",
+                "reason": "This misses inversion and disagrees with singular panel as used here."
+              },
+              {
+                "option": "has encountered the panel",
+                "reason": "Inversion places the subject between auxiliary and main verb."
+              },
+              {
+                "option": "did the panel encountered",
+                "reason": "Did requires base encounter."
+              },
+              {
+                "option": "No change required",
+                "reason": "Fronted restrictive rarely requires subject–auxiliary inversion here."
+              }
+            ]
+          },
+          "vocabulary": [
+            "tenuous"
+          ],
+          "id": "grammar/G03-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "No sooner [had the moratorium ended when] repayments resumed.",
+          "instructions": "Replace only the phrase in square brackets. Select No change required if it is already correct.",
+          "options": [
+            "the moratorium had ended than",
+            "had the moratorium end than",
+            "had the moratorium ended then",
+            "No change required",
+            "had the moratorium ended than"
+          ],
+          "answer": "had the moratorium ended than",
+          "skill": "phrase correction",
+          "explanation": {
+            "relationship": "Grammar: preserve the meaning while repairing the marked phrase",
+            "clue": "No sooner is the fixed opening.",
+            "rule": "Use no sooner had + subject + participle + than + following event.",
+            "model": "No sooner had the moratorium ended than repayments resumed.",
+            "rejects": [
+              {
+                "option": "the moratorium had ended than",
+                "reason": "Fronted no sooner requires inversion."
+              },
+              {
+                "option": "had the moratorium end than",
+                "reason": "Had takes past participle ended."
+              },
+              {
+                "option": "had the moratorium ended then",
+                "reason": "The paired conjunction is than, not then."
+              },
+              {
+                "option": "No change required",
+                "reason": "No sooner pairs with than; hardly/scarcely commonly pair with when."
+              }
+            ]
+          },
+          "vocabulary": [
+            "moratorium"
+          ],
+          "id": "grammar/G03-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "title": "Find the real subject",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "(A) The number of unresolved complaints / (B) have declined / (C) since the bank introduced / (D) the new grievance portal.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "B",
+            "A",
+            "C",
+            "D",
+            "No error"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "The number is the singular head; complaints is inside the of-phrase.",
+            "rule": "The number of + plural noun normally takes a singular verb.",
+            "model": "The number of unresolved complaints has declined since the bank introduced the new grievance portal.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: has declined"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G04-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) A number of rural borrowers / (B) has requested / (C) an extension of / (D) the repayment deadline.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "No error"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "A number of means several here.",
+            "rule": "A number of + plural count noun takes a plural verb in this meaning.",
+            "model": "A number of rural borrowers have requested an extension of the repayment deadline.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: have requested"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G04-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) Neither the clerks nor / (B) the branch manager were / (C) available to explain / (D) the discrepancy.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "C",
+            "B",
+            "D",
+            "No error"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "The nearer coordinated subject is singular branch manager.",
+            "rule": "In this neither ... nor structure, the verb agrees with the nearer subject.",
+            "model": "Neither the clerks nor the branch manager was available to explain the discrepancy.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: the branch manager was"
+              }
+            ]
+          },
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "id": "grammar/G04-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) The bank supplied / (B) all eligible applicants / (C) with sufficient informations / (D) about the revised scheme.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "B",
+            "D",
+            "C",
+            "No error"
+          ],
+          "answer": "C",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Information is uncountable in this sense.",
+            "rule": "Use information, not informations; sufficient can modify an uncountable noun.",
+            "model": "The bank supplied all eligible applicants with sufficient information about the revised scheme.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in C."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the error is in C."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in C."
+              },
+              {
+                "option": "No error",
+                "reason": "C needs correction: with sufficient information"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G04-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) The new procedure / (B) is more simpler / (C) than the one / (D) it replaced.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "C",
+            "D",
+            "No error",
+            "B"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Simpler already contains the comparative form.",
+            "rule": "Do not normally combine more with an -er comparative.",
+            "model": "The new procedure is simpler than the one it replaced.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: is simpler"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G04-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "title": "Word order and genuine no-error",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "(A) The auditor asked / (B) the cashier to explain / (C) why had the balance changed / (D) after the branch closed.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "C",
+            "A",
+            "B",
+            "D",
+            "No error"
+          ],
+          "answer": "C",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Why introduces an embedded question after explain.",
+            "rule": "Embedded questions use subject before verb, unlike direct question inversion.",
+            "model": "The auditor asked the cashier to explain why the balance had changed after the branch closed.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in C."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the error is in C."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in C."
+              },
+              {
+                "option": "No error",
+                "reason": "C needs correction: why the balance had changed"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G05-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) Having verified the documents, / (B) the officer approved / (C) the application / (D) without further delay.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "No error",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "No error",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "The officer both verified and approved; the modifier attaches correctly.",
+            "rule": "An initial participial phrase should refer to the subject of the main clause.",
+            "model": "Having verified the documents, the officer approved the application without further delay.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the full sentence is correct."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G05-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) The committee / (B) has not yet decided / (C) whether to accept / (D) the provisional estimate.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "B",
+            "No error",
+            "C",
+            "D"
+          ],
+          "answer": "No error",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Committee has a singular verb, and whether to accept correctly expresses the unresolved choice.",
+            "rule": "Has not yet decided and whether + to-infinitive are both valid here.",
+            "model": "The committee has not yet decided whether to accept the provisional estimate.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the full sentence is correct."
+              }
+            ]
+          },
+          "vocabulary": [
+            "provisional"
+          ],
+          "id": "grammar/G05-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) Despite the additional checks, / (B) the branch processed / (C) the applications / (D) within the stipulated period.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "No error",
+            "D"
+          ],
+          "answer": "No error",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Despite is followed by the noun phrase the additional checks.",
+            "rule": "Despite + noun phrase expresses concession and does not require of.",
+            "model": "Despite the additional checks, the branch processed the applications within the stipulated period.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the full sentence is correct."
+              }
+            ]
+          },
+          "vocabulary": [
+            "despite",
+            "stipulated"
+          ],
+          "id": "grammar/G05-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) The data-entry operator / (B) did not disclosed / (C) the confidential records / (D) to the visitor.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "C",
+            "D",
+            "No error",
+            "B"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Did carries the past-tense marking.",
+            "rule": "After did not use the base verb disclose.",
+            "model": "The data-entry operator did not disclose the confidential records to the visitor.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: did not disclose"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G05-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "title": "Time, parallelism and paired structures",
+      "level": "Mains-style",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "(A) By the time the auditors arrived yesterday, / (B) the manager has already reconciled / (C) the disputed entries / (D) in the ledger.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "B",
+            "A",
+            "C",
+            "D",
+            "No error"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Reconciliation happened before another specified past event.",
+            "rule": "Use past perfect for the earlier completed event in this past narrative.",
+            "model": "By the time the auditors arrived yesterday, the manager had already reconciled the disputed entries in the ledger.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: the manager had already reconciled"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G06-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) If the branch had retained a backup, / (B) it would have recovered / (C) the records more quickly / (D) after last week’s outage.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "No error",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "No error",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Both clauses consistently refer to an unreal past situation.",
+            "rule": "Past counterfactual: if + had + participle, would have + participle.",
+            "model": "If the branch had retained a backup, it would have recovered the records more quickly after last week’s outage.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the full sentence is correct."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the full sentence is correct."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G06-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) The revised procedure / (B) not only reduces paperwork / (C) but also improve / (D) transparency.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "No error"
+          ],
+          "answer": "C",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Both coordinated predicates have singular procedure as their subject.",
+            "rule": "Keep reduces and improves parallel, with singular verb agreement.",
+            "model": "The revised procedure not only reduces paperwork but also improves transparency.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in C."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the error is in C."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in C."
+              },
+              {
+                "option": "No error",
+                "reason": "C needs correction: but also improves"
+              }
+            ]
+          },
+          "vocabulary": [
+            "transparency"
+          ],
+          "id": "grammar/G06-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) Scarcely had the inspection begun / (B) than the auditor noticed / (C) a discrepancy / (D) in the inventory.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "C",
+            "D",
+            "B",
+            "No error"
+          ],
+          "answer": "B",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "Scarcely is paired with when in this immediate-sequence construction.",
+            "rule": "Use scarcely/hardly ... when; use no sooner ... than.",
+            "model": "Scarcely had the inspection begun when the auditor noticed a discrepancy in the inventory.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in B."
+              },
+              {
+                "option": "C",
+                "reason": "Part C is acceptable as written; the error is in B."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in B."
+              },
+              {
+                "option": "No error",
+                "reason": "B needs correction: when the auditor noticed"
+              }
+            ]
+          },
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "id": "grammar/G06-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        },
+        {
+          "type": "single",
+          "prompt": "(A) The bank requires / (B) that every applicant / (C) must to provide / (D) a valid address.",
+          "instructions": "Identify the one part containing a grammatical error. Choose No error if all four parts are correct.",
+          "options": [
+            "A",
+            "B",
+            "D",
+            "No error",
+            "C"
+          ],
+          "answer": "C",
+          "skill": "single-part error spotting",
+          "explanation": {
+            "relationship": "Error spotting: identify the faulty part, or retain a correct sentence",
+            "clue": "The modal must cannot be followed by to + base verb.",
+            "rule": "Use must + base provide. The that-clause itself is acceptable.",
+            "model": "The bank requires that every applicant must provide a valid address.",
+            "rejects": [
+              {
+                "option": "A",
+                "reason": "Part A is acceptable as written; the error is in C."
+              },
+              {
+                "option": "B",
+                "reason": "Part B is acceptable as written; the error is in C."
+              },
+              {
+                "option": "D",
+                "reason": "Part D is acceptable as written; the error is in C."
+              },
+              {
+                "option": "No error",
+                "reason": "C needs correction: must provide"
+              }
+            ]
+          },
+          "vocabulary": [],
+          "id": "grammar/G06-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "title": "Judge every statement",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) are grammatically correct?",
+          "instructions": "Select the complete combination of correct sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I and III only",
+            "I only",
+            "II only",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select CORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "Each of the proposed measures is feasible. A number of borrowers have sought relief. The list of eligible applicants has been published.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "correct",
+            "feasible"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Each of the proposed measures is feasible.",
+              "valid": true,
+              "reason": "Each is singular; is agrees."
+            },
+            {
+              "label": "II",
+              "text": "A number of borrowers has sought relief.",
+              "valid": false,
+              "reason": "A number of means several; use have sought."
+            },
+            {
+              "label": "III",
+              "text": "The list of eligible applicants has been published.",
+              "valid": true,
+              "reason": "List is the singular head; has been published agrees."
+            }
+          ],
+          "id": "grammar/G07-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) contain an error?",
+          "instructions": "Select the complete combination of incorrect sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "II only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select INCORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "The regulator advised the bank to retain the records. The bank suggested extending the deadline. The officer prevented the borrower from signing an incomplete form.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The regulator advised the bank to retain the records.",
+              "valid": true,
+              "reason": "Advise + object + to-infinitive is valid."
+            },
+            {
+              "label": "II",
+              "text": "The bank suggested to extend the deadline.",
+              "valid": false,
+              "reason": "Use suggested extending or suggested that ... ."
+            },
+            {
+              "label": "III",
+              "text": "The officer prevented the borrower from signing an incomplete form.",
+              "valid": true,
+              "reason": "Prevent + object + from + -ing is valid."
+            }
+          ],
+          "id": "grammar/G07-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) are grammatically correct?",
+          "instructions": "Select the complete combination of correct sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "II only",
+            "III only",
+            "I only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select CORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "Although the checks were stringent, the bank met its target. Despite the delay, the applicants remained calm. Because the portal failed, submissions were suspended.",
+            "rejects": [
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "correct",
+            "despite",
+            "stringent"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Although the checks were stringent, the bank met its target.",
+              "valid": true,
+              "reason": "Although introduces a complete concessive clause."
+            },
+            {
+              "label": "II",
+              "text": "Despite of the delay, the applicants remained calm.",
+              "valid": false,
+              "reason": "Use despite the delay, without of."
+            },
+            {
+              "label": "III",
+              "text": "Because of the portal failed, submissions were suspended.",
+              "valid": false,
+              "reason": "A finite reason clause takes because, not because of."
+            }
+          ],
+          "id": "grammar/G07-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) contain an error?",
+          "instructions": "Select the complete combination of incorrect sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I only",
+            "III only",
+            "I and II only",
+            "II only",
+            "I and III only"
+          ],
+          "answer": "II only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select INCORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "The scheme aims to reduce costs and improve access. The guidelines require verifying identity and retaining records. The officer is responsible for scrutiny and verification.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "reduce",
+            "scrutiny"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The scheme aims to reduce costs and improve access.",
+              "valid": true,
+              "reason": "Reduce and improve are parallel under aims to."
+            },
+            {
+              "label": "II",
+              "text": "The guidelines require verifying identity and to retain records.",
+              "valid": false,
+              "reason": "Coordinate verifying and retaining."
+            },
+            {
+              "label": "III",
+              "text": "The officer is responsible for scrutiny and verification.",
+              "valid": true,
+              "reason": "Scrutiny and verification are parallel nouns after for."
+            }
+          ],
+          "id": "grammar/G07-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) are grammatically correct?",
+          "instructions": "Select the complete combination of correct sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "I and III only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select CORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "Had the bank checked the collateral, it would have detected the fraud. If the bank had checked the collateral, it would have detected the fraud. If the bank checks the collateral tomorrow, it will identify any discrepancy.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "collateral",
+            "correct",
+            "discrepancy"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Had the bank checked the collateral, it would have detected the fraud.",
+              "valid": true,
+              "reason": "Inverted had-clause and would have result form a past counterfactual."
+            },
+            {
+              "label": "II",
+              "text": "If the bank would have checked the collateral, it had detected the fraud.",
+              "valid": false,
+              "reason": "Use if ... had checked and would have detected."
+            },
+            {
+              "label": "III",
+              "text": "If the bank checks the collateral tomorrow, it will identify any discrepancy.",
+              "valid": true,
+              "reason": "The future condition takes present checks; the result uses will."
+            }
+          ],
+          "id": "grammar/G07-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "correct"
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "title": "Harder combinations and direction checks",
+      "level": "Higher practice",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) contain an error?",
+          "instructions": "Select the complete combination of incorrect sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "II only",
+            "I only",
+            "III only",
+            "I and II only",
+            "I and III only"
+          ],
+          "answer": "II only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select INCORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "Not until the audit ended did the committee approve the accounts. Never had the auditor seen such poor records. Rarely has a routine inspection revealed so many discrepancies.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Check all three independent statements; the required combination is II only."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Not until the audit ended did the committee approve the accounts.",
+              "valid": true,
+              "reason": "Not until is fronted; did the committee approve is correct inversion."
+            },
+            {
+              "label": "II",
+              "text": "Never the auditor had seen such poor records.",
+              "valid": false,
+              "reason": "Fronted never requires had the auditor seen."
+            },
+            {
+              "label": "III",
+              "text": "Rarely has a routine inspection revealed so many discrepancies.",
+              "valid": true,
+              "reason": "Has a routine inspection revealed correctly inverts after rarely."
+            }
+          ],
+          "id": "grammar/G08-Q1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) are grammatically correct?",
+          "instructions": "Select the complete combination of correct sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I only",
+            "I and III only",
+            "II only",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select CORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "The officer asked whether the applicant had signed the form. The officer asked why the form was unsigned. The officer wanted to know where the applicant lived.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is I and III only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "correct"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The officer asked whether the applicant had signed the form.",
+              "valid": true,
+              "reason": "An embedded question uses subject applicant before had."
+            },
+            {
+              "label": "II",
+              "text": "The officer asked why was the form unsigned.",
+              "valid": false,
+              "reason": "Use why the form was unsigned."
+            },
+            {
+              "label": "III",
+              "text": "The officer wanted to know where the applicant lived.",
+              "valid": true,
+              "reason": "Where the applicant lived has statement word order."
+            }
+          ],
+          "id": "grammar/G08-Q2",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) are grammatically correct?",
+          "instructions": "Select the complete combination of correct sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I only",
+            "II only",
+            "I, II and III",
+            "III only",
+            "I and II only"
+          ],
+          "answer": "I, II and III",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select CORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "The bank has made considerable progress. The auditor requested further information. The new system requires fewer manual checks.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is I, II and III."
+              },
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is I, II and III."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is I, II and III."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is I, II and III."
+              }
+            ]
+          },
+          "vocabulary": [
+            "correct"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The bank has made considerable progress.",
+              "valid": true,
+              "reason": "Progress is correctly uncountable."
+            },
+            {
+              "label": "II",
+              "text": "The auditor requested further information.",
+              "valid": true,
+              "reason": "Information is correctly uncountable."
+            },
+            {
+              "label": "III",
+              "text": "The new system requires fewer manual checks.",
+              "valid": true,
+              "reason": "Checks are countable and plural, so fewer fits."
+            }
+          ],
+          "id": "grammar/G08-Q3",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "correct"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) contain an error?",
+          "instructions": "Select the complete combination of incorrect sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "II only",
+            "III only",
+            "I and II only",
+            "I only",
+            "I and III only"
+          ],
+          "answer": "I only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select INCORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "Having examined the ledger, the auditor noticed the discrepancy. After examining the ledger, the auditor identified a discrepancy. While reviewing the records, the auditor noted several omissions.",
+            "rejects": [
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              },
+              {
+                "option": "III only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Check all three independent statements; the required combination is I only."
+              }
+            ]
+          },
+          "vocabulary": [
+            "discrepancy"
+          ],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Having examined the ledger, the discrepancy became obvious to the auditor.",
+              "valid": false,
+              "reason": "The discrepancy did not examine the ledger; the introductory modifier dangles."
+            },
+            {
+              "label": "II",
+              "text": "After examining the ledger, the auditor identified a discrepancy.",
+              "valid": true,
+              "reason": "Auditor is the subject of both examining and identifying."
+            },
+            {
+              "label": "III",
+              "text": "While reviewing the records, the auditor noted several omissions.",
+              "valid": true,
+              "reason": "Auditor is the subject of both reviewing and noting."
+            }
+          ],
+          "id": "grammar/G08-Q4",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        },
+        {
+          "type": "single",
+          "prompt": "Which sentence(s) contain an error?",
+          "instructions": "Select the complete combination of incorrect sentences. A statement marked valid in the explanation is grammatically correct.",
+          "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only",
+            "III only"
+          ],
+          "answer": "III only",
+          "skill": "combined correct/incorrect sentences",
+          "explanation": {
+            "relationship": "Direction: select INCORRECT sentences",
+            "clue": "Evaluate I, II and III separately before matching the combination.",
+            "rule": "An option must contain every required statement and no extra one.",
+            "model": "No sooner had the bank reopened than customers began to arrive. Hardly had the bank reopened when customers began to arrive. Scarcely had the bank reopened when customers began to arrive.",
+            "rejects": [
+              {
+                "option": "I only",
+                "reason": "Check all three independent statements; the required combination is III only."
+              },
+              {
+                "option": "II only",
+                "reason": "Check all three independent statements; the required combination is III only."
+              },
+              {
+                "option": "I and II only",
+                "reason": "Check all three independent statements; the required combination is III only."
+              },
+              {
+                "option": "I and III only",
+                "reason": "Check all three independent statements; the required combination is III only."
+              }
+            ]
+          },
+          "vocabulary": [],
+          "candidates": [
+            {
+              "label": "I",
+              "text": "No sooner had the bank reopened than customers began to arrive.",
+              "valid": true,
+              "reason": "No sooner correctly pairs with than and inversion."
+            },
+            {
+              "label": "II",
+              "text": "Hardly had the bank reopened when customers began to arrive.",
+              "valid": true,
+              "reason": "Hardly correctly pairs with when and inversion."
+            },
+            {
+              "label": "III",
+              "text": "Scarcely had the bank reopened than customers began to arrive.",
+              "valid": false,
+              "reason": "Scarcely pairs with when here, not than."
+            }
+          ],
+          "id": "grammar/G08-Q5",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67",
+              "SBI-Clerk-Mains-2024-25-Memory-Based-Paper-10.04.2025-1st-shift.pdf: Q20–22",
+              "Mains Checklist 53: PDF pp2–5, combined grammar"
+            ]
+          },
+          "selectionDirection": "incorrect"
+        }
+      ]
+    },
+    {
+      "id": "MH-G01",
+      "title": "Repair time, agency and comparison",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-1",
+      "questions": [
+        {
+          "type": "single",
+          "prompt": "The minutes state that the committee would certainly have refused consent if informed in time. Had the committee been told that the proposed collateral could not be sold, it [would not approve] the loan last Friday.",
+          "instructions": "Replace only the bracketed phrase. Preserve the stated time, agent and degree of certainty. Choose No change required when the phrase already does so.",
+          "options": [
+            "could not have approved",
+            "would not have approved",
+            "might not have approved",
+            "would not have been approved",
+            "No change required"
+          ],
+          "answer": "would not have approved",
+          "skill": "complex phrase correction",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "collateral",
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "The result belongs to last Friday and is expressly a refusal the committee would certainly have made.",
+            "rule": "Use would have + participle for this completed unreal past result; preserve agency and the stipulated certainty.",
+            "model": "The minutes state that the committee would certainly have refused consent if informed in time. Had the committee been told that the proposed collateral could not be sold, it would not have approved the loan last Friday.",
+            "relationship": "Preserve both grammar and the expressly stated meaning",
+            "rejects": [
+              {
+                "option": "could not have approved",
+                "reason": "Could not changes a stated counterfactual refusal into inability or impossibility."
+              },
+              {
+                "option": "might not have approved",
+                "reason": "Might not weakens the expressly certain counterfactual decision into a possibility."
+              },
+              {
+                "option": "would not have been approved",
+                "reason": "The passive would make the committee the thing being approved, rather than the agent approving the loan."
+              },
+              {
+                "option": "No change required",
+                "reason": "Last Friday and had been told require a completed unreal past result; the bracketed non-perfect form does not express that here."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "might not have approved",
+            "whyNot": "It repairs the past form but fails to retain the expressly certain refusal.",
+            "reasoningSteps": [
+              "Resolve the time of the result.",
+              "Preserve the committee as agent and would as the stated certainty."
+            ]
+          },
+          "id": "grammar/MH-G01-Q1"
+        },
+        {
+          "type": "single",
+          "prompt": "Having compared both versions of the ledger, [a missing debit became apparent to the auditor].",
+          "instructions": "Replace only the bracketed phrase. Preserve the stated time, agent and degree of certainty. Choose No change required when the phrase already does so.",
+          "options": [
+            "a missing debit was noticed by the auditor",
+            "the comparison revealed a missing debit to the auditor",
+            "the auditor noticed a missing debit",
+            "the ledger disclosed a missing debit to the auditor",
+            "No change required"
+          ],
+          "answer": "the auditor noticed a missing debit",
+          "skill": "complex phrase correction",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "Having compared requires a person who compared; that person must be the subject of the following main clause.",
+            "rule": "An initial active participial clause normally shares its understood subject with the main clause, not a noun in a later by/to phrase.",
+            "model": "Having compared both versions of the ledger, the auditor noticed a missing debit.",
+            "relationship": "Preserve both grammar and the expressly stated meaning",
+            "rejects": [
+              {
+                "option": "a missing debit was noticed by the auditor",
+                "reason": "The main subject is still a missing debit, which did not compare the ledgers; the by-phrase does not supply the controller of the initial modifier."
+              },
+              {
+                "option": "the comparison revealed a missing debit to the auditor",
+                "reason": "The grammatical subject is the comparison, not the person who performed the comparing."
+              },
+              {
+                "option": "the ledger disclosed a missing debit to the auditor",
+                "reason": "The ledger did not perform the act described by having compared both versions."
+              },
+              {
+                "option": "No change required",
+                "reason": "A missing debit cannot be the understood subject of having compared; the main subject must identify the comparer."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "a missing debit was noticed by the auditor",
+            "whyNot": "Mentioning the auditor inside a by-phrase does not make the auditor the main subject controlling having compared.",
+            "reasoningSteps": [
+              "Find the understood agent of the modifier.",
+              "Then check the main grammatical subject, not the nearest person mentioned."
+            ]
+          },
+          "id": "grammar/MH-G01-Q2"
+        },
+        {
+          "type": "single",
+          "prompt": "Each of the proposals, including two that require rural pilots, [have been reviewed and are] currently awaiting final approval.",
+          "instructions": "Replace only the bracketed phrase. Preserve the stated time, agent and degree of certainty. Choose No change required when the phrase already does so.",
+          "options": [
+            "have been reviewed and is",
+            "has been reviewed and are",
+            "has been reviewing and is",
+            "has been reviewed and is",
+            "No change required"
+          ],
+          "answer": "has been reviewed and is",
+          "skill": "complex phrase correction",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "The relative clause require rural pilots belongs to two proposals; the two main predicates still have each as their head.",
+            "rule": "Separate agreement inside an embedded clause from agreement in the two coordinated main predicates.",
+            "model": "Each of the proposals, including two that require rural pilots, has been reviewed and is currently awaiting final approval.",
+            "relationship": "Preserve both grammar and the expressly stated meaning",
+            "rejects": [
+              {
+                "option": "have been reviewed and is",
+                "reason": "The second verb agrees with each, but have still disagrees with the singular head."
+              },
+              {
+                "option": "has been reviewed and are",
+                "reason": "The perfect passive agrees, but are still follows the intervening plural proposals instead of each."
+              },
+              {
+                "option": "has been reviewing and is",
+                "reason": "This changes the proposal from the thing reviewed into the reviewing agent and supplies no object for that action."
+              },
+              {
+                "option": "No change required",
+                "reason": "Both have and are take the intervening plural noun as their head; both main verbs belong to each."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "has been reviewed and are",
+            "whyNot": "It fixes only one of the two main verbs.",
+            "reasoningSteps": [
+              "Locate the head of each clause separately.",
+              "Check both coordinated predicates and preserve the passive role."
+            ]
+          },
+          "id": "grammar/MH-G01-Q3"
+        },
+        {
+          "type": "single",
+          "prompt": "The report identifies only a possibility of loss, not a certainty: without a backup, the files [could have been lost] during last month’s outage.",
+          "instructions": "Replace only the bracketed phrase. Preserve the stated time, agent and degree of certainty. Choose No change required when the phrase already does so.",
+          "options": [
+            "would have been lost",
+            "could not have been lost",
+            "could have lost",
+            "could be lost",
+            "No change required"
+          ],
+          "answer": "No change required",
+          "skill": "complex phrase correction",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "certainty",
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "The subject files is passive, the outage is in the past, and the report claims possibility only.",
+            "rule": "Could have been + participle correctly combines past possibility with passive voice. A past condition does not automatically require would.",
+            "model": "The report identifies only a possibility of loss, not a certainty: without a backup, the files could have been lost during last month’s outage.",
+            "relationship": "Preserve both grammar and the expressly stated meaning",
+            "rejects": [
+              {
+                "option": "would have been lost",
+                "reason": "Would makes the loss the counterfactual result asserted, stronger than the explicitly stated possibility."
+              },
+              {
+                "option": "could not have been lost",
+                "reason": "This denies the possibility that the report expressly identifies."
+              },
+              {
+                "option": "could have lost",
+                "reason": "The files are the things that might be lost, not agents losing an unexpressed object."
+              },
+              {
+                "option": "could be lost",
+                "reason": "This non-perfect form does not preserve the completed past possibility located during last month’s outage."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "would have been lost",
+            "whyNot": "It sounds like a standard conditional repair but overstates the report’s explicitly limited claim.",
+            "reasoningSteps": [
+              "Check past time.",
+              "Retain passive agency and possibility rather than certainty."
+            ]
+          },
+          "id": "grammar/MH-G01-Q4"
+        },
+        {
+          "type": "single",
+          "prompt": "The audit found unchanged completeness but improved reliability. The new records [are as complete and more reliable than] the previous records.",
+          "instructions": "Replace only the bracketed phrase. Preserve the stated time, agent and degree of certainty. Choose No change required when the phrase already does so.",
+          "options": [
+            "are as complete as, and more reliable than,",
+            "are more complete and as reliable as",
+            "are as complete as and as reliable as",
+            "are as completely as and more reliable than",
+            "No change required"
+          ],
+          "answer": "are as complete as, and more reliable than,",
+          "skill": "complex phrase correction",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "clue": "Two separate comparisons are supplied: equal completeness and greater reliability. Each comparative pattern needs the correct complement.",
+            "rule": "Use as + adjective + as for equality and comparative + than for superiority; both can share the final noun phrase when each marker is supplied.",
+            "model": "The audit found unchanged completeness but improved reliability. The new records are as complete as, and more reliable than, the previous records.",
+            "relationship": "Preserve both grammar and the expressly stated meaning",
+            "rejects": [
+              {
+                "option": "are more complete and as reliable as",
+                "reason": "This reverses the findings: completeness was equal and reliability higher, not the other way round."
+              },
+              {
+                "option": "are as complete as and as reliable as",
+                "reason": "This preserves equal completeness but wrongly reduces the reported improvement in reliability to equality."
+              },
+              {
+                "option": "are as completely as and more reliable than",
+                "reason": "The linking verb are requires adjective complete for the property of the records, not adverb completely."
+              },
+              {
+                "option": "No change required",
+                "reason": "As complete requires its own as-complement; the later than only completes more reliable."
+              }
+            ]
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "are as complete as and as reliable as",
+            "whyNot": "It is grammatical but changes greater reliability into equal reliability.",
+            "reasoningSteps": [
+              "Map each property to its stated comparison.",
+              "Check both comparison markers rather than accepting a grammatical paraphrase with changed meaning."
+            ]
+          },
+          "id": "grammar/MH-G01-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-G02",
+      "title": "Judge constructions across nested clauses",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-1",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "Which sentences are correct?",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "None",
+            "II and III only",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The number of claims that remain unresolved have fallen, although several applicants have yet to receive a decision.",
+              "valid": false,
+              "reason": "Have in the main clause incorrectly agrees with claims; the singular head is the number. The embedded remain and later have are correct."
+            },
+            {
+              "label": "II",
+              "text": "The number of claims that remain unresolved has fallen, although several applicants have yet to receive a decision.",
+              "valid": true,
+              "reason": "Remain agrees with claims inside the relative clause; has agrees with number in the main clause; applicants have is separately plural."
+            },
+            {
+              "label": "III",
+              "text": "The auditor found that neither the head office nor the regional branches had retained all the original records.",
+              "valid": true,
+              "reason": "Had retained is a valid past-perfect predicate inside the reported finding; the coordination creates no extra agreement error in had."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "nested-clause grammar combination",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "correct",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "Evaluate each construction in its own time and scope. Do not apply a rule to a nearby word belonging to a different clause.",
+            "rule": "A combination must include every required statement and no extra one. Valid labels mean grammatically correct sentences.",
+            "model": "The number of claims that remain unresolved has fallen, although several applicants have yet to receive a decision. The number of claims that remain unresolved has fallen, although several applicants have yet to receive a decision. The auditor found that neither the head office nor the regional branches had retained all the original records."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination that rejects every plural verb",
+            "whyNot": "Only the main head number requires a singular main predicate; embedded and separate plural subjects retain plural verbs.",
+            "reasoningSteps": [
+              "Separate the main and relative clauses.",
+              "Check reported perfect tense without inventing agreement in had."
+            ]
+          },
+          "id": "grammar/MH-G02-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which sentences are INCORRECT?",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "None",
+            "I only",
+            "III only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Not until the original records had been checked did the panel approve the claim.",
+              "valid": true,
+              "reason": "Fronted not until requires did the panel approve after the completed time clause."
+            },
+            {
+              "label": "II",
+              "text": "Only the verified copies were retained, and the originals were returned to the applicant.",
+              "valid": true,
+              "reason": "Only modifies the subject noun phrase verified copies; it does not front a restrictive adverbial and does not require inversion."
+            },
+            {
+              "label": "III",
+              "text": "Only after the original records had been checked the panel approved the claim.",
+              "valid": false,
+              "reason": "Fronted only after requires did the panel approve, not ordinary statement order."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "nested-clause grammar combination",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Evaluate each construction in its own time and scope. Do not apply a rule to a nearby word belonging to a different clause.",
+            "rule": "A combination must include every required statement and no extra one. Valid labels mean grammatically correct sentences.",
+            "model": "Not until the original records had been checked did the panel approve the claim. Only after the original records had been checked did the panel approve the claim. Only the verified copies were retained, and the originals were returned to the applicant."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination rejecting the sentence beginning Only the verified copies",
+            "whyNot": "Only before a subject noun phrase does not trigger the adverbial-fronting inversion rule.",
+            "reasoningSteps": [
+              "Identify the constituent modified by only.",
+              "Apply inversion only to the fronted restrictive adverbial."
+            ]
+          },
+          "id": "grammar/MH-G02-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which sentences are correct?",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "None",
+            "I only",
+            "II only",
+            "II and III only",
+            "I and II only"
+          ],
+          "answer": "II and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Had the originals been submitted last week, the panel will approve the claim yesterday.",
+              "valid": false,
+              "reason": "Will approve cannot locate the result yesterday; use would have approved for the stated unreal past result."
+            },
+            {
+              "label": "II",
+              "text": "If the bank had retained its records last year, it would now be able to answer the complaint.",
+              "valid": true,
+              "reason": "This valid mixed conditional combines a past unreal condition with a present consequence explicitly marked now."
+            },
+            {
+              "label": "III",
+              "text": "Had the originals been available yesterday, the reviewer could have verified the signatures then.",
+              "valid": true,
+              "reason": "Had been available introduces an unreal past condition; could have verified expresses past possibility."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "nested-clause grammar combination",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "correct",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "Evaluate each construction in its own time and scope. Do not apply a rule to a nearby word belonging to a different clause.",
+            "rule": "A combination must include every required statement and no extra one. Valid labels mean grammatically correct sentences.",
+            "model": "Had the originals been available yesterday, the reviewer could have verified the signatures then. If the bank had retained its records last year, it would now be able to answer the complaint. Had the originals been submitted last week, the panel would have approved the claim yesterday."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination rejecting would now be able",
+            "whyNot": "The present consequence is explicitly now; forcing would have into every result clause would change that time.",
+            "reasoningSteps": [
+              "Locate each result independently.",
+              "Distinguish unreal past results from present consequences of unreal past conditions."
+            ]
+          },
+          "id": "grammar/MH-G02-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which sentences are INCORRECT?",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "III only",
+            "None"
+          ],
+          "answer": "None",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "The revised policy aims to ensure that no application is rejected without review.",
+              "valid": true,
+              "reason": "Aims to uses infinitival to and base ensure; the embedded passive is rejected is correct."
+            },
+            {
+              "label": "II",
+              "text": "The bank is committed to ensuring that every applicant receives a reasoned decision.",
+              "valid": true,
+              "reason": "Committed to has prepositional to and takes ensuring; singular every applicant takes receives."
+            },
+            {
+              "label": "III",
+              "text": "The auditor objected to the original records being destroyed before the appeal ended.",
+              "valid": true,
+              "reason": "Objected to takes a gerund-participial clause; the original records are the things being destroyed."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "nested-clause grammar combination",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "review",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Evaluate each construction in its own time and scope. Do not apply a rule to a nearby word belonging to a different clause.",
+            "rule": "A combination must include every required statement and no extra one. Valid labels mean grammatically correct sentences.",
+            "model": "The bank is committed to ensuring that every applicant receives a reasoned decision. The revised policy aims to ensure that no application is rejected without review. The auditor objected to the original records being destroyed before the appeal ended."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "Any nonempty incorrect combination",
+            "whyNot": "All three are correct; the role of to differs between constructions and the passive -ing clause is legitimate.",
+            "reasoningSteps": [
+              "Identify whether to is a preposition or infinitive marker.",
+              "Check the embedded subjects and passive role separately."
+            ]
+          },
+          "id": "grammar/MH-G02-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Which sentences are correct?",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the valid ones.",
+          "options": [
+            "I and III only",
+            "None",
+            "I only",
+            "II only",
+            "I and II only"
+          ],
+          "answer": "I and III only",
+          "candidates": [
+            {
+              "label": "I",
+              "text": "Having verified the originals, the officers returned them to the applicant.",
+              "valid": true,
+              "reason": "The officers are the agents of both verifying and returning."
+            },
+            {
+              "label": "II",
+              "text": "Having verified the originals, the absence of discrepancies reassured the officers.",
+              "valid": false,
+              "reason": "The main subject absence of discrepancies did not verify the originals; the active introductory modifier dangles."
+            },
+            {
+              "label": "III",
+              "text": "Having been verified by the officers, the originals were returned to the applicant.",
+              "valid": true,
+              "reason": "Having been verified is passive, so originals correctly serves as its understood subject and the main subject."
+            }
+          ],
+          "selectionDirection": "correct",
+          "skill": "nested-clause grammar combination",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "correct",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Multiple-fit direction: more than one candidate may be valid",
+            "clue": "Evaluate each construction in its own time and scope. Do not apply a rule to a nearby word belonging to a different clause.",
+            "rule": "A combination must include every required statement and no extra one. Valid labels mean grammatically correct sentences.",
+            "model": "Having verified the originals, the officers returned them to the applicant. Having been verified by the officers, the originals were returned to the applicant. Having verified the originals, the officers were reassured by the absence of discrepancies."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "A combination rejecting every sentence with originals as main subject",
+            "whyNot": "The passive having been verified legitimately takes originals as its subject; the active having verified does not.",
+            "reasoningSteps": [
+              "Determine active or passive voice in the modifier.",
+              "Match its role to the main grammatical subject."
+            ]
+          },
+          "id": "grammar/MH-G02-Q5"
+        }
+      ]
+    },
+    {
+      "id": "MH-G03",
+      "title": "Find every error without overcorrecting",
+      "level": "Moderate–Hard",
+      "batch": "moderate-hard-1",
+      "questions": [
+        {
+          "type": "multiple",
+          "prompt": "Read A–D as one sentence and identify every incorrect part.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "No error",
+            "B only",
+            "A only",
+            "C only",
+            "D only"
+          ],
+          "answer": "B only",
+          "candidates": [
+            {
+              "label": "A",
+              "text": "The number of complaints",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "B",
+              "text": "that remain unresolved have fallen,",
+              "valid": false,
+              "reason": "Remain belongs to plural complaints in the relative clause, but the main have must be has because its subject head is the number. Replace with: that remain unresolved has fallen,"
+            },
+            {
+              "label": "C",
+              "text": "although each of the two branches",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "D",
+              "text": "has reported a rise in new claims.",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "multiple-error nested sentence",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Read the whole sentence before assigning each verb to its subject or applying a tense/parallelism rule.",
+            "rule": "Select all independently incorrect parts. A grammatical phrase elsewhere cannot compensate for an error in the selected construction.",
+            "model": "The number of complaints that remain unresolved has fallen, although each of the two branches has reported a rise in new claims."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "B and D only",
+            "whyNot": "D is already correct: each, not two branches, controls has reported.",
+            "reasoningSteps": [
+              "Separate the relative clause from the main predicate.",
+              "Resolve the head each inside the concessive clause."
+            ]
+          },
+          "partCorrections": {
+            "B": {
+              "text": "that remain unresolved has fallen,",
+              "reason": "Remain belongs to plural complaints in the relative clause, but the main have must be has because its subject head is the number."
+            }
+          },
+          "id": "grammar/MH-G03-Q1"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Read A–D as one sentence and identify every incorrect part.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "No error",
+            "A only",
+            "B only",
+            "C only",
+            "D only"
+          ],
+          "answer": "B only",
+          "candidates": [
+            {
+              "label": "A",
+              "text": "Not until the missing records had been verified",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "B",
+              "text": "the auditor could establish",
+              "valid": false,
+              "reason": "The fronted not until time clause requires subject–auxiliary inversion in the main clause, not inside the later whether-clause. Replace with: could the auditor establish"
+            },
+            {
+              "label": "C",
+              "text": "whether the apparent discrepancy",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "D",
+              "text": "was caused by a duplicate entry.",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "multiple-error nested sentence",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "discrepancy",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Read the whole sentence before assigning each verb to its subject or applying a tense/parallelism rule.",
+            "rule": "Select all independently incorrect parts. A grammatical phrase elsewhere cannot compensate for an error in the selected construction.",
+            "model": "Not until the missing records had been verified could the auditor establish whether the apparent discrepancy was caused by a duplicate entry."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "B and D only",
+            "whyNot": "The embedded whether-clause correctly retains statement order and passive was caused.",
+            "reasoningSteps": [
+              "Locate the clause affected by fronting.",
+              "Do not spread inversion into the embedded question."
+            ]
+          },
+          "partCorrections": {
+            "B": {
+              "text": "could the auditor establish",
+              "reason": "The fronted not until time clause requires subject–auxiliary inversion in the main clause, not inside the later whether-clause."
+            }
+          },
+          "id": "grammar/MH-G03-Q2"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Read A–D as one sentence and identify every incorrect part.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "No error",
+            "A only",
+            "B only",
+            "C and D only",
+            "C only"
+          ],
+          "answer": "C and D only",
+          "candidates": [
+            {
+              "label": "A",
+              "text": "The review was intended not only",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "B",
+              "text": "to identify unsupported assumptions",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "C",
+              "text": "but also testing whether",
+              "valid": false,
+              "reason": "Not only to identify pairs with but also to test, preserving infinitive parallelism. Replace with: but also to test whether"
+            },
+            {
+              "label": "D",
+              "text": "every projected expense have been included.",
+              "valid": false,
+              "reason": "Every projected expense is singular despite the plural meaning of all expenses. Replace with: every projected expense has been included."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "multiple-error nested sentence",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "review",
+            "unsupported",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Read the whole sentence before assigning each verb to its subject or applying a tense/parallelism rule.",
+            "rule": "Select all independently incorrect parts. A grammatical phrase elsewhere cannot compensate for an error in the selected construction.",
+            "model": "The review was intended not only to identify unsupported assumptions but also to test whether every projected expense has been included."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "C only",
+            "whyNot": "Fixing the parallelism leaves the independent agreement error in D.",
+            "reasoningSteps": [
+              "Check the two coordinated purpose phrases.",
+              "Then check the subject inside the whether-clause."
+            ]
+          },
+          "partCorrections": {
+            "C": {
+              "text": "but also to test whether",
+              "reason": "Not only to identify pairs with but also to test, preserving infinitive parallelism."
+            },
+            "D": {
+              "text": "every projected expense has been included.",
+              "reason": "Every projected expense is singular despite the plural meaning of all expenses."
+            }
+          },
+          "id": "grammar/MH-G03-Q3"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Read A–D as one sentence and identify every incorrect part.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "A only",
+            "B only",
+            "C only",
+            "D only",
+            "No error"
+          ],
+          "answer": "No error",
+          "candidates": [
+            {
+              "label": "A",
+              "text": "Had the discrepancies been disclosed before the vote,",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "B",
+              "text": "the committee might have withheld approval,",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "C",
+              "text": "but the available records do not establish",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "D",
+              "text": "that it would certainly have done so.",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "multiple-error nested sentence",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Read the whole sentence before assigning each verb to its subject or applying a tense/parallelism rule.",
+            "rule": "Select all independently incorrect parts. A grammatical phrase elsewhere cannot compensate for an error in the selected construction.",
+            "model": "Had the discrepancies been disclosed before the vote, the committee might have withheld approval, but the available records do not establish that it would certainly have done so."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "B only",
+            "whyNot": "Might correctly expresses a possibility; the final clause expressly withholds certainty, so would is not required.",
+            "reasoningSteps": [
+              "Separate the unreal past possibility from the present assessment of evidence.",
+              "Keep the distinction between might and certainly would."
+            ]
+          },
+          "partCorrections": {},
+          "id": "grammar/MH-G03-Q4"
+        },
+        {
+          "type": "multiple",
+          "prompt": "Read A–D as one sentence and identify every incorrect part.",
+          "instructions": "Evaluate every candidate independently and choose ALL and ONLY the incorrect ones.",
+          "options": [
+            "C and D only",
+            "No error",
+            "A only",
+            "B only",
+            "C only"
+          ],
+          "answer": "C and D only",
+          "candidates": [
+            {
+              "label": "A",
+              "text": "The auditor compared the original entries with their digital copies",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "B",
+              "text": "and noted that every discrepancy, including minor rounding differences,",
+              "valid": true,
+              "reason": "This part is acceptable in the complete sentence; do not change a correct construction."
+            },
+            {
+              "label": "C",
+              "text": "were explained in the branch’s written reply,",
+              "valid": false,
+              "reason": "Every discrepancy is singular; the intervening plural differences does not control its passive verb. Replace with: was explained in the branch’s written reply,"
+            },
+            {
+              "label": "D",
+              "text": "although the costs of those checks was already within budget.",
+              "valid": false,
+              "reason": "Costs is the plural head in this separate clause and requires were. Replace with: although the costs of those checks were already within budget."
+            }
+          ],
+          "selectionDirection": "incorrect",
+          "skill": "multiple-error nested sentence",
+          "batch": "moderate-hard-1",
+          "source": {
+            "kind": "original-format-practice",
+            "formatReferences": [
+              "SBI-Clerk-Mains-Memory-Based-2023-2024.pdf: Q51–57, multiple suitable cloze words",
+              "IBPS_Clerk_Mains_7_Oct_2023_Memory_Based_Paper_3bb94da0404e140c27c7ba5d41e2a5b6.pdf: Q57–60, combination fillers",
+              "Mains Checklist 53, PDF pp2–5: paired fillers and combined grammar",
+              "IBPS-Clerk-Mains-Question-Paper-Held-on-13.10.2024.pdf: Q61–67, multiple incorrect parts"
+            ],
+            "note": "Original reviewed practice targeting moderate-to-hard reasoning. Source formats inform construction; difficulty is not independently calibrated."
+          },
+          "vocabulary": [
+            "discrepancy",
+            "calibrate"
+          ],
+          "explanation": {
+            "relationship": "Direction: select all INCORRECT statements",
+            "clue": "Read the whole sentence before assigning each verb to its subject or applying a tense/parallelism rule.",
+            "rule": "Select all independently incorrect parts. A grammatical phrase elsewhere cannot compensate for an error in the selected construction.",
+            "model": "The auditor compared the original entries with their digital copies and noted that every discrepancy, including minor rounding differences, was explained in the branch’s written reply, although the costs of those checks were already within budget."
+          },
+          "difficultyReview": {
+            "target": "Moderate–Hard",
+            "nearestAlternative": "C only",
+            "whyNot": "It repairs the singular subject’s verb but leaves the plural subject costs with singular was.",
+            "reasoningSteps": [
+              "Ignore intervening nouns when finding the embedded head.",
+              "Check the opposite agreement requirement in the final clause."
+            ]
+          },
+          "partCorrections": {
+            "C": {
+              "text": "was explained in the branch’s written reply,",
+              "reason": "Every discrepancy is singular; the intervening plural differences does not control its passive verb."
+            },
+            "D": {
+              "text": "although the costs of those checks were already within budget.",
+              "reason": "Costs is the plural head in this separate clause and requires were."
+            }
+          },
+          "id": "grammar/MH-G03-Q5"
+        }
+      ]
+    }
+  ]
+}

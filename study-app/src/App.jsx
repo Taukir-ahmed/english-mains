@@ -4,6 +4,7 @@ import {STORAGE_KEY,emptyProgress,loadProgress,validateProgress,convertLegacy,me
 import QuestionCard from './components/QuestionCard.jsx';
 import Passage from './components/Passage.jsx';
 import Vocabulary,{DailyReading} from './components/Vocabulary.jsx';
+import Revision,{ChapterQuickRevision} from './components/Revision.jsx';
 
 const defaultChapter=window.__DEFAULT_CHAPTER__||chapters[0].id;
 function safeLoad(){try{return loadProgress(localStorage,questionMap);}catch{return {progress:emptyProgress(),notice:'Browser storage is unavailable. Export progress before closing.'};}}
@@ -30,7 +31,7 @@ export default function App(){
  const chapterLatest=[...latest.values()].filter(a=>chapterQuestionIds.has(a.questionId));
  return <div className="max-w-6xl mx-auto px-4 sm:px-6 py-5">
   <a href="#main" className="skip-to-content">Skip to practice</a>
-  <header className="border-b border pb-4 mb-5"><h1>English Practice</h1><nav aria-label="Main" className="mt-3 flex flex-wrap gap-y-2">{[['practice','Practice'],['vocabulary','Vocabulary'],['reading','Daily reading'],['progress','Progress & backup']].map(([id,label])=><button className="nav-button" key={id} aria-current={view===id?'page':undefined} onClick={()=>setView(id)}>{label}</button>)}</nav></header>
+  <header className="border-b border pb-4 mb-5"><h1>English Practice</h1><nav aria-label="Main" className="mt-3 flex flex-wrap gap-y-2">{[['practice','Practice'],['revision','Revision Sheets'],['vocabulary','Vocabulary'],['reading','Daily reading'],['progress','Progress & backup']].map(([id,label])=><button className="nav-button" key={id} aria-current={view===id?'page':undefined} onClick={()=>setView(id)}>{label}</button>)}</nav></header>
   {notice&&<div className="notice" role="status">{notice} <button className="small" onClick={()=>setNotice('')}>Dismiss</button></div>}
   {storageError&&<div className="notice" role="alert">Progress could not be saved. Use Progress & backup to export it before closing.</div>}
   <main id="main">
@@ -43,9 +44,11 @@ export default function App(){
      <label className="small">Level <select aria-label="Level" value={level} onChange={e=>setLevel(e.target.value)}><option value="all">All levels</option>{[...new Set(chapter.packs.map(p=>p.level))].map(l=><option key={l}>{l}</option>)}</select></label>
      <label className="small grow">Set <select aria-label="Set" className="w-full" value={pack?.id||''} onChange={e=>choosePack(e.target.value)}>{available.length?available.map(p=><option key={p.id} value={p.id}>{p.id} · {p.title}</option>):<option value="">No matching sets</option>}</select></label>
     </div>
-    {chapter.reference&&<details className="small mb-4"><summary>Connector patterns and common mistakes</summary>{chapter.reference.map(c=><div key={c.expression} className="reference-row"><strong>{c.expression}</strong><p>{c.meaning}</p><p>{c.pattern}</p><p className="muted">{c.trap} · {c.hinglish}</p></div>)}</details>}
+    <ChapterQuickRevision chapterId={chapter.id} onOpenFullSheet={(id)=>{setChapterId(id);setView('revision');}}/>
+    {chapter.reference&&<details className="small mb-4"><summary>Connector patterns and common mistakes (Reference)</summary>{chapter.reference.map(c=><div key={c.expression} className="reference-row"><strong>{c.expression}</strong><p>{c.meaning}</p><p>{c.pattern}</p><p className="muted">{c.trap} · {c.hinglish}</p></div>)}</details>}
     {pack?<><h3 className="my-4">{pack.id} · {pack.title}</h3><div className={`practice-layout ${pack.passage?'has-passage':''}`}>{pack.passage&&<Passage pack={pack} visibleAttempts={visible}/>}<section aria-label="Questions">{pack.questions.map((q,i)=><QuestionCard key={q.id} index={i} question={q} attempt={visible.get(q.id)} onAnswer={answer} onRetry={retry}/>)}</section></div><div className="flex flex-wrap gap-2 mt-5 no-print"><button onClick={()=>retry(pack.questions.map(q=>q.id))}>Retry this set</button><button onClick={()=>{const i=chapter.packs.findIndex(p=>p.id===pack.id);choosePack(chapter.packs[(i+1)%chapter.packs.length].id);setLevel('all');setFilter('all');window.scrollTo(0,0);}}>Next set</button></div></>:<p>No sets match this filter.</p>}
    </>}
+   {view==='revision'&&<Revision activeChapterId={chapterId} onSelectChapter={(id)=>setChapterId(id)} onPracticeChapter={(id)=>{changeChapter(id);}}/>}
    {view==='vocabulary'&&<Vocabulary/>}
    {view==='reading'&&<DailyReading/>}
    {view==='progress'&&<section>

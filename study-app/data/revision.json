@@ -1,0 +1,1354 @@
+[
+  {
+    "chapterId": "connectors",
+    "priority": true,
+    "title": "Connectors & Sentence Linkers",
+    "tagline": "Simple Story Clues, Action-Word Checks & Confusing Twin Busters",
+    "summary": "Forget heavy grammar words like 'subordinate clause' or 'noun phrase'. To get every connector question right, just do two things: (1) Read what the two parts of the sentence are trying to say (The Story Check), and (2) Look right after the blank to see if there is an Action Word like 'was / is / did' (The Twin Check).",
+    "plainDictionary": [
+      {
+        "term": "Mini-Sentence (What grammar books call a 'Clause')",
+        "simpleMeaning": "A group of words that has BOTH a person/thing AND an Action/Time word (like 'was', 'is', 'had', 'rejected', 'rained'). It can stand alone like a real sentence!",
+        "examples": "✅ 'the proposal WAS good' (has 'was') | ✅ 'it RAINED heavily' (has 'rained') | ✅ 'banks CLOSED early' (has 'closed')"
+      },
+      {
+        "term": "Just a Thing / Name (What grammar books call a 'Noun Phrase')",
+        "simpleMeaning": "Words that just name a thing, with ZERO action/time words inside. If you say it alone, nothing happens!",
+        "examples": "✅ 'the good proposal' (no 'was'!) | ✅ 'the heavy rain' (no 'rained'!) | ✅ 'the early closure of banks' (no action word!)"
+      },
+      {
+        "term": "-ing Starter (What grammar books call a 'Gerund')",
+        "simpleMeaning": "A word ending in '-ing' sitting right after the blank without 'is/was' before it.",
+        "examples": "✅ 'BEING commercially viable' | ✅ 'WORKING late at night' | ✅ 'LOSING money'"
+      }
+    ],
+    "sentenceDecoder": {
+      "title": "🧠 Step 1: What Is the Sentence Trying to Say? (Eliminate 3 Options by Story!)",
+      "subtitle": "Before choosing between confusing twins like 'Although' and 'Despite', look at the TWO parts of the sentence and ask: What is the story?",
+      "patterns": [
+        {
+          "storyType": "1. The 'Twist / Surprise' Story (Good 😊 vs Bad 😟)",
+          "howToSpot": "Part 1 makes you expect one thing (e.g., 'The plan could make huge profits 😊'), but Part 2 says the exact opposite happened ('The bosses rejected it 😟').",
+          "keepOnly": "Although, Even though, Though, Despite, In spite of, However, Nevertheless, Yet",
+          "eliminateImmediately": "Kick out Because, Since, Therefore, So, Unless (because it's a surprise, not a reason or a result!)"
+        },
+        {
+          "storyType": "2. The 'Why Did It Happen?' Story (Reason / Cause ⬅️)",
+          "howToSpot": "The words right after the blank tell you the REASON why something happened (e.g., 'The bank locked the account ___ someone tried to steal the password').",
+          "keepOnly": "Because, Since, As, Because of, Due to, Owing to",
+          "eliminateImmediately": "Kick out Although, Despite, However, Therefore, Unless"
+        },
+        {
+          "storyType": "3. The 'What Happened Next?' Story (Result ➡️)",
+          "howToSpot": "Part 1 tells the problem, and the words after the blank tell what they did as a RESULT (e.g., 'Someone tried to steal the password; ___, the bank locked the account').",
+          "keepOnly": "Therefore, Consequently, As a result, So, Hence",
+          "eliminateImmediately": "Kick out Because, Although, Despite, Unless"
+        },
+        {
+          "storyType": "4. The 'Rule / Deal' Story (Condition 🤝)",
+          "howToSpot": "One thing will happen ONLY if a rule is followed, or will NOT happen except when a rule is followed (e.g., 'We cannot send the money ___ you sign the form').",
+          "keepOnly": "Unless (= if not), If, Provided that, As long as, Only if",
+          "eliminateImmediately": "Kick out Because, Although, Despite, Therefore, Until (if it's a rule, not a clock time)"
+        },
+        {
+          "storyType": "5. The 'Future Goal' Story (Purpose 🎯)",
+          "howToSpot": "Part 1 is an action done for a future goal (e.g., 'The bank sent a text message ___ the customer could spot the fake login').",
+          "keepOnly": "So that, In order that, In order to, To",
+          "eliminateImmediately": "Kick out Because (looks back at old causes, not future goals with 'could/would'), Despite, Although"
+        }
+      ]
+    },
+    "decisionSteps": [
+      {
+        "step": "Step 1: Read the 2 parts and label them (+ / - or Why / Result)",
+        "action": "Ask: 'Are the two parts fighting each other (Surprise), or is one part causing the other (Reason / Result)?'",
+        "outcome": "This immediately eliminates 3 out of 5 options that tell the wrong story!"
+      },
+      {
+        "step": "Step 2: Do the 'Action Word Check' right after the blank",
+        "action": "Look at the 3 to 5 words after the blank. Is there an Action/Time word like 'was, were, is, had, failed, grew'?",
+        "outcome": "YES Action Word ➔ Pick Although / Because / Since. NO Action Word (just a thing or -ing) ➔ Pick Despite / In spite of / Because of / Due to."
+      },
+      {
+        "step": "Step 3: Check the Punctuation Marks around the blank",
+        "action": "Do you see a semicolon and a comma like '; ___,' or a full stop '. ___,'?",
+        "outcome": "If you see '; ___,' ➔ ONLY pick However, Therefore, Nevertheless, Moreover. NEVER pick Although, Because, or But!"
+      },
+      {
+        "step": "Step 4: Spot 'Best-Friend Twin Words' later in the sentence",
+        "action": "Scan the rest of the sentence for 'than', 'when', 'but also', 'and', or 'should'.",
+        "outcome": "See 'than'? Pick 'No sooner'. See 'when'? Pick 'Hardly/Scarcely'. See 'should'? Pick 'Lest'."
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'Action Word' Check (Why 'Although' beats 'Despite', and 'Because' beats 'Because of')",
+        "formula": "Blank + [Person/Thing + Action Word (was/is/had/did)] ➔ Although / Even though / Because / Since\nBlank + [Just a Thing (NO Action Word) or -ing] ➔ Despite / In spite of / Because of / Due to",
+        "explanation": "Imagine 'Although' and 'Because' are big trucks—they can carry a full Mini-Sentence with an action word (like 'was' or 'rained'). 'Despite' and 'Because of' are small bags—they BREAK if you put an action word like 'was' inside them! They can only hold the name of a thing (like 'the rain' or 'high risk') or an '-ing' word (like 'being risky').",
+        "correctExample": "✅ Although the proposal WAS viable, the board rejected it. (Has action word 'WAS' ➔ Although)\n✅ Despite the viability of the proposal, the board rejected it. (NO action word ➔ Despite)\n✅ Because the weather WAS bad, flights stopped. (Has 'WAS' ➔ Because)\n✅ Because of the bad weather, flights stopped. (NO action word ➔ Because of)",
+        "incorrectExample": "❌ Despite the proposal WAS viable... (WRONG! 'Despite' breaks when you give it 'was'!)\n❌ Because of the weather WAS bad... (WRONG! 'Because of' cannot take 'was'!)",
+        "trick": "Point your finger right after the blank and hunt for 'was / were / is / are / had / -ed'. Found one? Cross out 'Despite' and 'Because of' immediately!"
+      },
+      {
+        "name": "Rule #2: The Semicolon (; ___,) Punctuation Lock",
+        "formula": "Sentence 1; however / therefore / nevertheless, Sentence 2.\nAlthough Sentence 1, Sentence 2.\nSentence 1, but / so Sentence 2.",
+        "explanation": "Think of a semicolon (;) plus a comma (,) like a heavy steel bridge. Only heavy bridge words ('However', 'Therefore', 'Nevertheless', 'Moreover', 'Consequently') can sit inside '; ___,'. Words like 'Although' or 'Because' are glue words—they never have a comma right after them when connecting a sentence!",
+        "correctExample": "✅ The plan was good; however, the bosses rejected it.\n✅ Several frauds were found; therefore, the bank locked the accounts.",
+        "incorrectExample": "❌ The plan was good; although, the bosses rejected it. (WRONG: 'although' cannot sit between ; and ,)\n❌ The plan was good, however the bosses rejected it. (WRONG: 'however' needs a semicolon or full stop before it!)",
+        "trick": "See '; ___,' in the question? Don't even read the whole sentence first—instantly eliminate Although, Because, Despite, and Unless! Only 'However' (if surprise) or 'Therefore' (if result) can win!"
+      },
+      {
+        "name": "Rule #3: Reason (⬅️ Why) vs Result (➡️ What Happened Next)",
+        "formula": "[What Happened] + BECAUSE / SINCE / AS + [Why it happened]\n[Why it happened] + ; THEREFORE, / , SO + [What Happened Next]",
+        "explanation": "Students often mix up 'Because' and 'Therefore' when both parts of the sentence are true. Just ask: Are the words AFTER the blank telling me the REASON why, or the RESULT that happened later?",
+        "correctExample": "✅ The ATM closed (Result) BECAUSE it ran out of cash (Reason).\n✅ The ATM ran out of cash (Reason); THEREFORE, it closed (Result).",
+        "incorrectExample": "❌ The ATM closed; therefore, it ran out of cash. (Silly story! Closing didn't make the cash disappear!)",
+        "trick": "Put the word 'KYUNKI (Reason)' in the blank. Does the story make sense? Pick Because/Since. Put 'ISLIYE (Result)' in the blank. Does it make sense? Pick Therefore/So!"
+      },
+      {
+        "name": "Rule #4: Future Goal ('So that' vs 'In order to')",
+        "formula": "Blank + [Person/Thing + can / could / may / might / would] ➔ So that\nBlank + [Simple Action Word like 'save / verify / check'] ➔ In order to / To",
+        "explanation": "Both 'so that' and 'in order to' tell your goal (taaki). How do you choose between them? Look right after the blank! If you see WHO is doing it + 'could/can/would', pick 'so that'. If you see just the raw action word ('verify', 'prevent', 'help'), pick 'in order to'!",
+        "correctExample": "✅ The bank called the customer SO THAT she COULD confirm the payment.\n✅ The bank called the customer IN ORDER TO confirm the payment.",
+        "incorrectExample": "❌ The bank called the customer in order to she could confirm... (WRONG!)",
+        "trick": "See 'can / could / would' after the blank? 100% 'So that'! See a plain action word right after the blank? 100% 'In order to'!"
+      },
+      {
+        "name": "Rule #5: 'Unless' (The Secret 'If Not' Rule) vs 'Until' (The Clock Rule)",
+        "formula": "UNLESS = 'If ... NOT' (Used for a Rule / Requirement — NEVER put another 'not' right after Unless!)\nUNTIL = 'Up to that time on the clock' (Used for waiting / continuing)",
+        "explanation": "'Unless' already has the word 'NOT' baked inside it! Saying 'Unless you do not pay' is like saying 'If you not do not pay'—it ruins the sentence! And how do you tell 'Unless' from 'Until'? 'Until' is for a clock or calendar time (wait until Monday). 'Unless' is for a strict rule (no loan unless you sign).",
+        "correctExample": "✅ The loan will stay blocked UNLESS the borrower signs the form. (Rule)\n✅ The loan will stay blocked UNTIL Monday morning. (Time)",
+        "incorrectExample": "❌ Unless the borrower does NOT sign the form... (WRONG: Double 'not'!)\n❌ Wait here unless the manager comes back. (WRONG: Waiting is about time ➔ use 'until'!)",
+        "trick": "Replace the blank with 'IF NOT'. If the sentence sounds smart, pick 'Unless'! Replace with 'TILL THE TIME'. If that sounds smart, pick 'Until'!"
+      }
+    ],
+    "fixedPairs": [
+      {
+        "pair": "No sooner ... than",
+        "rule": "Meaning: 'The exact second Event 1 happened, Event 2 happened!' Must flip the helper word: 'No sooner HAD he... THAN...'",
+        "trap": "Examiners put 'when' or 'then' instead of 'than' (with an A). Remember: No soonER ➔ thAN!",
+        "example": "No sooner had the audit started than fake bills were discovered."
+      },
+      {
+        "pair": "Hardly / Scarcely ... when",
+        "rule": "Meaning: Same as 'No sooner'—almost the moment Event 1 happened, Event 2 happened! Uses 'WHEN'.",
+        "trap": "Examiners put 'than' after Hardly/Scarcely. NEVER use 'than' with Hardly!",
+        "example": "Hardly had the bank opened when customers rushed in."
+      },
+      {
+        "pair": "Although / Though ... [NEVER use 'but'!]",
+        "rule": "When you start with 'Although', just put a comma (,) in the middle of the sentence. NEVER put 'but'!",
+        "trap": "'Although the loan was small, but the bank checked it.' ➔ Delete 'but'!",
+        "example": "Although the loan was small, the bank checked every paper."
+      },
+      {
+        "pair": "Lest ... should (NO 'not' allowed!)",
+        "rule": "'Lest' means 'so that something bad does NOT happen'. Its best friend after the subject is ALWAYS 'should'.",
+        "trap": "Putting 'will/would' or adding 'not' after 'lest'.",
+        "example": "Check the numbers twice lest a mistake should delay the audit."
+      },
+      {
+        "pair": "Between ... and | From ... to",
+        "rule": "'Between' ALWAYS holds hands with 'and'. 'From' ALWAYS holds hands with 'to'.",
+        "trap": "'Between 2 PM to 5 PM' is WRONG! Say 'Between 2 PM and 5 PM'.",
+        "example": "The talks were held between the union and the management."
+      },
+      {
+        "pair": "Not only ... but also",
+        "rule": "Must match the exact same type of word after both! If an action word follows 'not only', an action word must follow 'but also'.",
+        "trap": "Putting 'not only' in the wrong spot so the two sides don't match.",
+        "example": "The update not only saved time but also reduced errors."
+      }
+    ],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Why 'Despite' and 'Although' Both Sound Right in Your Head",
+        "whyIntuitionFails": "In Hindi or daily thinking, both mean 'Iske bawajood'. So when you read '___ the proposal was viable', your brain says 'Proposal accha hone ke bawajood' and clicks 'Despite'!",
+        "theFix": "Don't trust translation—use your eyes! Look for the word 'WAS / IS / WERE / HAD / -ED'. Since 'the proposal WAS viable' has 'WAS', 'Despite' is 100% illegal! Pick 'Although'!",
+        "examPattern": "'___ the team worked hard' (has 'worked' ➔ Although). '___ their hard work' (no action word ➔ Despite)."
+      },
+      {
+        "trapName": "Trap #2: Why 'Because' and 'Because of' Sound Identical When Reading Fast",
+        "whyIntuitionFails": "Both mean 'kyunki / ki wajah se' and even start with the exact same word! When reading fast, your brain skips over the tiny word 'of'.",
+        "theFix": "That tiny word 'of' changes everything! 'Because of' CANNOT touch an action word like 'was / were / had'. If you see 'were detected' after the blank, you MUST drop 'of' and pick plain 'Because'!",
+        "examPattern": "'Because of fraud was found' ❌ ➔ 'Because fraud was found' ✅ OR 'Because of the fraud' ✅."
+      },
+      {
+        "trapName": "Trap #3: The Fake 'Despite of' Error",
+        "whyIntuitionFails": "Because we say 'In spite OF', our mouth automatically wants to say 'Despite OF'.",
+        "theFix": "'Despite' HATES the word 'of'! Never, ever pick 'despite of'. It is either 'Despite' (alone) or 'In spite of' (3 words).",
+        "examPattern": "Any option or sentence part with 'despite of' is 100% wrong in 1 second."
+      },
+      {
+        "trapName": "Trap #4: 'Even though' (Real Fact) vs 'Even if' (Imaginary Guess)",
+        "whyIntuitionFails": "Both start with 'Even', so students treat them as interchangeable.",
+        "theFix": "Ask: 'Did it ALREADY happen for real?' Yes ➔ 'Even though' (e.g., Even though he had a ticket, they didn't let him in). 'Is it just an imaginary IF for the future?' Yes ➔ 'Even if' (e.g., Even if he buys a ticket tomorrow, they won't let him in).",
+        "examPattern": "Past facts that really happened = Even though. Future 'what-if' guesses = Even if."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-conn-1",
+        "badge": "Confusing Twins: Despite vs Although",
+        "prompt": "___ the proposal was commercially viable, the board rejected it because its legal risks were unresolved.",
+        "options": ["Despite", "Although", "Therefore", "Unless", "Because"],
+        "answer": "Although",
+        "twinFoil": "Despite",
+        "whatSentenceSays": "Part 1 is Good 😊 ('the proposal could make money'), but Part 2 is Bad 😟 ('the board rejected it'). Normally a good proposal gets approved! Because the opposite happened, the sentence is telling a SURPRISE / TWIST story. This immediately eliminates 'Therefore' (Result), 'Unless' (Rule), and 'Because' (Reason).",
+        "whyTwoFeelCorrect": "Now only 'Despite' and 'Although' are left. Both mean 'even with this obstacle / iske bawajood', so when you read the sentence in your head, both 'Despite' and 'Although' feel like they tell the right story!",
+        "howToPickWinner": "Use Rule #1 on top (The Action Word Check)! Look at the words right after the blank: 'the proposal WAS commercially viable'. Do you see the action/time word 'WAS'? Yes! Remember Rule #1: 'Despite' breaks if you give it 'was'! Only 'Although' can carry a full Mini-Sentence with 'was'. (To use Despite, the sentence would have to be: 'Despite the commercial viability of the proposal...').",
+        "ruleRef": "Refers to: Rule #1 (The 'Action Word' Check) & Story Type 1 (Twist/Surprise)"
+      },
+      {
+        "id": "rev-conn-2",
+        "badge": "Confusing Twins: Because vs Because of",
+        "prompt": "The bank tightened verification ___ several fraudulent applications had been detected.",
+        "options": ["because of", "because", "although", "therefore", "unless"],
+        "answer": "because",
+        "twinFoil": "because of",
+        "whatSentenceSays": "Part 1 tells WHAT the bank did ('tightened checks'), and Part 2 tells WHY they did it ('fake applications were found'). So the sentence needs a WHY / REASON word. This immediately eliminates 'although' (Surprise), 'therefore' (Result), and 'unless' (Rule).",
+        "whyTwoFeelCorrect": "You are left with 'because' and 'because of'. Both mean the exact same thing ('reason / kyunki') and look almost identical when you read quickly!",
+        "howToPickWinner": "Use Rule #1 on top (The Action Word Check)! Look after the blank: 'several fraudulent applications HAD BEEN DETECTED'. The words 'had been detected' are action/time words! By Rule #1, 'because of' CANNOT touch an action word. You MUST choose plain 'because'! (If the sentence had no action word—like '___ several fraudulent applications'—then 'because of' would win!).",
+        "ruleRef": "Refers to: Rule #1 (The 'Action Word' Check) & Trap #2 (Because vs Because of)"
+      },
+      {
+        "id": "rev-conn-3",
+        "badge": "Confusing Twins: Although vs However",
+        "prompt": "The borrower's cash flow improved during the quarter; ___, the credit committee kept the account under watch.",
+        "options": ["although", "however", "because", "despite", "therefore"],
+        "answer": "however",
+        "twinFoil": "although",
+        "whatSentenceSays": "Part 1 is Good 😊 ('cash flow improved'), Part 2 is Cautious/Opposite 😟 ('kept the account under strict watch anyway'). That's a SURPRISE story, which eliminates 'because' and 'therefore'.",
+        "whyTwoFeelCorrect": "'Although', 'despite', and 'however' all show a surprise contrast, so by meaning alone, all three feel tempting!",
+        "howToPickWinner": "Use Rule #2 on top (The Semicolon '; ___,' Punctuation Lock)! Look right before and after the blank: there is a semicolon (;) before the blank and a comma (,) after it! Rule #2 says ONLY a heavy bridge word like 'however' or 'nevertheless' can sit inside '; ___,'. 'Although' can never sit between a semicolon and a comma!",
+        "ruleRef": "Refers to: Rule #2 (The Semicolon '; ___,' Punctuation Lock)"
+      },
+      {
+        "id": "rev-conn-4",
+        "badge": "Confusing Twins: So that vs In order to",
+        "prompt": "The regulator introduced stricter reporting norms ___ depositors could compare risk across institutions.",
+        "options": ["in order to", "so that", "because of", "despite", "unless"],
+        "answer": "so that",
+        "twinFoil": "in order to",
+        "whatSentenceSays": "Part 1 is an action ('new rules introduced') done for a FUTURE GOAL 🎯 ('helping depositors compare risk'). That eliminates 'because of', 'despite', and 'unless'.",
+        "whyTwoFeelCorrect": "Both 'in order to' and 'so that' express a future goal ('taaki'), so both sound natural to the ear!",
+        "howToPickWinner": "Use Rule #4 on top (Future Goal Check)! Look right after the blank: 'depositors COULD compare'. We have WHO ('depositors') + 'COULD'! Rule #4 says: Whenever you see [Person + can/could/would], you MUST pick 'so that'. ('In order to' can only be followed by a bare action word like 'in order to compare').",
+        "ruleRef": "Refers to: Rule #4 (Future Goal: 'So that' vs 'In order to')"
+      },
+      {
+        "id": "rev-conn-5",
+        "badge": "Confusing Twins: Unless vs Until",
+        "prompt": "The collateral cannot be released ___ the borrower clears the entire outstanding interest.",
+        "options": ["until", "unless", "although", "therefore", "despite"],
+        "answer": "unless",
+        "twinFoil": "until",
+        "whatSentenceSays": "The bank is stating a strict requirement/condition for releasing the collateral. This eliminates 'although', 'therefore', and 'despite'.",
+        "whyTwoFeelCorrect": "Both 'until' and 'unless' feel close here because in casual speech people mix up waiting for a time ('until') with requiring a condition ('if not / unless').",
+        "howToPickWinner": "Use Rule #5 on top ('Unless' vs 'Until')! Ask: Is 'clearing the interest' a clock time (like 5 PM), or a REQUIRED CONDITION (if not)? Test by replacing the blank with 'IF NOT': 'The collateral cannot be released IF the borrower does NOT clear the interest.' That fits the strict bank rule! (Note: When emphasis is on the required condition rather than mere time waiting, 'unless' is the condition connector).",
+        "ruleRef": "Refers to: Rule #5 ('Unless' vs 'Until' Condition Check)"
+      }
+    ]
+  },
+  {
+    "chapterId": "grammar",
+    "priority": true,
+    "title": "Errors & Sentence Correction",
+    "tagline": "Simple Detective Tricks for Spotting Grammar Mistakes in 5 Seconds",
+    "summary": "You don't need to memorize a 500-page grammar book! Bank exam error questions repeat the same 6 tricks over and over. Just play detective: find the REAL doer (One or Many?), check if two past events happened in order, and check Twin Words.",
+    "plainDictionary": [
+      {
+        "term": "One Doer (Singular) vs Many Doers (Plural)",
+        "simpleMeaning": "If ONE person/thing is doing the action (he, she, it, the bank, the list), the action word usually ends in '-s' (is, was, has, checks, approves). If MANY people/things are doing it (they, the banks, the lists), there is NO '-s' on the action word (are, were, have, check, approve).",
+        "examples": "✅ ONE: 'The manager is / was / has / writes' | ✅ MANY: 'The managers are / were / have / write'"
+      },
+      {
+        "term": "Extra Side-Info (Prepositional Phrase)",
+        "simpleMeaning": "Extra words stuffed in the middle of a sentence starting with 'of', 'in', 'with', 'along with', or 'as well as'. Examiners put plural words here to trick your eyes!",
+        "examples": "'The box [of old coins and gold rings] IS heavy.' (The box is heavy, not the coins!)"
+      },
+      {
+        "term": "Earlier Past ('had' + action) vs Later Past",
+        "simpleMeaning": "When TWO things happened yesterday, the one that happened FIRST gets 'HAD' in front of it!",
+        "examples": "✅ 'The thief HAD escaped (1st) before the police arrived (2nd).'"
+      }
+    ],
+    "sentenceDecoder": {
+      "title": "🔍 The 4-Step Detective Checklist (Check Every Sentence in This Exact Order!)",
+      "subtitle": "When you read an error-spotting sentence, don't just read it hoping a mistake jumps out. Check these 4 spots one by one:",
+      "patterns": [
+        {
+          "storyType": "Check 1: Who is the REAL Boss of the Sentence? (One vs Many)",
+          "howToSpot": "Find the action word (is/are, was/were, has/have). Now look left to find who is doing it. Cross out everything after 'of', 'along with', 'as well as', 'together with'.",
+          "keepOnly": "Match the action word with the FIRST main word before 'of / along with'!",
+          "eliminateImmediately": "Never match the verb with plural words sitting inside 'of the employees' or 'along with the directors'!"
+        },
+        {
+          "storyType": "Check 2: Did TWO Things Happen in the Past? (The Time Machine Check)",
+          "howToSpot": "Look for 'before', 'after', 'by the time', or 'when' in a past story.",
+          "keepOnly": "Give 'HAD + V3' (e.g., had closed, had left) to whichever event happened FIRST on the timeline!",
+          "eliminateImmediately": "Reject sentences that put 'had' on the second event or use simple past for both when 'before/by the time' shows one finished earlier."
+        },
+        {
+          "storyType": "Check 3: Does the Sentence Start with an '-ing' Action? (Who is Doing It?)",
+          "howToSpot": "If a sentence starts with 'Walking down the street, ...' or 'Reviewing the files, ...', look at the VERY FIRST WORD after the comma!",
+          "keepOnly": "The person who was actually walking or reviewing MUST be the first word right after the comma!",
+          "eliminateImmediately": "Reject if a thing (like 'a wallet' or 'the report') is sitting right after the comma (a report cannot review files!)."
+        },
+        {
+          "storyType": "Check 4: Are Lists and 'Than' Comparisons Fair and Equal?",
+          "howToSpot": "Look for 'and', 'or', 'not only... but also', or 'higher than / better than'.",
+          "keepOnly": "All items in a list must have the same shape (-ing with -ing). In comparisons, use 'than that of' (for one thing) or 'than those of' (for many things).",
+          "eliminateImmediately": "Reject 'reading, writing, and to speak' or 'The profit of Bank A is higher than Bank B' (missing 'that of')."
+        }
+      ]
+    },
+    "decisionSteps": [
+      {
+        "step": "Step 1: Put your finger over the 'of / along with' middle words",
+        "action": "In 'The list of unpaid loans IS/ARE long', cover 'of unpaid loans' with your finger. Now read: 'The list IS long.'",
+        "outcome": "You immediately spot if 'are / were / have' is a trap!"
+      },
+      {
+        "step": "Step 2: Check 'Each / Every / Neither / Either'",
+        "action": "Does the sentence start with 'Each of...', 'Every one of...', 'Neither of...', or 'Either of...'?",
+        "outcome": "These 4 words ALWAYS count as ONE (Singular)! They must take 'is / was / has' (NEVER 'are / were / have')."
+      },
+      {
+        "step": "Step 3: Check 'Neither A nor B' / 'Either A or B'",
+        "action": "When 'nor' or 'or' joins two things, which one controls the action word?",
+        "outcome": "Look ONLY at the second one (the one sitting right next to the action word)!"
+      },
+      {
+        "step": "Step 4: Check 'To' vs 'Than' after Senior / Junior / Prefer / Superior",
+        "action": "Do you see 'prefer' or words ending in '-ior' (senior, junior, superior, inferior, prior)?",
+        "outcome": "They NEVER use 'than'! They ALWAYS use 'TO' (e.g., superior to, prefer coffee to tea)."
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'Cover the Middle Words' Trick (Of / Along with / As well as)",
+        "formula": "[First Main Word] + (of / along with / as well as / together with + other words) + [Action Word matches the FIRST Main Word!]",
+        "explanation": "Examiners love to write a ONE-person word at the start (like 'The manager' or 'The quality'), then stuff plural words in the middle ('along with five officers' or 'of these apples'), and then sneak in a plural action word ('were' or 'are'). Don't fall for it! Cross out the middle phrase!",
+        "correctExample": "✅ The manager, along with five officers, WAS present. ('The manager' = ONE ➔ WAS)\n✅ The quality of these computers IS good. ('The quality' = ONE ➔ IS)",
+        "incorrectExample": "❌ The manager, along with five officers, WERE present. (Tricked by 'five officers'!)\n❌ The quality of these computers ARE good. (Tricked by 'computers'!)",
+        "trick": "Whenever you see 'of', 'along with', 'as well as', or 'in addition to', mentally delete everything from that word up to the verb!"
+      },
+      {
+        "name": "Rule #2: The 'Each / Every / One of the' Rule",
+        "formula": "Each of / Every one of / Either of / Neither of + [Many Things] + [SINGLE Action Word: is / was / has]\nBUT: One of the + [Many Things] + who/that + [MANY Action Word: are / were / have]",
+        "explanation": "When you say 'Each of the banks', you are pointing at them ONE by ONE ('each one'), so the action word is singular ('has / is'). Warning twist: If there is 'who / that / which' right before the action word (like 'She is one of the officers WHO HAVE passed'), then 'who' looks at the plural word right in front of it ('officers' ➔ HAVE)!",
+        "correctExample": "✅ Each of the applicants HAS signed the form. (No 'who' ➔ matches 'Each' = HAS)\n✅ She is one of the applicants who HAVE signed the form. ('who' touches 'applicants' = HAVE)",
+        "incorrectExample": "❌ Each of the applicants HAVE signed the form. (WRONG!)",
+        "trick": "Plain 'Each of / One of' = Singular (HAS/IS). Has 'who/that' in the middle? Look at the plural word touching 'who/that' (HAVE/ARE)!"
+      },
+      {
+        "name": "Rule #3: 'Neither... nor' & 'Either... or' (The Nearest Neighbor Rule)",
+        "formula": "Neither [Person A] nor [Person B] + [Action Word matches Person B (the closest neighbor!)]",
+        "explanation": "With 'along with', you look at the FIRST word. Flip it for 'Or / Nor'! When 'Neither... nor' or 'Either... or' is used, the action word is lazy—it just copies whoever is standing right next to it!",
+        "correctExample": "✅ Neither the boss nor the clerks WERE in the room. ('clerks' is closest ➔ WERE)\n✅ Neither the clerks nor the boss WAS in the room. ('boss' is closest ➔ WAS)",
+        "incorrectExample": "❌ Neither the clerks nor the boss WERE in the room. (WRONG: 'boss' is closest, so it must be WAS!)",
+        "trick": "See 'or' or 'nor'? Just look at the word immediately to the left of the verb!"
+      },
+      {
+        "name": "Rule #4: The Time Machine Rule (Two Past Actions = First One Gets 'HAD')",
+        "formula": "Action 1 (Happened FIRST) = HAD + finished action (had left, had closed, had paid)\nAction 2 (Happened SECOND) = Simple past (reached, arrived, called)",
+        "explanation": "If a sentence talks about TWO things that happened in the past (especially with 'before', 'after', or 'by the time'), ask yourself: Which one happened first on the clock? Put 'HAD' on the first one, and plain past on the second one!",
+        "correctExample": "✅ The client HAD ALREADY CLEARED (1st) the dues before the notice ARRIVED (2nd).",
+        "incorrectExample": "❌ The client CLEARED the dues before the notice HAD ARRIVED. (Backwards!)\n❌ By the time the auditor came, the clerk left. (Should be 'HAD left'!)",
+        "trick": "Number the two events 1 and 2 in your head. Event #1 MUST have 'had'!"
+      },
+      {
+        "name": "Rule #5: Who Is Doing the '-ing' Action? (Introductory Phrase Trap)",
+        "formula": "[Starting '-ing' phrase], + [The Person/Thing that is actually doing that '-ing' action!]",
+        "explanation": "If a sentence starts with 'Crossing the road, ...', ask yourself: WHO was crossing the road? The very first word after the comma MUST be that person! If the sentence says 'Crossing the road, a car hit the boy', it literally says the CAR was crossing the road!",
+        "correctExample": "✅ Reviewing the quarterly ledger, THE AUDITOR found a missing entry. (The auditor reviewed it!)",
+        "incorrectExample": "❌ Reviewing the quarterly ledger, A MISSING ENTRY was found by the auditor. (Silly! A missing entry cannot review a ledger!)",
+        "trick": "Read the start: 'Doing X, [Word after comma]'. Ask: Can [Word after comma] really do X? If not, it's wrong!"
+      },
+      {
+        "name": "Rule #6: Fair Comparison ('Than that of' / 'Than those of')",
+        "formula": "Comparing 1 thing's quality: ...higher than THAT OF [the other]\nComparing many things: ...higher than THOSE OF [the other]",
+        "explanation": "If you say 'The salary of a manager is higher than a clerk', you are comparing a SALARY (money) with a CLERK (a human being)! You must say 'higher than THAT OF a clerk' (meaning 'the salary of a clerk'). Use 'that of' for one thing, and 'those of' for plural things!",
+        "correctExample": "✅ The interest rate of this bank is lower than THAT OF its rival. ('interest rate' = one thing ➔ that of)\n✅ The branches of this bank are larger than THOSE OF its rival. ('branches' = many ➔ those of)",
+        "incorrectExample": "❌ The interest rate of this bank is lower than its rival. (Comparing a rate to a whole company!)",
+        "trick": "Whenever you see 'higher/lower/better than' in an exam sentence, check if 'that of' or 'those of' is missing!"
+      }
+    ],
+    "fixedPairs": [
+      {
+        "pair": "Prefer / Senior / Junior / Superior / Prior + TO",
+        "rule": "These words NEVER take 'than'. Always put 'to' after them!",
+        "trap": "'Fixed deposits are safer and superior than stocks.' (Wrong ➔ 'superior to')",
+        "example": "Many retirees prefer fixed returns to volatile equity."
+      },
+      {
+        "pair": "Words that NEVER take plural '-s' (Uncountable Things)",
+        "rule": "Equipment, furniture, information, advice, luggage, machinery, scenery. Never add '-s' and never put 'a/an' before them!",
+        "trap": "'The office bought new equipments and furnitures.'",
+        "example": "The branch upgraded its security equipment and office furniture."
+      },
+      {
+        "pair": "Number + Word before a Noun (No '-s'!)",
+        "rule": "When 'five-year' or 'ten-rupee' describes a noun (like 'plan' or 'note'), drop the '-s'!",
+        "trap": "'A five-years loan' or 'a three-members committee'.",
+        "example": "The board approved a five-year repayment plan."
+      }
+    ],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Plural Words Right Before 'Is / Are' (The Proximity Illusion)",
+        "whyIntuitionFails": "In 'The cost of raw materials ARE rising', the word 'materials' sits right next to 'are', so your ear thinks 'materials are' sounds great!",
+        "theFix": "Ask: What is rising—the materials themselves, or the COST? The COST (one thing) is rising! So it must be 'IS rising'.",
+        "examPattern": "[Singular Word] + of + [Plural Word] + ARE/WERE/HAVE (Always change to IS/WAS/HAS!)."
+      },
+      {
+        "trapName": "Trap #2: Feeling Verbs ('Smell / Look / Feel / Seem / Appear')",
+        "whyIntuitionFails": "We learn in school that '-ly' words go after action words, so 'The soup smells deliciously' or 'The plan looks nicely' feels tempting.",
+        "theFix": "When 'look, smell, taste, feel, seem, appear' describe what something IS like, never add '-ly'! Say 'looks nice', 'smells delicious', 'seems risky'.",
+        "examPattern": "'The proposal appears soundly' ❌ ➔ 'The proposal appears sound' ✅."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-gram-1",
+        "badge": "Confusing Twins: Was vs Were (Middle Words Trap)",
+        "prompt": "The branch manager, along with three senior loan officers, ___ called to explain the sudden spike in defaults.",
+        "options": ["were", "was", "have been", "are", "were being"],
+        "answer": "was",
+        "twinFoil": "were",
+        "whatSentenceSays": "The sentence is talking about a past event where the branch manager (accompanied by three officers) was called for an explanation. Since it's past and passive ('called to explain'), we are choosing between 'was' (for one person) and 'were' (for many people).",
+        "whyTwoFeelCorrect": "When you read 'The branch manager + three senior loan officers', your brain adds 1 + 3 = 4 people! And because 'officers' is plural right before the blank, 'were' sounds super natural!",
+        "howToPickWinner": "Use Rule #1 on top (The 'Cover the Middle Words' Trick)! Put your finger over ', along with three senior loan officers,'. What is left? 'The branch manager ___ called.' Since 'The branch manager' is ONE person, 'were' is a trap—you MUST pick 'was'!",
+        "ruleRef": "Refers to: Rule #1 (The 'Cover the Middle Words' Trick)"
+      },
+      {
+        "id": "rev-gram-2",
+        "badge": "Confusing Twins: Has vs Have (Neither... nor)",
+        "prompt": "Neither the regional audit team nor the local branch clerks ___ updated the KYC ledger since Tuesday.",
+        "options": ["has", "have", "is", "was", "having"],
+        "answer": "have",
+        "twinFoil": "has",
+        "whatSentenceSays": "Two groups failed to update the ledger since Tuesday. Because 'since Tuesday' connects past to present with 'updated', we need 'has' (for one) or 'have' (for many).",
+        "whyTwoFeelCorrect": "Students see 'Neither' at the start (which feels singular) and 'audit team' (singular), so 'has' feels right; meanwhile 'clerks' is plural, making 'have' also feel right!",
+        "howToPickWinner": "Use Rule #3 on top ('Neither... nor' Nearest Neighbor Rule)! When 'nor' connects two subjects, ignore the first one and look ONLY at the neighbor standing right next to the blank: 'the local branch CLERKS'. Since 'clerks' is MANY (plural), you MUST pick 'have'! (Note: Plain 'Neither of the clerks' takes 'has', but 'Neither A nor B' matches B!).",
+        "ruleRef": "Refers to: Rule #3 ('Neither... nor' Nearest Neighbor Rule)"
+      },
+      {
+        "id": "rev-gram-3",
+        "badge": "Confusing Twins: Paid vs Had paid (Time Machine Trap)",
+        "prompt": "By the time the recovery agent reached the warehouse, the borrower ___ already sold the pledged inventory.",
+        "options": ["has", "had", "was", "did", "would"],
+        "answer": "had",
+        "twinFoil": "has",
+        "whatSentenceSays": "Two things happened in the past: (1) The borrower sold the goods, and (2) The agent reached the warehouse later.",
+        "whyTwoFeelCorrect": "In daily speech, people constantly mix up 'has sold' and 'had sold', so both sound smooth when reading fast.",
+        "howToPickWinner": "Use Rule #4 on top (The Time Machine Rule)! Both events happened in the PAST ('reached' is past). Which happened FIRST? Selling the inventory happened BEFORE the agent reached! Rule #4 says: In a past story, the earlier action MUST take 'HAD' ('had already sold'). 'Has' is only for present time, never with 'By the time ... reached'!",
+        "ruleRef": "Refers to: Rule #4 (The Time Machine Rule: Earlier Past = HAD)"
+      },
+      {
+        "id": "rev-gram-4",
+        "badge": "Confusing Twins: Who is doing the '-ing' action?",
+        "prompt": "Scanning the outward remittance logs, ___ was spotted by the compliance officer.",
+        "options": [
+          "a duplicate transfer",
+          "she spotted a duplicate transfer",
+          "an unusual pattern of transfers",
+          "the bank's server",
+          "Notice that the sentence as written is a trap — which replacement for the whole second half fixes it: 'the compliance officer spotted a duplicate transfer'?"
+        ],
+        "answer": "Notice that the sentence as written is a trap — which replacement for the whole second half fixes it: 'the compliance officer spotted a duplicate transfer'?",
+        "twinFoil": "a duplicate transfer",
+        "whatSentenceSays": "Let's test why 'Scanning the logs, a duplicate transfer was spotted' feels fine when reading fast, but is 100% wrong in exams!",
+        "whyTwoFeelCorrect": "In normal conversation, we know the officer scanned the logs, so 'a duplicate transfer was spotted' sounds completely normal to our ears.",
+        "howToPickWinner": "Use Rule #5 on top (Who Is Doing the '-ing' Action?)! The sentence starts with 'Scanning the outward remittance logs,'. Ask: WHO was scanning the logs? A human officer! So the very first word after the comma MUST be 'the compliance officer' (not 'a duplicate transfer', because a transfer cannot scan logs!). Always pick the option where the real doer comes immediately after the comma!",
+        "ruleRef": "Refers to: Rule #5 (Who Is Doing the '-ing' Action?)"
+      },
+      {
+        "id": "rev-gram-5",
+        "badge": "Confusing Twins: Than vs Than that of",
+        "prompt": "The capital adequacy ratio of the merged entity is significantly stronger ___ the parent bank five years ago.",
+        "options": [
+          "than",
+          "than that of",
+          "than those of",
+          "to that of",
+          "from"
+        ],
+        "answer": "than that of",
+        "twinFoil": "than",
+        "whatSentenceSays": "We are comparing the 'capital adequacy ratio' (ONE thing) of the new bank with the 'capital adequacy ratio' of the parent bank.",
+        "whyTwoFeelCorrect": "When reading fast, 'stronger than the parent bank' sounds like normal everyday English, and 'than those of' also looks fancy and tempting!",
+        "howToPickWinner": "Use Rule #6 on top (Fair Comparison)! If you just pick 'than', you compare a RATIO (a number) with a BANK (a building/company)! You need 'that of' or 'those of'. Which one? Look at what is being compared: 'The capital adequacy RATIO' = ONE thing (singular)! So it must be 'than THAT of' (use 'those of' only when comparing plural things like 'The ratios...').",
+        "ruleRef": "Refers to: Rule #6 (Fair Comparison: 'Than that of' vs 'Than those of')"
+      }
+    ]
+  },
+  {
+    "chapterId": "cloze",
+    "priority": true,
+    "title": "Cloze Test Mastery",
+    "tagline": "Good/Bad Sign Tracking, Tiny Glue Words & Context Clues",
+    "summary": "A Cloze Test is just a short story with 5 holes in it. Students make mistakes because they try to fill Hole #1 before reading the story, or they pick a big fancy word that clashes with a tiny word like 'to' or 'with' right after the blank!",
+    "plainDictionary": [
+      {
+        "term": "Good (+) / Bad (-) Story Sign",
+        "simpleMeaning": "Every sentence has a mood! If a sentence talks about growth, safety, honesty, or success, mark it (+). If it talks about fraud, losses, delay, or danger, mark it (-).",
+        "examples": "(+) bolster, prudent, transparent, lucrative | (-) fragile, default, cursory, adverse"
+      },
+      {
+        "term": "Glue Word Lock (Collocation / Preposition Lock)",
+        "simpleMeaning": "Two words that are married to each other in English! Even if two options mean the exact same thing, only ONE is allowed to hold hands with the tiny word ('to', 'with', 'from', 'on') sitting right after the blank!",
+        "examples": "'Adhere' and 'Comply' both mean 'follow the rules'. But 'Adhere' ONLY marries 'TO' (adhere to), while 'Comply' ONLY marries 'WITH' (comply with)!"
+      }
+    ],
+    "sentenceDecoder": {
+      "title": "🗺️ How to Read a Cloze Passage so You Never Guess Blindly",
+      "subtitle": "Use these 3 simple context clues inside the passage to eliminate wrong options:",
+      "patterns": [
+        {
+          "storyType": "Clue 1: The 'Next Sentence Spoiler' Trick",
+          "howToSpot": "Often Blank #1 looks like anything could fit! Why? Because the clue is hiding in the NEXT sentence!",
+          "keepOnly": "Read one sentence BEFORE and one sentence AFTER the blank before touching the options.",
+          "eliminateImmediately": "If Sentence 2 says 'This sudden drop worried investors', then Blank #1 in Sentence 1 MUST be a word meaning 'fell / dropped'!"
+        },
+        {
+          "storyType": "Clue 2: The 'And' (Same Team) vs 'But / However / Despite' (Opposite Team) Trick",
+          "howToSpot": "Look for 'and' or 'but/although' near the blank. Example: 'The check was quick AND ___' vs 'The check was quick, BUT ___'.",
+          "keepOnly": "'AND' means both words are on the SAME team (+ and +, or - and -). 'BUT / HOWEVER / ALTHOUGH' means OPPOSITE teams (+ and -).",
+          "eliminateImmediately": "In 'The audit was thorough (+) AND ___', immediately kick out negative words like 'careless' or 'cursory'!"
+        },
+        {
+          "storyType": "Clue 3: The Tiny Word Right After the Blank ('to / with / from / upon')",
+          "howToSpot": "Look at the very first word after the blank! Is it 'to', 'with', 'from', 'into', 'upon', or 'for'?",
+          "keepOnly": "Only keep options that naturally pair with that exact tiny word!",
+          "eliminateImmediately": "Blank followed by 'WITH'? Kick out 'adhere', 'depend', 'prevent', 'refrain'!"
+        }
+      ]
+    },
+    "decisionSteps": [
+      {
+        "step": "Step 1: Read for 30 seconds without looking at the options",
+        "action": "Just find out: Is this passage happy (+), worried (-), or explaining a problem and its fix?",
+        "outcome": "Stops you from picking a happy word in a sad story!"
+      },
+      {
+        "step": "Step 2: Circle the tiny word right after the blank",
+        "action": "Is there 'to', 'with', 'from', 'on', 'upon', 'in', or 'of' right after the blank?",
+        "outcome": "Use the Glue Word Table below to pick the winner in 2 seconds!"
+      },
+      {
+        "step": "Step 3: Check what type of word the hole needs",
+        "action": "Does the hole need an Action word (verb), a Thing (noun), or a Describing word (adjective)?",
+        "outcome": "Look at the word before the blank: 'an ___ check' needs a describing word starting with a, e, i, o, u (like 'exhaustive')!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The Tiny Word After the Blank ('To' vs 'With' vs 'From' vs 'Upon')",
+        "formula": "___ + TO ➔ adhere to, conform to, resort to, lead to, contribute to, prone to\n___ + WITH ➔ comply with, grapple with, dispense with, align with\n___ + FROM ➔ refrain from, abstain from, deter from, preclude from, stem from, detract from\n___ + UPON / ON ➔ contingent upon, hinge on, embark on, impinge on",
+        "explanation": "Examiners love putting 5 words that all mean almost the same thing in your head (like 'follow' or 'stop' or 'depend'). How do you pick the ONE right answer? You don't guess by meaning—you look at the tiny word right after the blank!",
+        "correctExample": "✅ All branches must COMPLY WITH the new circular. (Blank + WITH)\n✅ All branches must ADHERE TO the new circular. (Blank + TO)",
+        "incorrectExample": "❌ All branches must comply TO the circular. (WRONG!)\n❌ All branches must adhere WITH the circular. (WRONG!)",
+        "trick": "Never choose between 'adhere' and 'comply', or 'deter' and 'forbid', until you check the tiny word right after the blank!"
+      },
+      {
+        "name": "Rule #2: The 'And' vs 'But' Mood Mirror",
+        "formula": "[Good Word (+)] + AND + [Blank MUST be Good (+)]\n[Good Word (+)] + BUT / YET / ALTHOUGH + [Blank MUST be Bad (-)]",
+        "explanation": "If you don't know which word fits the blank, look at its neighbor word! If they are joined by 'and', 'as well as', or 'moreover', the blank is a copycat—it copies the exact same Good (+) or Bad (-) mood. If joined by 'but', 'yet', 'however', or 'despite', it flips to the opposite mood!",
+        "correctExample": "✅ The instructions were clear (+) AND explicit (+).\n✅ The initial check was cursory (-), BUT the final audit was exhaustive (+).",
+        "incorrectExample": "❌ The instructions were clear (+) and ambiguous (-). (Clashes with 'and'!)",
+        "trick": "Write a tiny (+) or (-) above the words on either side of the blank!"
+      },
+      {
+        "name": "Rule #3: Bank-Report Tone Check (Why Extreme Drama Words Lose)",
+        "formula": "Calm Bank Words (WINNERS): curb, mitigate, defer, waive, bolster, prudent, adverse\nOver-Dramatic Words (LOSERS): destroy, murder, magical, furious, ecstatic",
+        "explanation": "Bank exam passages are written like serious newspaper or RBI reports. If the passage says the bank wants to reduce risk, it will NEVER say 'murder the risk' or 'destroy the risk'—it will say 'mitigate the risk' or 'curb the risk'!",
+        "correctExample": "✅ The central bank took steps to MITIGATE liquidity risk.",
+        "incorrectExample": "❌ The central bank took steps to ANNIHILATE liquidity risk. (Way too dramatic!)",
+        "trick": "When two words have similar meanings, always pick the calm, professional office/bank word!"
+      }
+    ],
+    "fixedPairs": [
+      {
+        "pair": "Waive (Cancel a fee/rule) vs Defer (Push to a later date)",
+        "rule": "'Waive' means you NEVER have to pay it (forgiven forever). 'Defer' means 'pay it next month instead of today' (postponed).",
+        "trap": "Picking 'waive' when the passage says 'until next quarter' (if a later time is given, it is 'deferred', not 'waived'!).",
+        "example": "The bank agreed to defer EMIs for three months and waive the late penalty."
+      },
+      {
+        "pair": "Cursory (Quick & careless) vs Exhaustive (Complete & thorough)",
+        "rule": "'Cursory' is a fast 1-minute glance that misses mistakes (-). 'Exhaustive' checks every single page (+).",
+        "trap": "Thinking 'exhaustive' means 'tired'. In exams, 'an exhaustive audit' means a 100% complete audit!",
+        "example": "A cursory glance missed the fraud, which only an exhaustive audit uncovered."
+      },
+      {
+        "pair": "Preclude (Make impossible in advance) vs Deter (Discourage through fear of penalty)",
+        "rule": "'Preclude' blocks something completely so it cannot happen. 'Deter' scares people away from doing something bad.",
+        "trap": "Heavy fines 'deter' cheaters (they might still try, but are scared); a locked system 'precludes' access.",
+        "example": "Strict penalties deter fraud, while missing documents preclude loan approval."
+      }
+    ],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Picking a Word That Fits Meaning, But Breaks the Tiny Preposition",
+        "whyIntuitionFails": "You read 'The loan is ___ upon verification' and think 'dependent' or 'based' or 'contingent' or 'subject'. You pick 'subject' because 'subject to verification' is common—without noticing the word after the blank is 'UPON', not 'TO'!",
+        "theFix": "'Subject' only takes 'TO' (subject to). With 'UPON', you MUST pick 'contingent upon' or 'dependent upon'!",
+        "examPattern": "Blank + UPON ➔ contingent / dependent. Blank + TO ➔ subject / prone / adhere."
+      },
+      {
+        "trapName": "Trap #2: Solving Blank 1 Before Reading Sentence 2",
+        "whyIntuitionFails": "Sentence 1 says 'The regulator took a ___ view of the merger.' Good (+) or Bad (-)? You can't tell from Sentence 1 alone!",
+        "theFix": "Look at Sentence 2: 'It warned that the merger would hurt small savers.' Aha! Warning = Bad/Strict (-)! Now you know Blank 1 must be 'cautious / critical / stern', NOT 'welcoming'!",
+        "examPattern": "Blank 1's clue is almost always sitting in Sentence 2."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-cloze-1",
+        "badge": "Confusing Twins: Comply vs Adhere (Tiny Word Lock)",
+        "prompt": "While fintech partners were given flexibility in customer onboarding, they were strictly required to ___ with the central bank's data-storage rules.",
+        "options": ["adhere", "comply", "conform", "abide", "follow"],
+        "answer": "comply",
+        "twinFoil": "adhere",
+        "whatSentenceSays": "Even though fintech apps had freedom in design, they had to strictly obey the central bank's rules.",
+        "whyTwoFeelCorrect": "All 5 options—'adhere', 'comply', 'conform', 'abide', and 'follow'—mean the EXACT same thing ('obey the rules')! By meaning alone, all 5 feel 100% right!",
+        "howToPickWinner": "Use Rule #1 on top (The Tiny Word After the Blank)! Look right after the blank: what is that tiny word? 'WITH'! Now check the marriages in Rule #1: 'adhere' and 'conform' take 'TO'; 'abide' takes 'BY'; 'follow' takes NO tiny word; ONLY 'comply' marries 'WITH' ('comply with')!",
+        "ruleRef": "Refers to: Rule #1 (The Tiny Word After the Blank: ___ + WITH ➔ comply with)"
+      },
+      {
+        "id": "rev-cloze-2",
+        "badge": "Confusing Twins: Waive vs Defer (Story Context Clue)",
+        "prompt": "Because the flood disrupted harvests only temporarily, the bank agreed to ___ loan repayments until the next crop cycle rather than writing them off.",
+        "options": ["waive", "defer", "cancel", "abolish", "forfeit"],
+        "answer": "defer",
+        "twinFoil": "waive",
+        "whatSentenceSays": "Farmers were hit by a temporary flood, so the bank gave them relief 'until the next crop cycle' instead of cancelling the loans forever ('rather than writing them off').",
+        "whyTwoFeelCorrect": "Both 'waive' and 'defer' are common banking words used when giving relief to borrowers, so both sound very professional here!",
+        "howToPickWinner": "Look at the Fixed Pairs Table on top ('Waive vs Defer') and the story clue: 'UNTIL the next crop cycle, rather than writing them off'! 'Waive' means cancelling a fee forever so it never has to be paid. 'Defer' means postponing it to a later date ('until the next crop cycle')!",
+        "ruleRef": "Refers to: Fixed Pairs ('Waive' = cancel forever vs 'Defer' = push to a later date)"
+      },
+      {
+        "id": "rev-cloze-3",
+        "badge": "Confusing Twins: Cursory vs Exhaustive ('Although' Mood Flip)",
+        "prompt": "Although the initial branch inspection was merely ___, the subsequent forensic audit examined every single voucher from the past three years.",
+        "options": ["exhaustive", "cursory", "thorough", "rigorous", "explicit"],
+        "answer": "cursory",
+        "twinFoil": "exhaustive",
+        "whatSentenceSays": "Sentence starts with 'Although' (which flips the mood between Part 1 and Part 2!) and says the first check was 'merely ___', while the second check 'examined every single voucher' (+).",
+        "whyTwoFeelCorrect": "Both 'exhaustive' and 'cursory' are high-frequency exam words used to describe audits and inspections!",
+        "howToPickWinner": "Use Rule #2 on top (The Mood Mirror)! Part 2 says the second audit checked 'every single voucher' (100% thorough = +). Because the sentence starts with 'Although' AND uses the word 'merely' (just/only), Blank 1 MUST be the opposite of thorough (-)! 'Exhaustive' means thorough (+), while 'cursory' means quick and superficial (-). So 'cursory' wins!",
+        "ruleRef": "Refers to: Rule #2 (Mood Mirror) & Fixed Pairs ('Cursory' vs 'Exhaustive')"
+      }
+    ]
+  },
+  {
+    "chapterId": "idioms-phrasal",
+    "priority": true,
+    "title": "Idioms & Phrasal Verbs",
+    "tagline": "Picture Tricks for Small Words (Off/Out/Into) & Context Eliminate Rules",
+    "summary": "Phrasal verbs (like 'call off', 'put off', 'carry out', 'rule out') confuse everyone because the base words ('call', 'put', 'carry') look so simple! The secret is to look at the SMALL WORD at the end (off, out, into, down, up) and match it with the sentence story!",
+    "plainDictionary": [
+      {
+        "term": "Phrasal Verb (Action Word + Tiny Direction Word)",
+        "simpleMeaning": "When a normal action word (like 'call' or 'look') joins a tiny word (like 'off' or 'into') to make a brand-new meaning! Example: 'Look' = see, but 'Look INTO' = investigate like a detective!",
+        "examples": "call off (cancel) | put off (delay) | carry out (do) | rule out (say impossible)"
+      },
+      {
+        "term": "Idiom (Picture Phrase)",
+        "simpleMeaning": "A phrase where you don't take the physical words literally—you use the picture it paints! Example: 'In the red' doesn't mean red paint; banks used red ink when an account lost money, so it means 'in debt / losing money'!",
+        "examples": "at stake (at risk) | red herring (fake clue) | cut corners (do cheaply/badly)"
+      }
+    ],
+    "sentenceDecoder": {
+      "title": "🎨 How to Decode Phrasal Verbs from the Sentence Story (Eliminate Wrong Options!)",
+      "subtitle": "Don't guess blindly! Look at what is happening in the sentence story to know which phrasal verb you need:",
+      "patterns": [
+        {
+          "storyType": "Story Clue 1: Is a New Future Date Mentioned? ('until Friday' / 'to next month')",
+          "howToSpot": "Look after the blank: does the sentence say the meeting or plan was moved 'until next week' or 'pending further review'?",
+          "keepOnly": "PUT OFF (= Postpone / delay to a later time) or HOLD OFF!",
+          "eliminateImmediately": "Kick out CALL OFF! Why? 'Call off' means killed/cancelled forever—you can't cancel a dead meeting 'until Friday'!"
+        },
+        {
+          "storyType": "Story Clue 2: Was a Deal or Event Killed Forever?",
+          "howToSpot": "The sentence says two companies dropped their merger completely, or workers stopped a strike completely.",
+          "keepOnly": "CALL OFF (= Cancel completely) or SCRAP!",
+          "eliminateImmediately": "Kick out PUT OFF (postpone) and CARRY OUT (do)!"
+        },
+        {
+          "storyType": "Story Clue 3: Is Someone Acting Like a Detective Checking a Mystery / Error?",
+          "howToSpot": "There is a complaint, fraud, or missing money, and a committee is examining the cause.",
+          "keepOnly": "LOOK INTO (= Investigate deeply)!",
+          "eliminateImmediately": "Kick out LOOK OVER (which just means a quick 10-second scan) and LOOK AFTER (take care of a baby/pet)!"
+        },
+        {
+          "storyType": "Story Clue 4: Did Someone Check a Possibility and Say 'No Way, Impossible'?",
+          "howToSpot": "Doctors, auditors, or police say a certain cause is NOT possible (or before checking, they say 'we cannot yet say it's impossible').",
+          "keepOnly": "RULE OUT (= Eliminate / say something is impossible)!",
+          "eliminateImmediately": "Kick out CARRY OUT (do) and TURN DOWN (refuse an offer/request)!"
+        },
+        {
+          "storyType": "Story Clue 5: Did Someone Say 'NO' to an Offer, Request, or Applicant?",
+          "howToSpot": "There is a loan application, a job offer, or a low bid, and the board says 'No, we reject it'.",
+          "keepOnly": "TURN DOWN (= Reject an offer, request, or application)!",
+          "eliminateImmediately": "Kick out RULE OUT (which is for possibilities/theories, not rejecting a person's request) and BREAK DOWN (stop working)!"
+        }
+      ]
+    },
+    "decisionSteps": [
+      {
+        "step": "Step 1: Check WHAT is after the phrasal verb (The Object Check!)",
+        "action": "Is it a Meeting with a new date? (Put off). A cancelled Deal/Strike? (Call off). A Mystery/Complaint? (Look into). A Test/Audit/Plan being done? (Carry out). An Offer/Request rejected? (Turn down). A Possibility eliminated? (Rule out).",
+        "outcome": "Matching the object with the verb solves 90% of questions in 3 seconds!"
+      },
+      {
+        "step": "Step 2: Check the 'It / Them' Sandwich Rule",
+        "action": "Is the tiny word 'it' or 'them' used with the phrasal verb?",
+        "outcome": "'It' or 'them' MUST sit in the middle like cheese in a sandwich: 'call IT off', 'turn IT down', 'rule IT out', 'carry IT out' (NEVER 'call off it' or 'turn down it'!)."
+      },
+      {
+        "step": "Step 3: Picture the Tiny Particle ('Off', 'Out', 'Down', 'Up with')",
+        "action": "Use the Particle Picture Rule #1 below to remember which tiny word does what.",
+        "outcome": "Stops you from mixing up 'put off', 'put out', and 'put up with'!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'Big 8' Bank Exam Phrasal Verbs (Memorize by What They Touch!)",
+        "formula": "1. PUT OFF + [a meeting / decision until later] = Postpone / Delay\n2. CALL OFF + [a deal / strike / search] = Cancel completely\n3. CARRY OUT + [an audit / inspection / plan / reform] = Do / Perform\n4. LOOK INTO + [a complaint / fraud / discrepancy] = Investigate like a detective\n5. RULE OUT + [a possibility / error / rate cut] = Say it is impossible / Exclude\n6. TURN DOWN + [a loan request / bid / offer] = Reject / Say no to\n7. PUT UP WITH + [delays / rude behavior / losses] = Tolerate / Bear patiently\n8. STEP DOWN = Resign from a high post | LAY OFF = Let workers go to cut costs",
+        "explanation": "Why do students get confused between 'rule out' and 'turn down', or 'call off' and 'put off'? Because they memorize single-word meanings like 'reject' or 'stop'! Instead, memorize WHAT OBJECT goes with each one: You 'turn down' an OFFER/REQUEST; you 'rule out' a POSSIBILITY! You 'put off' UNTIL LATER; you 'call off' FOREVER!",
+        "correctExample": "✅ The board TURNED DOWN the low buyout offer. (Offer ➔ Turn down)\n✅ The auditor could not RULE OUT human error. (Possibility ➔ Rule out)\n✅ The committee CARRIED OUT a surprise inspection. (Do an inspection ➔ Carry out)",
+        "incorrectExample": "❌ The board ruled out the buyout offer. (Wrong object!)\n❌ The committee looked into a surprise inspection. (You 'carry out' an inspection, and 'look into' a mystery!)",
+        "trick": "Look at the noun right after the blank: Inspection/Audit = Carry out | Mystery/Complaint = Look into | Possibility = Rule out | Offer/Application = Turn down!"
+      },
+      {
+        "name": "Rule #2: The 'It / Them' Pronoun Sandwich Rule",
+        "formula": "✅ Verb + [IT / THEM / HIM / HER] + Tiny Word (turn it down, call it off, carry it out, rule it out)\n❌ Verb + Tiny Word + [IT / THEM] (turn down it ❌, call off it ❌, carry out it ❌)",
+        "explanation": "When you use a full name like 'the meeting', you can say 'put off the meeting' OR 'put the meeting off'. Both are fine! But when you replace 'the meeting' with a tiny pronoun like 'IT' or 'THEM', that pronoun MUST go in the middle sandwich! Saying 'put off it' or 'turn down it' is a 100% grammar error!",
+        "correctExample": "✅ The offer was too low, so the directors turned IT down.\n✅ Once the error was found, the team sorted IT out.",
+        "incorrectExample": "❌ The offer was too low, so the directors turned down IT. (WRONG!)\n❌ The strike hurt everyone, so the union called off IT. (WRONG!)",
+        "trick": "Never let 'it' or 'them' sit at the very end after 'off / out / down / up'! Put 'it/them' in the middle!"
+      },
+      {
+        "name": "Rule #3: The 'PUT' & 'CALL' Family Picture Guide",
+        "formula": "PUT OFF = Push away on the calendar (Postpone)\nPUT OUT = Pour water on a fire (Extinguish a fire / Issue a statement)\nPUT UP WITH = Carry a heavy weight on your head without crying (Tolerate)\nCALL OFF = Blow the whistle to end the game (Cancel)\nCALL ON / UPON = Knock on someone's door or officially ask them to speak/act\nCALL FOR = Demand / Require (e.g., 'This crisis calls for urgent action')",
+        "explanation": "Picture each tiny word in your mind: 'Put OUT' = put a fire out. 'Put UP WITH' = 3 words because tolerating annoying things takes 3 times more patience! 'Call FOR' = crying out FOR help/action (demand).",
+        "correctExample": "✅ The new safety crisis CALLS FOR stricter rules. (Demands/Requires)\n✅ Customers refused to PUT UP WITH frequent server crashes. (Tolerate)",
+        "incorrectExample": "❌ The crisis calls off stricter rules. (Opposite meaning!)",
+        "trick": "3 words ('put up with') = Tolerate something annoying! 'Call for' = Demand/Require!"
+      },
+      {
+        "name": "Rule #4: Top 10 Bank Exam Idioms Explained with Simple Pictures",
+        "formula": "1. AT STAKE = On the betting table / At risk of being lost ('Reputation is at stake')\n2. RED HERRING = A smelly fish dragged across a trail to trick dogs ('A fake clue / distraction')\n3. AT FACE VALUE = Believing the number printed on a coin without testing the metal ('Accepting without checking')\n4. CUT CORNERS = Running across the grass instead of around the track ('Saving money/time by doing sloppy work')\n5. IN THE RED vs IN THE BLACK = Red ink (Losing money/debt) vs Black ink (Making profit)\n6. BY THE BOOK = Following every single rule strictly\n7. SEE EYE TO EYE = Agree completely with someone\n8. WEATHER THE STORM = Survive a bad crisis safely\n9. NIP IN THE BUD = Pinch off a bad weed when it's still a tiny bud ('Stop a problem early before it grows big')\n10. ON THE SAME PAGE = Understanding a plan the exact same way",
+        "explanation": "Every idiom is just a real-life picture! Once you see the picture (like red ink vs black ink in old bank books, or cutting across a corner lazily), you will never forget what it means!",
+        "correctExample": "✅ Auditors never take unverified balance sheets AT FACE VALUE.\n✅ With depositor trust AT STAKE, the bank acted swiftly.",
+        "incorrectExample": "❌ Using 'red herring' to mean 'financial loss' (Loss is 'in the red'; 'red herring' is a fake distraction!).",
+        "trick": "In the red = Losing money. Red herring = Fake distraction. At stake = In danger of being lost!"
+      }
+    ],
+    "fixedPairs": [
+      {
+        "pair": "Look into (Investigate) vs Look over (Scan quickly)",
+        "rule": "'INTO' goes deep inside a mystery (investigate). 'OVER' just skims across the top in 1 minute (quick check).",
+        "trap": "Picking 'look over' when a serious fraud committee is investigating a crime.",
+        "example": "The ombudsman promised to look into the customer's complaint."
+      },
+      {
+        "pair": "Break down (Stop working / Collapse) vs Break out (Suddenly start—fire/war/panic)",
+        "rule": "Machines and talks 'break DOWN' when they fail. Bad things like fires, riots, or epidemics 'break OUT' when they suddenly start!",
+        "trap": "Saying 'Negotiations broke out' when you mean 'Negotiations failed (broke down)'.",
+        "example": "Merger talks broke down over valuation disputes."
+      }
+    ],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: 'Put off' vs 'Call off' (The Calendar Trap)",
+        "whyIntuitionFails": "Both sound like 'stopping a meeting', so students treat them as synonyms.",
+        "theFix": "Scan the sentence for a future time (like 'to Monday', 'for two weeks', 'until the audit finishes'). If it's happening later, it is ONLY paused ➔ 'PUT OFF'! If it is dead forever ➔ 'CALL OFF'!",
+        "examPattern": "'___ the meeting until next Friday' ➔ 100% Put off!"
+      },
+      {
+        "trapName": "Trap #2: 'Rule out' vs 'Turn down' (Possibility vs Request)",
+        "whyIntuitionFails": "Both feel like saying 'No', so candidates mix them up.",
+        "theFix": "Ask: Did someone ask for something (an offer, a loan, a job)? You 'TURN DOWN' a request/offer. Or are we talking about a chance/possibility ('Could it be a cyberattack?')? You 'RULE OUT' a possibility!",
+        "examPattern": "'cannot ___ the possibility of fraud' ➔ 100% Rule out!"
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-idiom-1",
+        "badge": "Confusing Twins: Put off vs Call off",
+        "prompt": "Because three external directors were stranded by flight delays, the board decided to ___ the voting session until Thursday morning.",
+        "options": ["call off", "put off", "carry out", "rule out", "turn down"],
+        "answer": "put off",
+        "twinFoil": "call off",
+        "whatSentenceSays": "Three directors were late because of flights, so the board moved the voting session to Thursday morning.",
+        "whyTwoFeelCorrect": "When you read 'decided to ___ the voting session', both 'call off' (cancel) and 'put off' (postpone) sound like things a board does to a meeting!",
+        "howToPickWinner": "Use Story Clue 1 & Rule #1 on top! Look at the end of the sentence: 'UNTIL THURSDAY MORNING'! Is the meeting dead forever, or just moved to Thursday? It is moved to Thursday (postponed)! Rule #1 says: When a meeting is moved to a later date, you MUST pick 'put off' (never 'call off')!",
+        "ruleRef": "Refers to: Story Clue 1 & Rule #1 (Put off = postpone until later vs Call off = cancel forever)"
+      },
+      {
+        "id": "rev-idiom-2",
+        "badge": "Confusing Twins: Rule out vs Turn down",
+        "prompt": "Until the forensic team finishes checking the server logs, the bank cannot ___ the possibility of an internal data leak.",
+        "options": ["turn down", "rule out", "call off", "put off", "look into"],
+        "answer": "rule out",
+        "twinFoil": "turn down",
+        "whatSentenceSays": "The check isn't finished yet, so the bank cannot yet say 'An internal leak is impossible'.",
+        "whyTwoFeelCorrect": "Both 'turn down' and 'rule out' are negative refusal/rejection phrases, so both feel tempting when the sentence says 'cannot ___'.",
+        "howToPickWinner": "Use Rule #1 & Trap #2 on top (Check What Object Follows the Blank)! Look right after the blank: 'THE POSSIBILITY of an internal data leak'. You 'turn down' an OFFER or REQUEST. When the object is a POSSIBILITY or CAUSE, Rule #1 says you MUST pick 'rule out' (meaning 'say it is impossible / exclude')!",
+        "ruleRef": "Refers to: Rule #1 & Trap #2 (Rule out + a possibility vs Turn down + an offer)"
+      },
+      {
+        "id": "rev-idiom-3",
+        "badge": "Confusing Twins: Carry out vs Look into",
+        "prompt": "The central bank appointed an independent auditor to ___ a comprehensive review of the lender's gold-loan portfolio.",
+        "options": ["look into", "carry out", "rule out", "call on", "put up with"],
+        "answer": "carry out",
+        "twinFoil": "look into",
+        "whatSentenceSays": "An auditor was hired to DO / PERFORM a full review of the gold-loan accounts.",
+        "whyTwoFeelCorrect": "Since an auditor is investigating accounts, 'look into' (investigate) and 'carry out' (do/perform) both feel super natural in a banking sentence!",
+        "howToPickWinner": "Use Rule #1 on top (Check the Exact Object)! Look right after the blank: 'a comprehensive REVIEW' (an action/task). You 'look into' a PROBLEM or MYSTERY (like 'look into the fraud / look into the complaint'). You 'CARRY OUT' a REVIEW, AUDIT, TEST, or INSPECTION! Because the words after the blank are 'a comprehensive review', 'carry out' is the 100% winner!",
+        "ruleRef": "Refers to: Rule #1 (Carry out + an audit/review vs Look into + a problem/complaint)"
+      },
+      {
+        "id": "rev-idiom-4",
+        "badge": "Confusing Twins: Turn it down vs Turn down it (Pronoun Sandwich)",
+        "prompt": "Although the acquisition offer valued the firm at a premium, the founders decided to ___ because it gave them no say in future products.",
+        "options": [
+          "turn down it",
+          "turn it down",
+          "rule it out",
+          "call off it",
+          "put it off"
+        ],
+        "answer": "turn it down",
+        "twinFoil": "turn down it",
+        "whatSentenceSays": "There was an acquisition OFFER, and the founders rejected it ('it' = the offer).",
+        "whyTwoFeelCorrect": "First, 'turn down' is the right verb for rejecting an offer. Between 'turn down it' and 'turn it down', both have the exact same 3 words!",
+        "howToPickWinner": "Use Rule #2 on top (The 'It / Them' Pronoun Sandwich Rule)! Whenever the object is a tiny pronoun like 'IT' or 'THEM', it MUST sit in the middle sandwich between 'turn' and 'down': 'turn IT down'! Putting 'it' at the end ('turn down it') is strictly wrong in English!",
+        "ruleRef": "Refers to: Rule #2 (The 'It / Them' Pronoun Sandwich Rule)"
+      }
+    ]
+  },
+  {
+    "chapterId": "fillers",
+    "title": "Contextual Fillers",
+    "tagline": "Solve Blank 2 First, Match Good/Bad Signs & Spot Twin-Meaning Words",
+    "summary": "In Double or Triple Fillers, never waste time guessing Blank 1 if 3 options look good! Jump straight to Blank 2—it almost always has a tiny word ('to', 'with', 'of') that kills 3 wrong options in 5 seconds!",
+    "plainDictionary": [
+      {
+        "term": "Double / Triple Filler",
+        "simpleMeaning": "A sentence with 2 or 3 blanks where ONE option gives you all the words in order. If even ONE word in the pair is wrong, that whole option is dead!",
+        "examples": "If Blank 2 needs a Good (+) word, any option with a Bad (-) second word is immediately out!"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Attack the Easiest Blank First (Usually Blank 2!)",
+        "action": "Look at Blank 2. Does it have a tiny word like 'to', 'with', 'from', or a clear noun right after it?",
+        "outcome": "Cross out every option whose second word doesn't fit Blank 2! Usually only 1 or 2 options survive!"
+      },
+      {
+        "step": "Step 2: Check if the Two Blanks Are Friends (+ / +) or Enemies (+ / -)",
+        "action": "Look for 'because / and / therefore' (same mood) vs 'although / despite / however / but' (opposite mood).",
+        "outcome": "Eliminates any pair whose moods don't match the story!"
+      },
+      {
+        "step": "Step 3: Same-Word Fillers (1 Word Fits 2 Different Sentences)",
+        "action": "Find a word that has TWO lives: one everyday meaning and one bank/formal meaning (like 'sound', 'reserve', 'qualify', 'material').",
+        "outcome": "Test which option makes sense in BOTH sentences!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'Blank 2 First' Shortcut",
+        "formula": "Don't test (Word 1 + Word 2) together ➔ Test ONLY Word 2 first to kill 3 options ➔ Then check Word 1!",
+        "explanation": "Examiners purposely make Blank 1 easy so that 3 or 4 options sound right in Blank 1. That traps you into reading the sentence 4 times! Instead, look at Blank 2 first—usually only 1 or 2 options fit Blank 2!",
+        "correctExample": "✅ 'The board decided to ___ the plan until the audit could ___ the figures.' (Blank 2 needs an action word after 'could' like 'verify / corroborate').",
+        "incorrectExample": "❌ Spending 2 minutes debating Blank 1 before looking at Blank 2.",
+        "trick": "Always start with whichever blank sits next to 'to / with / from / an'!"
+      },
+      {
+        "name": "Rule #2: Same-Word Fillers (Words with Two Secret Lives)",
+        "formula": "SOUND = (1) Noise we hear | (2) Financially healthy & safe ('sound banking')\nRESERVE = (1) Emergency cash fund | (2) Doubt or hesitation ('expressed reserve')\nQUALIFY = (1) Pass a test | (2) Add a warning/limit to a statement ('qualified his approval')\nMATERIAL = (1) Cloth/fabric | (2) Big and important ('material impact on profit')",
+        "explanation": "When one word must fill two totally different sentences, don't look for a rare dictionary word—look for a common word that has a second 'office/bank' meaning!",
+        "correctExample": "✅ Sentence 1: The bank has a strong capital RESERVE. Sentence 2: Directors accepted the plan with some RESERVE (hesitation).",
+        "incorrectExample": "❌ Picking 'money' (fits Sentence 1, fails Sentence 2).",
+        "trick": "Test the 4 words in the formula box above—they appear constantly in bank exams!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Falling in Love with Word 1 and Ignoring Word 2",
+        "whyIntuitionFails": "Option A's first word sounds SO good in Blank 1 that your brain forces Word 2 to fit even when it doesn't!",
+        "theFix": "Both words must be 100% right. If Word 2 feels even 10% weird, cross out that option!",
+        "examPattern": "Examiners pair a 100% perfect Word 1 with a 100% wrong Word 2."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-fill-1",
+        "badge": "Double Filler Trick: Check Blank 2 First!",
+        "prompt": "Although the new software was expected to ___ loan processing, frequent server crashes continued to ___ branch staff.",
+        "options": [
+          "delay ... assist",
+          "expedite ... hamper",
+          "accelerate ... bolster",
+          "hinder ... frustrate",
+          "simplify ... facilitate"
+        ],
+        "answer": "expedite ... hamper",
+        "twinFoil": "accelerate ... bolster",
+        "whatSentenceSays": "Sentence starts with 'Although' (Surprise!), and says new software was supposed to help (+), BUT 'frequent server crashes' (bad!) kept hurting (-) the staff.",
+        "whyTwoFeelCorrect": "In Blank 1, 'expedite', 'accelerate', and 'simplify' all mean 'speed up / make easy (+)', so Options B, C, and E all feel great at the start!",
+        "howToPickWinner": "Use Rule #1 on top (Check Blank 2 First)! Look at Blank 2: 'frequent server crashes continued to ___ branch staff.' Can server crashes 'bolster' (strengthen +) or 'facilitate' (help +) staff? No! Server crashes hurt/slow down (-) staff! So 'bolster' and 'facilitate' are dead! Only 'hamper' (slow down/obstruct -) fits Blank 2 while 'expedite' (speed up +) fits Blank 1!",
+        "ruleRef": "Refers to: Rule #1 (Check Blank 2 First & Match + / - Mood)"
+      }
+    ]
+  },
+  {
+    "chapterId": "word-usage",
+    "title": "Word Usage, Swaps & Replacements",
+    "tagline": "Find the Fixed Word, Check 'An / To' Locks & Test Both Sides of a Swap",
+    "summary": "In Word Swap questions, 4 words (A), (B), (C), (D) are bolded. Don't read all 4 at once! Find just ONE spot where the current word is obviously broken (like after 'an' or 'to'), see where it must go, and check the options!",
+    "plainDictionary": [
+      {
+        "term": "Two-Way Swap Check",
+        "simpleMeaning": "If you swap (A) and (C), Word A must look happy in Spot C, AND Word C must look happy in Spot A!",
+        "examples": "Swapping two words is like swapping shoes—both feet have to fit!"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Look at the tiny word right BEFORE (A), (B), (C), and (D)",
+        "action": "Is there 'an' (needs a vowel word: a, e, i, o, u), 'to' (needs a plain action word), or 'has/have' (needs a finished action word -ed)?",
+        "outcome": "Locks the swap in 5 seconds!"
+      },
+      {
+        "step": "Step 2: Once you find ONE pair (like A–C), look at the 5 options!",
+        "action": "Usually only 1 or 2 options contain 'A–C'!",
+        "outcome": "Saves you from testing every single word!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'An' and 'To' Grammar Locks in Word Swaps",
+        "formula": "Spot preceded by 'AN' ➔ Word MUST start with A, E, I, O, U sound (e.g., an exhaustive, an explicit, an adverse)\nSpot preceded by 'TO' ➔ Word MUST be a plain action word (e.g., to curb, to defer, to verify)",
+        "explanation": "If you see 'an cursory (A) check ... a exhaustive (B) audit', your eyes immediately see that 'an' needs 'exhaustive' (starts with E) and 'a' needs 'cursory' (starts with C)! Boom—A and B MUST swap!",
+        "correctExample": "✅ Swapping (A) and (B) gives 'a cursory check' and 'an exhaustive audit'.",
+        "incorrectExample": "❌ Leaving a consonant word after 'an'.",
+        "trick": "Always scan the word immediately to the LEFT of (A), (B), (C), and (D) first!"
+      },
+      {
+        "name": "Rule #2: Lookalike Twin Words (Affect vs Effect / Appraise vs Apprise)",
+        "formula": "AFFECT = Action word (to change/influence: 'will affect profits')\nEFFECT = Thing/Name (the result: 'had a positive effect')\nAPPRAISE = Check the value/price of something ('appraise the property')\nAPPRISE = Inform/tell someone ('apprise the board OF the risk')",
+        "explanation": "In Word Usage questions, examiners swap lookalike words to see if you notice!",
+        "correctExample": "✅ Rising rates will AFFECT borrowers. | The officer APPRISED the manager of the delay.",
+        "incorrectExample": "❌ Rising rates will EFFECT borrowers. (Wrong twin!)",
+        "trick": "A-ffect = A-ction (Verb). E-ffect = The E-nd result (Noun). App-RAISE = check if value was RAISEd. App-RISE = inform!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Checking Only Half of the Swap",
+        "whyIntuitionFails": "You put Word A into Spot B and it sounds great, so you click 'A–B' without checking if Word B makes sense in Spot A!",
+        "theFix": "Read BOTH spots after swapping to make sure both sides make 100% sense.",
+        "examPattern": "Always verify both positions in a swap."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-swap-1",
+        "badge": "Word Swap Trick: The 'An' Vowel Lock",
+        "prompt": "The regulator ordered an cursory (A) review after a internal (B) whistleblower flagged (C) suspicious loans (D).",
+        "options": ["A–B", "A–C", "B–D", "C–D", "No interchange required"],
+        "answer": "A–B",
+        "twinFoil": "A–C",
+        "whatSentenceSays": "Wait—let's see what happens when we look at the tiny words 'an' and 'a' before (A) and (B)! Actually, even better: 'internal' starts with 'I' (vowel) so it belongs after 'an' (Spot A), and 'cursory' starts with 'C' (consonant) so it belongs after 'a' (Spot B)!",
+        "whyTwoFeelCorrect": "Both 'cursory' (quick) and 'internal' (inside) are describing words that can sit before 'review' or 'whistleblower'!",
+        "howToPickWinner": "Use Rule #1 on top (The 'An' Grammar Lock)! Spot (A) has 'an' right before it ('an ___'). 'Cursory' starts with C, so 'an cursory' is impossible! 'Internal' starts with I (vowel sound), so 'an internal' is a perfect match, and 'a cursory' fits Spot (B)! Swap A–B wins in 3 seconds!",
+        "ruleRef": "Refers to: Rule #1 (The 'An' and 'To' Grammar Locks)"
+      }
+    ]
+  },
+  {
+    "chapterId": "sentence-order",
+    "title": "Sentence Rearrangement (Fragments)",
+    "tagline": "Snap Broken Pieces Together Like Lego Blocks Using End-Word Hooks",
+    "summary": "When one sentence is chopped into 4 or 5 pieces (A, B, C, D), don't try to read all 5 options from start to finish! Just look at the LAST word of a piece and snap it to the FIRST word of its partner piece!",
+    "plainDictionary": [
+      {
+        "term": "Lego Hook Pair (Mandatory Pair)",
+        "simpleMeaning": "Two pieces that MUST snap together—like Piece B ending in 'depend' and Piece D starting with 'upon'. They can never be separated!",
+        "examples": "Once you know 'BD' must be together, cross out every option that doesn't have 'BD'!"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Look at the LAST word of each fragment",
+        "action": "Does a fragment end with a tiny glue word like 'to', 'of', 'for', 'between', 'has', or 'which'?",
+        "outcome": "Find which fragment starts with the matching partner! That gives you a 2-letter Lego pair (like BC or DA)!"
+      },
+      {
+        "step": "Step 2: Check the 5 options for your 2-letter Lego pair",
+        "action": "If you locked 'BC', check which options actually have 'B' followed immediately by 'C'.",
+        "outcome": "Usually kills 3 or 4 options right away!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The Broken Glue-Word Hook",
+        "formula": "Piece ending in 'in order' ➔ MUST snap to piece starting with 'to + action word'\nPiece ending in 'between' ➔ MUST snap to piece containing 'and'\nPiece ending in 'has / have' ➔ MUST snap to piece starting with 'been / -ed action word'",
+        "explanation": "Examiners love chopping a sentence right in the middle of a two-word phrase! That's a gift for you—just snap the two halves back together and look at the options!",
+        "correctExample": "✅ Fragment A ends in 'contingent' + Fragment C starts with 'upon board approval' ➔ 'AC' MUST be together!",
+        "incorrectExample": "❌ Reading all 5 full options in your head and getting dizzy.",
+        "trick": "Find ONE unbreakable 2-letter pair first, then eliminate options!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Starting with a Piece That Begins with 'Which / And / But / Therefore'",
+        "whyIntuitionFails": "Candidates try to start the sentence with a piece that looks important.",
+        "theFix": "The very first piece of a sentence can NEVER start with 'which', 'and', 'but', or 'to' (unless 'To + verb' is the purpose starter).",
+        "examPattern": "Eliminate any option that starts with a middle connector piece."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-order-1",
+        "badge": "Lego Hook Trick: Snap 2 Pieces & Eliminate!",
+        "prompt": "Rearrange fragments A, B, C, D: (A) the credit committee decided to defer (B) the loan sanction because disbursement was contingent (C) upon the borrower clearing (D) all pending tax dues first.",
+        "options": ["ABCD", "ACBD", "BCDA", "CABD", "DBAC"],
+        "answer": "ABCD",
+        "twinFoil": "ACBD",
+        "whatSentenceSays": "The committee delayed the loan because paying it out depended on the borrower clearing old tax dues.",
+        "whyTwoFeelCorrect": "Both ABCD and ACBD start with A ('the credit committee decided to defer') and end with D ('all pending tax dues first')!",
+        "howToPickWinner": "Use Rule #1 on top (The Broken Glue-Word Hook)! Look at the end of Piece (B): it ends with the word 'contingent'. What tiny word MUST follow 'contingent'? 'UPON'! Which piece starts with 'upon'? Piece (C) ('upon the borrower clearing')! So 'BC' is an unbreakable Lego pair! Between ABCD and ACBD, only ABCD keeps 'BC' together!",
+        "ruleRef": "Refers to: Rule #1 (The Broken Glue-Word Hook: contingent + upon)"
+      }
+    ]
+  },
+  {
+    "chapterId": "paragraph-coherence",
+    "title": "Para Jumbles & Coherence",
+    "tagline": "Find the Headline Opener, Track 'This / They' Clues & Spot the Odd Intruder",
+    "summary": "In Para Jumbles, 5 sentences are mixed up. Don't try to order all 5 at once! Find the #1 'Headline' sentence that introduces the topic, pair sentences using 'This / These / He / It', and kick out any Odd Sentence that wanders off topic.",
+    "plainDictionary": [
+      {
+        "term": "Headline Opener (First Sentence)",
+        "simpleMeaning": "A sentence that introduces the main topic for the very first time without saying 'This', 'These', 'He', 'They', 'However', or 'Therefore'.",
+        "examples": "✅ 'Digital payments have grown rapidly in rural India.' (Great opener!) | ❌ 'This growth has helped small shops.' (Cannot be #1—what growth?!)"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Find the #1 Headline Opener",
+        "action": "Cross out any sentence that starts with 'However, Therefore, Moreover, This, These, Such, He, She, They, It, Also'.",
+        "outcome": "The remaining independent sentence that introduces the big idea is Sentence #1!"
+      },
+      {
+        "step": "Step 2: Use the 'This / These / Full Name ➔ Short Name' Trail",
+        "action": "If Sentence D says 'THIS mismatch worried the RBI', find which sentence talked about a mismatch! That sentence MUST come right before D!",
+        "outcome": "Locks an unbreakable pair!"
+      },
+      {
+        "step": "Step 3: Odd Sentence Out Check",
+        "action": "If 4 sentences talk about 'how banks stop cyber fraud' and 1 sentence talks about 'the history of the first computer in 1945', kick out the history sentence!",
+        "outcome": "Even if it shares a word like 'computer', if it's not part of the same mini-story, it's the Odd One Out!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'This / These / Such + Thing' Magnet Rule",
+        "formula": "Sentence talking about a problem ➔ MUST come right before the sentence starting with 'This problem / Such delays / These measures'",
+        "explanation": "You can never say 'This delay hurt the project' until you first tell the reader about a delay! So 'This [Thing]' acts like a magnet that snaps directly onto the back of the sentence that mentioned that thing!",
+        "correctExample": "✅ Sentence B: 'Two ships were stuck at the port for a week.' ➔ Sentence E: 'THIS DELAY caused prices to rise.' (BE is locked!)",
+        "incorrectExample": "❌ Putting Sentence E ('This delay...') before Sentence B.",
+        "trick": "Circle every 'This / These / Such / It / They' and draw an arrow to the sentence that named it!"
+      },
+      {
+        "name": "Rule #2: Full Name First, Short Name / Nickname Second",
+        "formula": "Full Name ('The Reserve Bank of India') ➔ MUST come before Short Name ('The RBI' or 'The central bank' or 'It')",
+        "explanation": "When a newspaper article starts, it always introduces the full name first, and uses the short initials later!",
+        "correctExample": "✅ Sentence C ('The Insolvency and Bankruptcy Code...') comes before Sentence A ('Under the IBC...').",
+        "incorrectExample": "❌ Using 'It' or 'The IBC' in Sentence #1 before introducing the full name.",
+        "trick": "See initials like 'IBC' or 'NPA' in one sentence and the full words in another? Full words ALWAYS come first!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: The 'Copycat Keyword' Trap in Odd Sentence Out",
+        "whyIntuitionFails": "The passage is about 'gold loans', and Sentence D also has the words 'gold' and 'india', so you think Sentence D belongs!",
+        "theFix": "Don't just match words—match the STORY! If 4 sentences are about 'new RBI rules for gold loans' and Sentence D says 'Gold jewelry is popular at Indian weddings', Sentence D is the Odd Intruder!",
+        "examPattern": "The Odd Sentence always shares 1-2 keywords with the passage to trick hasty readers."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-para-1",
+        "badge": "Magnet Trick: 'This / These' Trail",
+        "prompt": "Find the mandatory pair among these 3 sentences: (A) Consequently, small exporters struggled to hedge their currency risk. (B) Exchange rates swung wildly after the sudden tariff announcement. (C) This volatility forced banks to widen their forex margins.",
+        "options": [
+          "BC (B followed immediately by C)",
+          "CB (C followed immediately by B)",
+          "AC (A followed immediately by C)",
+          "CA (C followed immediately by A)"
+        ],
+        "answer": "BC (B followed immediately by C)",
+        "twinFoil": "CB (C followed immediately by B)",
+        "whatSentenceSays": "(B) introduces wild swings in exchange rates; (C) calls those wild swings 'This volatility'; (A) states the final consequence.",
+        "whyTwoFeelCorrect": "Both B and C talk about currency swings and volatility, so you know they belong together, but it's easy to get confused about whether B comes first or C comes first!",
+        "howToPickWinner": "Use Rule #1 on top (The 'This / These' Magnet Rule)! Sentence (C) starts with 'THIS volatility'. Ask: What volatility? You cannot say 'This volatility' until you first describe something swinging wildly! Sentence (B) says 'Exchange rates swung wildly'. So (B) MUST come first, and (C) ('This volatility...') snaps right behind it: BC!",
+        "ruleRef": "Refers to: Rule #1 (The 'This / These' Magnet Rule)"
+      }
+    ]
+  },
+  {
+    "chapterId": "column-matching",
+    "title": "Column Matching",
+    "tagline": "Check the Split-Point Glue & Only Test Pairs Given in the Options!",
+    "summary": "Column 1 has 3 beginnings (A, B, C) and Column 2 has 3 endings (D, E, F). Never waste time testing all 9 possible combinations! Look at the 5 answer choices, pick one pair (like A–E), and check if the split-point fits both grammar and story!",
+    "plainDictionary": [
+      {
+        "term": "The Split-Point (Where Column 1 Meets Column 2)",
+        "simpleMeaning": "The exact spot where the last word of Column 1 touches the first word of Column 2. Read just 2 words before the split and 2 words after the split!",
+        "examples": "Col 1 ends in '...aimed at reducing' + Col 2 starts with 'credit risks' ➔ 'reducing credit risks' (Fits!)."
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Look at the 5 Options FIRST!",
+        "action": "See which pair appears in the options (e.g., A–D, B–E). Don't check pairs that aren't even in the options!",
+        "outcome": "Cuts your work in half immediately!"
+      },
+      {
+        "step": "Step 2: Do the 4-Word Split-Point Check",
+        "action": "Read the last 2 words of Column 1 + the first 2 words of Column 2.",
+        "outcome": "If Column 1 ends in 'to', Column 2 MUST start with a plain action word (or a thing). If it doesn't, that pair is dead!"
+      },
+      {
+        "step": "Step 3: Do the Topic Check",
+        "action": "Make sure Column 1 and Column 2 are talking about the same topic (don't join 'farming loans' with 'airline tickets'!).",
+        "outcome": "Catches traps where the grammar fits but the story is nonsense!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 4-Word Split-Point Grammar Lock",
+        "formula": "Col 1 ends in 'TO' ➔ Col 2 starts with plain action word (verify, curb, improve)\nCol 1 ends in 'OF / IN / FOR / BY / WITH' ➔ Col 2 starts with a Thing (noun) or '-ing' word\nCol 1 ends in 'HAS / HAVE / HAD' ➔ Col 2 starts with 'been' or finished action word (-ed)",
+        "explanation": "Before reading the whole sentence, just look at the last word of Column 1! It tells you what kind of word Column 2 MUST start with!",
+        "correctExample": "✅ Col 1: '...steps taken to' + Col 2: 'curb inflation in food prices.' ('to' + 'curb' = Match!)",
+        "incorrectExample": "❌ Col 1: '...steps taken to' + Col 2: 'curbing inflation...' ('to curbing' here is wrong!).",
+        "trick": "Check the glue at the seam before reading the whole sentence!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Grammar Fits, But Story Is Mixed Up!",
+        "whyIntuitionFails": "Col 1 ends in 'to improve' and Col 2 starts with 'weather forecasting', so the grammar sounds smooth—even though Col 1 was talking about 'ATM security'!",
+        "theFix": "After the 4-word grammar check passes, read the full combined sentence once to make sure the story makes sense!",
+        "examPattern": "Examiners always include 1 pair where the grammar fits at the seam, but the two topics don't match."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-col-1",
+        "badge": "Split-Point Trick: Grammar + Story Check",
+        "prompt": "Column 1 (A): 'The new cyber-security rules require all payment apps to...' Which Column 2 ending fits (A)? (D) '...storing customer card data on foreign servers.' (E) '...encrypt sensitive customer PINs before transmission.' (F) '...monsoon rainfall across agricultural districts.'",
+        "options": ["Only A–E", "Only A–D", "Both A–D and A–E", "Only A–F", "None of these"],
+        "answer": "Only A–E",
+        "twinFoil": "Both A–D and A–E",
+        "whatSentenceSays": "Column 1 (A) is about cyber-security rules for payment apps and ends with the tiny word 'to'.",
+        "whyTwoFeelCorrect": "Both (D) and (E) talk about customer card data / PINs, which matches the cyber-security topic! So 'Both A–D and A–E' looks very tempting!",
+        "howToPickWinner": "Use Rule #1 on top (The 4-Word Split-Point Grammar Lock)! Column 1 (A) ends with 'require all payment apps TO'. After 'require [someone] to', we MUST have a plain action word (like 'encrypt'), NEVER an '-ing' word ('storing')! 'To storing' (A–D) is broken grammar! Only 'to encrypt' (A–E) passes both the grammar check and the story check!",
+        "ruleRef": "Refers to: Rule #1 (The 4-Word Split-Point Grammar Lock: require X to + plain action word)"
+      }
+    ]
+  },
+  {
+    "chapterId": "context-vocabulary",
+    "title": "Contextual Synonyms & Antonyms",
+    "tagline": "Check 'Same vs Opposite' Direction & Watch for Secret Second Meanings",
+    "summary": "The #1 reason students lose marks here is NOT difficult words—it is picking the SAME meaning (Synonym) when the question asked for the OPPOSITE meaning (Antonym), or forgetting that simple words like 'qualify' and 'reserve' have special office meanings!",
+    "plainDictionary": [
+      {
+        "term": "Synonym (Same Team) vs Antonym (Opposite Team)",
+        "simpleMeaning": "Synonym = Means the SAME thing (Good ➔ Good). Antonym = Means the OPPOSITE thing (Good ➔ Bad).",
+        "examples": "Word: 'Lucrative' (profitable +) ➔ Synonym: 'Profitable (+)' | Antonym: 'Unprofitable (-)'"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Look at the Question Instructions FIRST: Did it ask for SIMILAR or OPPOSITE?",
+        "action": "If it asks for OPPOSITE (Antonym), mentally shout 'OPPOSITE!' so you don't click Option A (which is almost always the same-meaning trap!).",
+        "outcome": "Saves you from the #1 careless mistake in exams!"
+      },
+      {
+        "step": "Step 2: Plug your choice back into the sentence",
+        "action": "For Synonym: When you swap the bold word with your answer, the sentence story must stay 100% the same.",
+        "outcome": "Catches words that look similar in a dictionary but don't fit a banking sentence!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: Simple Words with Secret Bank/Office Meanings",
+        "formula": "QUALIFY a statement = Put a limit or warning on it (NOT pass an exam!)\nDISINTERESTED judge/auditor = Fair, neutral, unbiased (NOT bored!)\nCREDULOUS investor = Too gullible, believes fake tricks easily (NOT trustworthy!)\nCREDITABLE performance = Worthy of praise, good (NOT gullible!)\nEQUIVOCAL reply = Vague, unclear, hiding the truth on purpose",
+        "explanation": "When an exam asks for the meaning of an easy-looking word like 'qualify' in a sentence, it is NEVER testing the childhood meaning ('pass a test')—it is testing how the sentence uses it ('limit or soften a claim')!",
+        "correctExample": "✅ 'The spokesperson QUALIFIED her promise by noting it depended on tax collections.' (Here 'qualified' = limited / made conditional!)",
+        "incorrectExample": "❌ Picking 'passed' or 'certified' for 'qualified' in that sentence.",
+        "trick": "Never answer without reading the sentence! Pretend the bold word is a blank and see what word the sentence needs!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Option A in an Antonym Question Is Always the Synonym!",
+        "whyIntuitionFails": "Your eyes see the bold word 'EXPLICIT' (clear), and Option A says 'Clear / Obvious'. Your brain goes 'Hey, explicit means clear!' and clicks Option A—forgetting the question asked for the OPPOSITE!",
+        "theFix": "Before looking at options A, B, C, D, E, check if the question says 'MOST SIMILAR' or 'MOST OPPOSITE'!",
+        "examPattern": "In every Antonym question, Option A is a trap Synonym."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-vocab-1",
+        "badge": "Secret Meaning Trick: What Does 'Qualified' Mean Here?",
+        "prompt": "In the sentence: 'While the rating agency praised the bank's loan growth, it QUALIFIED its outlook by pointing to rising unsecured defaults' — which word is NEAREST in meaning to QUALIFIED?",
+        "options": ["certified", "moderated / restricted", "graduated", "guaranteed", "celebrated"],
+        "answer": "moderated / restricted",
+        "twinFoil": "certified",
+        "whatSentenceSays": "The agency praised the bank (+), BUT added a warning/limit (-) by pointing to rising bad loans.",
+        "whyTwoFeelCorrect": "Outside this sentence, everyone knows 'qualified' means 'certified / passed an exam'! So 'certified' feels immediately familiar!",
+        "howToPickWinner": "Use Rule #1 on top (Simple Words with Secret Bank Meanings)! Put 'certified' into the sentence: '...certified its outlook by pointing to rising defaults.' Does pointing to bad defaults 'certify' an outlook? No! Pointing to bad defaults LIMITS or PUTS A WARNING on the positive outlook! So 'moderated / restricted' is the exact winner!",
+        "ruleRef": "Refers to: Rule #1 (QUALIFY a statement = put a limit/warning on it)"
+      }
+    ]
+  },
+  {
+    "chapterId": "spelling-confusables",
+    "title": "Spelling & Confusable Words",
+    "tagline": "Easy Letter Tricks for Twin Words (Principal/Principle, Stationery/Stationary)",
+    "summary": "Two words that sound identical (like 'principal' and 'principle' or 'compliment' and 'complement') are super easy to tell apart once you know the 1-Letter Secret inside each word!",
+    "plainDictionary": [
+      {
+        "term": "Sound-Alike Twins (Homophones)",
+        "simpleMeaning": "Two words that sound the exact same when spoken out loud, but have a 1-letter difference in spelling that completely changes the meaning!",
+        "examples": "Principal vs Principle | Stationery vs Stationary | Compliment vs Complement"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Use the 1-Letter Memory Trick (Rule #1 below)",
+        "action": "Look at the single letter that changes between the two twin words (like E vs A, or I vs E, or LE vs PAL).",
+        "outcome": "Matches the right twin with 100% certainty!"
+      },
+      {
+        "step": "Step 2: Count Double Letters in Long Words",
+        "action": "Check 'accommodate' (2 C's + 2 M's), 'embarrass' (2 R's + 2 S's), 'occurrence' (2 C's + 2 R's).",
+        "outcome": "Spots spelling traps immediately!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 1-Letter Memory Tricks for the Top 6 Confusable Twins",
+        "formula": "1. Princi-PLE (ends in LE like ru-LE) = A moral rule or law\n   Princi-PAL (ends in PAL) = Main person (school head) OR Main loan money ('principal amount')\n2. Station-E-ry (has E for Envelope) = Paper, pens, envelopes\n   Station-A-ry (has A for Anchor) = Standing still, not moving\n3. Compl-I-ment (has I = 'I look nice!') = Praise / nice words\n   Compl-E-ment (has E = compl-E-te) = Something that completes or goes well with another thing\n4. DIS-interested = Fair, neutral, taking no side (like a good referee)\n   UN-interested = Bored, yawning, doesn't care\n5. DIS-creet (two E's together peering quietly) = Careful, quiet, keeping secrets safe\n   DIS-crete (T separates the E's!) = Separate, distinct pieces\n6. AD-verse = Harmful / bad ('adverse impact')\n   A-verse (no D!) = Strongly disliking ('averse to risk')",
+        "explanation": "Never guess between these twins! Just look at the secret letter inside the word!",
+        "correctExample": "✅ The borrower repaid the PRINCIPAL (main loan money) with interest.\n✅ Mobile banking COMPLEMENTS (completes/enhances) branch banking.",
+        "incorrectExample": "❌ The borrower repaid the PRINCIPLE amount. (Wrong twin—'le' is for moral rules!)",
+        "trick": "LE = ruLE | PAL = main money/person | E = Envelope OR complEte | A = Anchor (still) | I = 'I look nice' (praise)!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: 'Principal Amount' in Banking Sentences",
+        "whyIntuitionFails": "Students think 'Principal' is only the headmaster of a school, so for banking they pick 'Principle'!",
+        "theFix": "In banking, 'principal' means the 'MAIN / FIRST' money lent (before interest). So loan money is ALWAYS 'princi-PAL' (never '-ple')!",
+        "examPattern": "'principal sum / principal repayment' = ALWAYS ends in -PAL!"
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-spell-1",
+        "badge": "Confusable Twins: Complement vs Compliment",
+        "prompt": "The bank's new doorstep service is designed to ___ its rural digital kiosks rather than replace them.",
+        "options": ["compliment", "complement", "compliant", "complete", "comply"],
+        "answer": "complement",
+        "twinFoil": "compliment",
+        "whatSentenceSays": "The doorstep service works alongside and completes the digital kiosks (making them better together) instead of replacing them.",
+        "whyTwoFeelCorrect": "'Compliment' (with an I) and 'complement' (with an E) sound 100% identical when you read them in your head!",
+        "howToPickWinner": "Use Rule #1 on top (The 1-Letter Memory Trick)! Ask: Is the doorstep service telling the kiosk 'Ooh, you look pretty today!' (Praise = Compl-I-ment with an I)? Or is it COMPLETING and pairing well with the kiosk (Compl-E-ment with an E, like compl-E-te)? It is completing/enhancing it—so pick 'complement' (with an E)!",
+        "ruleRef": "Refers to: Rule #1 (Compl-E-ment = complEtes vs Compl-I-ment = praise)"
+      }
+    ]
+  },
+  {
+    "chapterId": "advanced-mixed",
+    "title": "Advanced Mixed & Hybrid Practice",
+    "tagline": "Solve One Easy Piece First to Eliminate 3 Options in Multi-Part Questions",
+    "summary": "Advanced questions combine two jobs at once (like filling a blank AND fixing a grammar error). Don't panic! Solve the easier job first—that kills 3 wrong options in 5 seconds, leaving you only 2 choices to compare!",
+    "plainDictionary": [
+      {
+        "term": "Hybrid Question (Two-in-One Question)",
+        "simpleMeaning": "A question that asks you to do two things at the same time (e.g., pick a connector AND spot a grammar mistake). If an option gets Part 1 wrong, you don't even need to check Part 2!",
+        "examples": "Eliminate by the easiest part first!"
+      }
+    ],
+    "decisionSteps": [
+      {
+        "step": "Step 1: Solve the Fastest Check First (Tiny Glue Word or Action Word Check)",
+        "action": "Look for a quick lock like 'Although vs Despite', 'comply WITH vs adhere TO', or 'One vs Many (was vs were)'.",
+        "outcome": "Cross out all options that fail that simple rule!"
+      },
+      {
+        "step": "Step 2: Compare Only the 2 Surviving Options",
+        "action": "Look at the ONE spot where Option A and Option B differ.",
+        "outcome": "Pick the winner without wasting time reading all 5 options from scratch!"
+      }
+    ],
+    "goldenRules": [
+      {
+        "name": "Rule #1: The 'Divide and Conquer' Trick",
+        "formula": "Check Lock #1 (Connector / Preposition) ➔ Kill 3 options ➔ Compare the 2 survivors on Lock #2 (Grammar)",
+        "explanation": "A long 3-line question is just two tiny easy questions glued together! Never judge the whole 3-line sentence at once. Check your Connector Rule first, then check your One-vs-Many Grammar Rule second!",
+        "correctExample": "✅ Step 1: Blank has 'was' after it ➔ must be 'Although' (kills 3 'Despite' options). Step 2: 'Each of the banks' needs 'has' (kills the 'have' option). Done!",
+        "incorrectExample": "❌ Re-reading the entire 3-line sentence 5 times.",
+        "trick": "Use the exact same rules from Connectors, Grammar, and Cloze—one step at a time!"
+      }
+    ],
+    "fixedPairs": [],
+    "examTraps": [
+      {
+        "trapName": "Trap #1: Getting Scared by Long Sentences",
+        "whyIntuitionFails": "When a sentence has 35 words, students think the rule must be super complicated.",
+        "theFix": "The longer the sentence in a bank exam, the SIMPLER the actual grammar mistake hiding inside it (usually just 'was vs were', 'despite vs although', or 'than vs than that of')!",
+        "examPattern": "Long sentences hide basic rules."
+      }
+    ],
+    "practiceDrills": [
+      {
+        "id": "rev-adv-1",
+        "badge": "Two-in-One Trick: Connector + Grammar Lock",
+        "prompt": "Choose the pair that correctly completes the sentence: '___ the new payment gateway was faster, each of the partner banks ___ required to run a seven-day safety trial.'",
+        "options": [
+          "Despite ... were",
+          "Although ... was",
+          "Although ... were",
+          "Despite ... was",
+          "Because of ... was"
+        ],
+        "answer": "Although ... was",
+        "twinFoil": "Although ... were",
+        "whatSentenceSays": "Part 1: Even though the gateway was faster (Surprise!); Part 2: Each bank was still required to run a safety test.",
+        "whyTwoFeelCorrect": "Once you spot 'Although' for Blank 1, both 'Although ... was' and 'Although ... were' look close because 'partner banks' is plural right before Blank 2!",
+        "howToPickWinner": "Use Rule #1 (Divide & Conquer)! Lock 1 (Blank 1): After Blank 1 we have 'the new payment gateway WAS faster' (has action word 'WAS'). That kills 'Despite' and 'Because of'! Only Options B and C survive! Lock 2 (Blank 2): 'EACH of the partner banks ___'. Remember our Grammar Rule: 'Each of' is ALWAYS ONE (Singular)! So 'were' dies, and 'Although ... was' wins 100%!",
+        "ruleRef": "Refers to: Connector Rule #1 (Action Word Check) + Grammar Rule #2 ('Each of' = Singular)"
+      }
+    ]
+  }
+]
